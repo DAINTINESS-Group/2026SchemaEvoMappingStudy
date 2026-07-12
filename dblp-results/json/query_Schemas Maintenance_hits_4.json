@@ -1,0 +1,153 @@
+{
+    "result": {
+        "query": "Schemas* Maintenance*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "1.05"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "4",
+                "@dc": "4",
+                "@oc": "4",
+                "@id": "63638540",
+                "text": "maintenance"
+            }
+        },
+        "hits": {
+            "@total": "4",
+            "@computed": "4",
+            "@sent": "4",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "525818",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "151/2356",
+                                "text": "Emanuele Laurenzi"
+                            }
+                        },
+                        "title": "An Agile and Ontology-based Meta-Modelling Approach for the Design and Maintenance of Enterprise Knowledge Graph Schemas.",
+                        "venue": "Enterp. Model. Inf. Syst. Archit. Int. J. Concept. Model.",
+                        "volume": "19",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/emisaij/Laurenzi24",
+                        "doi": "10.18417/EMISA.19.6",
+                        "ee": "https://doi.org/10.18417/emisa.19.6",
+                        "url": "https://dblp.org/rec/journals/emisaij/Laurenzi24"
+                    },
+                    "url": "URL#525818"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3465944",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "178/1844",
+                                    "text": "Chunqiu Li"
+                                },
+                                {
+                                    "@pid": "39/2049",
+                                    "text": "Shigeo Sugimoto"
+                                }
+                            ]
+                        },
+                        "title": "Provenance description of metadata application profiles for long-term maintenance of metadata schemas.",
+                        "venue": "J. Documentation",
+                        "volume": "74",
+                        "number": "1",
+                        "pages": "36-61",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jd/LiS18",
+                        "doi": "10.1108/JD-03-2017-0042",
+                        "ee": "https://doi.org/10.1108/JD-03-2017-0042",
+                        "url": "https://dblp.org/rec/journals/jd/LiS18"
+                    },
+                    "url": "URL#3465944"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7058102",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "74/901",
+                                    "text": "Andreas Koeller"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Incremental Maintenance of Schema-Restructuring Views in SchemaSQL .",
+                        "venue": "IEEE Trans. Knowl. Data Eng.",
+                        "volume": "16",
+                        "number": "9",
+                        "pages": "1096-1111",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tkde/KoellerR04",
+                        "doi": "10.1109/TKDE.2004.42",
+                        "ee": "https://doi.org/10.1109/TKDE.2004.42",
+                        "url": "https://dblp.org/rec/journals/tkde/KoellerR04"
+                    },
+                    "url": "URL#7058102"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7879630",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/MarcoACasanova",
+                                    "text": "Marco A. Casanova"
+                                },
+                                {
+                                    "@pid": "83/334",
+                                    "text": "Luiz Tucherman"
+                                },
+                                {
+                                    "@pid": "l/AHFLaender",
+                                    "text": "Alberto H. F. Laender"
+                                }
+                            ]
+                        },
+                        "title": "On the Design and Maintenance of Optimized Relational Representations of Entity-Relationship Schemas.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "11",
+                        "number": "1",
+                        "pages": "1-20",
+                        "year": "1993",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/CasanovaTL93",
+                        "doi": "10.1016/0169-023X(93)90043-O",
+                        "ee": "https://doi.org/10.1016/0169-023X(93)90043-O",
+                        "url": "https://dblp.org/rec/journals/dke/CasanovaTL93"
+                    },
+                    "url": "URL#7879630"
+                }
+            ]
+        }
+    }
+}

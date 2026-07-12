@@ -1,0 +1,68 @@
+{
+    "result": {
+        "query": "Schemata* Change*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "17.69"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "1",
+                "@dc": "1",
+                "@oc": "1",
+                "@id": "62908954",
+                "text": "change"
+            }
+        },
+        "hits": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "7573351",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/3275",
+                                    "text": "Simon Lock"
+                                },
+                                {
+                                    "@pid": "26/3330",
+                                    "text": "Awais Rashid"
+                                },
+                                {
+                                    "@pid": "s/PeterSawyer",
+                                    "text": "Peter Sawyer"
+                                },
+                                {
+                                    "@pid": "29/2969",
+                                    "text": "Gerald Kotonya"
+                                }
+                            ]
+                        },
+                        "title": "Systematic Change Impact Determination in Complex Object Database Schemata.",
+                        "venue": "ECOOP Workshop for PhD Students in OO Systems",
+                        "pages": "31-40",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/ecoopw/LockRSK99",
+                        "url": "https://dblp.org/rec/conf/ecoopw/LockRSK99"
+                    },
+                    "url": "URL#7573351"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1174 @@
+{
+    "result": {
+        "query": "Databases* Modification*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "17.96"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "14",
+                    "@dc": "14",
+                    "@oc": "14",
+                    "@id": "63728778",
+                    "text": "modification"
+                },
+                {
+                    "@sc": "14",
+                    "@dc": "14",
+                    "@oc": "14",
+                    "@id": "63728780",
+                    "text": "modifications"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "28",
+            "@computed": "28",
+            "@sent": "28",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "491928",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "141/9672",
+                                    "text": "Pengyu Du"
+                                },
+                                {
+                                    "@pid": "192/8208",
+                                    "text": "Yingli Chen"
+                                },
+                                {
+                                    "@pid": "08/4351",
+                                    "text": "Qianzhong Li"
+                                },
+                                {
+                                    "@pid": "373/5130",
+                                    "text": "Zhimin Gai"
+                                },
+                                {
+                                    "@pid": "53/3308",
+                                    "text": "Hui Bai"
+                                },
+                                {
+                                    "@pid": "373/5047",
+                                    "text": "Luqiang Zhang"
+                                },
+                                {
+                                    "@pid": "38/7258",
+                                    "text": "Yuxian Liu"
+                                },
+                                {
+                                    "@pid": "174/2811",
+                                    "text": "Yanni Cao"
+                                },
+                                {
+                                    "@pid": "235/2729",
+                                    "text": "Yuanyuan Zhai"
+                                },
+                                {
+                                    "@pid": "09/1433",
+                                    "text": "Wen Jin"
+                                }
+                            ]
+                        },
+                        "title": "CancerMHL: the database of integrating key DNA methylation, histone modifications and lncRNAs in cancer.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2024",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/DuCLGBZLCZJ24",
+                        "doi": "10.1093/DATABASE/BAAE029",
+                        "ee": "https://doi.org/10.1093/database/baae029",
+                        "url": "https://dblp.org/rec/journals/biodb/DuCLGBZLCZJ24"
+                    },
+                    "url": "URL#491928"
+                },
+                {
+                    "@score": "2",
+                    "@id": "717478",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "219/2225",
+                                    "text": "Jiahao Yuan"
+                                },
+                                {
+                                    "@pid": "63/9121-1",
+                                    "text": "Xingfeng Li 0001"
+                                },
+                                {
+                                    "@pid": "137/9830",
+                                    "text": "Zilong Zhang"
+                                },
+                                {
+                                    "@pid": "26/8541-1",
+                                    "text": "Qingchen Zhang 0001"
+                                },
+                                {
+                                    "@pid": "01/755-1",
+                                    "text": "Quan Zou 0001"
+                                },
+                                {
+                                    "@pid": "287/3312",
+                                    "text": "Feifei Cui"
+                                }
+                            ]
+                        },
+                        "title": "RNASite: A one-stop tool website that integrates multiple RNA modification site databases and servers.",
+                        "venue": "BIBM",
+                        "pages": "2816-2820",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bibm/Yuan0Z00C24",
+                        "doi": "10.1109/BIBM62325.2024.10822116",
+                        "ee": "https://doi.org/10.1109/BIBM62325.2024.10822116",
+                        "url": "https://dblp.org/rec/conf/bibm/Yuan0Z00C24"
+                    },
+                    "url": "URL#717478"
+                },
+                {
+                    "@score": "2",
+                    "@id": "730079",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "74/9320",
+                                    "text": "Stefan Halfpap"
+                                },
+                                {
+                                    "@pid": "129/4931",
+                                    "text": "Rainer Schlosser"
+                                }
+                            ]
+                        },
+                        "title": "Fragment Allocations for Partially Replicated Databases Considering Data Modifications and Changing Workloads.",
+                        "venue": "CIKM",
+                        "pages": "758-767",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/HalfpapS24",
+                        "doi": "10.1145/3627673.3679767",
+                        "ee": "https://doi.org/10.1145/3627673.3679767",
+                        "url": "https://dblp.org/rec/conf/cikm/HalfpapS24"
+                    },
+                    "url": "URL#730079"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2086383",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "292/5203",
+                                    "text": "Shahin Ramazi"
+                                },
+                                {
+                                    "@pid": "56/8424",
+                                    "text": "Javad Zahiri"
+                                }
+                            ]
+                        },
+                        "title": "Post-translational modifications in proteins: resources, tools and prediction methods.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2021",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/RamaziZ21",
+                        "doi": "10.1093/DATABASE/BAAB012",
+                        "ee": "https://doi.org/10.1093/database/baab012",
+                        "url": "https://dblp.org/rec/journals/biodb/RamaziZ21"
+                    },
+                    "url": "URL#2086383"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2087235",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "251/4059",
+                                    "text": "David Sundell"
+                                },
+                                {
+                                    "@pid": "305/5861",
+                                    "text": "Caroline \u00d6hrman"
+                                },
+                                {
+                                    "@pid": "11/891",
+                                    "text": "Daniel Svensson"
+                                },
+                                {
+                                    "@pid": "146/9861",
+                                    "text": "Edvin Karlsson"
+                                },
+                                {
+                                    "@pid": "305/6592",
+                                    "text": "Bj\u00f6rn Brindefalk"
+                                },
+                                {
+                                    "@pid": "146/9825",
+                                    "text": "Kerstin Myrtenn\u00e4s"
+                                },
+                                {
+                                    "@pid": "305/6078",
+                                    "text": "Jon Ahlinder"
+                                },
+                                {
+                                    "@pid": "305/6707",
+                                    "text": "Markus H. Antwerpen"
+                                },
+                                {
+                                    "@pid": "83/1936",
+                                    "text": "Mathias C. Walter"
+                                },
+                                {
+                                    "@pid": "146/9817",
+                                    "text": "Mats Forsman"
+                                },
+                                {
+                                    "@pid": "39/5257",
+                                    "text": "Per Stenberg"
+                                },
+                                {
+                                    "@pid": "85/878",
+                                    "text": "Andreas Sj\u00f6din"
+                                }
+                            ]
+                        },
+                        "title": "FlexTaxD: flexible modification of taxonomy databases for improved sequence classification.",
+                        "venue": "Bioinform.",
+                        "volume": "37",
+                        "number": "21",
+                        "pages": "3932-3933",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/bioinformatics/SundellOSKBMAAW21",
+                        "doi": "10.1093/BIOINFORMATICS/BTAB621",
+                        "ee": "https://doi.org/10.1093/bioinformatics/btab621",
+                        "url": "https://dblp.org/rec/journals/bioinformatics/SundellOSKBMAAW21"
+                    },
+                    "url": "URL#2087235"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2378760",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "367/2499",
+                                    "text": "Olha Svynchuk"
+                                },
+                                {
+                                    "@pid": "310/0749",
+                                    "text": "Andrii Barabash"
+                                },
+                                {
+                                    "@pid": "367/2522",
+                                    "text": "Serhii Laptiev"
+                                },
+                                {
+                                    "@pid": "367/2552",
+                                    "text": "Tetiana Laptieva"
+                                }
+                            ]
+                        },
+                        "title": "Modification of Query Processing Methods in Distributed Databases Using Fractal Trees.",
+                        "venue": "ISecIT",
+                        "pages": "32-37",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/isecit/SvynchukBLL21",
+                        "ee": "https://ceur-ws.org/Vol-3200/paper5.pdf",
+                        "url": "https://dblp.org/rec/conf/isecit/SvynchukBLL21"
+                    },
+                    "url": "URL#2378760"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2557760",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "47/11246",
+                                    "text": "Fulei Nie"
+                                },
+                                {
+                                    "@pid": "273/6446",
+                                    "text": "Pengmian Feng"
+                                },
+                                {
+                                    "@pid": "79/2963",
+                                    "text": "Xiaoming Song"
+                                },
+                                {
+                                    "@pid": "19/5921",
+                                    "text": "Meng Wu"
+                                },
+                                {
+                                    "@pid": "17/2212-13",
+                                    "text": "Qiang Tang 0013"
+                                },
+                                {
+                                    "@pid": "181/2832-64",
+                                    "text": "Wei Chen 0064"
+                                }
+                            ]
+                        },
+                        "title": "RNAWRE: a resource of writers, readers and erasers of RNA modifications.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2020",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/NieFSWTC20",
+                        "doi": "10.1093/DATABASE/BAAA049",
+                        "ee": "https://doi.org/10.1093/database/baaa049",
+                        "url": "https://dblp.org/rec/journals/biodb/NieFSWTC20"
+                    },
+                    "url": "URL#2557760"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3048600",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/499",
+                                    "text": "Xu An Wang 0014"
+                                },
+                                {
+                                    "@pid": "81/1232-1",
+                                    "text": "Jian Weng 0001"
+                                },
+                                {
+                                    "@pid": "12/6604-1",
+                                    "text": "Jianfeng Ma 0001"
+                                },
+                                {
+                                    "@pid": "95/11478-2",
+                                    "text": "Xiaoyuan Yang 0002"
+                                }
+                            ]
+                        },
+                        "title": "Cryptanalysis of a public authentication protocol for outsourced databases with multi-user modification.",
+                        "venue": "Inf. Sci.",
+                        "volume": "488",
+                        "pages": "13-18",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/isci/WangWMY19",
+                        "doi": "10.1016/J.INS.2019.03.002",
+                        "ee": "https://doi.org/10.1016/j.ins.2019.03.002",
+                        "url": "https://dblp.org/rec/journals/isci/WangWMY19"
+                    },
+                    "url": "URL#3048600"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3407482",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "214/9262",
+                                    "text": "Leonardo Ledesma"
+                                },
+                                {
+                                    "@pid": "14/9255",
+                                    "text": "Eduardo B. Sandoval"
+                                },
+                                {
+                                    "@pid": "214/8917",
+                                    "text": "Uriel Cruz-Mart\u00ednez"
+                                },
+                                {
+                                    "@pid": "214/9784",
+                                    "text": "Ana Mar\u00eda Escalante"
+                                },
+                                {
+                                    "@pid": "214/9445",
+                                    "text": "Selene Mej\u00eda"
+                                },
+                                {
+                                    "@pid": "214/9603",
+                                    "text": "Paola Moreno-\u00c1lvarez"
+                                },
+                                {
+                                    "@pid": "214/9740",
+                                    "text": "Emiliano \u00c1vila"
+                                },
+                                {
+                                    "@pid": "214/8741",
+                                    "text": "Erik Garc\u00eda"
+                                },
+                                {
+                                    "@pid": "140/6868",
+                                    "text": "Gerardo Coello"
+                                },
+                                {
+                                    "@pid": "214/9567",
+                                    "text": "Francisco Torres-Quiroz"
+                                }
+                            ]
+                        },
+                        "title": "YAAM: Yeast Amino Acid Modifications Database.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2018",
+                        "pages": "bax099",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/LedesmaSCEMMAGC18",
+                        "doi": "10.1093/DATABASE/BAX099",
+                        "ee": "https://doi.org/10.1093/database/bax099",
+                        "url": "https://dblp.org/rec/journals/biodb/LedesmaSCEMMAGC18"
+                    },
+                    "url": "URL#3407482"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3407542",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/6084",
+                                    "text": "Wei-Sheng Wu"
+                                },
+                                {
+                                    "@pid": "232/4721",
+                                    "text": "Hao-Ping Tu"
+                                },
+                                {
+                                    "@pid": "223/7673",
+                                    "text": "Yu-Han Chu"
+                                },
+                                {
+                                    "@pid": "130/0276",
+                                    "text": "Torbj\u00f6rn E. M. Nordling"
+                                },
+                                {
+                                    "@pid": "91/3947",
+                                    "text": "Yan Yuan Tseng"
+                                },
+                                {
+                                    "@pid": "232/5201",
+                                    "text": "Hung-Jiun Liaw"
+                                }
+                            ]
+                        },
+                        "title": "YHMI: a web tool to identify histone modifications and histone/chromatin regulators from a gene list in yeast.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2018",
+                        "pages": "bay116",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/WuTCNTL18",
+                        "doi": "10.1093/DATABASE/BAY116",
+                        "ee": "https://doi.org/10.1093/database/bay116",
+                        "url": "https://dblp.org/rec/journals/biodb/WuTCNTL18"
+                    },
+                    "url": "URL#3407542"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3828201",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "62/1539-6",
+                                    "text": "Wei Song 0006"
+                                },
+                                {
+                                    "@pid": "06/1909-5",
+                                    "text": "Bing Wang 0005"
+                                },
+                                {
+                                    "@pid": "75/5723-2",
+                                    "text": "Qian Wang 0002"
+                                },
+                                {
+                                    "@pid": "40/1233-1",
+                                    "text": "Zhiyong Peng 0001"
+                                },
+                                {
+                                    "@pid": "73/3673",
+                                    "text": "Wenjing Lou"
+                                }
+                            ]
+                        },
+                        "title": "Tell me the truth: Practically public authentication for outsourced databases with multi-user modification.",
+                        "venue": "Inf. Sci.",
+                        "volume": "387",
+                        "pages": "221-237",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/isci/SongWWPL17",
+                        "doi": "10.1016/J.INS.2016.07.031",
+                        "ee": "https://doi.org/10.1016/j.ins.2016.07.031",
+                        "url": "https://dblp.org/rec/journals/isci/SongWWPL17"
+                    },
+                    "url": "URL#3828201"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4438151",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "162/8668",
+                                    "text": "Shradha Khater"
+                                },
+                                {
+                                    "@pid": "13/6166",
+                                    "text": "Debasisa Mohanty"
+                                }
+                            ]
+                        },
+                        "title": "novPTMenzy: a database for enzymes involved in novel post-translational modifications.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2015",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/KhaterM15",
+                        "doi": "10.1093/DATABASE/BAV039",
+                        "ee": "https://doi.org/10.1093/database/bav039",
+                        "url": "https://dblp.org/rec/journals/biodb/KhaterM15"
+                    },
+                    "url": "URL#4438151"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4438176",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "162/8675",
+                                    "text": "Payman Nickchi"
+                                },
+                                {
+                                    "@pid": "162/8667",
+                                    "text": "Mohieddin Jafari"
+                                },
+                                {
+                                    "@pid": "162/8692",
+                                    "text": "Shiva Kalantari"
+                                }
+                            ]
+                        },
+                        "title": "PEIMAN 1.0: Post-translational modification Enrichment, Integration and Matching ANalysis.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2015",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/NickchiJK15",
+                        "doi": "10.1093/DATABASE/BAV037",
+                        "ee": "https://doi.org/10.1093/database/bav037",
+                        "url": "https://dblp.org/rec/journals/biodb/NickchiJK15"
+                    },
+                    "url": "URL#4438176"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4438226",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "10/4661-253",
+                                    "text": "Wei Zhang 0253"
+                                },
+                                {
+                                    "@pid": "27/7970",
+                                    "text": "Eric R. Gamazon"
+                                },
+                                {
+                                    "@pid": "98/5660",
+                                    "text": "Xu Zhang"
+                                },
+                                {
+                                    "@pid": "60/1497",
+                                    "text": "Anuar Konkashbaev"
+                                },
+                                {
+                                    "@pid": "95/6404",
+                                    "text": "Cong Liu"
+                                },
+                                {
+                                    "@pid": "161/5306",
+                                    "text": "Keely L. Szil\u00e1gyi"
+                                },
+                                {
+                                    "@pid": "00/7971",
+                                    "text": "M. Eileen Dolan"
+                                },
+                                {
+                                    "@pid": "39/3955",
+                                    "text": "Nancy J. Cox"
+                                }
+                            ]
+                        },
+                        "title": "SCAN database: facilitating integrative analyses of cytosine modification and expression QTL.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2015",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/ZhangGZKLSDC15",
+                        "doi": "10.1093/DATABASE/BAV025",
+                        "ee": "https://doi.org/10.1093/database/bav025",
+                        "url": "https://dblp.org/rec/journals/biodb/ZhangGZKLSDC15"
+                    },
+                    "url": "URL#4438226"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4742225",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "124/1079",
+                                    "text": "Pierrick Craveur"
+                                },
+                                {
+                                    "@pid": "141/2406",
+                                    "text": "Joseph Rebehmed"
+                                },
+                                {
+                                    "@pid": "17/5278",
+                                    "text": "Alexandre G. de Brevern"
+                                }
+                            ]
+                        },
+                        "title": "PTM-SD: a database of structurally resolved and annotated posttranslational modifications in proteins.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2014",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/CraveurRB14",
+                        "doi": "10.1093/DATABASE/BAU041",
+                        "ee": "https://doi.org/10.1093/database/bau041",
+                        "url": "https://dblp.org/rec/journals/biodb/CraveurRB14"
+                    },
+                    "url": "URL#4742225"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4742228",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "125/7384",
+                                    "text": "Enyu Dai"
+                                },
+                                {
+                                    "@pid": "125/7340",
+                                    "text": "Xuexin Yu"
+                                },
+                                {
+                                    "@pid": "04/3348",
+                                    "text": "Yan Zhang"
+                                },
+                                {
+                                    "@pid": "135/5675",
+                                    "text": "Fanlin Meng"
+                                },
+                                {
+                                    "@pid": "84/11188",
+                                    "text": "Shuyuan Wang"
+                                },
+                                {
+                                    "@pid": "95/5616",
+                                    "text": "Xinyi Liu"
+                                },
+                                {
+                                    "@pid": "146/2679",
+                                    "text": "Dianming Liu"
+                                },
+                                {
+                                    "@pid": "02/736-4",
+                                    "text": "Jing Wang 0004"
+                                },
+                                {
+                                    "@pid": "97/30-4",
+                                    "text": "Xia Li 0004"
+                                },
+                                {
+                                    "@pid": "21/3839-23",
+                                    "text": "Wei Jiang 0023"
+                                }
+                            ]
+                        },
+                        "title": "EpimiR: a database of curated mutual regulation between miRNAs and epigenetic modifications.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2014",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/DaiYZMWLLWLJ14",
+                        "doi": "10.1093/DATABASE/BAU023",
+                        "ee": "https://doi.org/10.1093/database/bau023",
+                        "url": "https://dblp.org/rec/journals/biodb/DaiYZMWLLWLJ14"
+                    },
+                    "url": "URL#4742228"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4742262",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "181/2820",
+                                    "text": "Jing Li"
+                                },
+                                {
+                                    "@pid": "71/2992-2",
+                                    "text": "Jia Jia 0002"
+                                },
+                                {
+                                    "@pid": "93/6234-13",
+                                    "text": "Hong Li 0013"
+                                },
+                                {
+                                    "@pid": "52/5812",
+                                    "text": "Jian Yu"
+                                },
+                                {
+                                    "@pid": "49/6614",
+                                    "text": "Han Sun"
+                                },
+                                {
+                                    "@pid": "39/2405",
+                                    "text": "Ying He"
+                                },
+                                {
+                                    "@pid": "99/11254",
+                                    "text": "Daqing Lv"
+                                },
+                                {
+                                    "@pid": "41/10505",
+                                    "text": "Xiaojuan Yang"
+                                },
+                                {
+                                    "@pid": "70/1318",
+                                    "text": "Michael O. Glocker"
+                                },
+                                {
+                                    "@pid": "60/6098",
+                                    "text": "Liang-Xiao Ma"
+                                },
+                                {
+                                    "@pid": "146/2497",
+                                    "text": "Jiabei Yang"
+                                },
+                                {
+                                    "@pid": "92/5001",
+                                    "text": "Ling Li"
+                                },
+                                {
+                                    "@pid": "64/6025",
+                                    "text": "Wei Li"
+                                },
+                                {
+                                    "@pid": "27/5832-6",
+                                    "text": "Guoqing Zhang 0006"
+                                },
+                                {
+                                    "@pid": "33/85-3",
+                                    "text": "Qian Liu 0003"
+                                },
+                                {
+                                    "@pid": "75/3968",
+                                    "text": "Yixue Li"
+                                },
+                                {
+                                    "@pid": "14/4978",
+                                    "text": "Lu Xie"
+                                }
+                            ]
+                        },
+                        "title": "SysPTM 2.0: an updated systematic resource for post-translational modification.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2014",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/LiJLYSHLYGMYLLZLLX14",
+                        "doi": "10.1093/DATABASE/BAU025",
+                        "ee": "https://doi.org/10.1093/database/bau025",
+                        "url": "https://dblp.org/rec/journals/biodb/LiJLYSHLYGMYLLZLLX14"
+                    },
+                    "url": "URL#4742262"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4875223",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "24/4105",
+                                    "text": "Wei Wei"
+                                },
+                                {
+                                    "@pid": "y/TingYu-1",
+                                    "text": "Ting Yu 0001"
+                                }
+                            ]
+                        },
+                        "title": "Integrity Assurance for Outsourced Databases without DBMS Modification.",
+                        "venue": "DBSec",
+                        "pages": "1-16",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/dbsec/WeiY14",
+                        "doi": "10.1007/978-3-662-43936-4_1",
+                        "ee": "https://doi.org/10.1007/978-3-662-43936-4_1",
+                        "url": "https://dblp.org/rec/conf/dbsec/WeiY14"
+                    },
+                    "url": "URL#4875223"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4940025",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "64/8772",
+                                    "text": "Luca Ferretti"
+                                },
+                                {
+                                    "@pid": "149/1452",
+                                    "text": "Fabio Pierazzi"
+                                },
+                                {
+                                    "@pid": "c/MicheleColajanni",
+                                    "text": "Michele Colajanni"
+                                },
+                                {
+                                    "@pid": "65/4513",
+                                    "text": "Mirco Marchetti"
+                                },
+                                {
+                                    "@pid": "151/8263",
+                                    "text": "Marcello Missiroli"
+                                }
+                            ]
+                        },
+                        "title": "Efficient detection of unauthorized data modification in cloud databases.",
+                        "venue": "ISCC",
+                        "pages": "1-6",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iscc/FerrettiPCMM14",
+                        "doi": "10.1109/ISCC.2014.6912574",
+                        "ee": "https://doi.org/10.1109/ISCC.2014.6912574",
+                        "url": "https://dblp.org/rec/conf/iscc/FerrettiPCMM14"
+                    },
+                    "url": "URL#4940025"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5582162",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "146/2476",
+                                    "text": "Viswanadham Sridhara"
+                                },
+                                {
+                                    "@pid": "19/4369",
+                                    "text": "Aron Marchler-Bauer"
+                                },
+                                {
+                                    "@pid": "20/1683",
+                                    "text": "Stephen H. Bryant"
+                                },
+                                {
+                                    "@pid": "20/741",
+                                    "text": "Lewis Y. Geer"
+                                }
+                            ]
+                        },
+                        "title": "Automatic annotation of experimentally derived, evolutionarily conserved post-translational modifications onto multiple genomes.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2011",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/SridharaMBG11",
+                        "doi": "10.1093/DATABASE/BAR019",
+                        "ee": "https://doi.org/10.1093/database/bar019",
+                        "url": "https://dblp.org/rec/journals/biodb/SridharaMBG11"
+                    },
+                    "url": "URL#5582162"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5735760",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "73/10462",
+                                    "text": "Harini Ragavan"
+                                },
+                                {
+                                    "@pid": "52/2112",
+                                    "text": "Brajendra Panda"
+                                }
+                            ]
+                        },
+                        "title": "Mitigation of Malicious Modifications by Insiders in Databases.",
+                        "venue": "ICISS",
+                        "pages": "337-351",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iciss/RagavanP11",
+                        "doi": "10.1007/978-3-642-25560-1_23",
+                        "ee": "https://doi.org/10.1007/978-3-642-25560-1_23",
+                        "url": "https://dblp.org/rec/conf/iciss/RagavanP11"
+                    },
+                    "url": "URL#5735760"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6025010",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "50/7561",
+                                    "text": "Qussai Yaseen"
+                                },
+                                {
+                                    "@pid": "52/2112",
+                                    "text": "Brajendra Panda"
+                                }
+                            ]
+                        },
+                        "title": "Malicious Modification Attacks by Insiders in Relational Databases: Prediction and Prevention.",
+                        "venue": "SocialCom/PASSAT",
+                        "pages": "849-856",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/socialcom/YaseenP10",
+                        "doi": "10.1109/SOCIALCOM.2010.128",
+                        "ee": "https://doi.org/10.1109/SocialCom.2010.128",
+                        "url": "https://dblp.org/rec/conf/socialcom/YaseenP10"
+                    },
+                    "url": "URL#6025010"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6275820",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "56/7660",
+                                "text": "Mohammad Ghulam Ali"
+                            }
+                        },
+                        "title": "Object Oriented Approach for Integration of Heterogeneous Databases in a Multidatabase System and Local Schemas Modifications Propagation",
+                        "venue": "CoRR",
+                        "volume": "abs/0912.0603",
+                        "year": "2009",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-0912-0603",
+                        "ee": "http://arxiv.org/abs/0912.0603",
+                        "url": "https://dblp.org/rec/journals/corr/abs-0912-0603"
+                    },
+                    "url": "URL#6275820"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7035454",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "t/KristianTorp",
+                                    "text": "Kristian Torp"
+                                },
+                                {
+                                    "@pid": "j/ChristianSJensen",
+                                    "text": "Christian S. Jensen"
+                                },
+                                {
+                                    "@pid": "s/RichardTSnodgrass",
+                                    "text": "Richard T. Snodgrass"
+                                }
+                            ]
+                        },
+                        "title": "Modification semantics in now-relative databases.",
+                        "venue": "Inf. Syst.",
+                        "volume": "29",
+                        "number": "8",
+                        "pages": "653-683",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/is/TorpJS04",
+                        "doi": "10.1016/S0306-4379(03)00047-4",
+                        "ee": "https://doi.org/10.1016/S0306-4379(03)00047-4",
+                        "url": "https://dblp.org/rec/journals/is/TorpJS04"
+                    },
+                    "url": "URL#7035454"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7776393",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "65/6855",
+                                    "text": "Kiran J. Achyutuni"
+                                },
+                                {
+                                    "@pid": "o/EdwardOmiecinski",
+                                    "text": "Edward Omiecinski"
+                                },
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                }
+                            ]
+                        },
+                        "title": "Two Techniques for On-Line Index Modification in Shared Nothing Parallel Databases.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "125-136",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/AchyutuniON96",
+                        "doi": "10.1145/233269.233326",
+                        "ee": "https://doi.org/10.1145/233269.233326",
+                        "url": "https://dblp.org/rec/conf/sigmod/AchyutuniON96"
+                    },
+                    "url": "URL#7776393"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7869021",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "25/4658",
+                                "text": "Erik Odberg"
+                            }
+                        },
+                        "title": "A Global Perspective of Schema Modification Management for Object-Oriented Databases.",
+                        "venue": "POS",
+                        "pages": "479-502",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/pos/Odberg94",
+                        "doi": "10.1007/978-1-4471-2122-0_39",
+                        "ee": "https://doi.org/10.1007/978-1-4471-2122-0_39",
+                        "url": "https://dblp.org/rec/conf/pos/Odberg94"
+                    },
+                    "url": "URL#7869021"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7999575",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "88/3763",
+                                    "text": "David K. Hsiao"
+                                },
+                                {
+                                    "@pid": "98/3196",
+                                    "text": "Matthew J. Kohler"
+                                },
+                                {
+                                    "@pid": "23/5737",
+                                    "text": "Shawn W. Stround"
+                                }
+                            ]
+                        },
+                        "title": "Query Modifications as a Means of Controlling Access to Multilevel Secure Databases.",
+                        "venue": "DBSec",
+                        "pages": "221-240",
+                        "year": "1990",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dbsec/HsiaoKS90",
+                        "url": "https://dblp.org/rec/conf/dbsec/HsiaoKS90"
+                    },
+                    "url": "URL#7999575"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8128947",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "87/1343",
+                                "text": "Detlev Ruland"
+                            }
+                        },
+                        "title": "Modifications of the Logical Structure of 3NF-Relational Databases.",
+                        "venue": "WG",
+                        "pages": "298-306",
+                        "year": "1983",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/wg/Ruland83",
+                        "url": "https://dblp.org/rec/conf/wg/Ruland83"
+                    },
+                    "url": "URL#8128947"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "result": {
+        "query": "Schemata* History*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "0.60"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "2",
+                "@dc": "2",
+                "@oc": "2",
+                "@id": "63344775",
+                "text": "history"
+            }
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "4194115",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/1694",
+                                    "text": "Nikolay V. Shilov 0002"
+                                },
+                                {
+                                    "@pid": "19/4926",
+                                    "text": "Svetlana O. Shilova"
+                                },
+                                {
+                                    "@pid": "183/4381",
+                                    "text": "A. Yu. Bernshtein"
+                                }
+                            ]
+                        },
+                        "title": "Program schemata technique for propositional program logics: A 30-year history.",
+                        "venue": "Program. Comput. Softw.",
+                        "volume": "42",
+                        "number": "4",
+                        "pages": "239-256",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pcs/ShilovSB16",
+                        "doi": "10.1134/S036176881604006X",
+                        "ee": "https://doi.org/10.1134/S036176881604006X",
+                        "url": "https://dblp.org/rec/journals/pcs/ShilovSB16"
+                    },
+                    "url": "URL#4194115"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6683572",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "05/3472",
+                                "text": "John Corcoran"
+                            }
+                        },
+                        "title": "Schemata: The Concept of Schema in the History of Logic.",
+                        "venue": "Bull. Symb. Log.",
+                        "volume": "12",
+                        "number": "2",
+                        "pages": "219-240",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/bsl/Corcoran06",
+                        "doi": "10.2178/BSL/1146620060",
+                        "ee": "https://doi.org/10.2178/bsl/1146620060",
+                        "url": "https://dblp.org/rec/journals/bsl/Corcoran06"
+                    },
+                    "url": "URL#6683572"
+                }
+            ]
+        }
+    }
+}

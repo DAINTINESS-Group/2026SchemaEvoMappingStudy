@@ -1,0 +1,267 @@
+{
+    "result": {
+        "query": "Schema* History*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "8.42"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "7",
+                "@dc": "7",
+                "@oc": "7",
+                "@id": "63344775",
+                "text": "history"
+            }
+        },
+        "hits": {
+            "@total": "7",
+            "@computed": "7",
+            "@sent": "7",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "6683572",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "05/3472",
+                                "text": "John Corcoran"
+                            }
+                        },
+                        "title": "Schemata: The Concept of Schema in the History of Logic.",
+                        "venue": "Bull. Symb. Log.",
+                        "volume": "12",
+                        "number": "2",
+                        "pages": "219-240",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/bsl/Corcoran06",
+                        "doi": "10.2178/BSL/1146620060",
+                        "ee": "https://doi.org/10.2178/bsl/1146620060",
+                        "url": "https://dblp.org/rec/journals/bsl/Corcoran06"
+                    },
+                    "url": "URL#6683572"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1893329",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/105-2",
+                                    "text": "Ming Du 0002"
+                                },
+                                {
+                                    "@pid": "330/7476",
+                                    "text": "Luyi Cheng"
+                                },
+                                {
+                                    "@pid": "26/1194-23",
+                                    "text": "Bo Xu 0023"
+                                },
+                                {
+                                    "@pid": "37/1593",
+                                    "text": "Zhijun Wang"
+                                },
+                                {
+                                    "@pid": "46/1373",
+                                    "text": "Sufen Wang"
+                                },
+                                {
+                                    "@pid": "270/7352",
+                                    "text": "Junyi Yuan"
+                                },
+                                {
+                                    "@pid": "213/7027",
+                                    "text": "Changqing Pan"
+                                }
+                            ]
+                        },
+                        "title": "TS-DST: A Two-Stage Framework for Schema-Guided Dialogue State Tracking with Selected Dialogue History.",
+                        "venue": "IJCNN",
+                        "pages": "1-8",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ijcnn/DuCXWWYP22",
+                        "doi": "10.1109/IJCNN55064.2022.9892082",
+                        "ee": "https://doi.org/10.1109/IJCNN55064.2022.9892082",
+                        "url": "https://dblp.org/rec/conf/ijcnn/DuCXWWYP22"
+                    },
+                    "url": "URL#1893329"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4194115",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/1694",
+                                    "text": "Nikolay V. Shilov 0002"
+                                },
+                                {
+                                    "@pid": "19/4926",
+                                    "text": "Svetlana O. Shilova"
+                                },
+                                {
+                                    "@pid": "183/4381",
+                                    "text": "A. Yu. Bernshtein"
+                                }
+                            ]
+                        },
+                        "title": "Program schemata technique for propositional program logics: A 30-year history.",
+                        "venue": "Program. Comput. Softw.",
+                        "volume": "42",
+                        "number": "4",
+                        "pages": "239-256",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pcs/ShilovSB16",
+                        "doi": "10.1134/S036176881604006X",
+                        "ee": "https://doi.org/10.1134/S036176881604006X",
+                        "url": "https://dblp.org/rec/journals/pcs/ShilovSB16"
+                    },
+                    "url": "URL#4194115"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5529199",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/GMecca",
+                                    "text": "Giansalvatore Mecca"
+                                },
+                                {
+                                    "@pid": "p/PaoloPapotti",
+                                    "text": "Paolo Papotti"
+                                },
+                                {
+                                    "@pid": "32/5873",
+                                    "text": "Donatello Santoro"
+                                }
+                            ]
+                        },
+                        "title": "A Short History of Schema Mapping Systems.",
+                        "venue": "SEBD",
+                        "pages": "99-106",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sebd/MeccaPS12",
+                        "ee": "http://sebd2012.dei.unipd.it/documents/188475/efd4de94-b0b6-4979-8f60-3628f30d6f03",
+                        "url": "https://dblp.org/rec/conf/sebd/MeccaPS12"
+                    },
+                    "url": "URL#5529199"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6387364",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/CarloCurino",
+                                    "text": "Carlo Curino"
+                                },
+                                {
+                                    "@pid": "92/5910",
+                                    "text": "Hyun Jin Moon"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "Managing the History of Metadata in Support for DB Archiving and Schema Evolution.",
+                        "venue": "ER Workshops",
+                        "pages": "78-88",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/CurinoMZ08",
+                        "doi": "10.1007/978-3-540-87991-6_11",
+                        "ee": "https://doi.org/10.1007/978-3-540-87991-6_11",
+                        "url": "https://dblp.org/rec/conf/er/CurinoMZ08"
+                    },
+                    "url": "URL#6387364"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6410346",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/10636",
+                                    "text": "Ben DeVane"
+                                },
+                                {
+                                    "@pid": "20/10725",
+                                    "text": "Shree Durga"
+                                }
+                            ]
+                        },
+                        "title": "Problem-solving in history: strategy games and schema.",
+                        "venue": "ICLS",
+                        "pages": "20-22",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/icls/DeVaneD08",
+                        "ee": "https://repository.isls.org/handle/1/3246",
+                        "url": "https://dblp.org/rec/conf/icls/DeVaneD08"
+                    },
+                    "url": "URL#6410346"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8075019",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "33/3211",
+                                    "text": "N. G. Martin"
+                                },
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                },
+                                {
+                                    "@pid": "52/5728",
+                                    "text": "Rafi Ahmed"
+                                }
+                            ]
+                        },
+                        "title": "Dealing with Temporal Schema Anomalies in History Databases.",
+                        "venue": "VLDB",
+                        "pages": "177-184",
+                        "year": "1987",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/MartinNA87",
+                        "ee": "http://www.vldb.org/conf/1987/P177.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/MartinNA87"
+                    },
+                    "url": "URL#8075019"
+                }
+            ]
+        }
+    }
+}

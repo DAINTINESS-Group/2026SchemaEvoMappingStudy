@@ -1,0 +1,873 @@
+{
+    "result": {
+        "query": "Schemas* Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "9.29"
+        },
+        "completions": {
+            "@total": "3",
+            "@computed": "3",
+            "@sent": "3",
+            "c": [
+                {
+                    "@sc": "22",
+                    "@dc": "22",
+                    "@oc": "22",
+                    "@id": "63144075",
+                    "text": "evolution"
+                },
+                {
+                    "@sc": "4",
+                    "@dc": "4",
+                    "@oc": "4",
+                    "@id": "64538904",
+                    "text": "\u00e9volution"
+                },
+                {
+                    "@sc": "4",
+                    "@dc": "3",
+                    "@oc": "4",
+                    "@id": "63144092",
+                    "text": "evolutionary"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "27",
+            "@computed": "27",
+            "@sent": "27",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "4731845",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "82/9959",
+                                "text": "Joshua Amavi"
+                            }
+                        },
+                        "title": "Comparaison et \u00e9volution de sch\u00e9mas XML. (Comparison and evolution of XML schema).",
+                        "year": "2014",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Amavi14",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-01171845",
+                        "url": "https://dblp.org/rec/phd/hal/Amavi14"
+                    },
+                    "url": "URL#4731845"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6485646",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "f/CecileFavre",
+                                "text": "C\u00e9cile Favre"
+                            }
+                        },
+                        "title": "\u00c9volution de sch\u00e9mas dans les entrep\u00f4ts de donn\u00e9es : mise \u00e0 jour de hi\u00e9rarchies de dimension pour la personnalisation des analyses. (Data warehouses&apos; schema evolution: dimension hierarchies updating for analyses personalization).",
+                        "year": "2007",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Favre07a",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00269037",
+                        "url": "https://dblp.org/rec/phd/hal/Favre07a"
+                    },
+                    "url": "URL#6485646"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6755684",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "20/1126",
+                                    "text": "Ki-Won Yeom"
+                                },
+                                {
+                                    "@pid": "70/5136",
+                                    "text": "Ji-Hyung Park"
+                                }
+                            ]
+                        },
+                        "title": "An Evolutionary Approach for Dynamic Reconfiguration in Heterogeneous Database Schemas.",
+                        "venue": "IEEE Congress on Evolutionary Computation",
+                        "pages": "597-600",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cec/YeomP06a",
+                        "doi": "10.1109/CEC.2006.1688364",
+                        "ee": "https://doi.org/10.1109/CEC.2006.1688364",
+                        "url": "https://dblp.org/rec/conf/cec/YeomP06a"
+                    },
+                    "url": "URL#6755684"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1113016",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/PabloGervas",
+                                    "text": "Pablo Gerv\u00e1s"
+                                },
+                                {
+                                    "@pid": "61/1589-1",
+                                    "text": "Gonzalo M\u00e9ndez 0001"
+                                },
+                                {
+                                    "@pid": "182/8925",
+                                    "text": "Eugenio Concepci\u00f3n"
+                                }
+                            ]
+                        },
+                        "title": "Evolutionary combination of connected event schemas into meaningful plots.",
+                        "venue": "Genet. Program. Evolvable Mach.",
+                        "volume": "24",
+                        "number": "1",
+                        "pages": "7",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/gpem/GervasMC23",
+                        "doi": "10.1007/S10710-023-09454-2",
+                        "ee": "https://doi.org/10.1007/s10710-023-09454-2",
+                        "url": "https://dblp.org/rec/journals/gpem/GervasMC23"
+                    },
+                    "url": "URL#1113016"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1942339",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "332/1509",
+                                    "text": "Sofia Baroncini"
+                                },
+                                {
+                                    "@pid": "326/3604",
+                                    "text": "Margherita Martorana"
+                                },
+                                {
+                                    "@pid": "218/0163",
+                                    "text": "Mario Scrocca"
+                                },
+                                {
+                                    "@pid": "332/1458",
+                                    "text": "Zuzanna Smiech"
+                                },
+                                {
+                                    "@pid": "p/AxelPolleres",
+                                    "text": "Axel Polleres"
+                                }
+                            ]
+                        },
+                        "title": "Analysing the Evolution of Community-Driven (Sub-)Schemas within Wikidata.",
+                        "venue": "Wikidata@ISWC",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/semweb/BaronciniMSSP22",
+                        "ee": "https://ceur-ws.org/Vol-3262/paper5.pdf",
+                        "url": "https://dblp.org/rec/conf/semweb/BaronciniMSSP22"
+                    },
+                    "url": "URL#1942339"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2763204",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/StefanieScherzinger",
+                                    "text": "Stefanie Scherzinger"
+                                },
+                                {
+                                    "@pid": "260/0348",
+                                    "text": "Sebastian Sidortschuck"
+                                }
+                            ]
+                        },
+                        "title": "An Empirical Study on the Design and Evolution of NoSQL Database Schemas.",
+                        "venue": "ER",
+                        "pages": "441-455",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/ScherzingerS20",
+                        "doi": "10.1007/978-3-030-62522-1_33",
+                        "ee": "https://doi.org/10.1007/978-3-030-62522-1_33",
+                        "url": "https://dblp.org/rec/conf/er/ScherzingerS20"
+                    },
+                    "url": "URL#2763204"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2898536",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/StefanieScherzinger",
+                                    "text": "Stefanie Scherzinger"
+                                },
+                                {
+                                    "@pid": "260/0348",
+                                    "text": "Sebastian Sidortschuck"
+                                }
+                            ]
+                        },
+                        "title": "An Empirical Study on the Design and Evolution of NoSQL Database Schemas.",
+                        "venue": "CoRR",
+                        "volume": "abs/2003.00054",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2003-00054",
+                        "ee": "https://arxiv.org/abs/2003.00054",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2003-00054"
+                    },
+                    "url": "URL#2898536"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3711400",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "178/3629",
+                                    "text": "Thomas Pellissier Tanon"
+                                },
+                                {
+                                    "@pid": "204/9536",
+                                    "text": "Lucie-Aim\u00e9e Kaffee"
+                                }
+                            ]
+                        },
+                        "title": "Property Label Stability in Wikidata: Evolution and Convergence of Schemas in Collaborative Knowledge Bases.",
+                        "venue": "WWW",
+                        "pages": "1801-1803",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/www/TanonK18",
+                        "doi": "10.1145/3184558.3191643",
+                        "ee": "https://doi.org/10.1145/3184558.3191643",
+                        "url": "https://dblp.org/rec/conf/www/TanonK18"
+                    },
+                    "url": "URL#3711400"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4477743",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/7915",
+                                    "text": "Jakub Kl\u00edmek"
+                                },
+                                {
+                                    "@pid": "32/7915",
+                                    "text": "Jakub Mal\u00fd"
+                                },
+                                {
+                                    "@pid": "60/3167",
+                                    "text": "Martin Necask\u00fd"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                }
+                            ]
+                        },
+                        "title": "eXolutio: Methodology for Design and Evolution of XML Schemas Using Conceptual Modeling.",
+                        "venue": "Informatica",
+                        "volume": "26",
+                        "number": "3",
+                        "pages": "453-472",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/informaticaLT/KlimekMNH15",
+                        "ee": "http://content.iospress.com/articles/informatica/inf1065",
+                        "url": "https://dblp.org/rec/journals/informaticaLT/KlimekMNH15"
+                    },
+                    "url": "URL#4477743"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5148087",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "65/9550",
+                                    "text": "Hendrik Brummermann"
+                                },
+                                {
+                                    "@pid": "69/9550",
+                                    "text": "Markus Keunecke"
+                                },
+                                {
+                                    "@pid": "29/310",
+                                    "text": "Klaus Schmid"
+                                }
+                            ]
+                        },
+                        "title": "Managing the Evolution and Customization of Database Schemas in Information System Ecosystems.",
+                        "venue": "CAiSE",
+                        "pages": "417-432",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/caise/BrummermannKS13",
+                        "doi": "10.1007/978-3-642-38709-8_27",
+                        "ee": "https://doi.org/10.1007/978-3-642-38709-8_27",
+                        "url": "https://dblp.org/rec/conf/caise/BrummermannKS13"
+                    },
+                    "url": "URL#5148087"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5219996",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "60/3167",
+                                    "text": "Martin Necask\u00fd"
+                                },
+                                {
+                                    "@pid": "35/7915",
+                                    "text": "Jakub Kl\u00edmek"
+                                },
+                                {
+                                    "@pid": "32/7915",
+                                    "text": "Jakub Mal\u00fd"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                }
+                            ]
+                        },
+                        "title": "Methodology for Design and Evolution of XML Schemas using Conceptual Modeling.",
+                        "venue": "iiWAS",
+                        "pages": "508",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iiwas/NecaskyKMH13",
+                        "doi": "10.1145/2539150.2539189",
+                        "ee": "https://doi.org/10.1145/2539150.2539189",
+                        "url": "https://dblp.org/rec/conf/iiwas/NecaskyKMH13"
+                    },
+                    "url": "URL#5219996"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5320482",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "124/0947",
+                                    "text": "Julio Cesar Teodoro Silva"
+                                },
+                                {
+                                    "@pid": "p/AuroraPozo",
+                                    "text": "Aurora Trinidad Ramirez Pozo"
+                                },
+                                {
+                                    "@pid": "99/4290",
+                                    "text": "Silvia Regina Vergilio"
+                                },
+                                {
+                                    "@pid": "72/5025",
+                                    "text": "Martin A. Musicante"
+                                }
+                            ]
+                        },
+                        "title": "Search-Based Evolution of XML Schemas.",
+                        "venue": "Comput. Informatics",
+                        "volume": "31",
+                        "number": "3",
+                        "pages": "573-",
+                        "year": "2012",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/cai/SilvaPVM12",
+                        "ee": "http://www.cai.sk/ojs/index.php/cai/article/view/1009",
+                        "url": "https://dblp.org/rec/journals/cai/SilvaPVM12"
+                    },
+                    "url": "URL#5320482"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5440994",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/1397-1",
+                                    "text": "Petar Jovanovic 0001"
+                                },
+                                {
+                                    "@pid": "r/OscarRomero",
+                                    "text": "Oscar Romero 0001"
+                                },
+                                {
+                                    "@pid": "s/ASimitsis",
+                                    "text": "Alkis Simitsis"
+                                },
+                                {
+                                    "@pid": "88/2053",
+                                    "text": "Alberto Abell\u00f3"
+                                }
+                            ]
+                        },
+                        "title": "ORE: an iterative approach to the design and evolution of multi-dimensional schemas.",
+                        "venue": "DOLAP",
+                        "pages": "1-8",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dolap/0001RSA12",
+                        "doi": "10.1145/2390045.2390047",
+                        "ee": "https://doi.org/10.1145/2390045.2390047",
+                        "url": "https://dblp.org/rec/conf/dolap/0001RSA12"
+                    },
+                    "url": "URL#5440994"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5483247",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/7915",
+                                    "text": "Jakub Kl\u00edmek"
+                                },
+                                {
+                                    "@pid": "60/3167",
+                                    "text": "Martin Necask\u00fd"
+                                }
+                            ]
+                        },
+                        "title": "Formal Evolution of XML Schemas with Inheritance.",
+                        "venue": "ICWS",
+                        "pages": "496-503",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icws/KlimekN12",
+                        "doi": "10.1109/ICWS.2012.11",
+                        "ee": "https://doi.org/10.1109/ICWS.2012.11",
+                        "url": "https://dblp.org/rec/conf/icws/KlimekN12"
+                    },
+                    "url": "URL#5483247"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5616511",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "76/296",
+                                    "text": "Eladio Dom\u00ednguez"
+                                },
+                                {
+                                    "@pid": "92/6861",
+                                    "text": "Jorge Lloret"
+                                },
+                                {
+                                    "@pid": "22/4542",
+                                    "text": "Beatriz P\u00e9rez 0001"
+                                },
+                                {
+                                    "@pid": "70/1219",
+                                    "text": "\u00c1urea Rodr\u00edguez"
+                                },
+                                {
+                                    "@pid": "01/3695",
+                                    "text": "\u00c1ngel Luis Rubio"
+                                },
+                                {
+                                    "@pid": "10/5012",
+                                    "text": "Mar\u00eda Antonia Zapata"
+                                }
+                            ]
+                        },
+                        "title": "Evolution of XML schemas and documents from stereotyped UML class models: A traceable approach.",
+                        "venue": "Inf. Softw. Technol.",
+                        "volume": "53",
+                        "number": "1",
+                        "pages": "34-50",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/infsof/DominguezLPRRZ11",
+                        "doi": "10.1016/J.INFSOF.2010.08.001",
+                        "ee": "https://doi.org/10.1016/j.infsof.2010.08.001",
+                        "url": "https://dblp.org/rec/journals/infsof/DominguezLPRRZ11"
+                    },
+                    "url": "URL#5616511"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5943251",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "18/2623",
+                                "text": "Federico Cavalieri"
+                            }
+                        },
+                        "title": "EXup: an engine for the evolution of XML schemas and associated documents.",
+                        "venue": "EDBT/ICDT Workshops",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edbtw/Cavalieri10",
+                        "doi": "10.1145/1754239.1754263",
+                        "ee": "https://doi.org/10.1145/1754239.1754263",
+                        "url": "https://dblp.org/rec/conf/edbtw/Cavalieri10"
+                    },
+                    "url": "URL#5943251"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6023028",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/1820",
+                                    "text": "James F. Terwilliger"
+                                },
+                                {
+                                    "@pid": "b/PhilipABernstein",
+                                    "text": "Philip A. Bernstein"
+                                },
+                                {
+                                    "@pid": "06/8166",
+                                    "text": "Adi Unnithan"
+                                }
+                            ]
+                        },
+                        "title": "Worry-free database upgrades: automated model-driven evolution of schemas and complex mappings.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "1191-1194",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/TerwilligerBU10",
+                        "doi": "10.1145/1807167.1807316",
+                        "ee": "https://doi.org/10.1145/1807167.1807316",
+                        "url": "https://dblp.org/rec/conf/sigmod/TerwilligerBU10"
+                    },
+                    "url": "URL#6023028"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6766502",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "f/CecileFavre",
+                                    "text": "C\u00e9cile Favre"
+                                },
+                                {
+                                    "@pid": "b/FadilaBentayeb",
+                                    "text": "Fadila Bentayeb"
+                                },
+                                {
+                                    "@pid": "63/3490",
+                                    "text": "Omar Boussa\u00efd"
+                                }
+                            ]
+                        },
+                        "title": "\u00c9volution de sch\u00e9mas dans les entrep\u00f4ts de donn\u00e9es : mod\u00e8le \u00e0 base de r\u00e8gles.",
+                        "venue": "EDA",
+                        "pages": "175-176",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/eda/FavreBB06",
+                        "ee": "http://editions-rnti.fr/?inprocid=1001482",
+                        "url": "https://dblp.org/rec/conf/eda/FavreBB06"
+                    },
+                    "url": "URL#6766502"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6853612",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "43/6941",
+                                "text": "Denio Duarte"
+                            }
+                        },
+                        "title": "Une m\u00e9thode pour l&apos;\u00e9volution des sch\u00e9mas XML pr\u00e9servant la validit\u00e9 des documents.",
+                        "year": "2005",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Duarte05",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00009693",
+                        "url": "https://dblp.org/rec/phd/hal/Duarte05"
+                    },
+                    "url": "URL#6853612"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7081689",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "w/EWilde",
+                                "text": "Erik Wilde"
+                            }
+                        },
+                        "title": "Semantically Extensible Schemas for Web Service Evolution.",
+                        "venue": "ECOWS",
+                        "pages": "30-45",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ecows/Wilde04",
+                        "doi": "10.1007/978-3-540-30209-4_3",
+                        "ee": "https://doi.org/10.1007/978-3-540-30209-4_3",
+                        "url": "https://dblp.org/rec/conf/ecows/Wilde04"
+                    },
+                    "url": "URL#7081689"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7208060",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "43/2427",
+                                "text": "Hsiang Chi Huang"
+                            }
+                        },
+                        "title": "An Evolutionary Approach to Finding Schemas for 3-Class Protein Secondary Structure Prediction.",
+                        "venue": "CSB",
+                        "pages": "488-491",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/csb/Huang03",
+                        "doi": "10.1109/CSB.2003.1227384",
+                        "ee": "https://doi.org/10.1109/CSB.2003.1227384",
+                        "url": "https://dblp.org/rec/conf/csb/Huang03"
+                    },
+                    "url": "URL#7208060"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7254138",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "69/3405-1",
+                                    "text": "Fusheng Wang 0001"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "Representing and Querying the Evolution of Databases and their Schemas in XML.",
+                        "venue": "SEKE",
+                        "pages": "33-38",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/seke/WangZ03",
+                        "url": "https://dblp.org/rec/conf/seke/WangZ03"
+                    },
+                    "url": "URL#7254138"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7362428",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "04/3680",
+                                    "text": "Jennifer P\u00e9rez"
+                                },
+                                {
+                                    "@pid": "66/6897",
+                                    "text": "V\u00edctor Anaya"
+                                },
+                                {
+                                    "@pid": "60/5357",
+                                    "text": "J. Mar\u00eda Cubel"
+                                },
+                                {
+                                    "@pid": "97/3810",
+                                    "text": "Isidro Ramos"
+                                },
+                                {
+                                    "@pid": "96/5854",
+                                    "text": "Jos\u00e9 A. Cars\u00ed"
+                                }
+                            ]
+                        },
+                        "title": "Data Reverse Engineering of Legacy Databases to Object Oriented Conceptual Schemas.",
+                        "venue": "Software Evolution Through Transformations @ ICGT",
+                        "pages": "7-19",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "journals/entcs/PerezACRC03",
+                        "doi": "10.1016/S1571-0661(04)80622-4",
+                        "ee": "https://doi.org/10.1016/S1571-0661(04)80622-4",
+                        "url": "https://dblp.org/rec/journals/entcs/PerezACRC03"
+                    },
+                    "url": "URL#7362428"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7493165",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/4038",
+                                    "text": "Juan-Ram\u00f3n L\u00f3pez"
+                                },
+                                {
+                                    "@pid": "89/4942",
+                                    "text": "Antoni Oliv\u00e9"
+                                }
+                            ]
+                        },
+                        "title": "A Framework for the Evolution of Temporal Conceptual Schemas of Information Systems.",
+                        "venue": "CAiSE",
+                        "pages": "369-386",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/caise/LopezO00",
+                        "doi": "10.1007/3-540-45140-4_25",
+                        "ee": "https://doi.org/10.1007/3-540-45140-4_25",
+                        "url": "https://dblp.org/rec/conf/caise/LopezO00"
+                    },
+                    "url": "URL#7493165"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7571970",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "11/6397",
+                                    "text": "Laurent Deruelle"
+                                },
+                                {
+                                    "@pid": "54/3909",
+                                    "text": "Mourad Bouneffa"
+                                },
+                                {
+                                    "@pid": "70/5574",
+                                    "text": "Gilles Goncalves"
+                                },
+                                {
+                                    "@pid": "99/452",
+                                    "text": "Jean-Christophe Nicolas"
+                                }
+                            ]
+                        },
+                        "title": "Local and Federated Database Schemas Evolution, An Impact Propagation Model.",
+                        "venue": "DEXA",
+                        "pages": "902-911",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/DeruelleBGN99",
+                        "doi": "10.1007/3-540-48309-8_85",
+                        "ee": "https://doi.org/10.1007/3-540-48309-8_85",
+                        "url": "https://dblp.org/rec/conf/dexa/DeruelleBGN99"
+                    },
+                    "url": "URL#7571970"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7703128",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/3213",
+                                    "text": "Jos\u00e9 Samos"
+                                },
+                                {
+                                    "@pid": "90/366",
+                                    "text": "F\u00e8lix Saltor"
+                                }
+                            ]
+                        },
+                        "title": "External Schemas in a Schema-Evolution Environment for OODMs.",
+                        "venue": "DEXA Workshop",
+                        "pages": "516-522",
+                        "year": "1997",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexaw/SamosS97",
+                        "doi": "10.1109/DEXA.1997.617348",
+                        "ee": "https://doi.org/10.1109/DEXA.1997.617348",
+                        "url": "https://dblp.org/rec/conf/dexaw/SamosS97"
+                    },
+                    "url": "URL#7703128"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7782095",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "186/7573",
+                                "text": "Osama M. Al Arrayedh"
+                            }
+                        },
+                        "title": "Evolution of synthesised relational database schemas.",
+                        "year": "1995",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ethos/AlArrayedh95",
+                        "ee": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.321460",
+                        "url": "https://dblp.org/rec/phd/ethos/AlArrayedh95"
+                    },
+                    "url": "URL#7782095"
+                }
+            ]
+        }
+    }
+}

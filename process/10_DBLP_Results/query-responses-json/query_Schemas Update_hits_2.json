@@ -1,0 +1,86 @@
+{
+    "result": {
+        "query": "Schemas* Update*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "0.33"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "2",
+                "@dc": "2",
+                "@oc": "2",
+                "@id": "64386689",
+                "text": "updates"
+            }
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "5309098",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "30/7228",
+                                "text": "Beno\u00eet Groz"
+                            }
+                        },
+                        "title": "Vues de s\u00e9curit\u00e9 XML: requ\u00eates, mises \u00e0 jour et sch\u00e9mas. (XML Security Views: Queries, Updates, and Schemas).",
+                        "year": "2012",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Groz12",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00745581",
+                        "url": "https://dblp.org/rec/phd/hal/Groz12"
+                    },
+                    "url": "URL#5309098"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5729487",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "18/2623",
+                                    "text": "Federico Cavalieri"
+                                },
+                                {
+                                    "@pid": "g/GiovannaGuerrini",
+                                    "text": "Giovanna Guerrini"
+                                },
+                                {
+                                    "@pid": "48/4862",
+                                    "text": "Marco Mesiti"
+                                }
+                            ]
+                        },
+                        "title": "Updates on XML documents and schemas.",
+                        "venue": "ICDE Workshops",
+                        "pages": "308-311",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/CavalieriGM11a",
+                        "doi": "10.1109/ICDEW.2011.5767672",
+                        "ee": "https://doi.org/10.1109/ICDEW.2011.5767672",
+                        "url": "https://dblp.org/rec/conf/icde/CavalieriGM11a"
+                    },
+                    "url": "URL#5729487"
+                }
+            ]
+        }
+    }
+}

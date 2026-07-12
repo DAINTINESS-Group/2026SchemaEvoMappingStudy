@@ -1,0 +1,62 @@
+{
+    "result": {
+        "query": "Schemas* Modify*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "8.84"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "1",
+                "@dc": "1",
+                "@oc": "1",
+                "@id": "63728833",
+                "text": "modifying"
+            }
+        },
+        "hits": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "7764377",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "d/LMLDelcambre",
+                                    "text": "Lois M. L. Delcambre"
+                                },
+                                {
+                                    "@pid": "03/4306",
+                                    "text": "Jimmy Langston"
+                                }
+                            ]
+                        },
+                        "title": "Reusing (Shrink Wrap) Schemas by Modifying Concept Schemas.",
+                        "venue": "ICDE",
+                        "pages": "326-333",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/DelcambreL96",
+                        "doi": "10.1109/ICDE.1996.492180",
+                        "ee": "https://doi.org/10.1109/ICDE.1996.492180",
+                        "url": "https://dblp.org/rec/conf/icde/DelcambreL96"
+                    },
+                    "url": "URL#7764377"
+                }
+            ]
+        }
+    }
+}

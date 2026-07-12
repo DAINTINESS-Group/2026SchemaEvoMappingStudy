@@ -1,0 +1,299 @@
+{
+    "result": {
+        "query": "Schemas* Change*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "11.62"
+        },
+        "completions": {
+            "@total": "3",
+            "@computed": "3",
+            "@sent": "3",
+            "c": [
+                {
+                    "@sc": "5",
+                    "@dc": "4",
+                    "@oc": "5",
+                    "@id": "62908954",
+                    "text": "change"
+                },
+                {
+                    "@sc": "3",
+                    "@dc": "3",
+                    "@oc": "3",
+                    "@id": "62909028",
+                    "text": "changes"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "62909005",
+                    "text": "changement"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "8",
+            "@computed": "8",
+            "@sent": "8",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "3857411",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/8150",
+                                    "text": "Mary J. Benner"
+                                },
+                                {
+                                    "@pid": "127/9225",
+                                    "text": "Ram Ranganathan"
+                                }
+                            ]
+                        },
+                        "title": "Measuring Up? Persistence and Change in Analysts&apos; Evaluative Schemas Following Technological Change.",
+                        "venue": "Organ. Sci.",
+                        "volume": "28",
+                        "number": "4",
+                        "pages": "760-780",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/orgsci/BennerR17",
+                        "doi": "10.1287/ORSC.2017.1140",
+                        "ee": "https://doi.org/10.1287/orsc.2017.1140",
+                        "url": "https://dblp.org/rec/journals/orgsci/BennerR17"
+                    },
+                    "url": "URL#3857411"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2775502",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "195/8010",
+                                    "text": "Yiqi Xiao"
+                                },
+                                {
+                                    "@pid": "202/0129",
+                                    "text": "Chenhan Jiang"
+                                }
+                            ]
+                        },
+                        "title": "Conceptual Change in Preschool Science Education: Evaluating a Serious Game Designed with Image Schemas for Teaching Sound Concept.",
+                        "venue": "HCI",
+                        "pages": "503-520",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/hci/XiaoJ20",
+                        "doi": "10.1007/978-3-030-50164-8_37",
+                        "ee": "https://doi.org/10.1007/978-3-030-50164-8_37",
+                        "url": "https://dblp.org/rec/conf/hci/XiaoJ20"
+                    },
+                    "url": "URL#2775502"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3929693",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "176/3470",
+                                    "text": "Patricia Lichtenstein"
+                                },
+                                {
+                                    "@pid": "33/8156",
+                                    "text": "Ekaterina Shutova"
+                                }
+                            ]
+                        },
+                        "title": "Metaphor congruent image schemas shape evaluative judgment: a cross-linguistic study of metaphors for economic change.",
+                        "venue": "CogSci",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cogsci/LichtensteinS17",
+                        "ee": "https://escholarship.org/uc/item/0wn502rk",
+                        "url": "https://dblp.org/rec/conf/cogsci/LichtensteinS17"
+                    },
+                    "url": "URL#3929693"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4301382",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "Changes to XML namespaces in XML schemas and their effects on associated XML documents under schema versioning.",
+                        "venue": "ICDIM",
+                        "pages": "43-50",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdim/BrahmiaGB16",
+                        "doi": "10.1109/ICDIM.2016.7829765",
+                        "ee": "https://doi.org/10.1109/ICDIM.2016.7829765",
+                        "url": "https://dblp.org/rec/conf/icdim/BrahmiaGB16"
+                    },
+                    "url": "URL#4301382"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5271726",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "311/4127",
+                                    "text": "Abdullah M. Baqasah"
+                                },
+                                {
+                                    "@pid": "p/EPardede",
+                                    "text": "Eric Pardede"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                },
+                                {
+                                    "@pid": "28/5654",
+                                    "text": "J. Wenny Rahayu"
+                                }
+                            ]
+                        },
+                        "title": "On Change Detection of XML Schemas.",
+                        "venue": "TrustCom/ISPA/IUCC",
+                        "pages": "974-982",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/trustcom/BaqasahPHR13",
+                        "doi": "10.1109/TRUSTCOM.2013.119",
+                        "ee": "https://doi.org/10.1109/TrustCom.2013.119",
+                        "url": "https://dblp.org/rec/conf/trustcom/BaqasahPHR13"
+                    },
+                    "url": "URL#5271726"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5512423",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "21/8213",
+                                    "text": "Jakub Marciniak"
+                                },
+                                {
+                                    "@pid": "79/2850",
+                                    "text": "Tadeusz Pankowski"
+                                }
+                            ]
+                        },
+                        "title": "Tracking Changes in Database Schemas.",
+                        "venue": "MISSI",
+                        "pages": "155-165",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/missi/MarciniakP12",
+                        "doi": "10.1007/978-3-642-32335-5_15",
+                        "ee": "https://doi.org/10.1007/978-3-642-32335-5_15",
+                        "url": "https://dblp.org/rec/conf/missi/MarciniakP12"
+                    },
+                    "url": "URL#5512423"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6769545",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "14/3161",
+                                    "text": "Andreas Kupfer"
+                                },
+                                {
+                                    "@pid": "e/SilkeEckstein",
+                                    "text": "Silke Eckstein"
+                                },
+                                {
+                                    "@pid": "11/1987",
+                                    "text": "Karl Neumann"
+                                },
+                                {
+                                    "@pid": "70/553",
+                                    "text": "Brigitte Mathiak"
+                                }
+                            ]
+                        },
+                        "title": "Handling Changes of Database Schemas and Corresponding Ontologies.",
+                        "venue": "ER",
+                        "pages": "227-236",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/KupferENM06",
+                        "doi": "10.1007/11908883_28",
+                        "ee": "https://doi.org/10.1007/11908883_28",
+                        "url": "https://dblp.org/rec/conf/er/KupferENM06"
+                    },
+                    "url": "URL#6769545"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7592802",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/1058",
+                                    "text": "Mathias Braux"
+                                },
+                                {
+                                    "@pid": "n/JacquesNoye",
+                                    "text": "Jacques Noy\u00e9"
+                                }
+                            ]
+                        },
+                        "title": "Changement dynamique de comportement par composition de sch\u00e9mas de conception.",
+                        "venue": "LMO",
+                        "pages": "147-162",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/lmo/BrauxN99",
+                        "url": "https://dblp.org/rec/conf/lmo/BrauxN99"
+                    },
+                    "url": "URL#7592802"
+                }
+            ]
+        }
+    }
+}

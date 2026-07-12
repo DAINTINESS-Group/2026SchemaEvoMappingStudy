@@ -1,0 +1,76 @@
+{
+    "result": {
+        "query": "Databases* Decay*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "2.66"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "1",
+                "@dc": "1",
+                "@oc": "1",
+                "@id": "63011722",
+                "text": "decaying"
+            }
+        },
+        "hits": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "519719",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "294/3714",
+                                    "text": "Panagiotis Drakatos"
+                                },
+                                {
+                                    "@pid": "116/0694",
+                                    "text": "Constantinos Costa"
+                                },
+                                {
+                                    "@pid": "k/AndreasKonstantinidis2",
+                                    "text": "Andreas Konstantinidis 0002"
+                                },
+                                {
+                                    "@pid": "c/PKChrysanthis",
+                                    "text": "Panos K. Chrysanthis"
+                                },
+                                {
+                                    "@pid": "z/DemetriosZeinalipourYazti",
+                                    "text": "Demetrios Zeinalipour-Yazti"
+                                }
+                            ]
+                        },
+                        "title": "A blockchain datastore for scalable IoT workloads using data decaying.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "42",
+                        "number": "3",
+                        "pages": "403-445",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/DrakatosCKCZ24",
+                        "doi": "10.1007/S10619-024-07441-9",
+                        "ee": "https://doi.org/10.1007/s10619-024-07441-9",
+                        "url": "https://dblp.org/rec/journals/dpd/DrakatosCKCZ24"
+                    },
+                    "url": "URL#519719"
+                }
+            ]
+        }
+    }
+}

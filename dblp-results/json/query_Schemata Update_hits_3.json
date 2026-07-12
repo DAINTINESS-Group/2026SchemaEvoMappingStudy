@@ -1,0 +1,118 @@
+{
+    "result": {
+        "query": "Schemata* Update*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "0.34"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "2",
+                    "@dc": "2",
+                    "@oc": "2",
+                    "@id": "64386678",
+                    "text": "update"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "64386689",
+                    "text": "updates"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "3",
+            "@computed": "3",
+            "@sent": "3",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "141148",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "223/8303",
+                                    "text": "Zhuoxing Zhang"
+                                },
+                                {
+                                    "@pid": "l/SebastianLink",
+                                    "text": "Sebastian Link"
+                                }
+                            ]
+                        },
+                        "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies.",
+                        "venue": "Proc. ACM Manag. Data",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "225:1-225:25",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pacmmod/ZhangL25",
+                        "doi": "10.1145/3725362",
+                        "ee": "https://doi.org/10.1145/3725362",
+                        "url": "https://dblp.org/rec/journals/pacmmod/ZhangL25"
+                    },
+                    "url": "URL#141148"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6391596",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "96/5136",
+                                "text": "Stephen J. Hegner"
+                            }
+                        },
+                        "title": "Information-Optimal Reflections of View Updates on Relational Database Schemata.",
+                        "venue": "FoIKS",
+                        "pages": "112-131",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/foiks/Hegner08",
+                        "doi": "10.1007/978-3-540-77684-0_10",
+                        "ee": "https://doi.org/10.1007/978-3-540-77684-0_10",
+                        "url": "https://dblp.org/rec/conf/foiks/Hegner08"
+                    },
+                    "url": "URL#6391596"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8128919",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "v/AnneVerroust",
+                                "text": "Anne Verroust"
+                            }
+                        },
+                        "title": "Characterization of Well-Behaved Database Schemata and Their Update Semantics.",
+                        "venue": "VLDB",
+                        "pages": "312-321",
+                        "year": "1983",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/Verroust83",
+                        "ee": "http://www.vldb.org/conf/1983/P312.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/Verroust83"
+                    },
+                    "url": "URL#8128919"
+                }
+            ]
+        }
+    }
+}

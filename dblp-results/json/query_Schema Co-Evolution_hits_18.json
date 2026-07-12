@@ -1,0 +1,664 @@
+{
+    "result": {
+        "query": "Schema* Co Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "7.20"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "10",
+                    "@dc": "10",
+                    "@oc": "10",
+                    "@id": "63144075",
+                    "text": "evolution"
+                },
+                {
+                    "@sc": "8",
+                    "@dc": "8",
+                    "@oc": "8",
+                    "@id": "63144092",
+                    "text": "evolutionary"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "18",
+            "@computed": "18",
+            "@sent": "18",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "425090",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "63/9352",
+                                    "text": "Ting-Chun Liu"
+                                },
+                                {
+                                    "@pid": "393/1183",
+                                    "text": "Ching Yu Hsu"
+                                },
+                                {
+                                    "@pid": "142/3062",
+                                    "text": "Kuan-Yi Lee"
+                                },
+                                {
+                                    "@pid": "413/9319",
+                                    "text": "Chi-An Fu"
+                                },
+                                {
+                                    "@pid": "81/8056",
+                                    "text": "Hung-yi Lee"
+                                }
+                            ]
+                        },
+                        "title": "AEGIS : Automated Co-Evolutionary Framework for Guarding Prompt Injections Schema.",
+                        "venue": "CoRR",
+                        "volume": "abs/2509.00088",
+                        "year": "2025",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2509-00088",
+                        "doi": "10.48550/ARXIV.2509.00088",
+                        "ee": "https://doi.org/10.48550/arXiv.2509.00088",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2509-00088"
+                    },
+                    "url": "URL#425090"
+                },
+                {
+                    "@score": "3",
+                    "@id": "1113016",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/PabloGervas",
+                                    "text": "Pablo Gerv\u00e1s"
+                                },
+                                {
+                                    "@pid": "61/1589-1",
+                                    "text": "Gonzalo M\u00e9ndez 0001"
+                                },
+                                {
+                                    "@pid": "182/8925",
+                                    "text": "Eugenio Concepci\u00f3n"
+                                }
+                            ]
+                        },
+                        "title": "Evolutionary combination of connected event schemas into meaningful plots.",
+                        "venue": "Genet. Program. Evolvable Mach.",
+                        "volume": "24",
+                        "number": "1",
+                        "pages": "7",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/gpem/GervasMC23",
+                        "doi": "10.1007/S10710-023-09454-2",
+                        "ee": "https://doi.org/10.1007/s10710-023-09454-2",
+                        "url": "https://dblp.org/rec/journals/gpem/GervasMC23"
+                    },
+                    "url": "URL#1113016"
+                },
+                {
+                    "@score": "3",
+                    "@id": "1315977",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "365/8434",
+                                    "text": "Fanis Giachos"
+                                },
+                                {
+                                    "@pid": "365/8125",
+                                    "text": "Nikos Pantelidis"
+                                },
+                                {
+                                    "@pid": "365/8000",
+                                    "text": "Christos Batsilas"
+                                },
+                                {
+                                    "@pid": "35/3250",
+                                    "text": "Apostolos V. Zarras"
+                                },
+                                {
+                                    "@pid": "13/1242",
+                                    "text": "Panos Vassiliadis"
+                                }
+                            ]
+                        },
+                        "title": "Parallel lives diagrams for co-evolving communities and their application to schema evolution.",
+                        "venue": "ER",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/er/GiachosPBZV23",
+                        "ee": "https://ceur-ws.org/Vol-3618/forum_paper_19.pdf",
+                        "url": "https://dblp.org/rec/conf/er/GiachosPBZV23"
+                    },
+                    "url": "URL#1315977"
+                },
+                {
+                    "@score": "3",
+                    "@id": "2426203",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "302/8583",
+                                    "text": "Andr\u00e9 Conrad"
+                                },
+                                {
+                                    "@pid": "202/6272",
+                                    "text": "Mark Lukas M\u00f6ller"
+                                },
+                                {
+                                    "@pid": "199/2421",
+                                    "text": "Tobias Kreiter"
+                                },
+                                {
+                                    "@pid": "311/3176",
+                                    "text": "Jan-Christopher Mair"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                }
+                            ]
+                        },
+                        "title": "EvoBench: Benchmarking Schema Evolution in NoSQL.",
+                        "venue": "TPCTC",
+                        "pages": "33-49",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/tpctc/ConradMKMKS21",
+                        "doi": "10.1007/978-3-030-94437-7_3",
+                        "ee": "https://doi.org/10.1007/978-3-030-94437-7_3",
+                        "url": "https://dblp.org/rec/conf/tpctc/ConradMKMKS21"
+                    },
+                    "url": "URL#2426203"
+                },
+                {
+                    "@score": "3",
+                    "@id": "3923172",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "90/7833",
+                                    "text": "Wajdi Dhifli"
+                                },
+                                {
+                                    "@pid": "202/8350",
+                                    "text": "Noemie Oliveira Da Costa"
+                                },
+                                {
+                                    "@pid": "41/206",
+                                    "text": "Mohamed Elati"
+                                }
+                            ]
+                        },
+                        "title": "An evolutionary schema for mining skyline clusters of attributed graph data.",
+                        "venue": "CEC",
+                        "pages": "2102-2109",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cec/DhifliCE17",
+                        "doi": "10.1109/CEC.2017.7969559",
+                        "ee": "https://doi.org/10.1109/CEC.2017.7969559",
+                        "url": "https://dblp.org/rec/conf/cec/DhifliCE17"
+                    },
+                    "url": "URL#3923172"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4046281",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/65",
+                                    "text": "Kai Herrmann 0002"
+                                },
+                                {
+                                    "@pid": "19/1082",
+                                    "text": "Hannes Voigt"
+                                },
+                                {
+                                    "@pid": "39/3706",
+                                    "text": "Andreas Behrend"
+                                },
+                                {
+                                    "@pid": "185/0920",
+                                    "text": "Jonas Rausch"
+                                },
+                                {
+                                    "@pid": "l/WLehner",
+                                    "text": "Wolfgang Lehner"
+                                }
+                            ]
+                        },
+                        "title": "Living in Parallel Realities: Co-Existing Schema Versions with a Bidirectional Database Evolution Language.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "1101-1116",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/HerrmannVBRL17",
+                        "doi": "10.1145/3035918.3064046",
+                        "ee": "https://doi.org/10.1145/3035918.3064046",
+                        "url": "https://dblp.org/rec/conf/sigmod/HerrmannVBRL17"
+                    },
+                    "url": "URL#4046281"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5121989",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "49/7979",
+                                    "text": "Chenjuan Guo"
+                                },
+                                {
+                                    "@pid": "59/4045",
+                                    "text": "Cornelia Hedeler"
+                                },
+                                {
+                                    "@pid": "p/NWPaton",
+                                    "text": "Norman W. Paton"
+                                },
+                                {
+                                    "@pid": "f/AAAFernandes",
+                                    "text": "Alvaro A. A. Fernandes"
+                                }
+                            ]
+                        },
+                        "title": "EvoMatch: An Evolutionary Algorithm for Inferring Schematic Correspondences.",
+                        "venue": "Trans. Large Scale Data Knowl. Centered Syst.",
+                        "volume": "12",
+                        "pages": "1-26",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tlsdkcs/GuoHPF13",
+                        "doi": "10.1007/978-3-642-45315-1_1",
+                        "ee": "https://doi.org/10.1007/978-3-642-45315-1_1",
+                        "url": "https://dblp.org/rec/journals/tlsdkcs/GuoHPF13"
+                    },
+                    "url": "URL#5121989"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5264341",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "79/3415",
+                                    "text": "Dong Qiu"
+                                },
+                                {
+                                    "@pid": "l/BixinLi",
+                                    "text": "Bixin Li"
+                                },
+                                {
+                                    "@pid": "s/ZhendongSu",
+                                    "text": "Zhendong Su 0001"
+                                }
+                            ]
+                        },
+                        "title": "An empirical analysis of the co-evolution of schema and code in database applications.",
+                        "venue": "ESEC/SIGSOFT FSE",
+                        "pages": "125-135",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigsoft/QiuLS13",
+                        "doi": "10.1145/2491411.2491431",
+                        "ee": "https://doi.org/10.1145/2491411.2491431",
+                        "url": "https://dblp.org/rec/conf/sigsoft/QiuLS13"
+                    },
+                    "url": "URL#5264341"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6105236",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "51/7652",
+                                    "text": "Sandipto Banerjee"
+                                },
+                                {
+                                    "@pid": "10/5118",
+                                    "text": "Karen C. Davis"
+                                }
+                            ]
+                        },
+                        "title": "Modeling Data Warehouse Schema Evolution over Extended Hierarchy Semantics.",
+                        "venue": "J. Data Semant.",
+                        "volume": "13",
+                        "pages": "72-96",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jods/BanerjeeD09",
+                        "doi": "10.1007/978-3-642-03098-7_3",
+                        "ee": "https://doi.org/10.1007/978-3-642-03098-7_3",
+                        "url": "https://dblp.org/rec/journals/jods/BanerjeeD09"
+                    },
+                    "url": "URL#6105236"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7030181",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/4582",
+                                    "text": "Kwee-Bo Sim"
+                                },
+                                {
+                                    "@pid": "14/3863",
+                                    "text": "Dong-Wook Lee"
+                                }
+                            ]
+                        },
+                        "title": "Schema Co-Evolutionary Algorithm (SCEA).",
+                        "venue": "IEICE Trans. Inf. Syst.",
+                        "volume": "87-D",
+                        "number": "2",
+                        "pages": "416-425",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ieicet/SimL04",
+                        "ee": "http://search.ieice.org/bin/summary.php?id=e87-d_2_416",
+                        "url": "https://dblp.org/rec/journals/ieicet/SimL04"
+                    },
+                    "url": "URL#7030181"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7031771",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/6474",
+                                    "text": "Kwang-Sub Byun"
+                                },
+                                {
+                                    "@pid": "34/4582",
+                                    "text": "Kwee-Bo Sim"
+                                }
+                            ]
+                        },
+                        "title": "Optimal Design of a 2-Layer Fuzzy Controller Using the Schema Co-Evolutionary Algorithm.",
+                        "venue": "Int. J. Fuzzy Log. Intell. Syst.",
+                        "volume": "4",
+                        "number": "3",
+                        "pages": "341-346",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijflis/ByunS04",
+                        "doi": "10.5391/IJFIS.2004.4.3.341",
+                        "ee": "https://doi.org/10.5391/IJFIS.2004.4.3.341",
+                        "url": "https://dblp.org/rec/journals/ijflis/ByunS04"
+                    },
+                    "url": "URL#7031771"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7086428",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/6474",
+                                    "text": "Kwang-Sub Byun"
+                                },
+                                {
+                                    "@pid": "34/4582",
+                                    "text": "Kwee-Bo Sim"
+                                }
+                            ]
+                        },
+                        "title": "Optimal design of a 2-layer fuzzy controller using the schema co-evolutionary algorithm.",
+                        "venue": "FUZZ-IEEE",
+                        "pages": "721-726",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/fuzzIEEE/ByunS04",
+                        "doi": "10.1109/FUZZY.2004.1375488",
+                        "ee": "https://doi.org/10.1109/FUZZY.2004.1375488",
+                        "url": "https://dblp.org/rec/conf/fuzzIEEE/ByunS04"
+                    },
+                    "url": "URL#7086428"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7181820",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "62/6687",
+                                "text": "S. V. Coox"
+                            }
+                        },
+                        "title": "Axiomatization of the Evolution of XML Database Schema.",
+                        "venue": "Program. Comput. Softw.",
+                        "volume": "29",
+                        "number": "3",
+                        "pages": "140-146",
+                        "year": "2003",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pcs/Coox03",
+                        "doi": "10.1023/A:1023801022137",
+                        "ee": "https://doi.org/10.1023/A:1023801022137",
+                        "url": "https://dblp.org/rec/journals/pcs/Coox03"
+                    },
+                    "url": "URL#7181820"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7282732",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "34/4582",
+                                "text": "Kwee-Bo Sim"
+                            }
+                        },
+                        "title": "Cooperative Behavior of Distributed Autonomous Robotic Systems Based on Schema Co-Evolutionary Algorithm.",
+                        "venue": "Int. J. Fuzzy Log. Intell. Syst.",
+                        "volume": "2",
+                        "number": "3",
+                        "pages": "185-190",
+                        "year": "2002",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijflis/Sim02",
+                        "doi": "10.5391/IJFIS.2002.2.3.185",
+                        "ee": "https://doi.org/10.5391/IJFIS.2002.2.3.185",
+                        "url": "https://dblp.org/rec/journals/ijflis/Sim02"
+                    },
+                    "url": "URL#7282732"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7299795",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/3247",
+                                    "text": "J. Baltasar Garc\u00eda P\u00e9rez-Schofield"
+                                },
+                                {
+                                    "@pid": "19/1400",
+                                    "text": "Emilio Garc\u00eda Rosell\u00f3"
+                                },
+                                {
+                                    "@pid": "38/4652",
+                                    "text": "Tim B. Cooper"
+                                },
+                                {
+                                    "@pid": "48/2375",
+                                    "text": "Manuel P\u00e9rez Cota"
+                                }
+                            ]
+                        },
+                        "title": "Managing schema evolution in a container-based persistent system.",
+                        "venue": "Softw. Pract. Exp.",
+                        "volume": "32",
+                        "number": "14",
+                        "pages": "1395-1410",
+                        "year": "2002",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/spe/Perez-SchofieldRCC02",
+                        "doi": "10.1002/SPE.489",
+                        "ee": "https://doi.org/10.1002/spe.489",
+                        "url": "https://dblp.org/rec/journals/spe/Perez-SchofieldRCC02"
+                    },
+                    "url": "URL#7299795"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7450969",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "63/3563",
+                                    "text": "Herman Balsters"
+                                },
+                                {
+                                    "@pid": "35/8389",
+                                    "text": "Bert O. de Brock"
+                                },
+                                {
+                                    "@pid": "c/StefanConrad1",
+                                    "text": "Stefan Conrad 0001"
+                                }
+                            ]
+                        },
+                        "title": "Database Schema Evolution and Meta-Modeling, 9th International Workshop on Foundations of Models and Languages for Data and Objects, FoMLaDO/DEMM 2000, Dagstuhl Castle, Germany, September 18-21, 2000, Selected Papers",
+                        "venue": [
+                            "FMLDO",
+                            "Lecture Notes in Computer Science"
+                        ],
+                        "volume": "2065",
+                        "publisher": "Springer",
+                        "year": "2001",
+                        "type": "Editorship",
+                        "key": "conf/fmldo/2000",
+                        "doi": "10.1007/3-540-48196-6",
+                        "ee": "https://doi.org/10.1007/3-540-48196-6",
+                        "url": "https://dblp.org/rec/conf/fmldo/2000"
+                    },
+                    "url": "URL#7450969"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7869446",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/RCHConnor",
+                                    "text": "Richard C. H. Connor"
+                                },
+                                {
+                                    "@pid": "c/QICutts",
+                                    "text": "Quintin I. Cutts"
+                                },
+                                {
+                                    "@pid": "k/GNCKirby",
+                                    "text": "Graham N. C. Kirby"
+                                },
+                                {
+                                    "@pid": "82/2183",
+                                    "text": "Ronald Morrison"
+                                }
+                            ]
+                        },
+                        "title": "Using persistence technology to control schema evolution.",
+                        "venue": "SAC",
+                        "pages": "441-446",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/ConnorCKM94",
+                        "doi": "10.1145/326619.326805",
+                        "ee": "https://doi.org/10.1145/326619.326805",
+                        "url": "https://dblp.org/rec/conf/sac/ConnorCKM94"
+                    },
+                    "url": "URL#7869446"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7912482",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/3380",
+                                    "text": "Fabiano Cattaneo"
+                                },
+                                {
+                                    "@pid": "90/5778",
+                                    "text": "Alberto Coen-Porisini"
+                                },
+                                {
+                                    "@pid": "23/1696",
+                                    "text": "Luigi Lavazza"
+                                },
+                                {
+                                    "@pid": "z/RZicari",
+                                    "text": "Roberto V. Zicari"
+                                }
+                            ]
+                        },
+                        "title": "Overview and Progress Report of the ESSE Project: Supporting Object-Oriented Database Schema Analysis and Evolution.",
+                        "venue": "TOOLS",
+                        "pages": "63-74",
+                        "year": "1993",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/tools/CattaneoCLZ93",
+                        "url": "https://dblp.org/rec/conf/tools/CattaneoCLZ93"
+                    },
+                    "url": "URL#7912482"
+                }
+            ]
+        }
+    }
+}

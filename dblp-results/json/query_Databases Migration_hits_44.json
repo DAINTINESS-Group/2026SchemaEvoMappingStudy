@@ -1,0 +1,1517 @@
+{
+    "result": {
+        "query": "Databases* Migration*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "10.56"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "45",
+                    "@dc": "44",
+                    "@oc": "45",
+                    "@id": "63708241",
+                    "text": "migration"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "63708268",
+                    "text": "migrationsstrategien"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "44",
+            "@computed": "44",
+            "@sent": "44",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "1622636",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "265/9630",
+                                    "text": "Shamil Nabiyev"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                }
+                            ]
+                        },
+                        "title": "Self-adapting data migration in the context of schema evolution in NoSQL databases.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "40",
+                        "number": "1",
+                        "pages": "5-25",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/dpd/HillenbrandSNK22",
+                        "doi": "10.1007/S10619-021-07334-1",
+                        "ee": "https://doi.org/10.1007/s10619-021-07334-1",
+                        "url": "https://dblp.org/rec/journals/dpd/HillenbrandSNK22"
+                    },
+                    "url": "URL#1622636"
+                },
+                {
+                    "@score": "3",
+                    "@id": "1923824",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                }
+                            ]
+                        },
+                        "title": "Managing Schema Migration in NoSQL Databases: Advisor Heuristics vs. Self-adaptive Schema Migration Strategies.",
+                        "venue": "MODELSWARD",
+                        "pages": "230-253",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/modelsward/HillenbrandS22a",
+                        "doi": "10.1007/978-3-031-38821-7_11",
+                        "ee": "https://doi.org/10.1007/978-3-031-38821-7_11",
+                        "url": "https://dblp.org/rec/conf/modelsward/HillenbrandS22a"
+                    },
+                    "url": "URL#1923824"
+                },
+                {
+                    "@score": "3",
+                    "@id": "3597161",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "202/6272",
+                                "text": "Mark Lukas M\u00f6ller"
+                            }
+                        },
+                        "title": "Data Evolution and Migration Strategies for NoSQL Databases (Datenevolutions- und Migrationsstrategien in NoSQL-Datenbanken).",
+                        "venue": "Grundlagen von Datenbanken",
+                        "pages": "16-22",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/gvd/Moller18",
+                        "ee": "https://ceur-ws.org/Vol-2126/paper2.pdf",
+                        "url": "https://dblp.org/rec/conf/gvd/Moller18"
+                    },
+                    "url": "URL#3597161"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4235036",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "201/3974",
+                                    "text": "Alae El Alami"
+                                },
+                                {
+                                    "@pid": "32/9595",
+                                    "text": "Mohamed Bahaj"
+                                }
+                            ]
+                        },
+                        "title": "Framework for a complete migration of relational databases to other types of databases(object oriented OO, object-relational OR, XML).",
+                        "venue": "AICCSA",
+                        "pages": "1-7",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/aiccsa/AlamiB16",
+                        "doi": "10.1109/AICCSA.2016.7945763",
+                        "ee": "https://doi.org/10.1109/AICCSA.2016.7945763",
+                        "url": "https://dblp.org/rec/conf/aiccsa/AlamiB16"
+                    },
+                    "url": "URL#4235036"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4684212",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "179/8163",
+                                    "text": "Dongzhao Liang"
+                                },
+                                {
+                                    "@pid": "148/1291",
+                                    "text": "Yunzhen Lin"
+                                },
+                                {
+                                    "@pid": "51/740",
+                                    "text": "Guiguang Ding"
+                                }
+                            ]
+                        },
+                        "title": "Mid-model Design Used in Model Transition and Data Migration between Relational Databases and NoSQL Databases.",
+                        "venue": "SmartCity",
+                        "pages": "866-869",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/smartcity/LiangLD15",
+                        "doi": "10.1109/SMARTCITY.2015.177",
+                        "ee": "https://doi.org/10.1109/SmartCity.2015.177",
+                        "url": "https://dblp.org/rec/conf/smartcity/LiangLD15"
+                    },
+                    "url": "URL#4684212"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6588778",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/210",
+                                    "text": "Mohamed Ali Ben Hassine"
+                                },
+                                {
+                                    "@pid": "99/5103",
+                                    "text": "Habib Ounelli"
+                                },
+                                {
+                                    "@pid": "20/2546",
+                                    "text": "Amel Grissa Touzi"
+                                },
+                                {
+                                    "@pid": "45/615",
+                                    "text": "Jos\u00e9 Galindo"
+                                }
+                            ]
+                        },
+                        "title": "A Migration Approach from Crisp Databases to Fuzzy Databases.",
+                        "venue": "FUZZ-IEEE",
+                        "pages": "1-8",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/fuzzIEEE/HassineOGG07",
+                        "doi": "10.1109/FUZZY.2007.4295651",
+                        "ee": "https://doi.org/10.1109/FUZZY.2007.4295651",
+                        "url": "https://dblp.org/rec/conf/fuzzIEEE/HassineOGG07"
+                    },
+                    "url": "URL#6588778"
+                },
+                {
+                    "@score": "3",
+                    "@id": "8007477",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "07/5564",
+                                    "text": "Mohamed E. El-Sharkawi"
+                                },
+                                {
+                                    "@pid": "k/YahikoKambayashi",
+                                    "text": "Yahiko Kambayashi"
+                                }
+                            ]
+                        },
+                        "title": "Object Migration Mechanisms to Support Updates in Object-Oriented Databases.",
+                        "venue": "PARBASE / Databases",
+                        "pages": "73-92",
+                        "year": "1990",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/parbase/El-SharkawiK90",
+                        "doi": "10.1109/PARBSE.1990.77163",
+                        "ee": "https://doi.org/10.1109/PARBSE.1990.77163",
+                        "url": "https://dblp.org/rec/conf/parbase/El-SharkawiK90"
+                    },
+                    "url": "URL#8007477"
+                },
+                {
+                    "@score": "2",
+                    "@id": "59653",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "407/6490",
+                                    "text": "Huijie Cao"
+                                },
+                                {
+                                    "@pid": "342/9867",
+                                    "text": "Chenfeng Huang"
+                                },
+                                {
+                                    "@pid": "403/8226",
+                                    "text": "Shengchi Liu"
+                                },
+                                {
+                                    "@pid": "137/1395",
+                                    "text": "Huiqi Hu"
+                                },
+                                {
+                                    "@pid": "44/9546-1",
+                                    "text": "Minghao Zhao 0001"
+                                },
+                                {
+                                    "@pid": "32/3943-1",
+                                    "text": "Xuan Zhou 0001"
+                                },
+                                {
+                                    "@pid": "248/2683",
+                                    "text": "Yaofeng Tu"
+                                },
+                                {
+                                    "@pid": "55/3364",
+                                    "text": "Weining Qian"
+                                }
+                            ]
+                        },
+                        "title": "Aion: Live Migration for In-Memory Databases with Zero Downtime and Reduced Redundant Data Transfer.",
+                        "venue": "Data Sci. Eng.",
+                        "volume": "10",
+                        "number": "2",
+                        "pages": "212-229",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/dase/CaoHLHZZTQ25",
+                        "doi": "10.1007/S41019-024-00276-5",
+                        "ee": "https://doi.org/10.1007/s41019-024-00276-5",
+                        "url": "https://dblp.org/rec/journals/dase/CaoHLHZZTQ25"
+                    },
+                    "url": "URL#59653"
+                },
+                {
+                    "@score": "2",
+                    "@id": "744762",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "355/4732",
+                                    "text": "Zhilin Zeng"
+                                },
+                                {
+                                    "@pid": "66/3387",
+                                    "text": "Hui Li"
+                                },
+                                {
+                                    "@pid": "239/6175",
+                                    "text": "Xiyue Gao"
+                                },
+                                {
+                                    "@pid": "181/2846",
+                                    "text": "Hui Zhang"
+                                },
+                                {
+                                    "@pid": "123/0672",
+                                    "text": "Huiquan Zhang"
+                                },
+                                {
+                                    "@pid": "00/1740",
+                                    "text": "Jiangtao Cui"
+                                }
+                            ]
+                        },
+                        "title": "SLSM: An Efficient Strategy for Lazy Schema Migration on Shared-Nothing Databases.",
+                        "venue": "DASFAA",
+                        "pages": "357-367",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dasfaa/ZengLGZZC24",
+                        "doi": "10.1007/978-981-97-5552-3_24",
+                        "ee": "https://doi.org/10.1007/978-981-97-5552-3_24",
+                        "url": "https://dblp.org/rec/conf/dasfaa/ZengLGZZC24"
+                    },
+                    "url": "URL#744762"
+                },
+                {
+                    "@score": "2",
+                    "@id": "943250",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "355/4732",
+                                    "text": "Zhilin Zeng"
+                                },
+                                {
+                                    "@pid": "66/3387",
+                                    "text": "Hui Li"
+                                },
+                                {
+                                    "@pid": "239/6175",
+                                    "text": "Xiyue Gao"
+                                },
+                                {
+                                    "@pid": "181/2846",
+                                    "text": "Hui Zhang"
+                                },
+                                {
+                                    "@pid": "123/0672",
+                                    "text": "Huiquan Zhang"
+                                },
+                                {
+                                    "@pid": "00/1740",
+                                    "text": "Jiangtao Cui"
+                                }
+                            ]
+                        },
+                        "title": "SLSM : An Efficient Strategy for Lazy Schema Migration on Shared-Nothing Databases.",
+                        "venue": "CoRR",
+                        "volume": "abs/2404.03929",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2404-03929",
+                        "doi": "10.48550/ARXIV.2404.03929",
+                        "ee": "https://doi.org/10.48550/arXiv.2404.03929",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2404-03929"
+                    },
+                    "url": "URL#943250"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1618199",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "320/0157",
+                                    "text": "Norwini Zaidi"
+                                },
+                                {
+                                    "@pid": "157/5273",
+                                    "text": "Iskandar Ishak"
+                                },
+                                {
+                                    "@pid": "83/9112",
+                                    "text": "Fatimah Sidi"
+                                },
+                                {
+                                    "@pid": "65/5585",
+                                    "text": "Lilly Suriani Affendey"
+                                }
+                            ]
+                        },
+                        "title": "An Efficient Schema Transformation Technique for Data Migration from Relational to Column-Oriented Databases.",
+                        "venue": "Comput. Syst. Sci. Eng.",
+                        "volume": "43",
+                        "number": "3",
+                        "pages": "1175-1188",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/csse/ZaidiISA22",
+                        "doi": "10.32604/CSSE.2022.021969",
+                        "ee": "https://doi.org/10.32604/csse.2022.021969",
+                        "url": "https://dblp.org/rec/journals/csse/ZaidiISA22"
+                    },
+                    "url": "URL#1618199"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1622632",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "156/2504",
+                                    "text": "Mohamed Esam Elsaid"
+                                },
+                                {
+                                    "@pid": "57/6048",
+                                    "text": "Hazem M. Abbas"
+                                },
+                                {
+                                    "@pid": "m/CMeinel",
+                                    "text": "Christoph Meinel"
+                                }
+                            ]
+                        },
+                        "title": "Virtual machines pre-copy live migration cost modeling and prediction: a survey.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "40",
+                        "number": "2-3",
+                        "pages": "441-474",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/dpd/ElsaidAM22",
+                        "doi": "10.1007/S10619-021-07387-2",
+                        "ee": "https://doi.org/10.1007/s10619-021-07387-2",
+                        "url": "https://dblp.org/rec/journals/dpd/ElsaidAM22"
+                    },
+                    "url": "URL#1622632"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1923823",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                }
+                            ]
+                        },
+                        "title": "Automated Curation of Variational Data in NoSQL Databases through Metric-driven Self-adaptive Migration Strategies.",
+                        "venue": "MODELSWARD",
+                        "pages": "279-286",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/modelsward/HillenbrandS22",
+                        "doi": "10.5220/0010891300003119",
+                        "ee": "https://doi.org/10.5220/0010891300003119",
+                        "url": "https://dblp.org/rec/conf/modelsward/HillenbrandS22"
+                    },
+                    "url": "URL#1923823"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1945317",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "96/9032",
+                                    "text": "Junbin Kang"
+                                },
+                                {
+                                    "@pid": "74/1647",
+                                    "text": "Le Cai"
+                                },
+                                {
+                                    "@pid": "l/FeifeiLi",
+                                    "text": "Feifei Li 0001"
+                                },
+                                {
+                                    "@pid": "297/0286",
+                                    "text": "Xingxuan Zhou"
+                                },
+                                {
+                                    "@pid": "54/6265-6",
+                                    "text": "Wei Cao 0006"
+                                },
+                                {
+                                    "@pid": "295/3506",
+                                    "text": "Songlu Cai"
+                                },
+                                {
+                                    "@pid": "322/1579",
+                                    "text": "Daming Shao"
+                                }
+                            ]
+                        },
+                        "title": "Remus: Efficient Live Migration for Distributed Databases with Snapshot Isolation.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "2232-2245",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/KangC0Z0CS22",
+                        "doi": "10.1145/3514221.3526047",
+                        "ee": "https://doi.org/10.1145/3514221.3526047",
+                        "url": "https://dblp.org/rec/conf/sigmod/KangC0Z0CS22"
+                    },
+                    "url": "URL#1945317"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2657414",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "183/1998",
+                                    "text": "Soumaya Boukettaya"
+                                },
+                                {
+                                    "@pid": "61/1204",
+                                    "text": "Ahlem Nabli"
+                                },
+                                {
+                                    "@pid": "03/18",
+                                    "text": "Fa\u00efez Gargouri"
+                                }
+                            ]
+                        },
+                        "title": "Data Migration in Graph-oriented Databases.",
+                        "venue": "Res. Comput. Sci.",
+                        "volume": "149",
+                        "number": "10",
+                        "pages": "317-336",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/rcs/BoukettayaNG20",
+                        "ee": "https://rcs.cic.ipn.mx/2020_149_10/Data%20Migration%20in%20Graph-oriented%20Databases.pdf",
+                        "url": "https://dblp.org/rec/journals/rcs/BoukettayaNG20"
+                    },
+                    "url": "URL#2657414"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2791234",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "243/2499",
+                                    "text": "Maksym Levchenko"
+                                },
+                                {
+                                    "@pid": "265/9630",
+                                    "text": "Shamil Nabiyev"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                }
+                            ]
+                        },
+                        "title": "Towards Self-Adapting Data Migration in the Context of Schema Evolution in NoSQL Databases.",
+                        "venue": "ICDE Workshops",
+                        "pages": "133-138",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/HillenbrandSLNK20",
+                        "doi": "10.1109/ICDEW49219.2020.00013",
+                        "ee": "https://doi.org/10.1109/ICDEW49219.2020.00013",
+                        "url": "https://dblp.org/rec/conf/icde/HillenbrandSLNK20"
+                    },
+                    "url": "URL#2791234"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2994259",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/295-28",
+                                    "text": "Jian Liu 0028"
+                                },
+                                {
+                                    "@pid": "91/7667",
+                                    "text": "Mo Yang"
+                                },
+                                {
+                                    "@pid": "97/8704",
+                                    "text": "Lei Zhang"
+                                },
+                                {
+                                    "@pid": "45/7741",
+                                    "text": "Weijun Zhou"
+                                }
+                            ]
+                        },
+                        "title": "An effective biomedical data migration tool from resource description framework to JSON.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2019",
+                        "pages": "baz088",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/LiuYZZ19",
+                        "doi": "10.1093/DATABASE/BAZ088",
+                        "ee": "https://doi.org/10.1093/database/baz088",
+                        "url": "https://dblp.org/rec/journals/biodb/LiuYZZ19"
+                    },
+                    "url": "URL#2994259"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3548888",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "135/6020",
+                                    "text": "Andrea K. Thomer"
+                                },
+                                {
+                                    "@pid": "80/9789",
+                                    "text": "Nicholas M. Weber"
+                                },
+                                {
+                                    "@pid": "t/MichaelTwidale",
+                                    "text": "Michael B. Twidale"
+                                }
+                            ]
+                        },
+                        "title": "Supporting the long-term curation and migration of natural history museum collections databases.",
+                        "venue": "ASIST",
+                        "pages": "504-513",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/asist/ThomerWT18",
+                        "doi": "10.1002/PRA2.2018.14505501055",
+                        "ee": "https://doi.org/10.1002/pra2.2018.14505501055",
+                        "url": "https://dblp.org/rec/conf/asist/ThomerWT18"
+                    },
+                    "url": "URL#3548888"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3767262",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "167/7957",
+                                "text": "Martyn Ellison"
+                            }
+                        },
+                        "title": "Evaluating cloud migration options for relational databases.",
+                        "year": "2017",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ethos/Ellison17",
+                        "ee": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.745729",
+                        "url": "https://dblp.org/rec/phd/ethos/Ellison17"
+                    },
+                    "url": "URL#3767262"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3769514",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "155/5226",
+                                "text": "Marco Scavuzzo"
+                            }
+                        },
+                        "title": "Data migration across heterogeneous NoSQL databases in a big data context.",
+                        "year": "2017",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/it/Scavuzzo17",
+                        "ee": "https://hdl.handle.net/10589/135784",
+                        "url": "https://dblp.org/rec/phd/it/Scavuzzo17"
+                    },
+                    "url": "URL#3769514"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4308023",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "201/3974",
+                                    "text": "Alae El Alami"
+                                },
+                                {
+                                    "@pid": "32/9595",
+                                    "text": "Mohamed Bahaj"
+                                }
+                            ]
+                        },
+                        "title": "Migration of a relational databases to NoSQL: The way forward.",
+                        "venue": "ICMCS",
+                        "pages": "18-23",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icmcs2/AlamiB16",
+                        "doi": "10.1109/ICMCS.2016.7905665",
+                        "ee": "https://doi.org/10.1109/ICMCS.2016.7905665",
+                        "url": "https://dblp.org/rec/conf/icmcs2/AlamiB16"
+                    },
+                    "url": "URL#4308023"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4313371",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "155/5226",
+                                    "text": "Marco Scavuzzo"
+                                },
+                                {
+                                    "@pid": "29/4648",
+                                    "text": "Damian A. Tamburri"
+                                },
+                                {
+                                    "@pid": "76/4635",
+                                    "text": "Elisabetta Di Nitto"
+                                }
+                            ]
+                        },
+                        "title": "Providing big data applications with fault-tolerant data migration across heterogeneous NoSQL databases.",
+                        "venue": "BIGDSE@ICSE",
+                        "pages": "26-32",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/ScavuzzoTN16",
+                        "doi": "10.1145/2896825.2896831",
+                        "ee": "https://doi.org/10.1145/2896825.2896831",
+                        "url": "https://dblp.org/rec/conf/icse/ScavuzzoTN16"
+                    },
+                    "url": "URL#4313371"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4796126",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/10776",
+                                    "text": "Guowei Wang"
+                                },
+                                {
+                                    "@pid": "12/1284",
+                                    "text": "Zongpu Jia"
+                                },
+                                {
+                                    "@pid": "153/6505",
+                                    "text": "Manjun Xue"
+                                }
+                            ]
+                        },
+                        "title": "Data Migration Model and Algorithm between Heterogeneous Databases based on Web Service.",
+                        "venue": "J. Networks",
+                        "volume": "9",
+                        "number": "11",
+                        "pages": "3127-3134",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/jnw/WangJX14",
+                        "doi": "10.4304/JNW.9.11.3127-3134",
+                        "ee": "https://doi.org/10.4304/jnw.9.11.3127-3134",
+                        "url": "https://dblp.org/rec/journals/jnw/WangJX14"
+                    },
+                    "url": "URL#4796126"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4857232",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/1706",
+                                    "text": "Mar\u00eda Teresa G\u00f3mez-L\u00f3pez"
+                                },
+                                {
+                                    "@pid": "05/2365",
+                                    "text": "Diana Borrego"
+                                },
+                                {
+                                    "@pid": "g/RafaelMGasca",
+                                    "text": "Rafael M. Gasca"
+                                }
+                            ]
+                        },
+                        "title": "Data State Description for the Migration to Activity-Centric Business Process Model Maintaining Legacy Databases.",
+                        "venue": "BIS",
+                        "pages": "86-97",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bis/LopezBG14",
+                        "doi": "10.1007/978-3-319-06695-0_8",
+                        "ee": "https://doi.org/10.1007/978-3-319-06695-0_8",
+                        "url": "https://dblp.org/rec/conf/bis/LopezBG14"
+                    },
+                    "url": "URL#4857232"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4881384",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "155/5226",
+                                    "text": "Marco Scavuzzo"
+                                },
+                                {
+                                    "@pid": "76/4635",
+                                    "text": "Elisabetta Di Nitto"
+                                },
+                                {
+                                    "@pid": "c/StefanoCeri",
+                                    "text": "Stefano Ceri"
+                                }
+                            ]
+                        },
+                        "title": "Interoperable Data Migration between NoSQL Columnar Databases.",
+                        "venue": "EDOC Workshops",
+                        "pages": "154-162",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edoc/ScavuzzoNC14",
+                        "doi": "10.1109/EDOCW.2014.32",
+                        "ee": "https://doi.org/10.1109/EDOCW.2014.32",
+                        "url": "https://dblp.org/rec/conf/edoc/ScavuzzoNC14"
+                    },
+                    "url": "URL#4881384"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5443535",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "15/9256",
+                                    "text": "Sean Kenneth Barker"
+                                },
+                                {
+                                    "@pid": "85/5457",
+                                    "text": "Yun Chi"
+                                },
+                                {
+                                    "@pid": "92/5910",
+                                    "text": "Hyun Jin Moon"
+                                },
+                                {
+                                    "@pid": "59/2465",
+                                    "text": "Hakan Hacig\u00fcm\u00fcs"
+                                },
+                                {
+                                    "@pid": "s/PrashantJShenoy",
+                                    "text": "Prashant J. Shenoy"
+                                }
+                            ]
+                        },
+                        "title": "&quot;Cut me some slack&quot;: latency-aware live migration for databases.",
+                        "venue": "EDBT",
+                        "pages": "432-443",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edbt/BarkerCMHS12",
+                        "doi": "10.1145/2247596.2247647",
+                        "ee": "https://doi.org/10.1145/2247596.2247647",
+                        "url": "https://dblp.org/rec/conf/edbt/BarkerCMHS12"
+                    },
+                    "url": "URL#5443535"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5519065",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "63/3563",
+                                "text": "Herman Balsters"
+                            }
+                        },
+                        "title": "ORM Logic-Based English (OLE) and the ORM ReDesigner Tool: Fact-Based Reengineering and Migration of Relational Databases.",
+                        "venue": "OTM Workshops",
+                        "pages": "358-367",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/otm/Balsters12",
+                        "doi": "10.1007/978-3-642-33618-8_50",
+                        "ee": "https://doi.org/10.1007/978-3-642-33618-8_50",
+                        "url": "https://dblp.org/rec/conf/otm/Balsters12"
+                    },
+                    "url": "URL#5519065"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5642772",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "71/5974",
+                                    "text": "Sudipto Das"
+                                },
+                                {
+                                    "@pid": "51/229",
+                                    "text": "Shoji Nishimura"
+                                },
+                                {
+                                    "@pid": "a/DivyakantAgrawal",
+                                    "text": "Divyakant Agrawal"
+                                },
+                                {
+                                    "@pid": "a/AmrElAbbadi",
+                                    "text": "Amr El Abbadi"
+                                }
+                            ]
+                        },
+                        "title": "Albatross: Lightweight Elasticity in Shared Storage Databases for the Cloud using Live Data Migration.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "4",
+                        "number": "8",
+                        "pages": "494-505",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/DasNAA11",
+                        "doi": "10.14778/2002974.2002977",
+                        "ee": "http://www.vldb.org/pvldb/vol4/p494-das.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/DasNAA11"
+                    },
+                    "url": "URL#5642772"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5785014",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "77/10894",
+                                    "text": "Manuel Rodriguez-Mancha"
+                                },
+                                {
+                                    "@pid": "67/6751",
+                                    "text": "Hector G. Ceballos"
+                                },
+                                {
+                                    "@pid": "c/FranciscoJCantuOrtiz",
+                                    "text": "Francisco J. Cantu"
+                                },
+                                {
+                                    "@pid": "60/10894",
+                                    "text": "Aldo Diaz-Prado"
+                                }
+                            ]
+                        },
+                        "title": "Mapping relational databases through ontology matching: a case study on information migration.",
+                        "venue": "OM",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/semweb/Rodriguez-ManchaCCD11",
+                        "ee": "https://ceur-ws.org/Vol-814/om2011_poster5.pdf",
+                        "url": "https://dblp.org/rec/conf/semweb/Rodriguez-ManchaCCD11"
+                    },
+                    "url": "URL#5785014"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5787174",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/9436",
+                                    "text": "Aaron J. Elmore"
+                                },
+                                {
+                                    "@pid": "71/5974",
+                                    "text": "Sudipto Das"
+                                },
+                                {
+                                    "@pid": "a/DivyakantAgrawal",
+                                    "text": "Divyakant Agrawal"
+                                },
+                                {
+                                    "@pid": "a/AmrElAbbadi",
+                                    "text": "Amr El Abbadi"
+                                }
+                            ]
+                        },
+                        "title": "Zephyr: live migration in shared nothing databases for elastic cloud platforms.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "301-312",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/ElmoreDAA11",
+                        "doi": "10.1145/1989323.1989356",
+                        "ee": "https://doi.org/10.1145/1989323.1989356",
+                        "url": "https://dblp.org/rec/conf/sigmod/ElmoreDAA11"
+                    },
+                    "url": "URL#5787174"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6040345",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/210",
+                                    "text": "Mohamed Ali Ben Hassine"
+                                },
+                                {
+                                    "@pid": "45/615",
+                                    "text": "Jos\u00e9 Galindo"
+                                },
+                                {
+                                    "@pid": "99/5103",
+                                    "text": "Habib Ounelli"
+                                }
+                            ]
+                        },
+                        "title": "Repercussions of Fuzzy Databases Migration on Programs.",
+                        "venue": "Uncertainty Approaches for Spatial Data Modeling and Processing",
+                        "pages": "175-193",
+                        "year": "2010",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/HassineGO10",
+                        "doi": "10.1007/978-3-642-10663-7_11",
+                        "ee": "https://doi.org/10.1007/978-3-642-10663-7_11",
+                        "url": "https://dblp.org/rec/series/sci/HassineGO10"
+                    },
+                    "url": "URL#6040345"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6187268",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "20/14",
+                                    "text": "Anupam Bhattacharjee"
+                                },
+                                {
+                                    "@pid": "56/3566-4",
+                                    "text": "Aminul Islam 0004"
+                                },
+                                {
+                                    "@pid": "j/HasanMJamil",
+                                    "text": "Hasan M. Jamil"
+                                },
+                                {
+                                    "@pid": "03/1248",
+                                    "text": "Derek E. Wildman"
+                                }
+                            ]
+                        },
+                        "title": "IDChase: Mitigating Identifier Migration Trap in Biological Databases.",
+                        "venue": "IC3",
+                        "pages": "461-472",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ic3/BhattacharjeeIJW09",
+                        "doi": "10.1007/978-3-642-03547-0_44",
+                        "ee": "https://doi.org/10.1007/978-3-642-03547-0_44",
+                        "url": "https://dblp.org/rec/conf/ic3/BhattacharjeeIJW09"
+                    },
+                    "url": "URL#6187268"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6921088",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/500",
+                                    "text": "Gokul Soundararajan"
+                                },
+                                {
+                                    "@pid": "a/CristianaAmza",
+                                    "text": "Cristiana Amza"
+                                }
+                            ]
+                        },
+                        "title": "Online data migration for autonomic provisioning of databases in dynamic content web servers.",
+                        "venue": "CASCON",
+                        "pages": "268-282",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cascon/SoundararajanA05",
+                        "ee": "https://dl.acm.org/citation.cfm?id=1105654",
+                        "url": "https://dblp.org/rec/conf/cascon/SoundararajanA05"
+                    },
+                    "url": "URL#6921088"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7313013",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "16/842",
+                                    "text": "Heston Fernandes"
+                                },
+                                {
+                                    "@pid": "57/2105",
+                                    "text": "Gongzhu Hu"
+                                }
+                            ]
+                        },
+                        "title": "Migration of Relational Databases.",
+                        "venue": "CATA",
+                        "pages": "188-191",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/cata/FernandesH02",
+                        "url": "https://dblp.org/rec/conf/cata/FernandesH02"
+                    },
+                    "url": "URL#7313013"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7418123",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "61/780",
+                                    "text": "Anirban Mondal"
+                                },
+                                {
+                                    "@pid": "k/MasaruKitsuregawa",
+                                    "text": "Masaru Kitsuregawa"
+                                },
+                                {
+                                    "@pid": "o/BengChinOoi",
+                                    "text": "Beng Chin Ooi"
+                                },
+                                {
+                                    "@pid": "t/KianLeeTan",
+                                    "text": "Kian-Lee Tan"
+                                }
+                            ]
+                        },
+                        "title": "R-tree-based Data Migration and Selv-Tuning Strategies in Shared-Nothing Spatial Databases.",
+                        "venue": "ACM-GIS",
+                        "pages": "28-33",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/gis/MondalKOT01",
+                        "doi": "10.1145/512161.512169",
+                        "ee": "https://doi.org/10.1145/512161.512169",
+                        "url": "https://dblp.org/rec/conf/gis/MondalKOT01"
+                    },
+                    "url": "URL#7418123"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7448040",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/1216",
+                                    "text": "Yury Bychkov"
+                                },
+                                {
+                                    "@pid": "w/JensHWeberJahnke",
+                                    "text": "Jens H. Jahnke"
+                                }
+                            ]
+                        },
+                        "title": "Interactive Migration of Legacy Databases to Net-Centric Technologies.",
+                        "venue": "WCRE",
+                        "pages": "328-334",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wcre/BychkovJ01",
+                        "doi": "10.1109/WCRE.2001.957839",
+                        "ee": "https://doi.org/10.1109/WCRE.2001.957839",
+                        "url": "https://dblp.org/rec/conf/wcre/BychkovJ01"
+                    },
+                    "url": "URL#7448040"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7511844",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "90/4541",
+                                "text": "Uwe Hohenstein"
+                            }
+                        },
+                        "title": "Supporting Data Migration Between Relational and Object-Oriented Databases Using a Federation Approach.",
+                        "venue": "IDEAS",
+                        "pages": "371-379",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ideas/Hohenstein00",
+                        "doi": "10.1109/IDEAS.2000.880614",
+                        "ee": "https://doi.org/10.1109/IDEAS.2000.880614",
+                        "url": "https://dblp.org/rec/conf/ideas/Hohenstein00"
+                    },
+                    "url": "URL#7511844"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7602820",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "90/4541",
+                                    "text": "Uwe Hohenstein"
+                                },
+                                {
+                                    "@pid": "18/3401",
+                                    "text": "Andreas Ebert"
+                                }
+                            ]
+                        },
+                        "title": "Automatic Migration of Files into Relational Databases.",
+                        "venue": "Workshop on Web Information and Data Management",
+                        "pages": "17-21",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/widm/HohensteinE99",
+                        "doi": "10.1145/319759.319769",
+                        "ee": "https://doi.org/10.1145/319759.319769",
+                        "url": "https://dblp.org/rec/conf/widm/HohensteinE99"
+                    },
+                    "url": "URL#7602820"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640763",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/JBisbal",
+                                    "text": "Jesus Bisbal"
+                                },
+                                {
+                                    "@pid": "75/1956-4",
+                                    "text": "Bing Wu 0004"
+                                },
+                                {
+                                    "@pid": "19/5140",
+                                    "text": "Deirdre Lawless"
+                                },
+                                {
+                                    "@pid": "g/JaneGrimson",
+                                    "text": "Jane Grimson"
+                                }
+                            ]
+                        },
+                        "title": "Building Consistent Sample Databases to Support Information System Evolution and Migration.",
+                        "venue": "DEXA",
+                        "pages": "196-205",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/BisbalWLG98",
+                        "doi": "10.1007/BFB0054481",
+                        "ee": "https://doi.org/10.1007/BFb0054481",
+                        "url": "https://dblp.org/rec/conf/dexa/BisbalWLG98"
+                    },
+                    "url": "URL#7640763"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7738407",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/SimonRMonk",
+                                    "text": "Simon R. Monk"
+                                },
+                                {
+                                    "@pid": "m/JohnAMariani",
+                                    "text": "John A. Mariani"
+                                },
+                                {
+                                    "@pid": "54/883",
+                                    "text": "Beshir Elgalal"
+                                },
+                                {
+                                    "@pid": "41/2558",
+                                    "text": "Helen Campbell"
+                                }
+                            ]
+                        },
+                        "title": "Migration from relational to object-oriented databases.",
+                        "venue": "Inf. Softw. Technol.",
+                        "volume": "38",
+                        "number": "7",
+                        "pages": "467-475",
+                        "year": "1996",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/infsof/MonkMEC96",
+                        "doi": "10.1016/0950-5849(95)01090-4",
+                        "ee": "https://doi.org/10.1016/0950-5849(95)01090-4",
+                        "url": "https://dblp.org/rec/journals/infsof/MonkMEC96"
+                    },
+                    "url": "URL#7738407"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7834311",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "181/2689-1",
+                                    "text": "Qing Li 0001"
+                                },
+                                {
+                                    "@pid": "d/GuozhuDong",
+                                    "text": "Guozhu Dong"
+                                }
+                            ]
+                        },
+                        "title": "A Framework for Object Migration in Object-Oriented Databases.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "13",
+                        "number": "3",
+                        "pages": "221-242",
+                        "year": "1994",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/LiD94",
+                        "doi": "10.1016/0169-023X(94)00015-8",
+                        "ee": "https://doi.org/10.1016/0169-023X(94)00015-8",
+                        "url": "https://dblp.org/rec/journals/dke/LiD94"
+                    },
+                    "url": "URL#7834311"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7836945",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "68/27",
+                                    "text": "Angelo Montanari"
+                                },
+                                {
+                                    "@pid": "84/3591",
+                                    "text": "Elisa Peressi"
+                                },
+                                {
+                                    "@pid": "p/BarbaraPernici",
+                                    "text": "Barbara Pernici"
+                                }
+                            ]
+                        },
+                        "title": "Object Migration in Temporal Object-Oriented Databases.",
+                        "venue": "Informatica",
+                        "volume": "18",
+                        "number": "4",
+                        "year": "1994",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/informaticaSI/MontanariPP94",
+                        "url": "https://dblp.org/rec/journals/informaticaSI/MontanariPP94"
+                    },
+                    "url": "URL#7836945"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7854075",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "k/DanielAKeim",
+                                    "text": "Daniel A. Keim"
+                                },
+                                {
+                                    "@pid": "k/HansPeterKriegel",
+                                    "text": "Hans-Peter Kriegel"
+                                },
+                                {
+                                    "@pid": "60/1192",
+                                    "text": "Andreas Miethsam"
+                                }
+                            ]
+                        },
+                        "title": "Query Translation Supporting the Migration of Legacy Databases into Cooperative Information Systems.",
+                        "venue": "CoopIS",
+                        "pages": "203-214",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/coopis/KeimKM94",
+                        "url": "https://dblp.org/rec/conf/coopis/KeimKM94"
+                    },
+                    "url": "URL#7854075"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7969212",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "03/2407",
+                                "text": "Tony P. Ng"
+                            }
+                        },
+                        "title": "Optimal data migration policies in distributed databases.",
+                        "venue": "COMPSAC",
+                        "pages": "645-650",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/compsac/Ng91",
+                        "doi": "10.1109/CMPSAC.1991.170255",
+                        "ee": "https://doi.org/10.1109/CMPSAC.1991.170255",
+                        "url": "https://dblp.org/rec/conf/compsac/Ng91"
+                    },
+                    "url": "URL#7969212"
+                }
+            ]
+        }
+    }
+}

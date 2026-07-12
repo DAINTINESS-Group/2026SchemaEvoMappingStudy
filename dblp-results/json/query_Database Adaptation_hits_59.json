@@ -1,0 +1,2025 @@
+{
+    "result": {
+        "query": "Database* Adaptation*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "4.26"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "57",
+                    "@dc": "57",
+                    "@oc": "57",
+                    "@id": "62653346",
+                    "text": "adaptation"
+                },
+                {
+                    "@sc": "2",
+                    "@dc": "2",
+                    "@oc": "2",
+                    "@id": "62653356",
+                    "text": "adaptations"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "59",
+            "@computed": "59",
+            "@sent": "59",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "273317",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/5224-2",
+                                    "text": "Jiaqi Zhu 0002"
+                                },
+                                {
+                                    "@pid": "228/6099",
+                                    "text": "Shaofeng Cai"
+                                },
+                                {
+                                    "@pid": "74/2905",
+                                    "text": "Yanyan Shen"
+                                },
+                                {
+                                    "@pid": "67/6383-1",
+                                    "text": "Gang Chen 0001"
+                                },
+                                {
+                                    "@pid": "08/3786",
+                                    "text": "Fang Deng"
+                                },
+                                {
+                                    "@pid": "o/BengChinOoi",
+                                    "text": "Beng Chin Ooi"
+                                }
+                            ]
+                        },
+                        "title": "In-Context Adaptation to Concept Drift for Learned Database Operations.",
+                        "venue": "ICML",
+                        "year": "2025",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/icml/0002CS0DO25",
+                        "ee": "https://openreview.net/forum?id=u1yVbMzZLm",
+                        "url": "https://dblp.org/rec/conf/icml/0002CS0DO25"
+                    },
+                    "url": "URL#273317"
+                },
+                {
+                    "@score": "2",
+                    "@id": "375502",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/5224-2",
+                                    "text": "Jiaqi Zhu 0002"
+                                },
+                                {
+                                    "@pid": "228/6099",
+                                    "text": "Shaofeng Cai"
+                                },
+                                {
+                                    "@pid": "74/2905",
+                                    "text": "Yanyan Shen"
+                                },
+                                {
+                                    "@pid": "67/6383-1",
+                                    "text": "Gang Chen 0001"
+                                },
+                                {
+                                    "@pid": "08/3786",
+                                    "text": "Fang Deng"
+                                },
+                                {
+                                    "@pid": "o/BengChinOoi",
+                                    "text": "Beng Chin Ooi"
+                                }
+                            ]
+                        },
+                        "title": "In-Context Adaptation to Concept Drift for Learned Database Operations.",
+                        "venue": "CoRR",
+                        "volume": "abs/2505.04404",
+                        "year": "2025",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2505-04404",
+                        "doi": "10.48550/ARXIV.2505.04404",
+                        "ee": "https://doi.org/10.48550/arXiv.2505.04404",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2505-04404"
+                    },
+                    "url": "URL#375502"
+                },
+                {
+                    "@score": "2",
+                    "@id": "523789",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "203/8282",
+                                    "text": "Boyang Deng"
+                                },
+                                {
+                                    "@pid": "88/7868",
+                                    "text": "Yuzhen Lu"
+                                },
+                                {
+                                    "@pid": "151/4980",
+                                    "text": "Jiajun Xu"
+                                }
+                            ]
+                        },
+                        "title": "Weed database development: An updated survey of public weed datasets and cross-season weed detection adaptation.",
+                        "venue": "Ecol. Informatics",
+                        "volume": "81",
+                        "pages": "102546",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ecoi/DengLX24",
+                        "doi": "10.1016/J.ECOINF.2024.102546",
+                        "ee": "https://doi.org/10.1016/j.ecoinf.2024.102546",
+                        "url": "https://dblp.org/rec/journals/ecoi/DengLX24"
+                    },
+                    "url": "URL#523789"
+                },
+                {
+                    "@score": "2",
+                    "@id": "530371",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "273/7343",
+                                    "text": "Md. Niaz Imtiaz"
+                                },
+                                {
+                                    "@pid": "82/8212",
+                                    "text": "Naimul Khan 0001"
+                                }
+                            ]
+                        },
+                        "title": "Cross-database and cross-channel electrocardiogram arrhythmia heartbeat classification based on unsupervised domain adaptation.",
+                        "venue": "Expert Syst. Appl.",
+                        "volume": "244",
+                        "pages": "122960",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/eswa/ImtiazK24",
+                        "doi": "10.1016/J.ESWA.2023.122960",
+                        "ee": "https://doi.org/10.1016/j.eswa.2023.122960",
+                        "url": "https://dblp.org/rec/journals/eswa/ImtiazK24"
+                    },
+                    "url": "URL#530371"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1032856",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "395/1611",
+                                    "text": "Fatiha Ait Kbir"
+                                },
+                                {
+                                    "@pid": "210/0009",
+                                    "text": "J\u00e9r\u00e9my Bourgoin"
+                                },
+                                {
+                                    "@pid": "266/8002",
+                                    "text": "R\u00e9my Decoupes"
+                                },
+                                {
+                                    "@pid": "395/3619",
+                                    "text": "Marie Gradeler"
+                                },
+                                {
+                                    "@pid": "135/5203",
+                                    "text": "Roberto Interdonato"
+                                }
+                            ]
+                        },
+                        "title": "Adaptations of AI models for querying the LandMatrix database in natural language.",
+                        "venue": "CoRR",
+                        "volume": "abs/2412.12961",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2412-12961",
+                        "doi": "10.48550/ARXIV.2412.12961",
+                        "ee": "https://doi.org/10.48550/arXiv.2412.12961",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2412-12961"
+                    },
+                    "url": "URL#1032856"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1169292",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "80/4812",
+                                "text": "Cong Jin"
+                            }
+                        },
+                        "title": "Cross-database facial expression recognition based on hybrid improved unsupervised domain adaptation.",
+                        "venue": "Multim. Tools Appl.",
+                        "volume": "82",
+                        "number": "1",
+                        "pages": "1105-1129",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/mta/Jin23",
+                        "doi": "10.1007/S11042-022-13311-2",
+                        "ee": "https://doi.org/10.1007/s11042-022-13311-2",
+                        "url": "https://dblp.org/rec/journals/mta/Jin23"
+                    },
+                    "url": "URL#1169292"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1506287",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "273/7343",
+                                    "text": "Md. Niaz Imtiaz"
+                                },
+                                {
+                                    "@pid": "82/8212",
+                                    "text": "Naimul Khan 0001"
+                                }
+                            ]
+                        },
+                        "title": "Cross-Database and Cross-Channel ECG Arrhythmia Heartbeat Classification Based on Unsupervised Domain Adaptation.",
+                        "venue": "CoRR",
+                        "volume": "abs/2306.04433",
+                        "year": "2023",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2306-04433",
+                        "doi": "10.48550/ARXIV.2306.04433",
+                        "ee": "https://doi.org/10.48550/arXiv.2306.04433",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2306-04433"
+                    },
+                    "url": "URL#1506287"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1696359",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "13/2692",
+                                    "text": "Bing Li"
+                                },
+                                {
+                                    "@pid": "14/942",
+                                    "text": "Ying Zhou"
+                                },
+                                {
+                                    "@pid": "159/3557",
+                                    "text": "Ruixue Xiao"
+                                },
+                                {
+                                    "@pid": "48/5011",
+                                    "text": "Jianchao Wang"
+                                },
+                                {
+                                    "@pid": "96/10791",
+                                    "text": "Xianye Ben"
+                                },
+                                {
+                                    "@pid": "04/5371",
+                                    "text": "Kidiyo Kpalma"
+                                },
+                                {
+                                    "@pid": "16/1716",
+                                    "text": "Hongchao Zhou"
+                                }
+                            ]
+                        },
+                        "title": "Unsupervised cross-database micro-expression recognition based on distribution adaptation.",
+                        "venue": "Multim. Syst.",
+                        "volume": "28",
+                        "number": "3",
+                        "pages": "1099-1116",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/mms/LiZXWBKZ22",
+                        "doi": "10.1007/S00530-022-00896-9",
+                        "ee": "https://doi.org/10.1007/s00530-022-00896-9",
+                        "url": "https://dblp.org/rec/journals/mms/LiZXWBKZ22"
+                    },
+                    "url": "URL#1696359"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1837318",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "233/8164",
+                                    "text": "Abhijeet Awasthi"
+                                },
+                                {
+                                    "@pid": "332/0994",
+                                    "text": "Ashutosh Sathe"
+                                },
+                                {
+                                    "@pid": "s/SunitaSarawagi",
+                                    "text": "Sunita Sarawagi"
+                                }
+                            ]
+                        },
+                        "title": "Diverse Parallel Data Synthesis for Cross-Database Adaptation of Text-to-SQL Parsers.",
+                        "venue": "EMNLP",
+                        "pages": "11548-11562",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/emnlp/AwasthiSS22",
+                        "doi": "10.18653/V1/2022.EMNLP-MAIN.794",
+                        "ee": "https://doi.org/10.18653/v1/2022.emnlp-main.794",
+                        "url": "https://dblp.org/rec/conf/emnlp/AwasthiSS22"
+                    },
+                    "url": "URL#1837318"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2038119",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "233/8164",
+                                    "text": "Abhijeet Awasthi"
+                                },
+                                {
+                                    "@pid": "332/0994",
+                                    "text": "Ashutosh Sathe"
+                                },
+                                {
+                                    "@pid": "s/SunitaSarawagi",
+                                    "text": "Sunita Sarawagi"
+                                }
+                            ]
+                        },
+                        "title": "Diverse Parallel Data Synthesis for Cross-Database Adaptation of Text-to-SQL Parsers.",
+                        "venue": "CoRR",
+                        "volume": "abs/2210.16613",
+                        "year": "2022",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2210-16613",
+                        "doi": "10.48550/ARXIV.2210.16613",
+                        "ee": "https://doi.org/10.48550/arXiv.2210.16613",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2210-16613"
+                    },
+                    "url": "URL#2038119"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2178403",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "60/5469",
+                                    "text": "Yanliang Zhang"
+                                },
+                                {
+                                    "@pid": "91/112",
+                                    "text": "Ying Liu"
+                                },
+                                {
+                                    "@pid": "23/3761",
+                                    "text": "Geng Li"
+                                },
+                                {
+                                    "@pid": "11/1267",
+                                    "text": "Hongxing Peng"
+                                }
+                            ]
+                        },
+                        "title": "Subspace Learning and Joint Distribution Adaptation for Unsupervised Cross-Database Microexpression Recognition.",
+                        "venue": "Mob. Inf. Syst.",
+                        "volume": "2021",
+                        "pages": "5572096:1-5572096:8",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/mis/ZhangLLP21",
+                        "doi": "10.1155/2021/5572096",
+                        "ee": "https://doi.org/10.1155/2021/5572096",
+                        "url": "https://dblp.org/rec/journals/mis/ZhangLLP21"
+                    },
+                    "url": "URL#2178403"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3077359",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "236/0871",
+                                    "text": "Jes\u00fas Murga-Moreno"
+                                },
+                                {
+                                    "@pid": "236/0798",
+                                    "text": "Marta Coronado-Zamora"
+                                },
+                                {
+                                    "@pid": "236/0675",
+                                    "text": "Alejandra Bodel\u00f3n"
+                                },
+                                {
+                                    "@pid": "18/975",
+                                    "text": "Antonio Barbadilla"
+                                },
+                                {
+                                    "@pid": "08/483",
+                                    "text": "S\u00f2nia Casillas"
+                                }
+                            ]
+                        },
+                        "title": "PopHumanScan: the online catalog of human genome adaptation.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "47",
+                        "number": "Database-Issue",
+                        "pages": "D1080-D1089",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/Murga-MorenoCBB19",
+                        "doi": "10.1093/NAR/GKY959",
+                        "ee": "https://doi.org/10.1093/nar/gky959",
+                        "url": "https://dblp.org/rec/journals/nar/Murga-MorenoCBB19"
+                    },
+                    "url": "URL#3077359"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3209675",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/356",
+                                    "text": "Guoqing Wang"
+                                },
+                                {
+                                    "@pid": "03/6451-1",
+                                    "text": "Hu Han 0001"
+                                },
+                                {
+                                    "@pid": "s/ShiguangShan",
+                                    "text": "Shiguang Shan"
+                                },
+                                {
+                                    "@pid": "c/XilinChen",
+                                    "text": "Xilin Chen 0001"
+                                }
+                            ]
+                        },
+                        "title": "Improving Cross-database Face Presentation Attack Detection via Adversarial Domain Adaptation.",
+                        "venue": "ICB",
+                        "pages": "1-8",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icb/WangHSC19",
+                        "doi": "10.1109/ICB45273.2019.8987254",
+                        "ee": "https://doi.org/10.1109/ICB45273.2019.8987254",
+                        "url": "https://dblp.org/rec/conf/icb/WangHSC19"
+                    },
+                    "url": "URL#3209675"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3457737",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "00/4707",
+                                    "text": "Basit Raza"
+                                },
+                                {
+                                    "@pid": "75/11475",
+                                    "text": "Yogan Jaya Kumar"
+                                },
+                                {
+                                    "@pid": "28/7668",
+                                    "text": "Ahmad Kamran Malik"
+                                },
+                                {
+                                    "@pid": "127/6395",
+                                    "text": "Adeel Anjum"
+                                },
+                                {
+                                    "@pid": "146/7666-3",
+                                    "text": "Muhammad Faheem 0003"
+                                }
+                            ]
+                        },
+                        "title": "Performance prediction and adaptation for database management system workload using Case-Based Reasoning approach.",
+                        "venue": "Inf. Syst.",
+                        "volume": "76",
+                        "pages": "46-58",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/is/RazaKMAF18",
+                        "doi": "10.1016/J.IS.2018.04.005",
+                        "ee": "https://doi.org/10.1016/j.is.2018.04.005",
+                        "url": "https://dblp.org/rec/journals/is/RazaKMAF18"
+                    },
+                    "url": "URL#3457737"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3583553",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "229/0385",
+                                    "text": "Florian Leander Haufe"
+                                },
+                                {
+                                    "@pid": "202/5415",
+                                    "text": "Serena Maggioni"
+                                },
+                                {
+                                    "@pid": "65/7745",
+                                    "text": "Alejandro Melendez-Calderon"
+                                }
+                            ]
+                        },
+                        "title": "Reference Trajectory Adaptation to Improve Human-Robot Interaction: A Database-Driven Approach.",
+                        "venue": "EMBC",
+                        "pages": "1727-1730",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/embc/HaufeMM18",
+                        "doi": "10.1109/EMBC.2018.8512604",
+                        "ee": "https://doi.org/10.1109/EMBC.2018.8512604",
+                        "url": "https://dblp.org/rec/conf/embc/HaufeMM18"
+                    },
+                    "url": "URL#3583553"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3696496",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/3307",
+                                    "text": "Manuel Bravo"
+                                },
+                                {
+                                    "@pid": "r/LRodrigues",
+                                    "text": "Lu\u00eds E. T. Rodrigues"
+                                },
+                                {
+                                    "@pid": "218/1789",
+                                    "text": "Ray Neiheiser"
+                                },
+                                {
+                                    "@pid": "30/3196",
+                                    "text": "Luciana Rech"
+                                }
+                            ]
+                        },
+                        "title": "Policy-Based Adaptation of a Byzantine Fault Tolerant Distributed Graph Database.",
+                        "venue": "SRDS",
+                        "pages": "61-71",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/srds/BravoRNR18",
+                        "doi": "10.1109/SRDS.2018.00017",
+                        "ee": "https://doi.org/10.1109/SRDS.2018.00017",
+                        "url": "https://dblp.org/rec/conf/srds/BravoRNR18"
+                    },
+                    "url": "URL#3696496"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3717400",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "r/KARoss",
+                                "text": "Kenneth A. Ross"
+                            }
+                        },
+                        "title": "View Adaptation.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "year": "2018",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/Ross18a",
+                        "doi": "10.1007/978-1-4614-8265-9_855",
+                        "ee": "https://doi.org/10.1007/978-1-4614-8265-9_855",
+                        "url": "https://dblp.org/rec/reference/db/Ross18a"
+                    },
+                    "url": "URL#3717400"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3794991",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "154/1346",
+                                    "text": "Shahram Kalantari"
+                                },
+                                {
+                                    "@pid": "19/4043",
+                                    "text": "David Dean"
+                                },
+                                {
+                                    "@pid": "80/166",
+                                    "text": "Sridha Sridharan"
+                                }
+                            ]
+                        },
+                        "title": "Cross database audio visual speech adaptation for phonetic spoken term detection.",
+                        "venue": "Comput. Speech Lang.",
+                        "volume": "44",
+                        "pages": "1-21",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/csl/KalantariDS17",
+                        "doi": "10.1016/J.CSL.2016.09.001",
+                        "ee": "https://doi.org/10.1016/j.csl.2016.09.001",
+                        "url": "https://dblp.org/rec/journals/csl/KalantariDS17"
+                    },
+                    "url": "URL#3794991"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3915533",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "66/3984-8",
+                                    "text": "Deepak Kumar 0008"
+                                },
+                                {
+                                    "@pid": "00/903",
+                                    "text": "Chetan Kumar"
+                                },
+                                {
+                                    "@pid": "49/5671",
+                                    "text": "Ming Shao"
+                                }
+                            ]
+                        },
+                        "title": "Cross-database mammographic image analysis through unsupervised domain adaptation.",
+                        "venue": "IEEE BigData",
+                        "pages": "4035-4042",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bigdataconf/KumarKS17",
+                        "doi": "10.1109/BIGDATA.2017.8258419",
+                        "ee": "https://doi.org/10.1109/BigData.2017.8258419",
+                        "url": "https://dblp.org/rec/conf/bigdataconf/KumarKS17"
+                    },
+                    "url": "URL#3915533"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4393401",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "196/0330",
+                                    "text": "Martin Sul\u00edr"
+                                },
+                                {
+                                    "@pid": "96/282",
+                                    "text": "Jozef Juh\u00e1r"
+                                }
+                            ]
+                        },
+                        "title": "The Influence of Adaptation Database Size on the Quality of HMM-based Synthetic Voice Based on the Large Average Voice Model.",
+                        "venue": "Recent Advances in Nonlinear Speech Processing",
+                        "pages": "127-136",
+                        "year": "2016",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sist/SulirJ16",
+                        "doi": "10.1007/978-3-319-28109-4_13",
+                        "ee": "https://doi.org/10.1007/978-3-319-28109-4_13",
+                        "url": "https://dblp.org/rec/series/sist/SulirJ16"
+                    },
+                    "url": "URL#4393401"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4552422",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "56/1636",
+                                    "text": "Bao Rong Chang"
+                                },
+                                {
+                                    "@pid": "07/455",
+                                    "text": "Hsiu Fen Tsai"
+                                },
+                                {
+                                    "@pid": "179/9190",
+                                    "text": "Yo-Ai Wang"
+                                },
+                                {
+                                    "@pid": "88/663",
+                                    "text": "Chin-Fu Kuo"
+                                }
+                            ]
+                        },
+                        "title": "Intelligent Adaptation to in-Cloud NoSQL Database Remote Backup between Data Centers.",
+                        "venue": "ASE BD&amp;SI",
+                        "pages": "4:1-4:6",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ase-bigdata/ChangTWK15",
+                        "doi": "10.1145/2818869.2818892",
+                        "ee": "https://doi.org/10.1145/2818869.2818892",
+                        "url": "https://dblp.org/rec/conf/ase-bigdata/ChangTWK15"
+                    },
+                    "url": "URL#4552422"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4585985",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "166/1967",
+                                    "text": "Caio H. Costa"
+                                },
+                                {
+                                    "@pid": "27/2208",
+                                    "text": "Paulo Henrique M. Maia"
+                                },
+                                {
+                                    "@pid": "79/4708",
+                                    "text": "Nabor C. Mendon\u00e7a"
+                                },
+                                {
+                                    "@pid": "31/6913",
+                                    "text": "Lincoln S. Rocha"
+                                }
+                            ]
+                        },
+                        "title": "Supporting Partial Database Migration to the Cloud Using Non-intrusive Software Adaptations: An Experience Report.",
+                        "venue": "ESOCC Workshops",
+                        "pages": "238-248",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/esocc/CostaMMR15",
+                        "doi": "10.1007/978-3-319-33313-7_18",
+                        "ee": "https://doi.org/10.1007/978-3-319-33313-7_18",
+                        "url": "https://dblp.org/rec/conf/esocc/CostaMMR15"
+                    },
+                    "url": "URL#4585985"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4661289",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "154/1346",
+                                    "text": "Shahram Kalantari"
+                                },
+                                {
+                                    "@pid": "19/4043",
+                                    "text": "David Dean"
+                                },
+                                {
+                                    "@pid": "80/166",
+                                    "text": "Sridha Sridharan"
+                                },
+                                {
+                                    "@pid": "32/8762",
+                                    "text": "Houman Ghaemmaghami"
+                                },
+                                {
+                                    "@pid": "03/5529",
+                                    "text": "Clinton Fookes"
+                                }
+                            ]
+                        },
+                        "title": "Acoustic Adaptation in Cross Database Audio Visual SHMM Training for Phonetic Spoken Term Detection.",
+                        "venue": "SLAM@ACM Multimedia",
+                        "pages": "11-14",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mm/KalantariDSGF15",
+                        "doi": "10.1145/2802558.2814648",
+                        "ee": "https://doi.org/10.1145/2802558.2814648",
+                        "url": "https://dblp.org/rec/conf/mm/KalantariDSGF15"
+                    },
+                    "url": "URL#4661289"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4689040",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "56/1636",
+                                    "text": "Bao Rong Chang"
+                                },
+                                {
+                                    "@pid": "07/455",
+                                    "text": "Hsiu Fen Tsai"
+                                },
+                                {
+                                    "@pid": "179/9190",
+                                    "text": "Yo-Ai Wang"
+                                },
+                                {
+                                    "@pid": "33/4628",
+                                    "text": "Chia-Yen Chen"
+                                }
+                            ]
+                        },
+                        "title": "Realization of secondary indexing to NoSQL database with intelligent adaptation.",
+                        "venue": "TAAI",
+                        "pages": "449-452",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/taai/ChangTWC15",
+                        "doi": "10.1109/TAAI.2015.7407078",
+                        "ee": "https://doi.org/10.1109/TAAI.2015.7407078",
+                        "url": "https://dblp.org/rec/conf/taai/ChangTWC15"
+                    },
+                    "url": "URL#4689040"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4702761",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "80/1507",
+                                    "text": "Konrad Fuks"
+                                },
+                                {
+                                    "@pid": "41/3513",
+                                    "text": "Arkadiusz Kawa"
+                                },
+                                {
+                                    "@pid": "163/1047",
+                                    "text": "Bartlomiej Pieranski"
+                                }
+                            ]
+                        },
+                        "title": "Adaptation of Social Network Analysis to Electronic Freight Exchange.",
+                        "venue": "New Trends in Intelligent Information and Database Systems",
+                        "pages": "151-159",
+                        "year": "2015",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/FuksKP15",
+                        "doi": "10.1007/978-3-319-16211-9_16",
+                        "ee": "https://doi.org/10.1007/978-3-319-16211-9_16",
+                        "url": "https://dblp.org/rec/series/sci/FuksKP15"
+                    },
+                    "url": "URL#4702761"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4775072",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "56/1636",
+                                    "text": "Bao Rong Chang"
+                                },
+                                {
+                                    "@pid": "21/1004",
+                                    "text": "Chi-Ming Chen"
+                                },
+                                {
+                                    "@pid": "09/41",
+                                    "text": "Chien-Feng Huang"
+                                },
+                                {
+                                    "@pid": "07/455",
+                                    "text": "Hsiu Fen Tsai"
+                                }
+                            ]
+                        },
+                        "title": "Intelligent adaptation for UEC video/voice over IP with access control.",
+                        "venue": "Int. J. Intell. Inf. Database Syst.",
+                        "volume": "8",
+                        "number": "1",
+                        "pages": "64-80",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijiids/ChangCHT14",
+                        "doi": "10.1504/IJIIDS.2014.060463",
+                        "ee": "https://doi.org/10.1504/IJIIDS.2014.060463",
+                        "url": "https://dblp.org/rec/journals/ijiids/ChangCHT14"
+                    },
+                    "url": "URL#4775072"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5059398",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "80/8403",
+                                    "text": "Kaiping Liu"
+                                },
+                                {
+                                    "@pid": "33/5488",
+                                    "text": "Hee Beng Kuan Tan"
+                                },
+                                {
+                                    "@pid": "83/6331",
+                                    "text": "Xu Chen"
+                                }
+                            ]
+                        },
+                        "title": "Supporting the adaptation of open-source database applications through extracting data lifecycles.",
+                        "venue": "IET Softw.",
+                        "volume": "7",
+                        "number": "4",
+                        "pages": "213-221",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/iee/LiuTC13",
+                        "doi": "10.1049/IET-SEN.2012.0105",
+                        "ee": "https://doi.org/10.1049/iet-sen.2012.0105",
+                        "url": "https://dblp.org/rec/journals/iee/LiuTC13"
+                    },
+                    "url": "URL#5059398"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5166704",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "126/6795",
+                                    "text": "Cristina Oprean"
+                                },
+                                {
+                                    "@pid": "80/4741",
+                                    "text": "Laurence Likforman-Sulem"
+                                },
+                                {
+                                    "@pid": "80/1201",
+                                    "text": "Chafic Mokbel"
+                                }
+                            ]
+                        },
+                        "title": "Handwritten word preprocessing for database adaptation.",
+                        "venue": "DRR",
+                        "pages": "865808",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/drr/OpreanLM13",
+                        "doi": "10.1117/12.2004312",
+                        "ee": "https://doi.org/10.1117/12.2004312",
+                        "url": "https://dblp.org/rec/conf/drr/OpreanLM13"
+                    },
+                    "url": "URL#5166704"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5242012",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "72/6811-19",
+                                    "text": "Bo Wang 0019"
+                                },
+                                {
+                                    "@pid": "56/6898",
+                                    "text": "Marcel Prastawa"
+                                },
+                                {
+                                    "@pid": "61/3014",
+                                    "text": "Avishek Saha"
+                                },
+                                {
+                                    "@pid": "26/3956",
+                                    "text": "Suyash P. Awate"
+                                },
+                                {
+                                    "@pid": "16/6642",
+                                    "text": "Andrei Irimia"
+                                },
+                                {
+                                    "@pid": "86/11221",
+                                    "text": "Micah C. Chambers"
+                                },
+                                {
+                                    "@pid": "07/10172",
+                                    "text": "Paul M. Vespa"
+                                },
+                                {
+                                    "@pid": "47/707",
+                                    "text": "John D. Van Horn"
+                                },
+                                {
+                                    "@pid": "02/2574",
+                                    "text": "Valerio Pascucci"
+                                },
+                                {
+                                    "@pid": "g/GuidoGerig",
+                                    "text": "Guido Gerig"
+                                }
+                            ]
+                        },
+                        "title": "Modeling 4D Changes in Pathological Anatomy Using Domain Adaptation: Analysis of TBI Imaging Using a Tumor Database.",
+                        "venue": "MBIA",
+                        "pages": "31-39",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/miccai/WangPSAICVHPG13",
+                        "doi": "10.1007/978-3-319-02126-3_4",
+                        "ee": "https://doi.org/10.1007/978-3-319-02126-3_4",
+                        "url": "https://dblp.org/rec/conf/miccai/WangPSAICVHPG13"
+                    },
+                    "url": "URL#5242012"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5382710",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/10720",
+                                    "text": "Denis Forte"
+                                },
+                                {
+                                    "@pid": "53/834",
+                                    "text": "Andrej Gams"
+                                },
+                                {
+                                    "@pid": "75/6424",
+                                    "text": "Jun Morimoto"
+                                },
+                                {
+                                    "@pid": "92/581",
+                                    "text": "Ales Ude"
+                                }
+                            ]
+                        },
+                        "title": "On-line motion synthesis and adaptation using a trajectory database.",
+                        "venue": "Robotics Auton. Syst.",
+                        "volume": "60",
+                        "number": "10",
+                        "pages": "1327-1339",
+                        "year": "2012",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ras/ForteGMU12",
+                        "doi": "10.1016/J.ROBOT.2012.05.004",
+                        "ee": "https://doi.org/10.1016/j.robot.2012.05.004",
+                        "url": "https://dblp.org/rec/journals/ras/ForteGMU12"
+                    },
+                    "url": "URL#5382710"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5434642",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "24/4470",
+                                    "text": "Yang Song"
+                                },
+                                {
+                                    "@pid": "14/6370-1",
+                                    "text": "Xin Peng 0001"
+                                },
+                                {
+                                    "@pid": "52/6482",
+                                    "text": "Zhenchang Xing"
+                                },
+                                {
+                                    "@pid": "37/4220",
+                                    "text": "Wenyun Zhao"
+                                }
+                            ]
+                        },
+                        "title": "Automatic Adaptation of Software Applications to Database Evolution by Graph Differencing and AOP-Based Dynamic Patching.",
+                        "venue": "COMPSAC",
+                        "pages": "111-118",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/compsac/SongPXZ12",
+                        "doi": "10.1109/COMPSAC.2012.21",
+                        "ee": "https://doi.org/10.1109/COMPSAC.2012.21",
+                        "url": "https://dblp.org/rec/conf/compsac/SongPXZ12"
+                    },
+                    "url": "URL#5434642"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5514541",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "22/8943",
+                                    "text": "Marco Mori"
+                                },
+                                {
+                                    "@pid": "c/AnthonyCleve",
+                                    "text": "Anthony Cleve"
+                                }
+                            ]
+                        },
+                        "title": "Feature-Based Adaptation of Database Schemas.",
+                        "venue": "MOMPES",
+                        "pages": "85-105",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mompes/MoriC12",
+                        "doi": "10.1007/978-3-642-38209-3_6",
+                        "ee": "https://doi.org/10.1007/978-3-642-38209-3_6",
+                        "url": "https://dblp.org/rec/conf/mompes/MoriC12"
+                    },
+                    "url": "URL#5514541"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5846066",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "p/OdysseasPapapetrou",
+                                    "text": "Odysseas Papapetrou"
+                                },
+                                {
+                                    "@pid": "s/WolfSiberski",
+                                    "text": "Wolf Siberski"
+                                },
+                                {
+                                    "@pid": "n/WolfgangNejdl",
+                                    "text": "Wolfgang Nejdl"
+                                }
+                            ]
+                        },
+                        "title": "Cardinality estimation and dynamic length adaptation for Bloom filters.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "28",
+                        "number": "2-3",
+                        "pages": "119-156",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/PapapetrouSN10",
+                        "doi": "10.1007/S10619-010-7067-2",
+                        "ee": "https://doi.org/10.1007/s10619-010-7067-2",
+                        "url": "https://dblp.org/rec/journals/dpd/PapapetrouSN10"
+                    },
+                    "url": "URL#5846066"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6268258",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "r/KARoss",
+                                "text": "Kenneth A. Ross"
+                            }
+                        },
+                        "title": "View Adaptation.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "pages": "3324-3325",
+                        "year": "2009",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/Ross09a",
+                        "doi": "10.1007/978-0-387-39940-9_855",
+                        "ee": "https://doi.org/10.1007/978-0-387-39940-9_855",
+                        "url": "https://dblp.org/rec/reference/db/Ross09a"
+                    },
+                    "url": "URL#6268258"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6269044",
+                    "info": {
+                        "title": "Adaptation.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "pages": "46",
+                        "year": "2009",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/X09u",
+                        "doi": "10.1007/978-0-387-39940-9_2015",
+                        "ee": "https://doi.org/10.1007/978-0-387-39940-9_2015",
+                        "url": "https://dblp.org/rec/reference/db/X09u"
+                    },
+                    "url": "URL#6269044"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6269341",
+                    "info": {
+                        "title": "Mediation and Adaptation.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "pages": "1706",
+                        "year": "2009",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/X09xhz",
+                        "doi": "10.1007/978-0-387-39940-9_3037",
+                        "ee": "https://doi.org/10.1007/978-0-387-39940-9_3037",
+                        "url": "https://dblp.org/rec/reference/db/X09xhz"
+                    },
+                    "url": "URL#6269341"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6279150",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "84/1570",
+                                "text": "Baoning Niu"
+                            }
+                        },
+                        "title": "Workload Adaptation in Autonomic Database Management Systems.",
+                        "year": "2008",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ca/Niu08",
+                        "ee": "https://hdl.handle.net/1974/1003",
+                        "url": "https://dblp.org/rec/phd/ca/Niu08"
+                    },
+                    "url": "URL#6279150"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6421258",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/3163",
+                                    "text": "Fu Duan"
+                                },
+                                {
+                                    "@pid": "82/10142",
+                                    "text": "Yuxing Wang"
+                                },
+                                {
+                                    "@pid": "43/10143",
+                                    "text": "Chanchan Zhao"
+                                },
+                                {
+                                    "@pid": "51/1042",
+                                    "text": "Yueqin Zhang"
+                                }
+                            ]
+                        },
+                        "title": "Research and Implementation on Middleware of Database Workload Autonomic Adaptation.",
+                        "venue": "IIH-MSP",
+                        "pages": "1478-1481",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iih-msp/DuanWZZ08",
+                        "doi": "10.1109/IIH-MSP.2008.225",
+                        "ee": "https://doi.org/10.1109/IIH-MSP.2008.225",
+                        "url": "https://dblp.org/rec/conf/iih-msp/DuanWZZ08"
+                    },
+                    "url": "URL#6421258"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6472030",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/3504",
+                                    "text": "Stefan Poslad"
+                                },
+                                {
+                                    "@pid": "04/280",
+                                    "text": "Landong Zuo"
+                                }
+                            ]
+                        },
+                        "title": "An Adaptive Semantic Framework to Support Multiple User Viewpoints over Multiple Databases.",
+                        "venue": "Advances in Semantic Media Adaptation and Personalization",
+                        "pages": "261-284",
+                        "year": "2008",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/PosladZ08",
+                        "doi": "10.1007/978-3-540-76361_13",
+                        "ee": "https://doi.org/10.1007/978-3-540-76361_13",
+                        "url": "https://dblp.org/rec/series/sci/PosladZ08"
+                    },
+                    "url": "URL#6472030"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6486880",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "t/YiChengTu",
+                                "text": "Yi-Cheng Tu"
+                            }
+                        },
+                        "title": "Quality-aware adaptation in database systems",
+                        "year": "2007",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/us/Tu07a",
+                        "ee": "https://docs.lib.purdue.edu/dissertations/AAI3291231",
+                        "url": "https://dblp.org/rec/phd/us/Tu07a"
+                    },
+                    "url": "URL#6486880"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6620401",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "61/194",
+                                    "text": "Luis Buera"
+                                },
+                                {
+                                    "@pid": "94/8307",
+                                    "text": "Antonio Miguel"
+                                },
+                                {
+                                    "@pid": "39/1188",
+                                    "text": "Oscar Saz"
+                                },
+                                {
+                                    "@pid": "14/4997",
+                                    "text": "Eduardo Lleida"
+                                },
+                                {
+                                    "@pid": "121/1854-1",
+                                    "text": "Alfonso Ortega 0001"
+                                }
+                            ]
+                        },
+                        "title": "Evaluation of the combined use of MEMLIN and MLLR on the non-native adaptation task of hiwire project database.",
+                        "venue": "INTERSPEECH",
+                        "pages": "2437-2440",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/BueraMSLO07",
+                        "doi": "10.21437/INTERSPEECH.2007-641",
+                        "ee": "https://doi.org/10.21437/Interspeech.2007-641",
+                        "url": "https://dblp.org/rec/conf/interspeech/BueraMSLO07"
+                    },
+                    "url": "URL#6620401"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6620514",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/657",
+                                    "text": "Roberto Gemello"
+                                },
+                                {
+                                    "@pid": "12/1416",
+                                    "text": "Franco Mana"
+                                },
+                                {
+                                    "@pid": "24/1638",
+                                    "text": "Stefano Scanzio"
+                                }
+                            ]
+                        },
+                        "title": "Experiments on hiwire database using denoising and adaptation with a hybrid HMM-ANN model.",
+                        "venue": "INTERSPEECH",
+                        "pages": "2429-2432",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/GemelloMS07",
+                        "doi": "10.21437/INTERSPEECH.2007-639",
+                        "ee": "https://doi.org/10.21437/Interspeech.2007-639",
+                        "url": "https://dblp.org/rec/conf/interspeech/GemelloMS07"
+                    },
+                    "url": "URL#6620514"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6883559",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/1893",
+                                    "text": "Mehmet N. Aydin 0001"
+                                },
+                                {
+                                    "@pid": "61/1120",
+                                    "text": "Frank Harmsen"
+                                },
+                                {
+                                    "@pid": "68/4694",
+                                    "text": "Kees van Slooten"
+                                },
+                                {
+                                    "@pid": "73/3401",
+                                    "text": "R. A. Stagwee"
+                                }
+                            ]
+                        },
+                        "title": "On the Adaptation of an Agile Information Systems Development Method.",
+                        "venue": "J. Database Manag.",
+                        "volume": "16",
+                        "number": "4",
+                        "pages": "25-40",
+                        "year": "2005",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jdm/AydinHSS05",
+                        "doi": "10.4018/JDM.2005100102",
+                        "ee": "https://doi.org/10.4018/jdm.2005100102",
+                        "url": "https://dblp.org/rec/journals/jdm/AydinHSS05"
+                    },
+                    "url": "URL#6883559"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7111040",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "49/4941",
+                                    "text": "Zhipeng Zhang"
+                                },
+                                {
+                                    "@pid": "99/67",
+                                    "text": "Tomoyuki Ohya"
+                                },
+                                {
+                                    "@pid": "79/406",
+                                    "text": "Sadaoki Furui"
+                                }
+                            ]
+                        },
+                        "title": "Evaluation of tree-structured piecewise linear transformation-based noise adaptation on AURORA2 database.",
+                        "venue": "INTERSPEECH",
+                        "pages": "113-116",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/ZhangOF04",
+                        "doi": "10.21437/INTERSPEECH.2004-96",
+                        "ee": "https://doi.org/10.21437/Interspeech.2004-96",
+                        "url": "https://dblp.org/rec/conf/interspeech/ZhangOF04"
+                    },
+                    "url": "URL#7111040"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7121192",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "f/NikosFakotakis",
+                                "text": "Nikos Fakotakis"
+                            }
+                        },
+                        "title": "Cypriot Speech Database: Data Collection and Greek to Cypriot Dialect Adaptation.",
+                        "venue": "LREC",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/lrec/Fakotakis04a",
+                        "ee": "http://www.lrec-conf.org/proceedings/lrec2004/summaries/531.htm",
+                        "url": "https://dblp.org/rec/conf/lrec/Fakotakis04a"
+                    },
+                    "url": "URL#7121192"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7121289",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "36/4358",
+                                    "text": "Tom Laureys"
+                                },
+                                {
+                                    "@pid": "p/GuyDePauw",
+                                    "text": "Guy De Pauw"
+                                },
+                                {
+                                    "@pid": "77/6519",
+                                    "text": "Hugo Van hamme"
+                                },
+                                {
+                                    "@pid": "d/WalterDaelemans",
+                                    "text": "Walter Daelemans"
+                                },
+                                {
+                                    "@pid": "09/2446",
+                                    "text": "Dirk Van Compernolle"
+                                }
+                            ]
+                        },
+                        "title": "Evaluation and Adaptation of the Celex Dutch Morphological Database.",
+                        "venue": "LREC",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/lrec/LaureysPhDC04",
+                        "ee": "http://www.lrec-conf.org/proceedings/lrec2004/summaries/421.htm",
+                        "url": "https://dblp.org/rec/conf/lrec/LaureysPhDC04"
+                    },
+                    "url": "URL#7121289"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7236390",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "58/4824",
+                                    "text": "Christophe Couvreur"
+                                },
+                                {
+                                    "@pid": "30/9283",
+                                    "text": "Oren Gedge"
+                                },
+                                {
+                                    "@pid": "01/9262",
+                                    "text": "Klaus Linhard"
+                                },
+                                {
+                                    "@pid": "17/9284",
+                                    "text": "Shaunie Shammass"
+                                },
+                                {
+                                    "@pid": "03/9283",
+                                    "text": "Johan Vantieghem"
+                                }
+                            ]
+                        },
+                        "title": "Database adaptation for ASR in cross-environmental conditions in the SPEECON project.",
+                        "venue": "INTERSPEECH",
+                        "pages": "1797-1800",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/CouvreurGLSV03",
+                        "doi": "10.21437/EUROSPEECH.2003-496",
+                        "ee": "https://doi.org/10.21437/Eurospeech.2003-496",
+                        "url": "https://dblp.org/rec/conf/interspeech/CouvreurGLSV03"
+                    },
+                    "url": "URL#7236390"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7237945",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "16/4585",
+                                    "text": "Beihu Wang"
+                                },
+                                {
+                                    "@pid": "65/622-2",
+                                    "text": "Xiaodong Liu 0002"
+                                },
+                                {
+                                    "@pid": "77/6026",
+                                    "text": "Jon M. Kerridge"
+                                }
+                            ]
+                        },
+                        "title": "Facilitating Reuse in Database Applications with Scenario-base Component Adaptation and Generation.",
+                        "venue": "IRI",
+                        "pages": "527-534",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iri/WangLK03",
+                        "doi": "10.1109/IRI.2003.1251461",
+                        "ee": "https://doi.org/10.1109/IRI.2003.1251461",
+                        "url": "https://dblp.org/rec/conf/iri/WangLK03"
+                    },
+                    "url": "URL#7237945"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7328740",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "11/6392",
+                                    "text": "Ramesh Gopinath"
+                                },
+                                {
+                                    "@pid": "43/1847",
+                                    "text": "Vaibhava Goel"
+                                },
+                                {
+                                    "@pid": "32/698",
+                                    "text": "Karthik Visweswariah"
+                                },
+                                {
+                                    "@pid": "13/5978",
+                                    "text": "Peder A. Olsen"
+                                }
+                            ]
+                        },
+                        "title": "Adaptation experiments on the SPINE database with the Extended Maximum Likelihood Linear Transformation (EMLLT) model.",
+                        "venue": "ICASSP",
+                        "pages": "925-928",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icassp/GopinathGVO02",
+                        "doi": "10.1109/ICASSP.2002.5743891",
+                        "ee": "https://doi.org/10.1109/ICASSP.2002.5743891",
+                        "url": "https://dblp.org/rec/conf/icassp/GopinathGVO02"
+                    },
+                    "url": "URL#7328740"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7347383",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "30/9283",
+                                    "text": "Oren Gedge"
+                                },
+                                {
+                                    "@pid": "58/4824",
+                                    "text": "Christophe Couvreur"
+                                },
+                                {
+                                    "@pid": "01/9262",
+                                    "text": "Klaus Linhard"
+                                },
+                                {
+                                    "@pid": "17/9284",
+                                    "text": "Shaunie Shammass"
+                                },
+                                {
+                                    "@pid": "20/8153",
+                                    "text": "Ami Moyal"
+                                }
+                            ]
+                        },
+                        "title": "Database Adaptation for Speech Recognition in Cross-Environmental Conditions.",
+                        "venue": "LREC",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/lrec/GedgeCLSM02",
+                        "ee": "http://www.lrec-conf.org/proceedings/lrec2002/sumarios/125.htm",
+                        "url": "https://dblp.org/rec/conf/lrec/GedgeCLSM02"
+                    },
+                    "url": "URL#7347383"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7522135",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "26/3330",
+                                    "text": "Awais Rashid"
+                                },
+                                {
+                                    "@pid": "s/PeterSawyer",
+                                    "text": "Peter Sawyer"
+                                },
+                                {
+                                    "@pid": "p/EPulvermuller",
+                                    "text": "Elke Pulverm\u00fcller"
+                                }
+                            ]
+                        },
+                        "title": "A Flexible Approach for Instance Adaptation During Class Versioning.",
+                        "venue": "Objects and Databases",
+                        "pages": "101-113",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/oodbs/RashidSP00",
+                        "doi": "10.1007/3-540-44677-X_7",
+                        "ee": "https://doi.org/10.1007/3-540-44677-X_7",
+                        "url": "https://dblp.org/rec/conf/oodbs/RashidSP00"
+                    },
+                    "url": "URL#7522135"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7565567",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "21/2804",
+                                    "text": "Brian Ensink"
+                                },
+                                {
+                                    "@pid": "41/4419",
+                                    "text": "Kimberly Haveman"
+                                },
+                                {
+                                    "@pid": "55/706",
+                                    "text": "Mochan Shrestha"
+                                },
+                                {
+                                    "@pid": "26/6619",
+                                    "text": "Todd Schavey"
+                                }
+                            ]
+                        },
+                        "title": "XML based adaptation of the composite approach for database integration.",
+                        "venue": "ACM Southeast Regional Conference",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ACMse/EnsinkHSS99",
+                        "doi": "10.1145/306363.306393",
+                        "ee": "https://doi.org/10.1145/306363.306393",
+                        "url": "https://dblp.org/rec/conf/ACMse/EnsinkHSS99"
+                    },
+                    "url": "URL#7565567"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7579656",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "81/4984",
+                                    "text": "Alexander Fischer"
+                                },
+                                {
+                                    "@pid": "85/6102",
+                                    "text": "Volker Stahl"
+                                }
+                            ]
+                        },
+                        "title": "Database and online adaptation for improved speech recognition in car environments.",
+                        "venue": "ICASSP",
+                        "pages": "445-448",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icassp/FischerS99",
+                        "doi": "10.1109/ICASSP.1999.758158",
+                        "ee": "https://doi.org/10.1109/ICASSP.1999.758158",
+                        "url": "https://dblp.org/rec/conf/icassp/FischerS99"
+                    },
+                    "url": "URL#7579656"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7599644",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "38/523",
+                                "text": "Silvia Pfeiffer"
+                            }
+                        },
+                        "title": "Importance of perceptive adaptation of sound features in audio content processing.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "328-337",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/Pfeiffer99",
+                        "doi": "10.1117/12.333852",
+                        "ee": "https://doi.org/10.1117/12.333852",
+                        "url": "https://dblp.org/rec/conf/spieSR/Pfeiffer99"
+                    },
+                    "url": "URL#7599644"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7650413",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "t/HeikoThimm",
+                                    "text": "Heiko Thimm"
+                                },
+                                {
+                                    "@pid": "o/MTamerOzsu",
+                                    "text": "M. Tamer \u00d6zsu"
+                                }
+                            ]
+                        },
+                        "title": "A Generic Scheme and Sample Implementation Architecture for Graceful Service Adaptation in Multimedia Database Systems.",
+                        "venue": "ICMCS",
+                        "pages": "241-244",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icmcs/ThimmO98",
+                        "doi": "10.1109/MMCS.1998.693649",
+                        "ee": "https://doi.org/10.1109/MMCS.1998.693649",
+                        "url": "https://dblp.org/rec/conf/icmcs/ThimmO98"
+                    },
+                    "url": "URL#7650413"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7654326",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "60/4272",
+                                    "text": "Albino Nogueiras Rodr\u00edguez"
+                                },
+                                {
+                                    "@pid": "11/3204",
+                                    "text": "Jos\u00e9 B. Mari\u00f1o"
+                                }
+                            ]
+                        },
+                        "title": "Task adaptation of sub-lexical unit models using the minimum confusibility criterion on task independent databases.",
+                        "venue": "ICSLP",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/RodriguezM98",
+                        "doi": "10.21437/ICSLP.1998-191",
+                        "ee": "https://doi.org/10.21437/ICSLP.1998-191",
+                        "url": "https://dblp.org/rec/conf/interspeech/RodriguezM98"
+                    },
+                    "url": "URL#7654326"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7713873",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/SilviaHollfelder",
+                                    "text": "Silvia Hollfelder"
+                                },
+                                {
+                                    "@pid": "87/1164",
+                                    "text": "Achim Kraiss"
+                                },
+                                {
+                                    "@pid": "32/1506",
+                                    "text": "Thomas C. Rakow"
+                                }
+                            ]
+                        },
+                        "title": "A Client-Controlled Adaptation Framework for Multimedia Database Systems.",
+                        "venue": "IDMS",
+                        "pages": "397-409",
+                        "year": "1997",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/idms/HollfelderKR97",
+                        "doi": "10.1007/BFB0000370",
+                        "ee": "https://doi.org/10.1007/BFb0000370",
+                        "url": "https://dblp.org/rec/conf/idms/HollfelderKR97"
+                    },
+                    "url": "URL#7713873"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7721796",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "z/OZukunft",
+                                "text": "Olaf Zukunft"
+                            }
+                        },
+                        "title": "Rule based adaptation in mobile database systems.",
+                        "venue": "SAC",
+                        "pages": "310-317",
+                        "year": "1997",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/Zukunft97",
+                        "doi": "10.1145/331697.331761",
+                        "ee": "https://doi.org/10.1145/331697.331761",
+                        "url": "https://dblp.org/rec/conf/sac/Zukunft97"
+                    },
+                    "url": "URL#7721796"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7964466",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "58/7161",
+                                "text": "H\u00e9l\u00e8ne Bonneau-Maynard"
+                            }
+                        },
+                        "title": "Vector quantization for speaker adaptation: Results on a 5000-word database.",
+                        "venue": "Speech Commun.",
+                        "volume": "10",
+                        "number": "5-6",
+                        "pages": "463-469",
+                        "year": "1991",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/speech/Bonneau-Maynard91",
+                        "doi": "10.1016/0167-6393(91)90049-Y",
+                        "ee": "https://doi.org/10.1016/0167-6393(91)90049-Y",
+                        "url": "https://dblp.org/rec/journals/speech/Bonneau-Maynard91"
+                    },
+                    "url": "URL#7964466"
+                }
+            ]
+        }
+    }
+}

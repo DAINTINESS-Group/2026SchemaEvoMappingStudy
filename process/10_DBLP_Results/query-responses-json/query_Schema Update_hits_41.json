@@ -1,0 +1,1266 @@
+{
+    "result": {
+        "query": "Schema* Update*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "1.39"
+        },
+        "completions": {
+            "@total": "4",
+            "@computed": "4",
+            "@sent": "4",
+            "c": [
+                {
+                    "@sc": "21",
+                    "@dc": "21",
+                    "@oc": "21",
+                    "@id": "64386678",
+                    "text": "update"
+                },
+                {
+                    "@sc": "18",
+                    "@dc": "17",
+                    "@oc": "18",
+                    "@id": "64386689",
+                    "text": "updates"
+                },
+                {
+                    "@sc": "2",
+                    "@dc": "2",
+                    "@oc": "2",
+                    "@id": "64386681",
+                    "text": "updated"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "64386680",
+                    "text": "updateable"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "41",
+            "@computed": "41",
+            "@sent": "41",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "5309098",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "30/7228",
+                                "text": "Beno\u00eet Groz"
+                            }
+                        },
+                        "title": "Vues de s\u00e9curit\u00e9 XML: requ\u00eates, mises \u00e0 jour et sch\u00e9mas. (XML Security Views: Queries, Updates, and Schemas).",
+                        "year": "2012",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Groz12",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00745581",
+                        "url": "https://dblp.org/rec/phd/hal/Groz12"
+                    },
+                    "url": "URL#5309098"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6107730",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/KlausDieterSchewe",
+                                    "text": "Klaus-Dieter Schewe"
+                                },
+                                {
+                                    "@pid": "t/BernhardThalheim",
+                                    "text": "Bernhard Thalheim"
+                                },
+                                {
+                                    "@pid": "97/6505-2",
+                                    "text": "Qing Wang 0002"
+                                }
+                            ]
+                        },
+                        "title": "Updates, Schema Updates and Validation of XML Documents - Using Abstract State Machines with Automata-Defined States.",
+                        "venue": "J. Univers. Comput. Sci.",
+                        "volume": "15",
+                        "number": "10",
+                        "pages": "2028-2057",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jucs/ScheweTW09",
+                        "doi": "10.3217/JUCS-015-10-2028",
+                        "ee": "https://doi.org/10.3217/jucs-015-10-2028",
+                        "url": "https://dblp.org/rec/journals/jucs/ScheweTW09"
+                    },
+                    "url": "URL#6107730"
+                },
+                {
+                    "@score": "2",
+                    "@id": "141148",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "223/8303",
+                                    "text": "Zhuoxing Zhang"
+                                },
+                                {
+                                    "@pid": "l/SebastianLink",
+                                    "text": "Sebastian Link"
+                                }
+                            ]
+                        },
+                        "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies.",
+                        "venue": "Proc. ACM Manag. Data",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "225:1-225:25",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pacmmod/ZhangL25",
+                        "doi": "10.1145/3725362",
+                        "ee": "https://doi.org/10.1145/3725362",
+                        "url": "https://dblp.org/rec/journals/pacmmod/ZhangL25"
+                    },
+                    "url": "URL#141148"
+                },
+                {
+                    "@score": "2",
+                    "@id": "876694",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "356/9613",
+                                    "text": "Romuald Esdras Wandji"
+                                },
+                                {
+                                    "@pid": "c/DiegoCalvanese",
+                                    "text": "Diego Calvanese"
+                                }
+                            ]
+                        },
+                        "title": "Ontology-Based Update in Virtual Knowledge Graphs via Schema Mapping Recovery.",
+                        "venue": "RuleML+RR",
+                        "pages": "59-74",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/rulemlrr/WandjiC24",
+                        "doi": "10.1007/978-3-031-72407-7_6",
+                        "ee": "https://doi.org/10.1007/978-3-031-72407-7_6",
+                        "url": "https://dblp.org/rec/conf/rulemlrr/WandjiC24"
+                    },
+                    "url": "URL#876694"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1738865",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "279/1747",
+                                    "text": "Goki Akazawa"
+                                },
+                                {
+                                    "@pid": "273/4996",
+                                    "text": "Naoto Matsubara"
+                                },
+                                {
+                                    "@pid": "77/892",
+                                    "text": "Nobutaka Suzuki"
+                                }
+                            ]
+                        },
+                        "title": "An Algorithm for Transforming Property Path Query Based on Shape Expression Schema Update.",
+                        "venue": "SN Comput. Sci.",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "196",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/sncs/AkazawaMS22",
+                        "doi": "10.1007/S42979-022-01086-0",
+                        "ee": "https://doi.org/10.1007/s42979-022-01086-0",
+                        "url": "https://dblp.org/rec/journals/sncs/AkazawaMS22"
+                    },
+                    "url": "URL#1738865"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2277509",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "183/9125",
+                                    "text": "Safa Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the \u03c4JSchema Framework.",
+                        "venue": "BDIoT",
+                        "pages": "32-47",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bdiot2/BrahmiaB0B21",
+                        "doi": "10.1007/978-3-031-07969-6_3",
+                        "ee": "https://doi.org/10.1007/978-3-031-07969-6_3",
+                        "url": "https://dblp.org/rec/conf/bdiot2/BrahmiaB0B21"
+                    },
+                    "url": "URL#2277509"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2418717",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/SebastianLink",
+                                    "text": "Sebastian Link"
+                                },
+                                {
+                                    "@pid": "153/8034",
+                                    "text": "Ziheng Wei"
+                                }
+                            ]
+                        },
+                        "title": "Logical Schema Design that Quantifies Update Inefficiency and Join Efficiency.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "1169-1181",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/LinkW21",
+                        "doi": "10.1145/3448016.3459238",
+                        "ee": "https://doi.org/10.1145/3448016.3459238",
+                        "url": "https://dblp.org/rec/conf/sigmod/LinkW21"
+                    },
+                    "url": "URL#2418717"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2879244",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "279/1747",
+                                    "text": "Goki Akazawa"
+                                },
+                                {
+                                    "@pid": "273/4996",
+                                    "text": "Naoto Matsubara"
+                                },
+                                {
+                                    "@pid": "77/892",
+                                    "text": "Nobutaka Suzuki"
+                                }
+                            ]
+                        },
+                        "title": "Transforming Property Path Query According to Shape Expression Schema Update.",
+                        "venue": "WEBIST",
+                        "pages": "292-298",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/webist/AkazawaMS20",
+                        "doi": "10.5220/0010173002920298",
+                        "ee": "https://doi.org/10.5220/0010173002920298",
+                        "url": "https://dblp.org/rec/conf/webist/AkazawaMS20"
+                    },
+                    "url": "URL#2879244"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3192294",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "226/4624",
+                                    "text": "Tayyebe Emadinia"
+                                },
+                                {
+                                    "@pid": "140/1883",
+                                    "text": "Faraz Fatemi Moghaddam"
+                                },
+                                {
+                                    "@pid": "93/4619",
+                                    "text": "Philipp Wieder"
+                                },
+                                {
+                                    "@pid": "250/1170",
+                                    "text": "Shirin Dabbaghi Varnosfaderani"
+                                },
+                                {
+                                    "@pid": "05/3824",
+                                    "text": "Ramin Yahyapour"
+                                }
+                            ]
+                        },
+                        "title": "An Updateable Token-Based Schema for Authentication and Access Management in Clouds.",
+                        "venue": "FiCloud",
+                        "pages": "50-56",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ficloud/EmadiniaMWVY19",
+                        "doi": "10.1109/FICLOUD.2019.00015",
+                        "ee": "https://doi.org/10.1109/FiCloud.2019.00015",
+                        "url": "https://dblp.org/rec/conf/ficloud/EmadiniaMWVY19"
+                    },
+                    "url": "URL#3192294"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4172490",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "28/2531",
+                                "text": "Tak-Lam Wong"
+                            }
+                        },
+                        "title": "Answering Reachability Queries on Incrementally Updated Graphs by Hierarchical Labeling Schema.",
+                        "venue": "J. Comput. Sci. Technol.",
+                        "volume": "31",
+                        "number": "2",
+                        "pages": "381-399",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jcst/Wong16",
+                        "doi": "10.1007/S11390-016-1633-7",
+                        "ee": "https://doi.org/10.1007/s11390-016-1633-7",
+                        "url": "https://dblp.org/rec/journals/jcst/Wong16"
+                    },
+                    "url": "URL#4172490"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4207033",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/2006",
+                                    "text": "Sousuke Nakamura"
+                                },
+                                {
+                                    "@pid": "184/8618",
+                                    "text": "Noriki Mochizuki"
+                                },
+                                {
+                                    "@pid": "184/8834",
+                                    "text": "Tomoki Konno"
+                                },
+                                {
+                                    "@pid": "184/8568",
+                                    "text": "Junya Yoda"
+                                },
+                                {
+                                    "@pid": "90/1589",
+                                    "text": "Hideki Hashimoto"
+                                }
+                            ]
+                        },
+                        "title": "Research on Updating of Body Schema Using AR Limb and Measurement of the Updated Value.",
+                        "venue": "IEEE Syst. J.",
+                        "volume": "10",
+                        "number": "3",
+                        "pages": "903-911",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/sj/NakamuraMKYH16",
+                        "doi": "10.1109/JSYST.2014.2373394",
+                        "ee": "https://doi.org/10.1109/JSYST.2014.2373394",
+                        "url": "https://dblp.org/rec/journals/sj/NakamuraMKYH16"
+                    },
+                    "url": "URL#4207033"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5158985",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/2869",
+                                    "text": "Iulian Neamtiu"
+                                },
+                                {
+                                    "@pid": "37/7291",
+                                    "text": "Jonathan Bardin"
+                                },
+                                {
+                                    "@pid": "34/9991",
+                                    "text": "Md. Reaz Uddin"
+                                },
+                                {
+                                    "@pid": "153/1497",
+                                    "text": "Dien-Yen Lin"
+                                },
+                                {
+                                    "@pid": "07/9103",
+                                    "text": "Pamela Bhattacharya"
+                                }
+                            ]
+                        },
+                        "title": "Improving Cloud Availability with On-the-fly Schema Updates.",
+                        "venue": "COMAD",
+                        "pages": "24-34",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/comad/NeamtiuBULB13",
+                        "ee": "http://comad.in/comad2013/pdfs/neamtiu.pdf",
+                        "url": "https://dblp.org/rec/conf/comad/NeamtiuBULB13"
+                    },
+                    "url": "URL#5158985"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5729487",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "18/2623",
+                                    "text": "Federico Cavalieri"
+                                },
+                                {
+                                    "@pid": "g/GiovannaGuerrini",
+                                    "text": "Giovanna Guerrini"
+                                },
+                                {
+                                    "@pid": "48/4862",
+                                    "text": "Marco Mesiti"
+                                }
+                            ]
+                        },
+                        "title": "Updates on XML documents and schemas.",
+                        "venue": "ICDE Workshops",
+                        "pages": "308-311",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/CavalieriGM11a",
+                        "doi": "10.1109/ICDEW.2011.5767672",
+                        "ee": "https://doi.org/10.1109/ICDEW.2011.5767672",
+                        "url": "https://dblp.org/rec/conf/icde/CavalieriGM11a"
+                    },
+                    "url": "URL#5729487"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5729488",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "18/2623",
+                                    "text": "Federico Cavalieri"
+                                },
+                                {
+                                    "@pid": "g/GiovannaGuerrini",
+                                    "text": "Giovanna Guerrini"
+                                },
+                                {
+                                    "@pid": "48/4862",
+                                    "text": "Marco Mesiti"
+                                },
+                                {
+                                    "@pid": "40/2273",
+                                    "text": "Barbara Oliboni"
+                                }
+                            ]
+                        },
+                        "title": "On the reduction of sequences of XML document and schema update operations.",
+                        "venue": "ICDE Workshops",
+                        "pages": "77-86",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/CavalieriGMO11",
+                        "doi": "10.1109/ICDEW.2011.5767649",
+                        "ee": "https://doi.org/10.1109/ICDEW.2011.5767649",
+                        "url": "https://dblp.org/rec/conf/icde/CavalieriGMO11"
+                    },
+                    "url": "URL#5729488"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5729505",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "d/HendrikDecker",
+                                "text": "Hendrik Decker"
+                            }
+                        },
+                        "title": "Causes for inconsistency-tolerant schema update management.",
+                        "venue": "ICDE Workshops",
+                        "pages": "157-161",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/Decker11",
+                        "doi": "10.1109/ICDEW.2011.5767628",
+                        "ee": "https://doi.org/10.1109/ICDEW.2011.5767628",
+                        "url": "https://dblp.org/rec/conf/icde/Decker11"
+                    },
+                    "url": "URL#5729505"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5891324",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/CarloCurino",
+                                    "text": "Carlo Curino"
+                                },
+                                {
+                                    "@pid": "92/5910",
+                                    "text": "Hyun Jin Moon"
+                                },
+                                {
+                                    "@pid": "d/AlinDeutsch",
+                                    "text": "Alin Deutsch"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "Update Rewriting and Integrity Constraint Maintenance in a Schema Evolution Support System: PRISM++.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "4",
+                        "number": "2",
+                        "pages": "117-128",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/CurinoMDZ10",
+                        "doi": "10.14778/1921071.1921078",
+                        "ee": "http://www.vldb.org/pvldb/vol4/p117-curino.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/CurinoMDZ10"
+                    },
+                    "url": "URL#5891324"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5943885",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "96/5136",
+                                "text": "Stephen J. Hegner"
+                            }
+                        },
+                        "title": "A Simple Model of Negotiation for Cooperative Updates on Database Schema Components.",
+                        "venue": "EJC",
+                        "pages": "154-173",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ejc/Hegner10",
+                        "doi": "10.3233/978-1-60750-690-4-154",
+                        "ee": "https://doi.org/10.3233/978-1-60750-690-4-154",
+                        "url": "https://dblp.org/rec/conf/ejc/Hegner10"
+                    },
+                    "url": "URL#5943885"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6036858",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "f/LeonidasFegaras",
+                                "text": "Leonidas Fegaras"
+                            }
+                        },
+                        "title": "A Schema-Based Translation of XQuery Updates.",
+                        "venue": "XSym",
+                        "pages": "58-72",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/xsym/Fegaras10",
+                        "doi": "10.1007/978-3-642-15684-7_6",
+                        "ee": "https://doi.org/10.1007/978-3-642-15684-7_6",
+                        "url": "https://dblp.org/rec/conf/xsym/Fegaras10"
+                    },
+                    "url": "URL#6036858"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6117398",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/MichaelBenedikt",
+                                    "text": "Michael Benedikt"
+                                },
+                                {
+                                    "@pid": "96/3253",
+                                    "text": "James Cheney"
+                                }
+                            ]
+                        },
+                        "title": "Schema-Based Independence Analysis for XML Updates.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "2",
+                        "number": "1",
+                        "pages": "61-72",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/BenediktC09",
+                        "doi": "10.14778/1687627.1687635",
+                        "ee": "http://www.vldb.org/pvldb/vol2/vldb09-684.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/BenediktC09"
+                    },
+                    "url": "URL#6117398"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6189062",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/7647",
+                                    "text": "Arlei Calazans Moraes"
+                                },
+                                {
+                                    "@pid": "23/6139",
+                                    "text": "Ana Carolina Salgado"
+                                },
+                                {
+                                    "@pid": "99/8925",
+                                    "text": "Patr\u00edcia Azevedo Tedesco"
+                                }
+                            ]
+                        },
+                        "title": "AutonomousDB: A Tool for Autonomic Propagation of Schema Updates in Heterogeneous Multi-database Environments.",
+                        "venue": "ICAS",
+                        "pages": "251-256",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icas/MoraesST09",
+                        "doi": "10.1109/ICAS.2009.14",
+                        "ee": "https://doi.org/10.1109/ICAS.2009.14",
+                        "url": "https://dblp.org/rec/conf/icas/MoraesST09"
+                    },
+                    "url": "URL#6189062"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6391596",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "96/5136",
+                                "text": "Stephen J. Hegner"
+                            }
+                        },
+                        "title": "Information-Optimal Reflections of View Updates on Relational Database Schemata.",
+                        "venue": "FoIKS",
+                        "pages": "112-131",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/foiks/Hegner08",
+                        "doi": "10.1007/978-3-540-77684-0_10",
+                        "ee": "https://doi.org/10.1007/978-3-540-77684-0_10",
+                        "url": "https://dblp.org/rec/conf/foiks/Hegner08"
+                    },
+                    "url": "URL#6391596"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6689549",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "93/3719",
+                                    "text": "Katharina Gr\u00fcn"
+                                },
+                                {
+                                    "@pid": "40/5008",
+                                    "text": "Michael Karlinger"
+                                },
+                                {
+                                    "@pid": "s/MichaelSchrefl",
+                                    "text": "Michael Schrefl"
+                                }
+                            ]
+                        },
+                        "title": "Schema-aware labelling of XML documents for efficient query and update processing in SemCrypt.",
+                        "venue": "Comput. Syst. Sci. Eng.",
+                        "volume": "21",
+                        "number": "1",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/csse/GrunKS06",
+                        "url": "https://dblp.org/rec/journals/csse/GrunKS06"
+                    },
+                    "url": "URL#6689549"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6953325",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "22/5692",
+                                    "text": "Kenji Hashimoto"
+                                },
+                                {
+                                    "@pid": "28/2411",
+                                    "text": "Yasunori Ishihara"
+                                },
+                                {
+                                    "@pid": "51/1928",
+                                    "text": "Toru Fujiwara"
+                                }
+                            ]
+                        },
+                        "title": "Schema update operations preserving the expressive power in XML databases.",
+                        "venue": "ICDE Workshops",
+                        "pages": "1229",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/HashimotoIF05",
+                        "doi": "10.1109/ICDE.2005.276",
+                        "ee": "https://doi.org/10.1109/ICDE.2005.276",
+                        "url": "https://dblp.org/rec/conf/icde/HashimotoIF05"
+                    },
+                    "url": "URL#6953325"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7142494",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "72/6332",
+                                    "text": "Jun-Seung Lee"
+                                },
+                                {
+                                    "@pid": "27/5926",
+                                    "text": "Kyong-Ho Lee"
+                                }
+                            ]
+                        },
+                        "title": "XML Schema Matching Based on Incremental Ontology Update.",
+                        "venue": "WISE",
+                        "pages": "608-618",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wise/LeeL04",
+                        "doi": "10.1007/978-3-540-30480-7_63",
+                        "ee": "https://doi.org/10.1007/978-3-540-30480-7_63",
+                        "url": "https://dblp.org/rec/conf/wise/LeeL04"
+                    },
+                    "url": "URL#7142494"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7192808",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "t/ErnestTeniente",
+                                    "text": "Ernest Teniente"
+                                },
+                                {
+                                    "@pid": "35/1865",
+                                    "text": "Toni Urp\u00ed"
+                                }
+                            ]
+                        },
+                        "title": "On the abductive or deductive nature of database schema validation and update processing problems.",
+                        "venue": "Theory Pract. Log. Program.",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "287-327",
+                        "year": "2003",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tplp/TenienteU03",
+                        "doi": "10.1017/S1471068402001631",
+                        "ee": "https://doi.org/10.1017/S1471068402001631",
+                        "url": "https://dblp.org/rec/journals/tplp/TenienteU03"
+                    },
+                    "url": "URL#7192808"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7210113",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/6724",
+                                    "text": "Sang-Kyun Kim"
+                                },
+                                {
+                                    "@pid": "31/5980",
+                                    "text": "Myungcheol Lee"
+                                },
+                                {
+                                    "@pid": "36/947",
+                                    "text": "Kyu-Chul Lee"
+                                }
+                            ]
+                        },
+                        "title": "Validation of XML Document Updates Based on XML Schema in XML Databases.",
+                        "venue": "DEXA",
+                        "pages": "98-108",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/KimLL03",
+                        "doi": "10.1007/978-3-540-45227-0_11",
+                        "ee": "https://doi.org/10.1007/978-3-540-45227-0_11",
+                        "url": "https://dblp.org/rec/conf/dexa/KimLL03"
+                    },
+                    "url": "URL#7210113"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7265589",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "t/ErnestTeniente",
+                                    "text": "Ernest Teniente"
+                                },
+                                {
+                                    "@pid": "35/1865",
+                                    "text": "Toni Urp\u00ed"
+                                }
+                            ]
+                        },
+                        "title": "On the Abductive or Deductive Nature of Database Schema Validation and Update Processing Problems",
+                        "venue": "CoRR",
+                        "volume": "cs.DB/0312046",
+                        "year": "2003",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/cs-DB-0312046",
+                        "ee": "http://arxiv.org/abs/cs/0312046",
+                        "url": "https://dblp.org/rec/journals/corr/cs-DB-0312046"
+                    },
+                    "url": "URL#7265589"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7506961",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "67/5612",
+                                "text": "Mikael Ronstr\u00f6m"
+                            }
+                        },
+                        "title": "On-Line Schema Update for a Telecom Database.",
+                        "venue": "ICDE",
+                        "pages": "329-338",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/Ronstrom00",
+                        "doi": "10.1109/ICDE.2000.839432",
+                        "ee": "https://doi.org/10.1109/ICDE.2000.839432",
+                        "url": "https://dblp.org/rec/conf/icde/Ronstrom00"
+                    },
+                    "url": "URL#7506961"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7581684",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "76/1584-2",
+                                    "text": "Xin Zhang 0002"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Data Warehouse Maintenance under Concurrent Schema and Data Updates.",
+                        "venue": "ICDE",
+                        "pages": "253",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/ZhangR99",
+                        "doi": "10.1109/ICDE.1999.754933",
+                        "ee": "https://doi.org/10.1109/ICDE.1999.754933",
+                        "url": "https://dblp.org/rec/conf/icde/ZhangR99"
+                    },
+                    "url": "URL#7581684"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7632339",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/AvigdorGal",
+                                    "text": "Avigdor Gal"
+                                },
+                                {
+                                    "@pid": "e/OEtzion",
+                                    "text": "Opher Etzion"
+                                }
+                            ]
+                        },
+                        "title": "A Multiagent Update Process in a Database with Temporal Data Dependencies and Schema Versioning.",
+                        "venue": "IEEE Trans. Knowl. Data Eng.",
+                        "volume": "10",
+                        "number": "1",
+                        "pages": "21-37",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tkde/GalE98",
+                        "doi": "10.1109/69.667083",
+                        "ee": "https://doi.org/10.1109/69.667083",
+                        "url": "https://dblp.org/rec/journals/tkde/GalE98"
+                    },
+                    "url": "URL#7632339"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7751219",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "p/JoanPeckham",
+                                    "text": "Joan Peckham"
+                                },
+                                {
+                                    "@pid": "88/969",
+                                    "text": "Fred J. Maryanski"
+                                },
+                                {
+                                    "@pid": "d/StevenADemurjian",
+                                    "text": "Steven A. Demurjian"
+                                }
+                            ]
+                        },
+                        "title": "Towards the Correctness and Consistency of Update Semantics in Semantic Database Schema.",
+                        "venue": "IEEE Trans. Knowl. Data Eng.",
+                        "volume": "8",
+                        "number": "3",
+                        "pages": "503-507",
+                        "year": "1996",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tkde/PeckhamMD96",
+                        "doi": "10.1109/69.506716",
+                        "ee": "https://doi.org/10.1109/69.506716",
+                        "url": "https://dblp.org/rec/journals/tkde/PeckhamMD96"
+                    },
+                    "url": "URL#7751219"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7804272",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "287/9664",
+                                    "text": "James Branwer"
+                                },
+                                {
+                                    "@pid": "39/6984",
+                                    "text": "James Vorbach"
+                                }
+                            ]
+                        },
+                        "title": "A Formal Basis for Schema Analysis of Semantic Database Update Semantics.",
+                        "venue": "ACM Conference on Computer Science",
+                        "pages": "142-149",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/acm/BrawerV95",
+                        "doi": "10.1145/259526.259549",
+                        "ee": "https://doi.org/10.1145/259526.259549",
+                        "url": "https://dblp.org/rec/conf/acm/BrawerV95"
+                    },
+                    "url": "URL#7804272"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7853144",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "98/4928",
+                                    "text": "V\u00e2nia Maria Ponte Vidal"
+                                },
+                                {
+                                    "@pid": "w/MarianneWinslett",
+                                    "text": "Marianne Winslett"
+                                }
+                            ]
+                        },
+                        "title": "Preserving Update Semantics in Schema Integration.",
+                        "venue": "CIKM",
+                        "pages": "263-271",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/VidalW94",
+                        "doi": "10.1145/191246.191291",
+                        "ee": "https://doi.org/10.1145/191246.191291",
+                        "url": "https://dblp.org/rec/conf/cikm/VidalW94"
+                    },
+                    "url": "URL#7853144"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7949620",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "z/RZicari",
+                                "text": "Roberto V. Zicari"
+                            }
+                        },
+                        "title": "Schema updates for object-oriented database systems (abstract).",
+                        "venue": "OOPSLA Addendum",
+                        "pages": "227",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "journals/oopsm/Zicari93",
+                        "doi": "10.1145/157709.157794",
+                        "ee": "https://doi.org/10.1145/157709.157794",
+                        "url": "https://dblp.org/rec/journals/oopsm/Zicari93"
+                    },
+                    "url": "URL#7949620"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7949750",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "z/RZicari",
+                                "text": "Roberto V. Zicari"
+                            }
+                        },
+                        "title": "A Framework for Schema Updates In An Object-Oriented Database System.",
+                        "venue": "Building an Object-Oriented Database System, The Story of O2",
+                        "pages": "146-182",
+                        "year": "1992",
+                        "type": "Parts in Books or Collections",
+                        "access": "unavailable",
+                        "key": "books/mk/bancilhonDK92/Zicari92",
+                        "url": "https://dblp.org/rec/books/mk/bancilhonDK92/Zicari92"
+                    },
+                    "url": "URL#7949750"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7968198",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "w/EmmanuelWaller",
+                                "text": "Emmanuel Waller"
+                            }
+                        },
+                        "title": "Schema updates and consistency.",
+                        "venue": "BDA",
+                        "pages": "25-",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/bda/Waller91",
+                        "url": "https://dblp.org/rec/conf/bda/Waller91"
+                    },
+                    "url": "URL#7968198"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7970355",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "w/EmmanuelWaller",
+                                "text": "Emmanuel Waller"
+                            }
+                        },
+                        "title": "Schema Updates and Consistency.",
+                        "venue": "DOOD",
+                        "pages": "167-188",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dood/Waller91",
+                        "doi": "10.1007/3-540-55015-1_9",
+                        "ee": "https://doi.org/10.1007/3-540-55015-1_9",
+                        "url": "https://dblp.org/rec/conf/dood/Waller91"
+                    },
+                    "url": "URL#7970355"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7973417",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "z/RZicari",
+                                "text": "Roberto V. Zicari"
+                            }
+                        },
+                        "title": "A Framework for Schema Updates In An Object-Oriented Database System.",
+                        "venue": "ICDE",
+                        "pages": "2-13",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/Zicari91",
+                        "doi": "10.1109/ICDE.1991.131447",
+                        "ee": "https://doi.org/10.1109/ICDE.1991.131447",
+                        "url": "https://dblp.org/rec/conf/icde/Zicari91"
+                    },
+                    "url": "URL#7973417"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8046625",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "84/4836",
+                                    "text": "Volkert Brosda"
+                                },
+                                {
+                                    "@pid": "v/GottfriedVossen",
+                                    "text": "Gottfried Vossen"
+                                }
+                            ]
+                        },
+                        "title": "Update and Retrieval in a Relational Database Through a Universal Schema Interface.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "13",
+                        "number": "4",
+                        "pages": "449-485",
+                        "year": "1988",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/BrosdaV88",
+                        "doi": "10.1145/49346.49884",
+                        "ee": "https://doi.org/10.1145/49346.49884",
+                        "url": "https://dblp.org/rec/journals/tods/BrosdaV88"
+                    },
+                    "url": "URL#8046625"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8128919",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "v/AnneVerroust",
+                                "text": "Anne Verroust"
+                            }
+                        },
+                        "title": "Characterization of Well-Behaved Database Schemata and Their Update Semantics.",
+                        "venue": "VLDB",
+                        "pages": "312-321",
+                        "year": "1983",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/Verroust83",
+                        "ee": "http://www.vldb.org/conf/1983/P312.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/Verroust83"
+                    },
+                    "url": "URL#8128919"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8168455",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "58/6077",
+                                "text": "Eric K. Clemons"
+                            }
+                        },
+                        "title": "An External Schema Facility to Support Data Base Update.",
+                        "venue": "JCDKB",
+                        "pages": "371-",
+                        "year": "1978",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/jcdkb/Clemons78",
+                        "url": "https://dblp.org/rec/conf/jcdkb/Clemons78"
+                    },
+                    "url": "URL#8168455"
+                }
+            ]
+        }
+    }
+}

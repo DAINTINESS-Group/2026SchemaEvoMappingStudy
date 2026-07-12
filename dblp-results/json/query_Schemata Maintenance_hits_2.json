@@ -1,0 +1,97 @@
+{
+    "result": {
+        "query": "Schemata* Maintenance*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "0.96"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "2",
+                "@dc": "2",
+                "@oc": "2",
+                "@id": "63638540",
+                "text": "maintenance"
+            }
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "141148",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "223/8303",
+                                    "text": "Zhuoxing Zhang"
+                                },
+                                {
+                                    "@pid": "l/SebastianLink",
+                                    "text": "Sebastian Link"
+                                }
+                            ]
+                        },
+                        "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies.",
+                        "venue": "Proc. ACM Manag. Data",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "225:1-225:25",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pacmmod/ZhangL25",
+                        "doi": "10.1145/3725362",
+                        "ee": "https://doi.org/10.1145/3725362",
+                        "url": "https://dblp.org/rec/journals/pacmmod/ZhangL25"
+                    },
+                    "url": "URL#141148"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6220230",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/5778-1",
+                                    "text": "Hui Ma 0001"
+                                },
+                                {
+                                    "@pid": "s/KlausDieterSchewe",
+                                    "text": "Klaus-Dieter Schewe"
+                                },
+                                {
+                                    "@pid": "t/BernhardThalheim",
+                                    "text": "Bernhard Thalheim"
+                                }
+                            ]
+                        },
+                        "title": "Modelling and Maintenance of Very Large Database Schemata Using Meta-structures.",
+                        "venue": "UNISCON",
+                        "pages": "17-28",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ista/MaST09",
+                        "doi": "10.1007/978-3-642-01112-2_4",
+                        "ee": "https://doi.org/10.1007/978-3-642-01112-2_4",
+                        "url": "https://dblp.org/rec/conf/ista/MaST09"
+                    },
+                    "url": "URL#6220230"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "result": {
+        "query": "Databases* Co Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "15.95"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "5",
+                    "@dc": "4",
+                    "@oc": "5",
+                    "@id": "63144092",
+                    "text": "evolutionary"
+                },
+                {
+                    "@sc": "3",
+                    "@dc": "3",
+                    "@oc": "3",
+                    "@id": "63144075",
+                    "text": "evolution"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "7",
+            "@computed": "7",
+            "@sent": "7",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "4",
+                    "@id": "6471546",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "71/2227",
+                                    "text": "Ricardo Landa Becerra"
+                                },
+                                {
+                                    "@pid": "93/2736",
+                                    "text": "Luis V. Santana-Quintero"
+                                },
+                                {
+                                    "@pid": "43/7183",
+                                    "text": "Carlos A. Coello Coello"
+                                }
+                            ]
+                        },
+                        "title": "Knowledge Incorporation in Multi-objective Evolutionary Algorithms.",
+                        "venue": "Multi-Objective Evolutionary Algorithms for Knowledge Discovery from Databases",
+                        "pages": "23-46",
+                        "year": "2008",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/BecerraSC08",
+                        "doi": "10.1007/978-3-540-77467-9_2",
+                        "ee": "https://doi.org/10.1007/978-3-540-77467-9_2",
+                        "url": "https://dblp.org/rec/series/sci/BecerraSC08"
+                    },
+                    "url": "URL#6471546"
+                },
+                {
+                    "@score": "3",
+                    "@id": "2994207",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "237/9397",
+                                    "text": "Kevin Correia"
+                                },
+                                {
+                                    "@pid": "237/9150",
+                                    "text": "Shi M. Yu"
+                                },
+                                {
+                                    "@pid": "91/5963",
+                                    "text": "Radhakrishnan Mahadevan"
+                                }
+                            ]
+                        },
+                        "title": "AYbRAH: a curated ortholog database for yeasts and fungi spanning 600 million years of evolution.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2019",
+                        "pages": "baz022",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/CorreiaYM19",
+                        "doi": "10.1093/DATABASE/BAZ022",
+                        "ee": "https://doi.org/10.1093/database/baz022",
+                        "url": "https://dblp.org/rec/journals/biodb/CorreiaYM19"
+                    },
+                    "url": "URL#2994207"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4690011",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/CarloCombi",
+                                    "text": "Carlo Combi"
+                                },
+                                {
+                                    "@pid": "81/4826",
+                                    "text": "Romeo Rizzi"
+                                },
+                                {
+                                    "@pid": "90/2082",
+                                    "text": "Pietro Sala"
+                                }
+                            ]
+                        },
+                        "title": "The Price of Evolution in Temporal Databases.",
+                        "venue": "TIME",
+                        "pages": "47-58",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/time/CombiRS15",
+                        "doi": "10.1109/TIME.2015.24",
+                        "ee": "https://doi.org/10.1109/TIME.2015.24",
+                        "url": "https://dblp.org/rec/conf/time/CombiRS15"
+                    },
+                    "url": "URL#4690011"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5944704",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/1820",
+                                    "text": "James F. Terwilliger"
+                                },
+                                {
+                                    "@pid": "b/PhilipABernstein",
+                                    "text": "Philip A. Bernstein"
+                                },
+                                {
+                                    "@pid": "06/8166",
+                                    "text": "Adi Unnithan"
+                                }
+                            ]
+                        },
+                        "title": "Automated Co-evolution of Conceptual Models, Physical Databases, and Mappings.",
+                        "venue": "ER",
+                        "pages": "146-159",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/TerwilligerBU10",
+                        "doi": "10.1007/978-3-642-16373-9_11",
+                        "ee": "https://doi.org/10.1007/978-3-642-16373-9_11",
+                        "url": "https://dblp.org/rec/conf/er/TerwilligerBU10"
+                    },
+                    "url": "URL#5944704"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6345879",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/1435",
+                                    "text": "Roc\u00edo Romero-Z\u00e1liz"
+                                },
+                                {
+                                    "@pid": "94/6735",
+                                    "text": "Cristina Rubio-Escudero"
+                                },
+                                {
+                                    "@pid": "22/2998",
+                                    "text": "J. P. Cobb"
+                                },
+                                {
+                                    "@pid": "04/0",
+                                    "text": "Francisco Herrera"
+                                },
+                                {
+                                    "@pid": "34/6784",
+                                    "text": "Oscar Cord\u00f3n"
+                                },
+                                {
+                                    "@pid": "87/277",
+                                    "text": "Igor Zwir"
+                                }
+                            ]
+                        },
+                        "title": "A Multiobjective Evolutionary Conceptual Clustering Methodology for Gene Annotation Within Structural Databases: A Case of Study on the Gene Ontology Database.",
+                        "venue": "IEEE Trans. Evol. Comput.",
+                        "volume": "12",
+                        "number": "6",
+                        "pages": "679-701",
+                        "year": "2008",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tec/Romero-ZalizRCHCZ08",
+                        "doi": "10.1109/TEVC.2008.915995",
+                        "ee": "https://doi.org/10.1109/TEVC.2008.915995",
+                        "url": "https://dblp.org/rec/journals/tec/Romero-ZalizRCHCZ08"
+                    },
+                    "url": "URL#6345879"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6772167",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/1435",
+                                    "text": "Roc\u00edo Romero-Z\u00e1liz"
+                                },
+                                {
+                                    "@pid": "94/6735",
+                                    "text": "Cristina Rubio-Escudero"
+                                },
+                                {
+                                    "@pid": "34/6784",
+                                    "text": "Oscar Cord\u00f3n"
+                                },
+                                {
+                                    "@pid": "28/6739",
+                                    "text": "Oscar Harari"
+                                },
+                                {
+                                    "@pid": "98/659",
+                                    "text": "Coral del Val"
+                                },
+                                {
+                                    "@pid": "87/277",
+                                    "text": "Igor Zwir"
+                                }
+                            ]
+                        },
+                        "title": "Mining Structural Databases: An Evolutionary Multi-Objetive Conceptual Clustering Methodology.",
+                        "venue": "EvoWorkshops",
+                        "pages": "159-171",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/evoW/Romero-ZalizRCHVZ06",
+                        "doi": "10.1007/11732242_15",
+                        "ee": "https://doi.org/10.1007/11732242_15",
+                        "url": "https://dblp.org/rec/conf/evoW/Romero-ZalizRCHVZ06"
+                    },
+                    "url": "URL#6772167"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7323379",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/SanghamitraBandyopadhyay",
+                                    "text": "Sanghamitra Bandyopadhyay"
+                                },
+                                {
+                                    "@pid": "93/3249",
+                                    "text": "Ujjwal Maulik"
+                                },
+                                {
+                                    "@pid": "c/DianeJCook",
+                                    "text": "Diane J. Cook"
+                                },
+                                {
+                                    "@pid": "h/LawrenceBHolder",
+                                    "text": "Lawrence B. Holder"
+                                },
+                                {
+                                    "@pid": "16/2092",
+                                    "text": "Yousuf Ajmerwala"
+                                }
+                            ]
+                        },
+                        "title": "Enhancing Structure Discovery for Data Mining in Graphical Databases Using Evolutionary Programming.",
+                        "venue": "FLAIRS",
+                        "pages": "232-236",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/flairs/BandyopadhyayMCHA02",
+                        "ee": "http://www.aaai.org/Library/FLAIRS/2002/flairs02-046.php",
+                        "url": "https://dblp.org/rec/conf/flairs/BandyopadhyayMCHA02"
+                    },
+                    "url": "URL#7323379"
+                }
+            ]
+        }
+    }
+}

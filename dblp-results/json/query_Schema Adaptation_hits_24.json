@@ -1,0 +1,791 @@
+{
+    "result": {
+        "query": "Schema* Adaptation*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "3.36"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "27",
+                    "@dc": "23",
+                    "@oc": "27",
+                    "@id": "62653346",
+                    "text": "adaptation"
+                },
+                {
+                    "@sc": "2",
+                    "@dc": "1",
+                    "@oc": "2",
+                    "@id": "62653356",
+                    "text": "adaptations"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "24",
+            "@computed": "24",
+            "@sent": "24",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "4",
+                    "@id": "5026138",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "50/5301",
+                                "text": "Sami Achour"
+                            }
+                        },
+                        "title": "Sch\u00e9mas d&apos;adaptations algorithmiques sur les nouveaux supports d&apos;\u00e9x\u00e9cution parall\u00e8les. (Algorithmic adaptations schemas on the new parallel platforms).",
+                        "year": "2013",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Achour13",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-01551787",
+                        "url": "https://dblp.org/rec/phd/hal/Achour13"
+                    },
+                    "url": "URL#5026138"
+                },
+                {
+                    "@score": "4",
+                    "@id": "5573790",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "78/10000",
+                                "text": "Narkoy Batouma"
+                            }
+                        },
+                        "title": "Un sch\u00e9ma d&apos;emprunt de ressources pour l&apos;adaptation du comportement d&apos;applications distribu\u00e9es. (A resource borrowing schema for behavior adaptation of distributed applications).",
+                        "year": "2011",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Batouma11",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00701480",
+                        "url": "https://dblp.org/rec/phd/hal/Batouma11"
+                    },
+                    "url": "URL#5573790"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5026307",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "181/9888",
+                                "text": "Alexandre Carabias"
+                            }
+                        },
+                        "title": "Analyse et adaptation de maillage pour des sch\u00e9mas non-oscillatoires d&apos;ordre \u00e9lev\u00e9. (Analysis and mesh adaptation for high order non-oscillatory schemes).",
+                        "year": "2013",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Carabias13",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00914214",
+                        "url": "https://dblp.org/rec/phd/hal/Carabias13"
+                    },
+                    "url": "URL#5026307"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5026759",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "182/0756",
+                                "text": "Estelle Mbinky"
+                            }
+                        },
+                        "title": "Adaptation de maillages pour des sch\u00e9mas num\u00e9riques d&apos;ordre tr\u00e8s \u00e9lev\u00e9. (Mesh adaptation for very high order numerical schemes).",
+                        "year": "2013",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Mbinky13",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00923773",
+                        "url": "https://dblp.org/rec/phd/hal/Mbinky13"
+                    },
+                    "url": "URL#5026759"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5826115",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "85/8178",
+                                "text": "Fran\u00e7ois Destelle"
+                            }
+                        },
+                        "title": "Adaptation de sch\u00e9mas de subdivision pour la reconstruction d&apos;objet sans artefact. (Adaptation of subdivision schemes for object reconstruction without artefact).",
+                        "year": "2010",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Destelle10",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00534612",
+                        "url": "https://dblp.org/rec/phd/hal/Destelle10"
+                    },
+                    "url": "URL#5826115"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6998252",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "58/3771",
+                                    "text": "Cong Yu 0001"
+                                },
+                                {
+                                    "@pid": "p/LucianPopa",
+                                    "text": "Lucian Popa 0001"
+                                }
+                            ]
+                        },
+                        "title": "Semantic Adaptation of Schema Mappings when Schemas Evolve.",
+                        "venue": "VLDB",
+                        "pages": "1006-1017",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/vldb/YuP05",
+                        "ee": "http://www.vldb.org/archives/website/2005/program/paper/fri/p1006-yu.pdf",
+                        "url": "https://dblp.org/rec/conf/vldb/YuP05"
+                    },
+                    "url": "URL#6998252"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1016405",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "188/0957",
+                                    "text": "Christopher Richardson"
+                                },
+                                {
+                                    "@pid": "229/4537",
+                                    "text": "Roshan Sharma"
+                                },
+                                {
+                                    "@pid": "133/7749",
+                                    "text": "Neeraj Gaur"
+                                },
+                                {
+                                    "@pid": "67/478",
+                                    "text": "Parisa Haghani"
+                                },
+                                {
+                                    "@pid": "335/2670",
+                                    "text": "Anirudh Sundar"
+                                },
+                                {
+                                    "@pid": "39/1849",
+                                    "text": "Bhuvana Ramabhadran"
+                                }
+                            ]
+                        },
+                        "title": "Schema Augmentation for Zero-Shot Domain Adaptation in Dialogue State Tracking.",
+                        "venue": "CoRR",
+                        "volume": "abs/2411.00150",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2411-00150",
+                        "doi": "10.48550/ARXIV.2411.00150",
+                        "ee": "https://doi.org/10.48550/arXiv.2411.00150",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2411-00150"
+                    },
+                    "url": "URL#1016405"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2446492",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "27/5672",
+                                    "text": "Gon\u00e7alo Cunha"
+                                },
+                                {
+                                    "@pid": "39/6903",
+                                    "text": "Pedro Vicente"
+                                },
+                                {
+                                    "@pid": "53/5306",
+                                    "text": "Alexandre Bernardino"
+                                },
+                                {
+                                    "@pid": "135/5124",
+                                    "text": "Ricardo A. Ribeiro"
+                                },
+                                {
+                                    "@pid": "15/2466",
+                                    "text": "Plinio Moreno"
+                                }
+                            ]
+                        },
+                        "title": "Online Body Schema Adaptation through Cost-Sensitive Active Learning.",
+                        "venue": "CoRR",
+                        "volume": "abs/2101.10892",
+                        "year": "2021",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2101-10892",
+                        "ee": "https://arxiv.org/abs/2101.10892",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2101-10892"
+                    },
+                    "url": "URL#2446492"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3614426",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "245/1236",
+                                    "text": "Rodrigo Zenha"
+                                },
+                                {
+                                    "@pid": "39/6903",
+                                    "text": "Pedro Vicente"
+                                },
+                                {
+                                    "@pid": "64/7990",
+                                    "text": "Lorenzo Jamone"
+                                },
+                                {
+                                    "@pid": "53/5306",
+                                    "text": "Alexandre Bernardino"
+                                }
+                            ]
+                        },
+                        "title": "Incremental adaptation of a robot body schema based on touch events.",
+                        "venue": "ICDL-EPIROB",
+                        "pages": "119-124",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdl-epirob/ZenhaVJB18",
+                        "doi": "10.1109/DEVLRN.2018.8761022",
+                        "ee": "https://doi.org/10.1109/DEVLRN.2018.8761022",
+                        "url": "https://dblp.org/rec/conf/icdl-epirob/ZenhaVJB18"
+                    },
+                    "url": "URL#3614426"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4144666",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/6903",
+                                    "text": "Pedro Vicente"
+                                },
+                                {
+                                    "@pid": "64/7990",
+                                    "text": "Lorenzo Jamone"
+                                },
+                                {
+                                    "@pid": "53/5306",
+                                    "text": "Alexandre Bernardino"
+                                }
+                            ]
+                        },
+                        "title": "Online Body Schema Adaptation Based on Internal Mental Simulation and Multisensory Feedback.",
+                        "venue": "Frontiers Robotics AI",
+                        "volume": "3",
+                        "pages": "7",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/firai/VicenteJB16",
+                        "doi": "10.3389/FROBT.2016.00007",
+                        "ee": "https://doi.org/10.3389/frobt.2016.00007",
+                        "url": "https://dblp.org/rec/journals/firai/VicenteJB16"
+                    },
+                    "url": "URL#4144666"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4260046",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "47/4500",
+                                    "text": "Young-Bum Kim"
+                                },
+                                {
+                                    "@pid": "07/11293",
+                                    "text": "Karl Stratos"
+                                },
+                                {
+                                    "@pid": "68/5953",
+                                    "text": "Ruhi Sarikaya"
+                                }
+                            ]
+                        },
+                        "title": "Domainless Adaptation by Constrained Decoding on a Schema Lattice.",
+                        "venue": "COLING",
+                        "pages": "2051-2060",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/coling/KimSS16a",
+                        "ee": "https://aclanthology.org/C16-1193/",
+                        "url": "https://dblp.org/rec/conf/coling/KimSS16a"
+                    },
+                    "url": "URL#4260046"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4875812",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "82/9959",
+                                    "text": "Joshua Amavi"
+                                },
+                                {
+                                    "@pid": "72/463",
+                                    "text": "Jacques Chabin"
+                                },
+                                {
+                                    "@pid": "f/MirianHalfeldFerrariAlves",
+                                    "text": "Mirian Halfeld Ferrari Alves"
+                                },
+                                {
+                                    "@pid": "76/6823",
+                                    "text": "Pierre R\u00e9ty"
+                                }
+                            ]
+                        },
+                        "title": "A ToolBox for Conservative XML Schema Evolution and Document Adaptation.",
+                        "venue": "DEXA",
+                        "pages": "299-307",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/AmaviCAR14",
+                        "doi": "10.1007/978-3-319-10073-9_24",
+                        "ee": "https://doi.org/10.1007/978-3-319-10073-9_24",
+                        "url": "https://dblp.org/rec/conf/dexa/AmaviCAR14"
+                    },
+                    "url": "URL#4875812"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5005123",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "82/9959",
+                                    "text": "Joshua Amavi"
+                                },
+                                {
+                                    "@pid": "72/463",
+                                    "text": "Jacques Chabin"
+                                },
+                                {
+                                    "@pid": "f/MirianHalfeldFerrariAlves",
+                                    "text": "Mirian Halfeld Ferrari Alves"
+                                },
+                                {
+                                    "@pid": "76/6823",
+                                    "text": "Pierre R\u00e9ty"
+                                }
+                            ]
+                        },
+                        "title": "A ToolBox for Conservative XML Schema Evolution and Document Adaptation.",
+                        "venue": "CoRR",
+                        "volume": "abs/1406.1423",
+                        "year": "2014",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/AmaviCAR14",
+                        "ee": "http://arxiv.org/abs/1406.1423",
+                        "url": "https://dblp.org/rec/journals/corr/AmaviCAR14"
+                    },
+                    "url": "URL#5005123"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5497618",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "141/2157",
+                                    "text": "Marek Pol\u00e1k"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Ml\u00fdnkov\u00e1"
+                                },
+                                {
+                                    "@pid": "p/EPardede",
+                                    "text": "Eric Pardede"
+                                }
+                            ]
+                        },
+                        "title": "XML Query Adaptation as Schema Evolves.",
+                        "venue": "ISD",
+                        "pages": "401-416",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isdevel/PolakMP12",
+                        "doi": "10.1007/978-1-4614-7540-8_31",
+                        "ee": "https://doi.org/10.1007/978-1-4614-7540-8_31",
+                        "url": "https://dblp.org/rec/conf/isdevel/PolakMP12"
+                    },
+                    "url": "URL#5497618"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5514541",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "22/8943",
+                                    "text": "Marco Mori"
+                                },
+                                {
+                                    "@pid": "c/AnthonyCleve",
+                                    "text": "Anthony Cleve"
+                                }
+                            ]
+                        },
+                        "title": "Feature-Based Adaptation of Database Schemas.",
+                        "venue": "MOMPES",
+                        "pages": "85-105",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mompes/MoriC12",
+                        "doi": "10.1007/978-3-642-38209-3_6",
+                        "ee": "https://doi.org/10.1007/978-3-642-38209-3_6",
+                        "url": "https://dblp.org/rec/conf/mompes/MoriC12"
+                    },
+                    "url": "URL#5514541"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5716878",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "71/10701",
+                                    "text": "Hicham Assoudi"
+                                },
+                                {
+                                    "@pid": "49/940",
+                                    "text": "Hakim Lounis"
+                                }
+                            ]
+                        },
+                        "title": "Self-Healing Data Exchange Process under Evolving Schemas: A New Mapping Adaptation Approach Based on Self-Optimization.",
+                        "venue": "HASE",
+                        "pages": "188-190",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/hase/AssoudiL11",
+                        "doi": "10.1109/HASE.2011.42",
+                        "ee": "https://doi.org/10.1109/HASE.2011.42",
+                        "url": "https://dblp.org/rec/conf/hase/AssoudiL11"
+                    },
+                    "url": "URL#5716878"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5944680",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "95/3736-27",
+                                    "text": "Jun Liu 0027"
+                                },
+                                {
+                                    "@pid": "93/6472",
+                                    "text": "Mark Roantree"
+                                },
+                                {
+                                    "@pid": "b/ZohraBellahsene",
+                                    "text": "Zohra Bellahsene"
+                                }
+                            ]
+                        },
+                        "title": "A SchemaGuide for Accelerating the View Adaptation Process.",
+                        "venue": "ER",
+                        "pages": "160-173",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/LiuRB10",
+                        "doi": "10.1007/978-3-642-16373-9_12",
+                        "ee": "https://doi.org/10.1007/978-3-642-16373-9_12",
+                        "url": "https://dblp.org/rec/conf/er/LiuRB10"
+                    },
+                    "url": "URL#5944680"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6664454",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/GiovannaGuerrini",
+                                    "text": "Giovanna Guerrini"
+                                },
+                                {
+                                    "@pid": "48/4862",
+                                    "text": "Marco Mesiti"
+                                },
+                                {
+                                    "@pid": "52/3593",
+                                    "text": "Matteo Alberto Sorrenti"
+                                }
+                            ]
+                        },
+                        "title": "XML Schema Evolution: Incremental Validation and Efficient Document Adaptation.",
+                        "venue": "XSym",
+                        "pages": "92-106",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/xsym/GuerriniMS07",
+                        "doi": "10.1007/978-3-540-75288-2_8",
+                        "ee": "https://doi.org/10.1007/978-3-540-75288-2_8",
+                        "url": "https://dblp.org/rec/conf/xsym/GuerriniMS07"
+                    },
+                    "url": "URL#6664454"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6766372",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/AlexandraICristea",
+                                    "text": "Alexandra I. Cristea"
+                                },
+                                {
+                                    "@pid": "39/521",
+                                    "text": "Maurice Hendrix"
+                                },
+                                {
+                                    "@pid": "n/WolfgangNejdl",
+                                    "text": "Wolfgang Nejdl"
+                                }
+                            ]
+                        },
+                        "title": "Automatic and Manual Annotation Using Flexible Schemas for Adaptation on the Semantic Desktop.",
+                        "venue": "EC-TEL",
+                        "pages": "88-102",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ectel/CristeaHN06",
+                        "doi": "10.1007/11876663_9",
+                        "ee": "https://doi.org/10.1007/11876663_9",
+                        "url": "https://dblp.org/rec/conf/ectel/CristeaHN06"
+                    },
+                    "url": "URL#6766372"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6766570",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "48/4862",
+                                    "text": "Marco Mesiti"
+                                },
+                                {
+                                    "@pid": "48/2329",
+                                    "text": "Roberto Celle"
+                                },
+                                {
+                                    "@pid": "52/3593",
+                                    "text": "Matteo Alberto Sorrenti"
+                                },
+                                {
+                                    "@pid": "g/GiovannaGuerrini",
+                                    "text": "Giovanna Guerrini"
+                                }
+                            ]
+                        },
+                        "title": "X-Evolution: A System for XML Schema Evolution and Document Adaptation.",
+                        "venue": "EDBT",
+                        "pages": "1143-1146",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edbt/MesitiCSG06",
+                        "doi": "10.1007/11687238_78",
+                        "ee": "https://doi.org/10.1007/11687238_78",
+                        "url": "https://dblp.org/rec/conf/edbt/MesitiCSG06"
+                    },
+                    "url": "URL#6766570"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6828124",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/3354",
+                                    "text": "Yu-Han Chang"
+                                },
+                                {
+                                    "@pid": "59/840",
+                                    "text": "Paul R. Cohen"
+                                },
+                                {
+                                    "@pid": "84/3699",
+                                    "text": "Clayton T. Morrison"
+                                },
+                                {
+                                    "@pid": "87/2366",
+                                    "text": "Robert St. Amant"
+                                },
+                                {
+                                    "@pid": "68/2687",
+                                    "text": "Carole R. Beal"
+                                }
+                            ]
+                        },
+                        "title": "Piagetian Adaptation Meets Image Schemas: The Jean System.",
+                        "venue": "SAB",
+                        "pages": "369-380",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sab/ChangCMAB06",
+                        "doi": "10.1007/11840541_31",
+                        "ee": "https://doi.org/10.1007/11840541_31",
+                        "url": "https://dblp.org/rec/conf/sab/ChangCMAB06"
+                    },
+                    "url": "URL#6828124"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6941908",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "68/6487",
+                                    "text": "Minghong Zhou"
+                                },
+                                {
+                                    "@pid": "04/5283",
+                                    "text": "Huaming Liao"
+                                },
+                                {
+                                    "@pid": "92/2954",
+                                    "text": "Feng Li"
+                                }
+                            ]
+                        },
+                        "title": "Schema Adaptation Under Multi-relation Dependencies.",
+                        "venue": "GCC",
+                        "pages": "511-516",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/gcc/ZhouLL05",
+                        "doi": "10.1007/11590354_64",
+                        "ee": "https://doi.org/10.1007/11590354_64",
+                        "url": "https://dblp.org/rec/conf/gcc/ZhouLL05"
+                    },
+                    "url": "URL#6941908"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7259347",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "v/YannisVelegrakis",
+                                    "text": "Yannis Velegrakis"
+                                },
+                                {
+                                    "@pid": "m/RJMiller",
+                                    "text": "Ren\u00e9e J. Miller"
+                                },
+                                {
+                                    "@pid": "p/LucianPopa",
+                                    "text": "Lucian Popa 0001"
+                                }
+                            ]
+                        },
+                        "title": "Mapping Adaptation under Evolving Schemas.",
+                        "venue": "VLDB",
+                        "pages": "584-595",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/vldb/VelegrakisMP03",
+                        "doi": "10.1016/B978-012722442-8/50058-6",
+                        "ee": "http://www.vldb.org/conf/2003/papers/S18P02.pdf",
+                        "url": "https://dblp.org/rec/conf/vldb/VelegrakisMP03"
+                    },
+                    "url": "URL#7259347"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7817374",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/BoualemBenatallah",
+                                    "text": "Boualem Benatallah"
+                                },
+                                {
+                                    "@pid": "67/1110",
+                                    "text": "Marie-Christine Fauvet"
+                                }
+                            ]
+                        },
+                        "title": "Evolution de sch\u00e9ma &amp; adaptation des instances.",
+                        "venue": "INFORSID",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/inforsid/BenatallahF95",
+                        "url": "https://dblp.org/rec/conf/inforsid/BenatallahF95"
+                    },
+                    "url": "URL#7817374"
+                }
+            ]
+        }
+    }
+}

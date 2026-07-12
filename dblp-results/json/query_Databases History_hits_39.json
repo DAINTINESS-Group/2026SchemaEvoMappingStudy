@@ -1,0 +1,1321 @@
+{
+    "result": {
+        "query": "Databases* History*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "9.36"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "39",
+                    "@dc": "38",
+                    "@oc": "39",
+                    "@id": "63344775",
+                    "text": "history"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "63344778",
+                    "text": "historychart"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "39",
+            "@computed": "39",
+            "@sent": "39",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "2886732",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/1283",
+                                    "text": "Thomas Riechert"
+                                },
+                                {
+                                    "@pid": "222/1145",
+                                    "text": "Francesco Beretta"
+                                },
+                                {
+                                    "@pid": "179/0294",
+                                    "text": "George Bruseker"
+                                }
+                            ]
+                        },
+                        "title": "Proceedings of the Doctoral Symposium on Research on Online Databases in History co-located with 3rd Data for History Workshop, RODBH 2019, Leipzig, Germany, April 4-5, 2019.",
+                        "venue": [
+                            "RODBH",
+                            "CEUR Workshop Proceedings"
+                        ],
+                        "volume": "2532",
+                        "publisher": "CEUR-WS.org",
+                        "year": "2020",
+                        "type": "Editorship",
+                        "access": "open",
+                        "key": "conf/rodbh/2019",
+                        "ee": "https://ceur-ws.org/Vol-2532",
+                        "url": "https://dblp.org/rec/conf/rodbh/2019"
+                    },
+                    "url": "URL#2886732"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5004415",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/JackMinker",
+                                    "text": "Jack Minker"
+                                },
+                                {
+                                    "@pid": "s/DietmarSeipel",
+                                    "text": "Dietmar Seipel"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "Logic and Databases: A History of Deductive Databases.",
+                        "venue": "Computational Logic",
+                        "pages": "571-627",
+                        "year": "2014",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "series/hhl/MinkerSZ14",
+                        "doi": "10.1016/B978-0-444-51624-4.50013-7",
+                        "ee": "https://doi.org/10.1016/B978-0-444-51624-4.50013-7",
+                        "url": "https://dblp.org/rec/series/hhl/MinkerSZ14"
+                    },
+                    "url": "URL#5004415"
+                },
+                {
+                    "@score": "2",
+                    "@id": "58838",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "418/4024",
+                                    "text": "Sara Santorsa"
+                                },
+                                {
+                                    "@pid": "418/4749",
+                                    "text": "Monia Bartolucci"
+                                },
+                                {
+                                    "@pid": "418/4156",
+                                    "text": "Emanuela Cilione"
+                                },
+                                {
+                                    "@pid": "418/4169",
+                                    "text": "Isabella Florio"
+                                },
+                                {
+                                    "@pid": "418/4004",
+                                    "text": "Giorgia Migliorelli"
+                                },
+                                {
+                                    "@pid": "418/4300",
+                                    "text": "Maria Adelaide Ranchino"
+                                },
+                                {
+                                    "@pid": "345/5357",
+                                    "text": "Luca Tiberi"
+                                }
+                            ]
+                        },
+                        "title": "From manuscript inventories to data: Artificial intelligence and databases, a new chapter for the history of science at &quot;G. Marconi&quot; Central Library of the CNR.",
+                        "venue": "Digit. Appl. Archaeol. Cult. Heritage",
+                        "volume": "39",
+                        "pages": "459",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/daach/SantorsaBCFMRT25",
+                        "doi": "10.1016/J.DAACH.2025.E00459",
+                        "ee": "https://doi.org/10.1016/j.daach.2025.e00459",
+                        "url": "https://dblp.org/rec/journals/daach/SantorsaBCFMRT25"
+                    },
+                    "url": "URL#58838"
+                },
+                {
+                    "@score": "2",
+                    "@id": "571499",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "w/PeterWillett",
+                                "text": "Peter Willett 0002"
+                            }
+                        },
+                        "title": "Searching chemical databases in the pre-history of cheminformatics.",
+                        "venue": "J. Cheminformatics",
+                        "volume": "16",
+                        "number": "1",
+                        "pages": "120",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jcheminf/Willett24",
+                        "doi": "10.1186/S13321-024-00919-9",
+                        "ee": "https://doi.org/10.1186/s13321-024-00919-9",
+                        "url": "https://dblp.org/rec/journals/jcheminf/Willett24"
+                    },
+                    "url": "URL#571499"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1070253",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "182/5292",
+                                    "text": "Ana Petrus"
+                                },
+                                {
+                                    "@pid": "318/7166",
+                                    "text": "Tobias Wildi"
+                                },
+                                {
+                                    "@pid": "360/9034",
+                                    "text": "Stefanie M\u00fcller 0008"
+                                }
+                            ]
+                        },
+                        "title": "Preproject &apos;Swiss Virtual Natural History Collection&apos;.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2023",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/PetrusWM23",
+                        "doi": "10.1093/DATABASE/BAAD072",
+                        "ee": "https://doi.org/10.1093/database/baad072",
+                        "url": "https://dblp.org/rec/journals/biodb/PetrusWM23"
+                    },
+                    "url": "URL#1070253"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2578686",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "288/4288",
+                                "text": "Sarah-Mai Dang"
+                            }
+                        },
+                        "title": "Unknowable Facts and Digital Databases: Reflections on the Women Film Pioneers Project and Women in Film History.",
+                        "venue": "Digit. Humanit. Q.",
+                        "volume": "14",
+                        "number": "4",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/dhq/Dang20",
+                        "ee": "http://www.digitalhumanities.org/dhq/vol/14/4/000528/000528.html",
+                        "url": "https://dblp.org/rec/journals/dhq/Dang20"
+                    },
+                    "url": "URL#2578686"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2994294",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/2048",
+                                    "text": "Ben Scott"
+                                },
+                                {
+                                    "@pid": "164/1731",
+                                    "text": "Edward Baker"
+                                },
+                                {
+                                    "@pid": "239/7957",
+                                    "text": "Matt Woodburn"
+                                },
+                                {
+                                    "@pid": "239/8029",
+                                    "text": "Sarah Vincent"
+                                },
+                                {
+                                    "@pid": "239/8067",
+                                    "text": "Helen Hardy"
+                                },
+                                {
+                                    "@pid": "22/8247",
+                                    "text": "Vincent S. Smith"
+                                }
+                            ]
+                        },
+                        "title": "The Natural History Museum Data Portal.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2019",
+                        "pages": "baz038",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/ScottBWSHS19",
+                        "doi": "10.1093/DATABASE/BAZ038",
+                        "ee": "https://doi.org/10.1093/database/baz038",
+                        "url": "https://dblp.org/rec/journals/biodb/ScottBWSHS19"
+                    },
+                    "url": "URL#2994294"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3293193",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/1283",
+                                    "text": "Thomas Riechert"
+                                },
+                                {
+                                    "@pid": "222/1145",
+                                    "text": "Francesco Beretta"
+                                },
+                                {
+                                    "@pid": "179/0294",
+                                    "text": "George Bruseker"
+                                },
+                                {
+                                    "@pid": "128/2566",
+                                    "text": "Edgard Marx"
+                                },
+                                {
+                                    "@pid": "257/3410",
+                                    "text": "Jennifer Blanke"
+                                },
+                                {
+                                    "@pid": "222/8693",
+                                    "text": "Vincent Alamercery"
+                                },
+                                {
+                                    "@pid": "208/7190",
+                                    "text": "Tracy Hoffmann"
+                                },
+                                {
+                                    "@pid": "25/8645",
+                                    "text": "Natanael Arndt"
+                                }
+                            ]
+                        },
+                        "title": "Doctoral Symposium on Research on Online Databases in History (RODBH 2019).",
+                        "venue": "RODBH",
+                        "pages": "1-6",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/rodbh/RiechertBBMBAHA19",
+                        "ee": "https://ceur-ws.org/Vol-2532/introduction.pdf",
+                        "url": "https://dblp.org/rec/conf/rodbh/RiechertBBMBAHA19"
+                    },
+                    "url": "URL#3293193"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3548888",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "135/6020",
+                                    "text": "Andrea K. Thomer"
+                                },
+                                {
+                                    "@pid": "80/9789",
+                                    "text": "Nicholas M. Weber"
+                                },
+                                {
+                                    "@pid": "t/MichaelTwidale",
+                                    "text": "Michael B. Twidale"
+                                }
+                            ]
+                        },
+                        "title": "Supporting the long-term curation and migration of natural history museum collections databases.",
+                        "venue": "ASIST",
+                        "pages": "504-513",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/asist/ThomerWT18",
+                        "doi": "10.1002/PRA2.2018.14505501055",
+                        "ee": "https://doi.org/10.1002/pra2.2018.14505501055",
+                        "url": "https://dblp.org/rec/conf/asist/ThomerWT18"
+                    },
+                    "url": "URL#3548888"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3716983",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "j/ChristianSJensen",
+                                    "text": "Christian S. Jensen"
+                                },
+                                {
+                                    "@pid": "s/RichardTSnodgrass",
+                                    "text": "Richard T. Snodgrass"
+                                }
+                            ]
+                        },
+                        "title": "History in Temporal Databases.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "year": "2018",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/JensenS18g",
+                        "doi": "10.1007/978-1-4614-8265-9_1415",
+                        "ee": "https://doi.org/10.1007/978-1-4614-8265-9_1415",
+                        "url": "https://dblp.org/rec/reference/db/JensenS18g"
+                    },
+                    "url": "URL#3716983"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3831358",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "178/7719",
+                                    "text": "Lucas Henrique C. Lima"
+                                },
+                                {
+                                    "@pid": "179/8273",
+                                    "text": "Gustavo Penha"
+                                },
+                                {
+                                    "@pid": "203/7096",
+                                    "text": "La\u00eds Mota de Alencar Rocha"
+                                },
+                                {
+                                    "@pid": "m/MirellaMouraMoro",
+                                    "text": "Mirella M. Moro"
+                                },
+                                {
+                                    "@pid": "47/2795",
+                                    "text": "Ana Paula Couto da Silva"
+                                },
+                                {
+                                    "@pid": "l/AHFLaender",
+                                    "text": "Alberto H. F. Laender"
+                                },
+                                {
+                                    "@pid": "o/JosePalazzoMoreiradeOliveira",
+                                    "text": "Jos\u00e9 Palazzo M. de Oliveira"
+                                }
+                            ]
+                        },
+                        "title": "The collaboration network of the Brazilian Symposium on Databases - 30 editions of history.",
+                        "venue": "J. Braz. Comput. Soc.",
+                        "volume": "23",
+                        "number": "1",
+                        "pages": "10:1-10:16",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jbcs/LimaPRMSLO17",
+                        "doi": "10.1186/S13173-017-0059-6",
+                        "ee": "https://doi.org/10.1186/s13173-017-0059-6",
+                        "url": "https://dblp.org/rec/journals/jbcs/LimaPRMSLO17"
+                    },
+                    "url": "URL#3831358"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4267649",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/10483",
+                                    "text": "E. G. Patrick Bos"
+                                },
+                                {
+                                    "@pid": "183/0588",
+                                    "text": "Huub Wijfjes"
+                                },
+                                {
+                                    "@pid": "183/0632",
+                                    "text": "Maaike Piscaer"
+                                },
+                                {
+                                    "@pid": "131/0697",
+                                    "text": "Gerrit Voerman"
+                                }
+                            ]
+                        },
+                        "title": "Quantifying &quot;Pillarization&quot;: Extracting Political History from Large Databases of Digitized Media Collections.",
+                        "venue": "HistoInformatics@DH",
+                        "pages": "57-66",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/dihu/BosWPV16",
+                        "ee": "https://ceur-ws.org/Vol-1632/paper_8.pdf",
+                        "url": "https://dblp.org/rec/conf/dihu/BosWPV16"
+                    },
+                    "url": "URL#4267649"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5165760",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "185/5913",
+                                "text": "Luke Kirwan"
+                            }
+                        },
+                        "title": "Databases for Quantitative History.",
+                        "venue": "DHLU",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/dhlu/Kirwan13",
+                        "ee": "https://ceur-ws.org/Vol-1681/Kirwan_Quantitative_History.pdf",
+                        "url": "https://dblp.org/rec/conf/dhlu/Kirwan13"
+                    },
+                    "url": "URL#5165760"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5201261",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "133/7803",
+                                    "text": "Arnaud Castelltort"
+                                },
+                                {
+                                    "@pid": "l/AnneLaurent",
+                                    "text": "Anne Laurent"
+                                }
+                            ]
+                        },
+                        "title": "Representing history in graph-oriented NoSQL databases: A versioning system.",
+                        "venue": "ICDIM",
+                        "pages": "228-234",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdim/CastelltortL13",
+                        "doi": "10.1109/ICDIM.2013.6694022",
+                        "ee": "https://doi.org/10.1109/ICDIM.2013.6694022",
+                        "url": "https://dblp.org/rec/conf/icdim/CastelltortL13"
+                    },
+                    "url": "URL#5201261"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5437198",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "122/2161",
+                                    "text": "Sushan Chakraborty"
+                                },
+                                {
+                                    "@pid": "69/5379",
+                                    "text": "Madhulina Sarkar"
+                                },
+                                {
+                                    "@pid": "22/4626",
+                                    "text": "Nandini Mukherjee"
+                                }
+                            ]
+                        },
+                        "title": "Implementation of execution history in non-relational databases for feedback-guided job modeling.",
+                        "venue": "CUBE",
+                        "pages": "476-482",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cube/ChakrabortySM12",
+                        "doi": "10.1145/2381716.2381806",
+                        "ee": "https://doi.org/10.1145/2381716.2381806",
+                        "url": "https://dblp.org/rec/conf/cube/ChakrabortySM12"
+                    },
+                    "url": "URL#5437198"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5440533",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "70/11023",
+                                    "text": "Peter K. Bol"
+                                },
+                                {
+                                    "@pid": "34/6284",
+                                    "text": "Jieh Hsiang"
+                                },
+                                {
+                                    "@pid": "223/0766",
+                                    "text": "Grace Fong"
+                                }
+                            ]
+                        },
+                        "title": "Prosopographical Databases, Text-Mining, GIS and System Interoperability for Chinese History and Literature.",
+                        "venue": "DH",
+                        "pages": "43-51",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dihu/BolHF12",
+                        "ee": "http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/prosopographical-databases-text-mining-gis-and-system-interoperability-for-chinese-history-and-literature.1.html",
+                        "url": "https://dblp.org/rec/conf/dihu/BolHF12"
+                    },
+                    "url": "URL#5440533"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5843334",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "122/7748",
+                                "text": "Erik Nemeth"
+                            }
+                        },
+                        "title": "Complementary Value of Databases for Discovery of Scholarly Literature: A User Survey of Online Searching for Publications in Art History.",
+                        "venue": "Coll. Res. Libr.",
+                        "volume": "71",
+                        "number": "3",
+                        "pages": "223-235",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/crl/Nemeth10",
+                        "ee": "http://crl.acrl.org/content/71/3/223.abstract",
+                        "url": "https://dblp.org/rec/journals/crl/Nemeth10"
+                    },
+                    "url": "URL#5843334"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6058109",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "h/RagibHasan",
+                                "text": "Ragib Hasan"
+                            }
+                        },
+                        "title": "Trustworthy History and Provenance for Files and Databases",
+                        "year": "2009",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/us/Hasan09b",
+                        "ee": "https://hdl.handle.net/2142/81859",
+                        "url": "https://dblp.org/rec/phd/us/Hasan09b"
+                    },
+                    "url": "URL#6058109"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6083049",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "195/1574",
+                                "text": "Sharon A. Weiner"
+                            }
+                        },
+                        "title": "Tale of two databases: The history of federally funded information systems for education and medicine.",
+                        "venue": "Gov. Inf. Q.",
+                        "volume": "26",
+                        "number": "3",
+                        "pages": "450-458",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/giq/Weiner09",
+                        "doi": "10.1016/J.GIQ.2009.02.003",
+                        "ee": "https://doi.org/10.1016/j.giq.2009.02.003",
+                        "url": "https://dblp.org/rec/journals/giq/Weiner09"
+                    },
+                    "url": "URL#6083049"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6267867",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "j/ChristianSJensen",
+                                    "text": "Christian S. Jensen"
+                                },
+                                {
+                                    "@pid": "s/RichardTSnodgrass",
+                                    "text": "Richard T. Snodgrass"
+                                }
+                            ]
+                        },
+                        "title": "History in Temporal Databases.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "pages": "1319",
+                        "year": "2009",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/JensenS09h",
+                        "doi": "10.1007/978-0-387-39940-9_1415",
+                        "ee": "https://doi.org/10.1007/978-0-387-39940-9_1415",
+                        "url": "https://dblp.org/rec/reference/db/JensenS09h"
+                    },
+                    "url": "URL#6267867"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6298971",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "12/2633",
+                                    "text": "Ting Wang"
+                                },
+                                {
+                                    "@pid": "64/3225",
+                                    "text": "Jochem Vonk"
+                                },
+                                {
+                                    "@pid": "83/2419",
+                                    "text": "Benedikt Kratz"
+                                },
+                                {
+                                    "@pid": "g/PaulWPJGrefen",
+                                    "text": "Paul W. P. J. Grefen"
+                                }
+                            ]
+                        },
+                        "title": "A survey on the history of transaction management: from flat to grid transactions.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "23",
+                        "number": "3",
+                        "pages": "235-270",
+                        "year": "2008",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/WangVKG08",
+                        "doi": "10.1007/S10619-008-7028-1",
+                        "ee": "https://doi.org/10.1007/s10619-008-7028-1",
+                        "url": "https://dblp.org/rec/journals/dpd/WangVKG08"
+                    },
+                    "url": "URL#6298971"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6405420",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "24/3402",
+                                    "text": "Marc Wichterich"
+                                },
+                                {
+                                    "@pid": "40/998",
+                                    "text": "Christian Beecks"
+                                },
+                                {
+                                    "@pid": "s/ThomasSeidl1",
+                                    "text": "Thomas Seidl 0001"
+                                }
+                            ]
+                        },
+                        "title": "Ranking multimedia databases via relevance feedback with history and foresight support.",
+                        "venue": "ICDE Workshops",
+                        "pages": "596-599",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/WichterichBS08",
+                        "doi": "10.1109/ICDEW.2008.4498386",
+                        "ee": "https://doi.org/10.1109/ICDEW.2008.4498386",
+                        "url": "https://dblp.org/rec/conf/icde/WichterichBS08"
+                    },
+                    "url": "URL#6405420"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6816560",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/3806",
+                                    "text": "Caroline Sporleder"
+                                },
+                                {
+                                    "@pid": "81/5832",
+                                    "text": "Marieke van Erp"
+                                },
+                                {
+                                    "@pid": "206/1853",
+                                    "text": "Tijn Porcelijn"
+                                },
+                                {
+                                    "@pid": "b/AvdBosch",
+                                    "text": "Antal van den Bosch"
+                                },
+                                {
+                                    "@pid": "206/1923",
+                                    "text": "Pim Arntzen"
+                                }
+                            ]
+                        },
+                        "title": "Identifying Named Entities in Text Databases from the Natural History Domain.",
+                        "venue": "LREC",
+                        "pages": "1742-1745",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/lrec/SporlederEPBA06",
+                        "ee": "http://www.lrec-conf.org/proceedings/lrec2006/summaries/482.html",
+                        "url": "https://dblp.org/rec/conf/lrec/SporlederEPBA06"
+                    },
+                    "url": "URL#6816560"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6819539",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "66/974",
+                                    "text": "Goce Trajcevski"
+                                },
+                                {
+                                    "@pid": "64/1651",
+                                    "text": "Hu Cao"
+                                },
+                                {
+                                    "@pid": "s/PeterScheuermann",
+                                    "text": "Peter Scheuermann"
+                                },
+                                {
+                                    "@pid": "w/OuriWolfson",
+                                    "text": "Ouri Wolfson"
+                                },
+                                {
+                                    "@pid": "92/4654",
+                                    "text": "Dennis Vaccaro"
+                                }
+                            ]
+                        },
+                        "title": "On-line data reduction and the quality of history in moving objects databases.",
+                        "venue": "MobiDE",
+                        "pages": "19-26",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mobide/TrajcevskiCSWV06",
+                        "doi": "10.1145/1140104.1140110",
+                        "ee": "https://doi.org/10.1145/1140104.1140110",
+                        "url": "https://dblp.org/rec/conf/mobide/TrajcevskiCSWV06"
+                    },
+                    "url": "URL#6819539"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6909227",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "69/3405-1",
+                                    "text": "Fusheng Wang 0001"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "An XML-Based Approach to Publishing and Querying the History of Databases.",
+                        "venue": "World Wide Web",
+                        "volume": "8",
+                        "number": "3",
+                        "pages": "233-259",
+                        "year": "2005",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/www/WangZ05",
+                        "doi": "10.1007/S11280-005-1317-7",
+                        "ee": "https://doi.org/10.1007/s11280-005-1317-7",
+                        "url": "https://dblp.org/rec/journals/www/WangZ05"
+                    },
+                    "url": "URL#6909227"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7087472",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/1307",
+                                    "text": "Eduardo N\u00f3brega"
+                                },
+                                {
+                                    "@pid": "91/4668",
+                                    "text": "Jos\u00e9 Tiago Rolim"
+                                },
+                                {
+                                    "@pid": "31/4518",
+                                    "text": "Val\u00e9ria Ces\u00e1rio Times"
+                                }
+                            ]
+                        },
+                        "title": "Representing Uncertainty, Profile and Movement History in Mobile Objects Databases.",
+                        "venue": "GEOINFO",
+                        "pages": "305-320",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/geoinfo/NobregaRT04",
+                        "ee": "http://www.geoinfo.info/geoinfo2004/papers/6444.pdf",
+                        "url": "https://dblp.org/rec/conf/geoinfo/NobregaRT04"
+                    },
+                    "url": "URL#7087472"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7181180",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "p/BerndPage",
+                                    "text": "Bernd Page"
+                                },
+                                {
+                                    "@pid": "39/6800",
+                                    "text": "Kristina Voigt"
+                                }
+                            ]
+                        },
+                        "title": "Recent history and development of environmental information systems and databases in Germany.",
+                        "venue": "Online Inf. Rev.",
+                        "volume": "27",
+                        "number": "1",
+                        "pages": "37-50",
+                        "year": "2003",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/oir/PageV03",
+                        "doi": "10.1108/14684520310462554",
+                        "ee": "https://doi.org/10.1108/14684520310462554",
+                        "url": "https://dblp.org/rec/journals/oir/PageV03"
+                    },
+                    "url": "URL#7181180"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7457691",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "59/1019",
+                                    "text": "L\u00e1szl\u00f3 Kov\u00e1cs"
+                                },
+                                {
+                                    "@pid": "24/4310",
+                                    "text": "Costas Vassilakis 0001"
+                                }
+                            ]
+                        },
+                        "title": "Function Oriented History Representation in Databases.",
+                        "venue": "Comput. Artif. Intell.",
+                        "volume": "19",
+                        "number": "5",
+                        "pages": "417-444",
+                        "year": "2000",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/cai/KovacsV00",
+                        "ee": "http://www.cai.sk/ojs/index.php/cai/article/view/570",
+                        "url": "https://dblp.org/rec/journals/cai/KovacsV00"
+                    },
+                    "url": "URL#7457691"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7615289",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "125/9099",
+                                    "text": "Onno Boonstra"
+                                },
+                                {
+                                    "@pid": "126/0118",
+                                    "text": "Maarten Panhuysen"
+                                }
+                            ]
+                        },
+                        "title": "From source-oriented databases to event-history data files: a twelve-step action plan for the analysis of individual and household life histories.",
+                        "venue": "Hist. Comput.",
+                        "volume": "10",
+                        "number": "1-3",
+                        "pages": "1-9",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/hac/BoonstraP98",
+                        "doi": "10.3366/HAC.1998.10.1-3.1",
+                        "ee": "https://doi.org/10.3366/hac.1998.10.1-3.1",
+                        "url": "https://dblp.org/rec/journals/hac/BoonstraP98"
+                    },
+                    "url": "URL#7615289"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7641169",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "27/1967",
+                                    "text": "Jeffrey A. Goldman"
+                                },
+                                {
+                                    "@pid": "c/WesleyWChu",
+                                    "text": "Wesley W. Chu"
+                                },
+                                {
+                                    "@pid": "p/DSParkerJr",
+                                    "text": "Douglas Stott Parker Jr."
+                                },
+                                {
+                                    "@pid": "87/6976",
+                                    "text": "Robert M. Goldman"
+                                }
+                            ]
+                        },
+                        "title": "TDDA, a Data Mining Tool for Text Databases: A Case History in a Lung Cancer Text Database.",
+                        "venue": "Discovery Science",
+                        "pages": "431-432",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dis/GoldmanCPG98",
+                        "doi": "10.1007/3-540-49292-5_56",
+                        "ee": "https://doi.org/10.1007/3-540-49292-5_56",
+                        "url": "https://dblp.org/rec/conf/dis/GoldmanCPG98"
+                    },
+                    "url": "URL#7641169"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7672145",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "24/4994",
+                                "text": "Xavier C. Delannoy"
+                            }
+                        },
+                        "title": "Contributions \u00e0 l&apos;\u00e9tude de la tension entre coh\u00e9rence et confidentialit\u00e9 et du classement d&apos;objets selon leur histoire dans les bases de donn\u00e9es. (Contributions to the study of the tension between consistency and confidentiality, and of the classifying of objects according to their history, in databases).",
+                        "year": "1997",
+                        "type": "Books and Theses",
+                        "access": "open",
+                        "key": "phd/hal/Delannoy97",
+                        "ee": "https://tel.archives-ouvertes.fr/tel-00004936",
+                        "url": "https://dblp.org/rec/phd/hal/Delannoy97"
+                    },
+                    "url": "URL#7672145"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7762617",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/3043",
+                                    "text": "Paul Allen"
+                                },
+                                {
+                                    "@pid": "99/514",
+                                    "text": "Rob McKendrick"
+                                },
+                                {
+                                    "@pid": "78/487",
+                                    "text": "Chris Scott"
+                                },
+                                {
+                                    "@pid": "44/260",
+                                    "text": "Massimo Buonanno"
+                                },
+                                {
+                                    "@pid": "67/1975",
+                                    "text": "Paola Mostacci"
+                                },
+                                {
+                                    "@pid": "01/3521",
+                                    "text": "Costanza Naldini"
+                                },
+                                {
+                                    "@pid": "31/2745",
+                                    "text": "Vincenzo Scuderi"
+                                },
+                                {
+                                    "@pid": "88/1849",
+                                    "text": "Paolo Stofella"
+                                }
+                            ]
+                        },
+                        "title": "Interactive Anomaly Detection in Large Transaction History Databases.",
+                        "venue": "HPCN Europe",
+                        "pages": "143-149",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/hpcn/AllenMSBMNSS96",
+                        "doi": "10.1007/3-540-61142-8_540",
+                        "ee": "https://doi.org/10.1007/3-540-61142-8_540",
+                        "url": "https://dblp.org/rec/conf/hpcn/AllenMSBMNSS96"
+                    },
+                    "url": "URL#7762617"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7824970",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/6586",
+                                    "text": "Alessandro Cappelli"
+                                },
+                                {
+                                    "@pid": "73/2997",
+                                    "text": "Cristina De Castro"
+                                },
+                                {
+                                    "@pid": "s/MariaRitaScalas",
+                                    "text": "Maria Rita Scalas"
+                                }
+                            ]
+                        },
+                        "title": "A Modular History-Oriented Access Structure for Bitemporal Relational Databases.",
+                        "venue": "SOFSEM",
+                        "pages": "369-374",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sofsem/CappelliCS95",
+                        "doi": "10.1007/3-540-60609-2_19",
+                        "ee": "https://doi.org/10.1007/3-540-60609-2_19",
+                        "url": "https://dblp.org/rec/conf/sofsem/CappelliCS95"
+                    },
+                    "url": "URL#7824970"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7870783",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/5977",
+                                    "text": "Bonnie J. Holt"
+                                },
+                                {
+                                    "@pid": "92/1768",
+                                    "text": "Laura Hartwick"
+                                }
+                            ]
+                        },
+                        "title": "Visual Image Retrieval for Applications in Art and Art History.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "70-81",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/HoltH94",
+                        "doi": "10.1117/12.171782",
+                        "ee": "https://doi.org/10.1117/12.171782",
+                        "url": "https://dblp.org/rec/conf/spieSR/HoltH94"
+                    },
+                    "url": "URL#7870783"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8002841",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "t/VassilisJTsotras",
+                                    "text": "Vassilis J. Tsotras"
+                                },
+                                {
+                                    "@pid": "14/3793",
+                                    "text": "B. Gopinath"
+                                }
+                            ]
+                        },
+                        "title": "Efficient Algorithms for Managing the History of Evolving Databases.",
+                        "venue": "ICDT",
+                        "pages": "141-174",
+                        "year": "1990",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdt/TsotrasG90",
+                        "doi": "10.1007/3-540-53507-1_75",
+                        "ee": "https://doi.org/10.1007/3-540-53507-1_75",
+                        "url": "https://dblp.org/rec/conf/icdt/TsotrasG90"
+                    },
+                    "url": "URL#8002841"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8026094",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/3648",
+                                    "text": "Katsumi Tanaka"
+                                },
+                                {
+                                    "@pid": "70/6018",
+                                    "text": "Eitetsu Ohmoto"
+                                }
+                            ]
+                        },
+                        "title": "HistoryChart: A Visual Language for Historical Databases.",
+                        "venue": "DASFAA",
+                        "pages": "18-24",
+                        "year": "1989",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dasfaa/TanakaO89",
+                        "url": "https://dblp.org/rec/conf/dasfaa/TanakaO89"
+                    },
+                    "url": "URL#8026094"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8062813",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "21/6028",
+                                "text": "Charles T. Meadow"
+                            }
+                        },
+                        "title": "History of databases.",
+                        "venue": "J. Am. Soc. Inf. Sci.",
+                        "volume": "38",
+                        "number": "4",
+                        "pages": "309",
+                        "year": "1987",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jasis/Meadow87",
+                        "doi": "10.1002/(SICI)1097-4571(198707)38:4&lt;309::AID-ASI16&gt;3.0.CO;2-%23",
+                        "ee": "https://doi.org/10.1002/(SICI)1097-4571(198707)38:4&lt;309::AID-ASI16&gt;3.0.CO;2-%23",
+                        "url": "https://dblp.org/rec/journals/jasis/Meadow87"
+                    },
+                    "url": "URL#8062813"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8074859",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                },
+                                {
+                                    "@pid": "52/5728",
+                                    "text": "Rafi Ahmed"
+                                }
+                            ]
+                        },
+                        "title": "TSQL: A Language Interface for History Databases.",
+                        "venue": "Temporal Aspects in Information Systems",
+                        "pages": "109-122",
+                        "year": "1987",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/tdb/NavatheA87",
+                        "url": "https://dblp.org/rec/conf/tdb/NavatheA87"
+                    },
+                    "url": "URL#8074859"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8075019",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "33/3211",
+                                    "text": "N. G. Martin"
+                                },
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                },
+                                {
+                                    "@pid": "52/5728",
+                                    "text": "Rafi Ahmed"
+                                }
+                            ]
+                        },
+                        "title": "Dealing with Temporal Schema Anomalies in History Databases.",
+                        "venue": "VLDB",
+                        "pages": "177-184",
+                        "year": "1987",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/MartinNA87",
+                        "ee": "http://www.vldb.org/conf/1987/P177.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/MartinNA87"
+                    },
+                    "url": "URL#8075019"
+                }
+            ]
+        }
+    }
+}

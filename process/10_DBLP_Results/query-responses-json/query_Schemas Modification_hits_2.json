@@ -1,0 +1,82 @@
+{
+    "result": {
+        "query": "Schemas* Modification*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "9.29"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "2",
+                "@dc": "2",
+                "@oc": "2",
+                "@id": "63728780",
+                "text": "modifications"
+            }
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "1294722",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/578",
+                                    "text": "Michael J. Spivey"
+                                },
+                                {
+                                    "@pid": "89/1238",
+                                    "text": "Teenie Matlock"
+                                }
+                            ]
+                        },
+                        "title": "Looking at image schemas: Combinations and modifications.",
+                        "venue": "CogSci",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cogsci/SpiveyM23",
+                        "ee": "https://escholarship.org/uc/item/5gr8v1jb",
+                        "url": "https://dblp.org/rec/conf/cogsci/SpiveyM23"
+                    },
+                    "url": "URL#1294722"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6275820",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "56/7660",
+                                "text": "Mohammad Ghulam Ali"
+                            }
+                        },
+                        "title": "Object Oriented Approach for Integration of Heterogeneous Databases in a Multidatabase System and Local Schemas Modifications Propagation",
+                        "venue": "CoRR",
+                        "volume": "abs/0912.0603",
+                        "year": "2009",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-0912-0603",
+                        "ee": "http://arxiv.org/abs/0912.0603",
+                        "url": "https://dblp.org/rec/journals/corr/abs-0912-0603"
+                    },
+                    "url": "URL#6275820"
+                }
+            ]
+        }
+    }
+}

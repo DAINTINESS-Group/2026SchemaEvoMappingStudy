@@ -1,0 +1,506 @@
+{
+    "result": {
+        "query": "Schema* Modification*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "9.73"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "9",
+                    "@dc": "9",
+                    "@oc": "9",
+                    "@id": "63728778",
+                    "text": "modification"
+                },
+                {
+                    "@sc": "7",
+                    "@dc": "7",
+                    "@oc": "7",
+                    "@id": "63728780",
+                    "text": "modifications"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "16",
+            "@computed": "16",
+            "@sent": "16",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "1294722",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/578",
+                                    "text": "Michael J. Spivey"
+                                },
+                                {
+                                    "@pid": "89/1238",
+                                    "text": "Teenie Matlock"
+                                }
+                            ]
+                        },
+                        "title": "Looking at image schemas: Combinations and modifications.",
+                        "venue": "CogSci",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cogsci/SpiveyM23",
+                        "ee": "https://escholarship.org/uc/item/5gr8v1jb",
+                        "url": "https://dblp.org/rec/conf/cogsci/SpiveyM23"
+                    },
+                    "url": "URL#1294722"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3601094",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "65/6217",
+                                    "text": "Takumi Watanabe"
+                                },
+                                {
+                                    "@pid": "224/7298",
+                                    "text": "Toshiki Fujiwara"
+                                },
+                                {
+                                    "@pid": "30/181",
+                                    "text": "Satoshi Suzuki"
+                                }
+                            ]
+                        },
+                        "title": "NIRS-SPM Analysis of Body Schema Modification and Performance of Body Motion.",
+                        "venue": "HSI",
+                        "pages": "369-374",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/hsi/WatanabeFS18",
+                        "doi": "10.1109/HSI.2018.8430778",
+                        "ee": "https://doi.org/10.1109/HSI.2018.8430778",
+                        "url": "https://dblp.org/rec/conf/hsi/WatanabeFS18"
+                    },
+                    "url": "URL#3601094"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3634284",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "30/181",
+                                "text": "Satoshi Suzuki"
+                            }
+                        },
+                        "title": "Detection of the Body Schema Modification Induced by a Visual-Proprioceptive Mismatch.",
+                        "venue": "IECON",
+                        "pages": "4263-4268",
+                        "year": "2018",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iecon/Suzuki18",
+                        "doi": "10.1109/IECON.2018.8591548",
+                        "ee": "https://doi.org/10.1109/IECON.2018.8591548",
+                        "url": "https://dblp.org/rec/conf/iecon/Suzuki18"
+                    },
+                    "url": "URL#3634284"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4858430",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "118/4052",
+                                    "text": "Kunal Malhotra"
+                                },
+                                {
+                                    "@pid": "146/4544",
+                                    "text": "Shibani Medhekar"
+                                },
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                },
+                                {
+                                    "@pid": "146/4538",
+                                    "text": "M. D. David Laborde"
+                                }
+                            ]
+                        },
+                        "title": "Towards a Form Based Dynamic Database Schema Creation and Modification System.",
+                        "venue": "CAiSE",
+                        "pages": "595-609",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/caise/MalhotraMNL14",
+                        "doi": "10.1007/978-3-319-07881-6_40",
+                        "ee": "https://doi.org/10.1007/978-3-319-07881-6_40",
+                        "url": "https://dblp.org/rec/conf/caise/MalhotraMNL14"
+                    },
+                    "url": "URL#4858430"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4896378",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/11440",
+                                    "text": "Thomas N\u00f6singer"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "h/AHeuer",
+                                    "text": "Andreas Heuer 0001"
+                                }
+                            ]
+                        },
+                        "title": "Optimization of Sequences of XML Schema Modifications - The ROfEL Approach.",
+                        "venue": "Grundlagen von Datenbanken",
+                        "pages": "11-16",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/gvd/NosingerKH14",
+                        "ee": "https://ceur-ws.org/Vol-1313/paper_3.pdf",
+                        "url": "https://dblp.org/rec/conf/gvd/NosingerKH14"
+                    },
+                    "url": "URL#4896378"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6275820",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "56/7660",
+                                "text": "Mohammad Ghulam Ali"
+                            }
+                        },
+                        "title": "Object Oriented Approach for Integration of Heterogeneous Databases in a Multidatabase System and Local Schemas Modifications Propagation",
+                        "venue": "CoRR",
+                        "volume": "abs/0912.0603",
+                        "year": "2009",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-0912-0603",
+                        "ee": "http://arxiv.org/abs/0912.0603",
+                        "url": "https://dblp.org/rec/journals/corr/abs-0912-0603"
+                    },
+                    "url": "URL#6275820"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6743756",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/2905",
+                                    "text": "Spyridon K. Gardikiotis"
+                                },
+                                {
+                                    "@pid": "m/NicosMalevris",
+                                    "text": "Nicos Malevris"
+                                }
+                            ]
+                        },
+                        "title": "DaSIAn: A Tool for Estimating the Impact of Database Schema Modifications on Web Applications.",
+                        "venue": "AICCSA",
+                        "pages": "188-195",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/aiccsa/GardikiotisM06",
+                        "doi": "10.1109/AICCSA.2006.205088",
+                        "ee": "https://doi.org/10.1109/AICCSA.2006.205088",
+                        "url": "https://dblp.org/rec/conf/aiccsa/GardikiotisM06"
+                    },
+                    "url": "URL#6743756"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7253248",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "37/2418",
+                                    "text": "Renata de Matos Galante"
+                                },
+                                {
+                                    "@pid": "e/NinaEdelweiss",
+                                    "text": "Nina Edelweiss"
+                                },
+                                {
+                                    "@pid": "s/CSdSantos",
+                                    "text": "Clesio Saraiva dos Santos"
+                                },
+                                {
+                                    "@pid": "50/3403",
+                                    "text": "\u00c1lvaro Freitas Moreira"
+                                }
+                            ]
+                        },
+                        "title": "Data Modification Language for Full Support of Temporal Schema Versioning.",
+                        "venue": "SBBD",
+                        "pages": "114-128",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/sbbd/GalanteESM03",
+                        "url": "https://dblp.org/rec/conf/sbbd/GalanteESM03"
+                    },
+                    "url": "URL#7253248"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7322019",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "52/4972",
+                                    "text": "Jaehoon Kim"
+                                },
+                                {
+                                    "@pid": "95/2895",
+                                    "text": "Seog Park"
+                                }
+                            ]
+                        },
+                        "title": "Flexible Modification of Relational Schema by X2RMap in Storing XML into Relations.",
+                        "venue": "EurAsia-ICT",
+                        "pages": "330-338",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/eurasiaict/KimP02",
+                        "doi": "10.1007/3-540-36087-5_39",
+                        "ee": "https://doi.org/10.1007/3-540-36087-5_39",
+                        "url": "https://dblp.org/rec/conf/eurasiaict/KimP02"
+                    },
+                    "url": "URL#7322019"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7400525",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/BarbaraGRyder",
+                                    "text": "Barbara G. Ryder"
+                                },
+                                {
+                                    "@pid": "92/1701",
+                                    "text": "William Landi"
+                                },
+                                {
+                                    "@pid": "21/6182",
+                                    "text": "Phil Stocks"
+                                },
+                                {
+                                    "@pid": "75/155",
+                                    "text": "Sean Zhang"
+                                },
+                                {
+                                    "@pid": "76/4853",
+                                    "text": "Rita Z. Altucher"
+                                }
+                            ]
+                        },
+                        "title": "A schema for interprocedural modification side-effect analysis with pointer aliasing.",
+                        "venue": "ACM Trans. Program. Lang. Syst.",
+                        "volume": "23",
+                        "number": "2",
+                        "pages": "105-186",
+                        "year": "2001",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/toplas/RyderLSZA01",
+                        "doi": "10.1145/383043.381532",
+                        "ee": "https://doi.org/10.1145/383043.381532",
+                        "url": "https://dblp.org/rec/journals/toplas/RyderLSZA01"
+                    },
+                    "url": "URL#7400525"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7635631",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "02/5335",
+                                "text": "Regina Motz"
+                            }
+                        },
+                        "title": "Propagation of Structural Modifications to an Integrated Schema.",
+                        "venue": "ADBIS",
+                        "pages": "163-174",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adbis/Motz98",
+                        "doi": "10.1007/BFB0057730",
+                        "ee": "https://doi.org/10.1007/BFb0057730",
+                        "url": "https://dblp.org/rec/conf/adbis/Motz98"
+                    },
+                    "url": "URL#7635631"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7639522",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "02/5335",
+                                    "text": "Regina Motz"
+                                },
+                                {
+                                    "@pid": "f/PeterFankhauser",
+                                    "text": "Peter Fankhauser"
+                                }
+                            ]
+                        },
+                        "title": "Propagation of Sematic Modifications to an Integrated Schema.",
+                        "venue": "CoopIS",
+                        "pages": "332-340",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/coopis/MotzF98",
+                        "doi": "10.1109/COOPIS.1998.706278",
+                        "ee": "https://doi.org/10.1109/COOPIS.1998.706278",
+                        "url": "https://dblp.org/rec/conf/coopis/MotzF98"
+                    },
+                    "url": "URL#7639522"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7754973",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "b/BoualemBenatallah",
+                                "text": "Boualem Benatallah"
+                            }
+                        },
+                        "title": "Un Compromis: Modification et Versionnement du Sch\u00e9ma.",
+                        "venue": "BDA",
+                        "pages": "373-",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/bda/Benatallah96",
+                        "url": "https://dblp.org/rec/conf/bda/Benatallah96"
+                    },
+                    "url": "URL#7754973"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7807965",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "58/4846",
+                                    "text": "Woo Saeng Kim"
+                                },
+                                {
+                                    "@pid": "90/3913",
+                                    "text": "Duk Chul Chang"
+                                },
+                                {
+                                    "@pid": "89/2676",
+                                    "text": "Tae Young Lim"
+                                },
+                                {
+                                    "@pid": "62/6242",
+                                    "text": "Young Ho Shin"
+                                }
+                            ]
+                        },
+                        "title": "Temporal Object-Oriented Data Model for the Schema Modification.",
+                        "venue": "DASFAA",
+                        "pages": "422-429",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dasfaa/KimCLS95",
+                        "url": "https://dblp.org/rec/conf/dasfaa/KimCLS95"
+                    },
+                    "url": "URL#7807965"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7869021",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "25/4658",
+                                "text": "Erik Odberg"
+                            }
+                        },
+                        "title": "A Global Perspective of Schema Modification Management for Object-Oriented Databases.",
+                        "venue": "POS",
+                        "pages": "479-502",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/pos/Odberg94",
+                        "doi": "10.1007/978-1-4471-2122-0_39",
+                        "ee": "https://doi.org/10.1007/978-1-4471-2122-0_39",
+                        "url": "https://dblp.org/rec/conf/pos/Odberg94"
+                    },
+                    "url": "URL#7869021"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7970459",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "78/4814",
+                                "text": "Gilles Barbedette"
+                            }
+                        },
+                        "title": "Schema Modifications in the LISPO2 Persistent Object-Oriented Language.",
+                        "venue": "ECOOP",
+                        "pages": "77-96",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ecoop/Barbedette91",
+                        "doi": "10.1007/BFB0057016",
+                        "ee": "https://doi.org/10.1007/BFb0057016",
+                        "url": "https://dblp.org/rec/conf/ecoop/Barbedette91"
+                    },
+                    "url": "URL#7970459"
+                }
+            ]
+        }
+    }
+}

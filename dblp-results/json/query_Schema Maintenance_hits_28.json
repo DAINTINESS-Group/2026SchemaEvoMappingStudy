@@ -1,0 +1,916 @@
+{
+    "result": {
+        "query": "Schema* Maintenance*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "9.85"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "28",
+                "@dc": "28",
+                "@oc": "28",
+                "@id": "63638540",
+                "text": "maintenance"
+            }
+        },
+        "hits": {
+            "@total": "28",
+            "@computed": "28",
+            "@sent": "28",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "7058102",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "74/901",
+                                    "text": "Andreas Koeller"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Incremental Maintenance of Schema-Restructuring Views in SchemaSQL .",
+                        "venue": "IEEE Trans. Knowl. Data Eng.",
+                        "volume": "16",
+                        "number": "9",
+                        "pages": "1096-1111",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tkde/KoellerR04",
+                        "doi": "10.1109/TKDE.2004.42",
+                        "ee": "https://doi.org/10.1109/TKDE.2004.42",
+                        "url": "https://dblp.org/rec/journals/tkde/KoellerR04"
+                    },
+                    "url": "URL#7058102"
+                },
+                {
+                    "@score": "2",
+                    "@id": "141148",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "223/8303",
+                                    "text": "Zhuoxing Zhang"
+                                },
+                                {
+                                    "@pid": "l/SebastianLink",
+                                    "text": "Sebastian Link"
+                                }
+                            ]
+                        },
+                        "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies.",
+                        "venue": "Proc. ACM Manag. Data",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "225:1-225:25",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pacmmod/ZhangL25",
+                        "doi": "10.1145/3725362",
+                        "ee": "https://doi.org/10.1145/3725362",
+                        "url": "https://dblp.org/rec/journals/pacmmod/ZhangL25"
+                    },
+                    "url": "URL#141148"
+                },
+                {
+                    "@score": "2",
+                    "@id": "525818",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "151/2356",
+                                "text": "Emanuele Laurenzi"
+                            }
+                        },
+                        "title": "An Agile and Ontology-based Meta-Modelling Approach for the Design and Maintenance of Enterprise Knowledge Graph Schemas.",
+                        "venue": "Enterp. Model. Inf. Syst. Archit. Int. J. Concept. Model.",
+                        "volume": "19",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/emisaij/Laurenzi24",
+                        "doi": "10.18417/EMISA.19.6",
+                        "ee": "https://doi.org/10.18417/emisa.19.6",
+                        "url": "https://dblp.org/rec/journals/emisaij/Laurenzi24"
+                    },
+                    "url": "URL#525818"
+                },
+                {
+                    "@score": "2",
+                    "@id": "733978",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "305/9665",
+                                    "text": "Tyler K. Bikaun"
+                                },
+                                {
+                                    "@pid": "29/1679",
+                                    "text": "Tim French 0002"
+                                },
+                                {
+                                    "@pid": "84/2846-6",
+                                    "text": "Michael Stewart 0006"
+                                },
+                                {
+                                    "@pid": "49/3283-6",
+                                    "text": "Wei Liu 0006"
+                                },
+                                {
+                                    "@pid": "07/11335",
+                                    "text": "Melinda Hodkiewicz"
+                                }
+                            ]
+                        },
+                        "title": "MaintIE: A Fine-Grained Annotation Schema and Benchmark for Information Extraction from Maintenance Short Texts.",
+                        "venue": "LREC/COLING",
+                        "pages": "10939-10951",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/coling/Bikaun0SLH24",
+                        "ee": "https://aclanthology.org/2024.lrec-main.954",
+                        "url": "https://dblp.org/rec/conf/coling/Bikaun0SLH24"
+                    },
+                    "url": "URL#733978"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3465944",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "178/1844",
+                                    "text": "Chunqiu Li"
+                                },
+                                {
+                                    "@pid": "39/2049",
+                                    "text": "Shigeo Sugimoto"
+                                }
+                            ]
+                        },
+                        "title": "Provenance description of metadata application profiles for long-term maintenance of metadata schemas.",
+                        "venue": "J. Documentation",
+                        "volume": "74",
+                        "number": "1",
+                        "pages": "36-61",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jd/LiS18",
+                        "doi": "10.1108/JD-03-2017-0042",
+                        "ee": "https://doi.org/10.1108/JD-03-2017-0042",
+                        "url": "https://dblp.org/rec/journals/jd/LiS18"
+                    },
+                    "url": "URL#3465944"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4535097",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "20/3134",
+                                    "text": "Vahid Ebrahimipour"
+                                },
+                                {
+                                    "@pid": "21/9101",
+                                    "text": "Soumaya Yacout"
+                                }
+                            ]
+                        },
+                        "title": "Ontology-Based Schema to Support Maintenance Knowledge Representation With a Case Study of a Pneumatic Valve.",
+                        "venue": "IEEE Trans. Syst. Man Cybern. Syst.",
+                        "volume": "45",
+                        "number": "4",
+                        "pages": "702-712",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tsmc/EbrahimipourY15",
+                        "doi": "10.1109/TSMC.2014.2383361",
+                        "ee": "https://doi.org/10.1109/TSMC.2014.2383361",
+                        "url": "https://dblp.org/rec/journals/tsmc/EbrahimipourY15"
+                    },
+                    "url": "URL#4535097"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4985036",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "40/2273",
+                                    "text": "Barbara Oliboni"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "High-Level Operations for Creation and Maintenance of Temporal and Conventional Schema in the tauXSchema Framework.",
+                        "venue": "TIME",
+                        "pages": "101-110",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/time/BrahmiaGOB14",
+                        "doi": "10.1109/TIME.2014.14",
+                        "ee": "https://doi.org/10.1109/TIME.2014.14",
+                        "url": "https://dblp.org/rec/conf/time/BrahmiaGOB14"
+                    },
+                    "url": "URL#4985036"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5228981",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "134/5707",
+                                    "text": "John D. Moseley"
+                                },
+                                {
+                                    "@pid": "46/4451",
+                                    "text": "W. Mack Grady"
+                                },
+                                {
+                                    "@pid": "72/9191",
+                                    "text": "Surya Santoso"
+                                }
+                            ]
+                        },
+                        "title": "New approaches for smart device integration and maintenance of power system models utilizing a unified data schema.",
+                        "venue": "ISGT",
+                        "pages": "1-6",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isgt/MoseleyGS13a",
+                        "doi": "10.1109/ISGT.2013.6497792",
+                        "ee": "https://doi.org/10.1109/ISGT.2013.6497792",
+                        "url": "https://dblp.org/rec/conf/isgt/MoseleyGS13a"
+                    },
+                    "url": "URL#5228981"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5891324",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/CarloCurino",
+                                    "text": "Carlo Curino"
+                                },
+                                {
+                                    "@pid": "92/5910",
+                                    "text": "Hyun Jin Moon"
+                                },
+                                {
+                                    "@pid": "d/AlinDeutsch",
+                                    "text": "Alin Deutsch"
+                                },
+                                {
+                                    "@pid": "z/CZaniolo",
+                                    "text": "Carlo Zaniolo"
+                                }
+                            ]
+                        },
+                        "title": "Update Rewriting and Integrity Constraint Maintenance in a Schema Evolution Support System: PRISM++.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "4",
+                        "number": "2",
+                        "pages": "117-128",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/CurinoMDZ10",
+                        "doi": "10.14778/1921071.1921078",
+                        "ee": "http://www.vldb.org/pvldb/vol4/p117-curino.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/CurinoMDZ10"
+                    },
+                    "url": "URL#5891324"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5920725",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/3190",
+                                    "text": "SungYe Kim"
+                                },
+                                {
+                                    "@pid": "36/7296",
+                                    "text": "Insoo Woo"
+                                },
+                                {
+                                    "@pid": "81/5349",
+                                    "text": "Ross Maciejewski"
+                                },
+                                {
+                                    "@pid": "65/2401",
+                                    "text": "David S. Ebert"
+                                },
+                                {
+                                    "@pid": "40/7295",
+                                    "text": "Timothy D. Ropp"
+                                },
+                                {
+                                    "@pid": "61/4576",
+                                    "text": "Krystal M. Thomas"
+                                }
+                            ]
+                        },
+                        "title": "Evaluating the effectiveness of visualization techniques for schematic diagrams in maintenance tasks.",
+                        "venue": "APGV",
+                        "pages": "33-40",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/apgv/KimWMERT10",
+                        "doi": "10.1145/1836248.1836254",
+                        "ee": "https://doi.org/10.1145/1836248.1836254",
+                        "url": "https://dblp.org/rec/conf/apgv/KimWMERT10"
+                    },
+                    "url": "URL#5920725"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6046044",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "70/7997",
+                                    "text": "Lintang Yuniar Banowosari"
+                                },
+                                {
+                                    "@pid": "69/1102",
+                                    "text": "I. Wayan S. Wicaksana"
+                                },
+                                {
+                                    "@pid": "237/8181",
+                                    "text": "A. B. Mutiara 0001"
+                                }
+                            ]
+                        },
+                        "title": "Agreement Maintenance Based on Schema and Ontology Change in P2P Environment",
+                        "venue": "CoRR",
+                        "volume": "abs/1003.3082",
+                        "year": "2010",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1003-3082",
+                        "ee": "http://arxiv.org/abs/1003.3082",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1003-3082"
+                    },
+                    "url": "URL#6046044"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6220230",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/5778-1",
+                                    "text": "Hui Ma 0001"
+                                },
+                                {
+                                    "@pid": "s/KlausDieterSchewe",
+                                    "text": "Klaus-Dieter Schewe"
+                                },
+                                {
+                                    "@pid": "t/BernhardThalheim",
+                                    "text": "Bernhard Thalheim"
+                                }
+                            ]
+                        },
+                        "title": "Modelling and Maintenance of Very Large Database Schemata Using Meta-structures.",
+                        "venue": "UNISCON",
+                        "pages": "17-28",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ista/MaST09",
+                        "doi": "10.1007/978-3-642-01112-2_4",
+                        "ee": "https://doi.org/10.1007/978-3-642-01112-2_4",
+                        "url": "https://dblp.org/rec/conf/ista/MaST09"
+                    },
+                    "url": "URL#6220230"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6373378",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/2806",
+                                    "text": "Gang Qian"
+                                },
+                                {
+                                    "@pid": "15/906",
+                                    "text": "Yisheng Dong"
+                                }
+                            ]
+                        },
+                        "title": "A step towards incremental maintenance of the composed schema mapping.",
+                        "venue": "CIKM",
+                        "pages": "173-182",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/QianD08",
+                        "doi": "10.1145/1458082.1458108",
+                        "ee": "https://doi.org/10.1145/1458082.1458108",
+                        "url": "https://dblp.org/rec/conf/cikm/QianD08"
+                    },
+                    "url": "URL#6373378"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6387366",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "d/HendrikDecker",
+                                "text": "Hendrik Decker"
+                            }
+                        },
+                        "title": "Towards a Dynamic Inconsistency-Tolerant Schema Maintenance.",
+                        "venue": "ER Workshops",
+                        "pages": "89-98",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/Decker08",
+                        "doi": "10.1007/978-3-540-87991-6_12",
+                        "ee": "https://doi.org/10.1007/978-3-540-87991-6_12",
+                        "url": "https://dblp.org/rec/conf/er/Decker08"
+                    },
+                    "url": "URL#6387366"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6486237",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "48/6229",
+                                "text": "Isabel Cristina Italiano"
+                            }
+                        },
+                        "title": "A model to schema and data maintenance in data warehouses implemented at mobile platforms (Um modelo para manuten\u00e7\u00e3o de esquema e de dados em data warehouses implementados em plataformas m\u00f3veis).",
+                        "year": "2007",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ndltd/Italiano07",
+                        "ee": "http://www.teses.usp.br/teses/disponiveis/3/3141/tde-09012008-163222/",
+                        "url": "https://dblp.org/rec/phd/ndltd/Italiano07"
+                    },
+                    "url": "URL#6486237"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6919658",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "02/5335",
+                                "text": "Regina Motz"
+                            }
+                        },
+                        "title": "Dynamic Maintenance of an Integrated Schema.",
+                        "venue": "From Integrated Publication and Information Systems to Virtual Information and Knowledge Environments",
+                        "pages": "21-30",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/birthday/Motz05",
+                        "doi": "10.1007/978-3-540-31842-2_3",
+                        "ee": "https://doi.org/10.1007/978-3-540-31842-2_3",
+                        "url": "https://dblp.org/rec/conf/birthday/Motz05"
+                    },
+                    "url": "URL#6919658"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6929589",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "82/1952",
+                                    "text": "Zhongmei Shu"
+                                },
+                                {
+                                    "@pid": "96/6313",
+                                    "text": "Shixian Li"
+                                },
+                                {
+                                    "@pid": "81/2400",
+                                    "text": "Yayao Zuo"
+                                },
+                                {
+                                    "@pid": "71/4779",
+                                    "text": "Xiaocong Zhou"
+                                },
+                                {
+                                    "@pid": "01/2880",
+                                    "text": "Yong Tang"
+                                }
+                            ]
+                        },
+                        "title": "Correction strategy for view maintenance anomaly after schema and data updating concurrently.",
+                        "venue": "CSCWD",
+                        "pages": "1046-1051",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cscwd/ShuLZZT05",
+                        "doi": "10.1109/CSCWD.2005.194333",
+                        "ee": "https://doi.org/10.1109/CSCWD.2005.194333",
+                        "url": "https://dblp.org/rec/conf/cscwd/ShuLZZT05"
+                    },
+                    "url": "URL#6929589"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6931582",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "23/2535-1",
+                                "text": "Hao Fan 0001"
+                            }
+                        },
+                        "title": "Using Schema Transformation Pathways for Incremental View Maintenance.",
+                        "venue": "DaWaK",
+                        "pages": "126-135",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dawak/Fan05",
+                        "doi": "10.1007/11546849_13",
+                        "ee": "https://doi.org/10.1007/11546849_13",
+                        "url": "https://dblp.org/rec/conf/dawak/Fan05"
+                    },
+                    "url": "URL#6931582"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7226700",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/XiaofengMeng-1",
+                                    "text": "Xiaofeng Meng 0001"
+                                },
+                                {
+                                    "@pid": "27/59",
+                                    "text": "Haiyan Wang"
+                                },
+                                {
+                                    "@pid": "94/442",
+                                    "text": "Dongdong Hu"
+                                },
+                                {
+                                    "@pid": "06/4771",
+                                    "text": "Mingzhe Gu"
+                                }
+                            ]
+                        },
+                        "title": "SG-WRAM Schema Guided Wrapper Maintenance.",
+                        "venue": "ICDE",
+                        "pages": "750-752",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/MengWHG03",
+                        "doi": "10.1109/ICDE.2003.1260856",
+                        "ee": "https://doi.org/10.1109/ICDE.2003.1260856",
+                        "url": "https://dblp.org/rec/conf/icde/MengWHG03"
+                    },
+                    "url": "URL#7226700"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7251684",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/1234",
+                                    "text": "Jeen Broekstra"
+                                },
+                                {
+                                    "@pid": "25/402",
+                                    "text": "Arjohn Kampman"
+                                }
+                            ]
+                        },
+                        "title": "Inferencing and Truth Maintenance in RDF Schema.",
+                        "venue": "PSSS",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/psss/BroekstraK03",
+                        "ee": "https://ceur-ws.org/Vol-89/broekstra-et-al.pdf",
+                        "url": "https://dblp.org/rec/conf/psss/BroekstraK03"
+                    },
+                    "url": "URL#7251684"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7261201",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/XiaofengMeng-1",
+                                    "text": "Xiaofeng Meng 0001"
+                                },
+                                {
+                                    "@pid": "94/442",
+                                    "text": "Dongdong Hu"
+                                },
+                                {
+                                    "@pid": "l/ChenLi1",
+                                    "text": "Chen Li 0001"
+                                }
+                            ]
+                        },
+                        "title": "Schema-guided wrapper maintenance for web-data extraction.",
+                        "venue": "WIDM",
+                        "pages": "1-8",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/widm/MengHL03",
+                        "doi": "10.1145/956699.956701",
+                        "ee": "https://doi.org/10.1145/956699.956701",
+                        "url": "https://dblp.org/rec/conf/widm/MengHL03"
+                    },
+                    "url": "URL#7261201"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7320792",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "74/901",
+                                    "text": "Andreas Koeller"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Incremental Maintenance of Schema-Restructuring Views.",
+                        "venue": "EDBT",
+                        "pages": "354-371",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edbt/KoellerR02",
+                        "doi": "10.1007/3-540-45876-X_24",
+                        "ee": "https://doi.org/10.1007/3-540-45876-X_24",
+                        "url": "https://dblp.org/rec/conf/edbt/KoellerR02"
+                    },
+                    "url": "URL#7320792"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7355028",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "02/5335",
+                                "text": "Regina Motz"
+                            }
+                        },
+                        "title": "Problems in the Maintenance of a Federated Database Schema.",
+                        "venue": "SCCC",
+                        "pages": "124-132",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sccc/Motz02",
+                        "doi": "10.1109/SCCC.2002.1173183",
+                        "ee": "https://doi.org/10.1109/SCCC.2002.1173183",
+                        "url": "https://dblp.org/rec/conf/sccc/Motz02"
+                    },
+                    "url": "URL#7355028"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7581684",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "76/1584-2",
+                                    "text": "Xin Zhang 0002"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Data Warehouse Maintenance under Concurrent Schema and Data Updates.",
+                        "venue": "ICDE",
+                        "pages": "253",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/ZhangR99",
+                        "doi": "10.1109/ICDE.1999.754933",
+                        "ee": "https://doi.org/10.1109/ICDE.1999.754933",
+                        "url": "https://dblp.org/rec/conf/icde/ZhangR99"
+                    },
+                    "url": "URL#7581684"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7598949",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                },
+                                {
+                                    "@pid": "74/901",
+                                    "text": "Andreas Koeller"
+                                },
+                                {
+                                    "@pid": "76/1584-2",
+                                    "text": "Xin Zhang 0002"
+                                },
+                                {
+                                    "@pid": "77/5123",
+                                    "text": "Amber van Wyk"
+                                },
+                                {
+                                    "@pid": "93/2334",
+                                    "text": "Yong Li"
+                                },
+                                {
+                                    "@pid": "51/2101",
+                                    "text": "Amy J. Lee"
+                                },
+                                {
+                                    "@pid": "76/4130",
+                                    "text": "Anisoara Nica"
+                                }
+                            ]
+                        },
+                        "title": "Evolvable View Environment (EVE): Non-Equivalent View Maintenance under Schema Changes.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "553-555",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/RundensteinerKZWLLN99",
+                        "doi": "10.1145/304182.304574",
+                        "ee": "https://doi.org/10.1145/304182.304574",
+                        "url": "https://dblp.org/rec/conf/sigmod/RundensteinerKZWLLN99"
+                    },
+                    "url": "URL#7598949"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7639835",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "23/3970",
+                                "text": "Donatella Castelli"
+                            }
+                        },
+                        "title": "A Strategy for Reducing the Effort for Database Schema Maintenance.",
+                        "venue": "CSMR",
+                        "pages": "29-36",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/csmr/Castelli98",
+                        "doi": "10.1109/CSMR.1998.665729",
+                        "ee": "https://doi.org/10.1109/CSMR.1998.665729",
+                        "url": "https://dblp.org/rec/conf/csmr/Castelli98"
+                    },
+                    "url": "URL#7639835"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7855951",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/991",
+                                    "text": "Chien-Tsai Liu"
+                                },
+                                {
+                                    "@pid": "c/PKChrysanthis",
+                                    "text": "Panos K. Chrysanthis"
+                                },
+                                {
+                                    "@pid": "c/ShiKuoChang",
+                                    "text": "Shi-Kuo Chang"
+                                }
+                            ]
+                        },
+                        "title": "Database Schema Evolution through the Specification and Maintenance of Changes on Entities and Relationships.",
+                        "venue": "ER",
+                        "pages": "132-151",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/LiuCC94",
+                        "doi": "10.1007/3-540-58786-1_77",
+                        "ee": "https://doi.org/10.1007/3-540-58786-1_77",
+                        "url": "https://dblp.org/rec/conf/er/LiuCC94"
+                    },
+                    "url": "URL#7855951"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7879630",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/MarcoACasanova",
+                                    "text": "Marco A. Casanova"
+                                },
+                                {
+                                    "@pid": "83/334",
+                                    "text": "Luiz Tucherman"
+                                },
+                                {
+                                    "@pid": "l/AHFLaender",
+                                    "text": "Alberto H. F. Laender"
+                                }
+                            ]
+                        },
+                        "title": "On the Design and Maintenance of Optimized Relational Representations of Entity-Relationship Schemas.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "11",
+                        "number": "1",
+                        "pages": "1-20",
+                        "year": "1993",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/CasanovaTL93",
+                        "doi": "10.1016/0169-023X(93)90043-O",
+                        "ee": "https://doi.org/10.1016/0169-023X(93)90043-O",
+                        "url": "https://dblp.org/rec/journals/dke/CasanovaTL93"
+                    },
+                    "url": "URL#7879630"
+                }
+            ]
+        }
+    }
+}

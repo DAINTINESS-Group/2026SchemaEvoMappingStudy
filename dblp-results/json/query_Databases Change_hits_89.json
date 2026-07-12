@@ -1,0 +1,3074 @@
+{
+    "result": {
+        "query": "Databases* Change*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "13.06"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "69",
+                    "@dc": "63",
+                    "@oc": "69",
+                    "@id": "62908954",
+                    "text": "change"
+                },
+                {
+                    "@sc": "26",
+                    "@dc": "26",
+                    "@oc": "26",
+                    "@id": "62909028",
+                    "text": "changes"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "89",
+            "@computed": "89",
+            "@sent": "89",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "8",
+                    "@id": "7668909",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "f/BurkhardFreitag",
+                                    "text": "Burkhard Freitag"
+                                },
+                                {
+                                    "@pid": "d/HendrikDecker",
+                                    "text": "Hendrik Decker"
+                                },
+                                {
+                                    "@pid": "k/MichaelKifer",
+                                    "text": "Michael Kifer"
+                                },
+                                {
+                                    "@pid": "v/AndreiVoronkov",
+                                    "text": "Andrei Voronkov"
+                                }
+                            ]
+                        },
+                        "title": "Transactions and Change in Logic Databases, International Seminar on Logic Databases and the Meaning of Change, Schloss Dagstuhl, Germany, September 23-27, 1996 and ILPS &apos;97 Post-Conference Workshop on (Trans)Actions and Change in Logic Programming and Deductive Databases, (DYNAMICS&apos;97) Port Jefferson, NY, USA, October 17, 1997, Invited Surveys and Selected Papers",
+                        "venue": [
+                            "Transactions and Change in Logic Databases",
+                            "Lecture Notes in Computer Science"
+                        ],
+                        "volume": "1472",
+                        "publisher": "Springer",
+                        "year": "1998",
+                        "type": "Editorship",
+                        "key": "conf/dagstuhl/1998change",
+                        "doi": "10.1007/BFB0055493",
+                        "ee": "https://doi.org/10.1007/BFb0055493",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/1998change"
+                    },
+                    "url": "URL#7668909"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4445347",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "28/10548",
+                                "text": "Namchul Do"
+                            }
+                        },
+                        "title": "Integration of engineering change objects in product data management databases to support engineering change analysis.",
+                        "venue": "Comput. Ind.",
+                        "volume": "73",
+                        "pages": "69-81",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/cii/Do15",
+                        "doi": "10.1016/J.COMPIND.2015.08.002",
+                        "ee": "https://doi.org/10.1016/j.compind.2015.08.002",
+                        "url": "https://dblp.org/rec/journals/cii/Do15"
+                    },
+                    "url": "URL#4445347"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7590233",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "12/3241-1",
+                                "text": "Volker Walter 0001"
+                            }
+                        },
+                        "title": "Comparison of the Potential of Different Sensors for an Automatic Approach for Change Detection in GIS Databases.",
+                        "venue": "Integrated Spatial Databases",
+                        "pages": "47-64",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isd/Walter99",
+                        "doi": "10.1007/3-540-46621-5_4",
+                        "ee": "https://doi.org/10.1007/3-540-46621-5_4",
+                        "url": "https://dblp.org/rec/conf/isd/Walter99"
+                    },
+                    "url": "URL#7590233"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7640238",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "09/2918",
+                                    "text": "Hassan Bezzazi"
+                                },
+                                {
+                                    "@pid": "40/2079",
+                                    "text": "St\u00e9phane Janot"
+                                },
+                                {
+                                    "@pid": "36/1515",
+                                    "text": "S\u00e9bastien Konieczny"
+                                },
+                                {
+                                    "@pid": "96/1310",
+                                    "text": "Ram\u00f3n Pino P\u00e9rez"
+                                }
+                            ]
+                        },
+                        "title": "Analysing Rational Properties of Change Operators Based on Forward Chaining.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "317-339",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/BezzaziJKP98",
+                        "doi": "10.1007/BFB0055504",
+                        "ee": "https://doi.org/10.1007/BFb0055504",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/BezzaziJKP98"
+                    },
+                    "url": "URL#7640238"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7640240",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/AJBonner",
+                                    "text": "Anthony J. Bonner"
+                                },
+                                {
+                                    "@pid": "k/MichaelKifer",
+                                    "text": "Michael Kifer"
+                                }
+                            ]
+                        },
+                        "title": "The State of Change: A Survey.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "1-36",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/BonnerK98a",
+                        "doi": "10.1007/BFB0055494",
+                        "ee": "https://doi.org/10.1007/BFb0055494",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/BonnerK98a"
+                    },
+                    "url": "URL#7640240"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7640257",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "d/HendrikDecker",
+                                "text": "Hendrik Decker"
+                            }
+                        },
+                        "title": "Some Notes on Knowledge Assimilation in Deductive Databases.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "249-286",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/Decker98",
+                        "doi": "10.1007/BFB0055502",
+                        "ee": "https://doi.org/10.1007/BFb0055502",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/Decker98"
+                    },
+                    "url": "URL#7640257"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7640265",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "f/PeterAFlach",
+                                "text": "Peter A. Flach"
+                            }
+                        },
+                        "title": "From Extensional to Intensional Knowledge: Inductive Logic Programming Techniques and Their Application to Deductive Databases.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "356-387",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/Flach98",
+                        "doi": "10.1007/BFB0055506",
+                        "ee": "https://doi.org/10.1007/BFb0055506",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/Flach98"
+                    },
+                    "url": "URL#7640265"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7640278",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/GeorgLausen",
+                                    "text": "Georg Lausen"
+                                },
+                                {
+                                    "@pid": "l/BertramLudascher",
+                                    "text": "Bertram Lud\u00e4scher"
+                                },
+                                {
+                                    "@pid": "m/WolfgangMay",
+                                    "text": "Wolfgang May"
+                                }
+                            ]
+                        },
+                        "title": "On Active Deductive Databases: The Statelog Approach.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "69-106",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/LausenLM98a",
+                        "doi": "10.1007/BFB0055496",
+                        "ee": "https://doi.org/10.1007/BFb0055496",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/LausenLM98a"
+                    },
+                    "url": "URL#7640278"
+                },
+                {
+                    "@score": "2",
+                    "@id": "36311",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "212/8025",
+                                    "text": "Harshad Hegde"
+                                },
+                                {
+                                    "@pid": "06/4929",
+                                    "text": "Jennifer Vendetti"
+                                },
+                                {
+                                    "@pid": "323/7669",
+                                    "text": "Damien Goutte-Gattat"
+                                },
+                                {
+                                    "@pid": "160/0185",
+                                    "text": "J. Harry Caufield"
+                                },
+                                {
+                                    "@pid": "78/10025",
+                                    "text": "John B. Graybeal"
+                                },
+                                {
+                                    "@pid": "82/4196",
+                                    "text": "Nomi L. Harris"
+                                },
+                                {
+                                    "@pid": "k/NaouelKaram",
+                                    "text": "Naouel Karam"
+                                },
+                                {
+                                    "@pid": "223/9419",
+                                    "text": "Christian Kindermann"
+                                },
+                                {
+                                    "@pid": "132/5802",
+                                    "text": "Nicolas Matentzoglu"
+                                },
+                                {
+                                    "@pid": "36/9444",
+                                    "text": "James A. Overton"
+                                },
+                                {
+                                    "@pid": "91/5218",
+                                    "text": "Mark A. Musen"
+                                },
+                                {
+                                    "@pid": "61/3137",
+                                    "text": "Christopher J. Mungall"
+                                }
+                            ]
+                        },
+                        "title": "A change language for ontologies and knowledge graphs.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2025",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/HegdeVGCGHKKMOMM25",
+                        "doi": "10.1093/DATABASE/BAAE133",
+                        "ee": "https://doi.org/10.1093/database/baae133",
+                        "url": "https://dblp.org/rec/journals/biodb/HegdeVGCGHKKMOMM25"
+                    },
+                    "url": "URL#36311"
+                },
+                {
+                    "@score": "2",
+                    "@id": "36329",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "404/8035",
+                                    "text": "Takahide Matsushima"
+                                },
+                                {
+                                    "@pid": "33/3057",
+                                    "text": "Yuki Naito"
+                                },
+                                {
+                                    "@pid": "231/9983",
+                                    "text": "Tomoki Chiba"
+                                },
+                                {
+                                    "@pid": "404/8431",
+                                    "text": "Ryota Kurimoto"
+                                },
+                                {
+                                    "@pid": "203/2972",
+                                    "text": "Keiko Itano"
+                                },
+                                {
+                                    "@pid": "404/8536",
+                                    "text": "Koji Ochiai"
+                                },
+                                {
+                                    "@pid": "62/3992",
+                                    "text": "Koichi Takahashi"
+                                },
+                                {
+                                    "@pid": "56/7242",
+                                    "text": "Naoki Goshima"
+                                },
+                                {
+                                    "@pid": "404/8028",
+                                    "text": "Hiroshi Asahara"
+                                }
+                            ]
+                        },
+                        "title": "Localizatome: a database for stress-dependent subcellular localization changes in proteins.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2025",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/MatsushimaNCKIOTGA25",
+                        "doi": "10.1093/DATABASE/BAAF028",
+                        "ee": "https://doi.org/10.1093/database/baaf028",
+                        "url": "https://dblp.org/rec/journals/biodb/MatsushimaNCKIOTGA25"
+                    },
+                    "url": "URL#36329"
+                },
+                {
+                    "@score": "2",
+                    "@id": "85990",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "414/6261",
+                                    "text": "Sivaiah Borra"
+                                },
+                                {
+                                    "@pid": "316/5758",
+                                    "text": "R. Rajeswara Rao"
+                                }
+                            ]
+                        },
+                        "title": "Incremental mining algorithms for generating and updating frequent patterns for dynamic databases against insert, update, and support changes.",
+                        "venue": "Int. J. Data Sci. Anal.",
+                        "volume": "20",
+                        "number": "3",
+                        "pages": "2583-2603",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijdsa/BorraR25",
+                        "doi": "10.1007/S41060-024-00619-5",
+                        "ee": "https://doi.org/10.1007/s41060-024-00619-5",
+                        "url": "https://dblp.org/rec/journals/ijdsa/BorraR25"
+                    },
+                    "url": "URL#85990"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1083524",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "331/0481",
+                                    "text": "Marek Socha"
+                                },
+                                {
+                                    "@pid": "322/0570",
+                                    "text": "Wojciech Prazuch"
+                                },
+                                {
+                                    "@pid": "182/5910",
+                                    "text": "Aleksandra Suwalska"
+                                },
+                                {
+                                    "@pid": "71/10066",
+                                    "text": "Pawel Foszner"
+                                },
+                                {
+                                    "@pid": "217/7785",
+                                    "text": "Joanna Tobiasz"
+                                },
+                                {
+                                    "@pid": "43/927",
+                                    "text": "Jerzy Jaroszewicz"
+                                },
+                                {
+                                    "@pid": "331/1211",
+                                    "text": "Katarzyna Gruszczynska"
+                                },
+                                {
+                                    "@pid": "188/6726",
+                                    "text": "Magdalena Sliwinska"
+                                },
+                                {
+                                    "@pid": "315/0947-3",
+                                    "text": "Mateusz Nowak 0003"
+                                },
+                                {
+                                    "@pid": "206/3277",
+                                    "text": "Barbara Gizycka"
+                                },
+                                {
+                                    "@pid": "331/0738",
+                                    "text": "Gabriela Zapolska"
+                                },
+                                {
+                                    "@pid": "331/1009",
+                                    "text": "Tadeusz Popiela"
+                                },
+                                {
+                                    "@pid": "69/7718",
+                                    "text": "Grzegorz Przybylski"
+                                },
+                                {
+                                    "@pid": "334/7639",
+                                    "text": "Piotr Fiedor"
+                                },
+                                {
+                                    "@pid": "331/0608",
+                                    "text": "Malgorzata Pawlowska"
+                                },
+                                {
+                                    "@pid": "331/0783",
+                                    "text": "Robert Flisiak"
+                                },
+                                {
+                                    "@pid": "331/1283",
+                                    "text": "Krzysztof Simon"
+                                },
+                                {
+                                    "@pid": "15/11392",
+                                    "text": "Jerzy Walecki"
+                                },
+                                {
+                                    "@pid": "331/1050",
+                                    "text": "Andrzej Cieszanowski"
+                                },
+                                {
+                                    "@pid": "328/0548",
+                                    "text": "Edyta Szurowska"
+                                },
+                                {
+                                    "@pid": "02/10107",
+                                    "text": "Michal Marczyk"
+                                },
+                                {
+                                    "@pid": "61/7335",
+                                    "text": "Joanna Polanska"
+                                }
+                            ]
+                        },
+                        "title": "Pathological changes or technical artefacts? The problem of the heterogenous databases in COVID-19 CXR image analysis.",
+                        "venue": "Comput. Methods Programs Biomed.",
+                        "volume": "240",
+                        "pages": "107684",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/cmpb/SochaPSFTJGSNGZPPFPFSWCSMP23",
+                        "doi": "10.1016/J.CMPB.2023.107684",
+                        "ee": "https://doi.org/10.1016/j.cmpb.2023.107684",
+                        "url": "https://dblp.org/rec/journals/cmpb/SochaPSFTJGSNGZPPFPFSWCSMP23"
+                    },
+                    "url": "URL#1083524"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2001921",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "208/0930",
+                                    "text": "Alberto Hern\u00e1ndez Chill\u00f3n"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "s/DiegoSevilla",
+                                    "text": "Diego Sevilla Ruiz"
+                                },
+                                {
+                                    "@pid": "78/4516",
+                                    "text": "Jes\u00fas Garc\u00eda Molina"
+                                }
+                            ]
+                        },
+                        "title": "A Taxonomy of Schema Changes for NoSQL Databases.",
+                        "venue": "CoRR",
+                        "volume": "abs/2205.11660",
+                        "year": "2022",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2205-11660",
+                        "doi": "10.48550/ARXIV.2205.11660",
+                        "ee": "https://doi.org/10.48550/arXiv.2205.11660",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2205-11660"
+                    },
+                    "url": "URL#2001921"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2086331",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "25/929-2",
+                                    "text": "Anna Bernasconi 0002"
+                                },
+                                {
+                                    "@pid": "318/1855",
+                                    "text": "Luca Cilibrasi"
+                                },
+                                {
+                                    "@pid": "292/3745",
+                                    "text": "Ruba Al Khalaf"
+                                },
+                                {
+                                    "@pid": "291/1633",
+                                    "text": "Tommaso Alfonsi"
+                                },
+                                {
+                                    "@pid": "c/StefanoCeri",
+                                    "text": "Stefano Ceri"
+                                },
+                                {
+                                    "@pid": "118/4967",
+                                    "text": "Pietro Pinoli"
+                                },
+                                {
+                                    "@pid": "139/5684",
+                                    "text": "Arif Canakoglu"
+                                }
+                            ]
+                        },
+                        "title": "EpiSurf: metadata-driven search server for analyzing amino acid changes within epitopes of SARS-CoV-2 and other viral species.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2021",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/BernasconiCKACP21",
+                        "doi": "10.1093/DATABASE/BAAB059",
+                        "ee": "https://doi.org/10.1093/database/baab059",
+                        "url": "https://dblp.org/rec/journals/biodb/BernasconiCKACP21"
+                    },
+                    "url": "URL#2086331"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2312900",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "208/0930",
+                                    "text": "Alberto Hern\u00e1ndez Chill\u00f3n"
+                                },
+                                {
+                                    "@pid": "s/DiegoSevilla",
+                                    "text": "Diego Sevilla Ruiz"
+                                },
+                                {
+                                    "@pid": "78/4516",
+                                    "text": "Jes\u00fas Garc\u00eda Molina"
+                                }
+                            ]
+                        },
+                        "title": "Towards a Taxonomy of Schema Changes for NoSQL Databases: The Orion Language.",
+                        "venue": "ER",
+                        "pages": "176-185",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/ChillonRM21a",
+                        "doi": "10.1007/978-3-030-89022-3_15",
+                        "ee": "https://doi.org/10.1007/978-3-030-89022-3_15",
+                        "url": "https://dblp.org/rec/conf/er/ChillonRM21a"
+                    },
+                    "url": "URL#2312900"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2602193",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "257/8680",
+                                    "text": "Iwona Cieslak"
+                                },
+                                {
+                                    "@pid": "257/8647",
+                                    "text": "Andrzej Bilozor"
+                                },
+                                {
+                                    "@pid": "270/9596",
+                                    "text": "Anna Zr\u00f3bek-Sokolnik"
+                                },
+                                {
+                                    "@pid": "270/9663",
+                                    "text": "Marek Zagroba"
+                                }
+                            ]
+                        },
+                        "title": "The Use of Geographic Databases for Analyzing Changes in Land Cover - A Case Study of the Region of Warmia and Mazury in Poland.",
+                        "venue": "ISPRS Int. J. Geo Inf.",
+                        "volume": "9",
+                        "number": "6",
+                        "pages": "358",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/ijgi/CieslakBZZ20",
+                        "doi": "10.3390/IJGI9060358",
+                        "ee": "https://doi.org/10.3390/ijgi9060358",
+                        "url": "https://dblp.org/rec/journals/ijgi/CieslakBZZ20"
+                    },
+                    "url": "URL#2602193"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3303474",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "245/0119",
+                                    "text": "Marco Verzeletti"
+                                },
+                                {
+                                    "@pid": "73/3430",
+                                    "text": "Adi Botea"
+                                },
+                                {
+                                    "@pid": "23/565",
+                                    "text": "Marina Zanella"
+                                }
+                            ]
+                        },
+                        "title": "Repairing Compressed Path Databases on Maps with Dynamic Changes.",
+                        "venue": "SOCS",
+                        "pages": "115-123",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/socs/VerzelettiBZ19",
+                        "doi": "10.1609/SOCS.V10I1.18509",
+                        "ee": "https://doi.org/10.1609/socs.v10i1.18509",
+                        "url": "https://dblp.org/rec/conf/socs/VerzelettiBZ19"
+                    },
+                    "url": "URL#3303474"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3385575",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "160/1582",
+                                "text": "Saud Alashri"
+                            }
+                        },
+                        "title": "Detecting Frames and Causal Relationships in Climate Change Related Text Databases Based on Semantic Features.",
+                        "year": "2018",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/basesearch/Alashri18",
+                        "ee": "https://hdl.handle.net/2286/R.I.49062",
+                        "url": "https://dblp.org/rec/phd/basesearch/Alashri18"
+                    },
+                    "url": "URL#3385575"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3400933",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "66/6802-6",
+                                    "text": "Zhihua Wang 0006"
+                                },
+                                {
+                                    "@pid": "57/5899",
+                                    "text": "Xiaomei Yang"
+                                },
+                                {
+                                    "@pid": "54/3949",
+                                    "text": "Chen Lu"
+                                },
+                                {
+                                    "@pid": "219/2866",
+                                    "text": "Fengshuo Yang"
+                                }
+                            ]
+                        },
+                        "title": "A scale self-adapting segmentation approach and knowledge transfer for automatically updating land use/cover change databases using high spatial resolution images.",
+                        "venue": "Int. J. Appl. Earth Obs. Geoinformation",
+                        "volume": "69",
+                        "pages": "88-98",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/aeog/WangYLY18",
+                        "doi": "10.1016/J.JAG.2018.03.001",
+                        "ee": "https://doi.org/10.1016/j.jag.2018.03.001",
+                        "url": "https://dblp.org/rec/journals/aeog/WangYLY18"
+                    },
+                    "url": "URL#3400933"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3407455",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "214/9260",
+                                    "text": "Nico M. Franz"
+                                },
+                                {
+                                    "@pid": "26/3889",
+                                    "text": "Beckett W. Sterner"
+                                }
+                            ]
+                        },
+                        "title": "To increase trust, change the social design behind aggregated biodiversity data.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2018",
+                        "pages": "bax100",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/FranzS18",
+                        "doi": "10.1093/DATABASE/BAX100",
+                        "ee": "https://doi.org/10.1093/database/bax100",
+                        "url": "https://dblp.org/rec/journals/biodb/FranzS18"
+                    },
+                    "url": "URL#3407455"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3918243",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "146/6282",
+                                    "text": "Wolfram Wingerath"
+                                },
+                                {
+                                    "@pid": "150/7054",
+                                    "text": "Felix Gessert"
+                                },
+                                {
+                                    "@pid": "58/6589",
+                                    "text": "Steffen Friedrich"
+                                },
+                                {
+                                    "@pid": "195/7889",
+                                    "text": "Erik Witt"
+                                },
+                                {
+                                    "@pid": "r/NRitter",
+                                    "text": "Norbert Ritter"
+                                }
+                            ]
+                        },
+                        "title": "The Case For Change Notifications in Pull-Based Databases.",
+                        "venue": "BTW",
+                        "pages": "269-278",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/btw/WingerathGFWR17",
+                        "ee": "https://dl.gi.de/handle/20.500.12116/923",
+                        "url": "https://dblp.org/rec/conf/btw/WingerathGFWR17"
+                    },
+                    "url": "URL#3918243"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3974152",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "149/5865",
+                                    "text": "Saad Bin Suhaim"
+                                },
+                                {
+                                    "@pid": "z/NanZhang4",
+                                    "text": "Nan Zhang 0004"
+                                },
+                                {
+                                    "@pid": "07/1181",
+                                    "text": "Gautam Das 0001"
+                                },
+                                {
+                                    "@pid": "37/4949",
+                                    "text": "Ali Jaoua"
+                                }
+                            ]
+                        },
+                        "title": "HDBExpDetector: Aggregate Sudden-Change Detector over Dynamic Web Databases.",
+                        "venue": "ICDE",
+                        "pages": "1369-1370",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/Suhaim0DJ17",
+                        "doi": "10.1109/ICDE.2017.181",
+                        "ee": "https://doi.org/10.1109/ICDE.2017.181",
+                        "url": "https://dblp.org/rec/conf/icde/Suhaim0DJ17"
+                    },
+                    "url": "URL#3974152"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4073343",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "15/5054",
+                                    "text": "Paulo J. L. Adeodato"
+                                },
+                                {
+                                    "@pid": "195/6028",
+                                    "text": "F\u00e1bio C. Pereira"
+                                },
+                                {
+                                    "@pid": "89/445",
+                                    "text": "Rosalvo F. Oliveira Neto"
+                                }
+                            ]
+                        },
+                        "title": "Optimal Categorical Attribute Transformation for Granularity Change in Relational Databases for Binary Decision Problems in Educational Data Mining.",
+                        "venue": "CoRR",
+                        "volume": "abs/1702.08745",
+                        "year": "2017",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/AdeodatoPN17",
+                        "ee": "http://arxiv.org/abs/1702.08745",
+                        "url": "https://dblp.org/rec/journals/corr/AdeodatoPN17"
+                    },
+                    "url": "URL#4073343"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4121289",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "18/3823",
+                                    "text": "Che-Wei Chang"
+                                },
+                                {
+                                    "@pid": "178/0943",
+                                    "text": "Chai-Wei Chou"
+                                },
+                                {
+                                    "@pid": "63/3730",
+                                    "text": "Darby Tien-Hao Chang"
+                                }
+                            ]
+                        },
+                        "title": "CCProf: exploring conformational change profile of proteins.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2016",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/ChangCC16",
+                        "doi": "10.1093/DATABASE/BAW029",
+                        "ee": "https://doi.org/10.1093/database/baw029",
+                        "url": "https://dblp.org/rec/journals/biodb/ChangCC16"
+                    },
+                    "url": "URL#4121289"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4155587",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "184/3588",
+                                    "text": "Martin Schorcht"
+                                },
+                                {
+                                    "@pid": "156/6434",
+                                    "text": "Tobias Kr\u00fcger"
+                                },
+                                {
+                                    "@pid": "02/2076",
+                                    "text": "Gotthard Meinel"
+                                }
+                            ]
+                        },
+                        "title": "Measuring Land Take: Usability of National Topographic Databases as Input for Land Use Change Analysis: A Case Study from Germany.",
+                        "venue": "ISPRS Int. J. Geo Inf.",
+                        "volume": "5",
+                        "number": "8",
+                        "pages": "134",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/ijgi/SchorchtKM16",
+                        "doi": "10.3390/IJGI5080134",
+                        "ee": "https://doi.org/10.3390/ijgi5080134",
+                        "url": "https://dblp.org/rec/journals/ijgi/SchorchtKM16"
+                    },
+                    "url": "URL#4155587"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4630760",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "15/5054",
+                                "text": "Paulo J. L. Adeodato"
+                            }
+                        },
+                        "title": "Variable Transformation for Granularity Change in Hierarchical Databases in Actual Data Mining Solutions.",
+                        "venue": "IDEAL",
+                        "pages": "146-155",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ideal/Adeodato15",
+                        "doi": "10.1007/978-3-319-24834-9_18",
+                        "ee": "https://doi.org/10.1007/978-3-319-24834-9_18",
+                        "url": "https://dblp.org/rec/conf/ideal/Adeodato15"
+                    },
+                    "url": "URL#4630760"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4644075",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "176/1055",
+                                    "text": "Felipe Mathias Schmidt"
+                                },
+                                {
+                                    "@pid": "b/ClaudioFernandoResinGeyer",
+                                    "text": "Cl\u00e1udio F. R. Geyer"
+                                },
+                                {
+                                    "@pid": "89/1649",
+                                    "text": "Alberto E. Schaeffer Filho"
+                                },
+                                {
+                                    "@pid": "d/SDessloch",
+                                    "text": "Stefan De\u00dfloch"
+                                },
+                                {
+                                    "@pid": "49/2905-1",
+                                    "text": "Yong Hu 0001"
+                                }
+                            ]
+                        },
+                        "title": "Change data capture in NoSQL databases: A functional and performance comparison.",
+                        "venue": "ISCC",
+                        "pages": "562-567",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iscc/SchmidtGFDH15",
+                        "doi": "10.1109/ISCC.2015.7405574",
+                        "ee": "https://doi.org/10.1109/ISCC.2015.7405574",
+                        "url": "https://dblp.org/rec/conf/iscc/SchmidtGFDH15"
+                    },
+                    "url": "URL#4644075"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4742281",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "157/4967",
+                                    "text": "Gert Van Peer"
+                                },
+                                {
+                                    "@pid": "88/7240",
+                                    "text": "Steve Lefever"
+                                },
+                                {
+                                    "@pid": "157/5030",
+                                    "text": "Jasper Anckaert"
+                                },
+                                {
+                                    "@pid": "157/4844",
+                                    "text": "Anneleen Beckers"
+                                },
+                                {
+                                    "@pid": "157/4933",
+                                    "text": "Ali Rihani"
+                                },
+                                {
+                                    "@pid": "157/4924",
+                                    "text": "Alan Van Goethem"
+                                },
+                                {
+                                    "@pid": "124/1500",
+                                    "text": "Pieter-Jan Volders"
+                                },
+                                {
+                                    "@pid": "157/5124",
+                                    "text": "Fjoralba Zeka"
+                                },
+                                {
+                                    "@pid": "38/1363",
+                                    "text": "Mat\u00e9 Ongenaert"
+                                },
+                                {
+                                    "@pid": "124/1387",
+                                    "text": "Pieter Mestdagh"
+                                },
+                                {
+                                    "@pid": "60/2740",
+                                    "text": "Jo Vandesompele"
+                                }
+                            ]
+                        },
+                        "title": "miRBase Tracker: keeping track of microRNA annotation changes.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2014",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/PeerLABRGVZOMV14",
+                        "doi": "10.1093/DATABASE/BAU080",
+                        "ee": "https://doi.org/10.1093/database/bau080",
+                        "url": "https://dblp.org/rec/journals/biodb/PeerLABRGVZOMV14"
+                    },
+                    "url": "URL#4742281"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4756654",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "25/6531",
+                                    "text": "N\u00e1ndor Fodor"
+                                },
+                                {
+                                    "@pid": "146/5583",
+                                    "text": "L\u00e1szl\u00f3 P\u00e1sztor"
+                                },
+                                {
+                                    "@pid": "83/3796",
+                                    "text": "Tam\u00e1s N\u00e9meth"
+                                }
+                            ]
+                        },
+                        "title": "Coupling the 4M crop model with national geo-databases for assessing the effects of climate change on agro-ecological characteristics of Hungary.",
+                        "venue": "Int. J. Digit. Earth",
+                        "volume": "7",
+                        "number": "5",
+                        "pages": "391-410",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/digearth/FodorPN14",
+                        "doi": "10.1080/17538947.2012.689998",
+                        "ee": "https://doi.org/10.1080/17538947.2012.689998",
+                        "url": "https://dblp.org/rec/journals/digearth/FodorPN14"
+                    },
+                    "url": "URL#4756654"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4845809",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/8361",
+                                    "text": "Kai Jannaschk"
+                                },
+                                {
+                                    "@pid": "77/5221",
+                                    "text": "Hannu Jaakkola"
+                                },
+                                {
+                                    "@pid": "t/BernhardThalheim",
+                                    "text": "Bernhard Thalheim"
+                                }
+                            ]
+                        },
+                        "title": "Technologies for Databases Change Management.",
+                        "venue": "ADBIS",
+                        "pages": "271-285",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adbis/JannaschkJT14",
+                        "doi": "10.1007/978-3-319-10518-5_21",
+                        "ee": "https://doi.org/10.1007/978-3-319-10518-5_21",
+                        "url": "https://dblp.org/rec/conf/adbis/JannaschkJT14"
+                    },
+                    "url": "URL#4845809"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5202932",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "136/0552",
+                                "text": "Sonda Zghal"
+                            }
+                        },
+                        "title": "Change Operators for Managing Schema Evolution in Geographical Databases.",
+                        "venue": "ICEIS",
+                        "pages": "187-193",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/iceis/Zghal13",
+                        "url": "https://dblp.org/rec/conf/iceis/Zghal13"
+                    },
+                    "url": "URL#5202932"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5526263",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "05/8059",
+                                    "text": "Wadii Boulila"
+                                },
+                                {
+                                    "@pid": "29/7760",
+                                    "text": "Karim Saheb Ettaba\u00e2"
+                                },
+                                {
+                                    "@pid": "83/1660",
+                                    "text": "Imed Riadh Farah"
+                                },
+                                {
+                                    "@pid": "78/1573",
+                                    "text": "Basel Solaiman"
+                                }
+                            ]
+                        },
+                        "title": "High level adaptive fusion approach: application to land cover change prediction in satellite image databases.",
+                        "venue": "SAC",
+                        "pages": "21-22",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/BoulilaEFS12",
+                        "doi": "10.1145/2245276.2245281",
+                        "ee": "https://doi.org/10.1145/2245276.2245281",
+                        "url": "https://dblp.org/rec/conf/sac/BoulilaEFS12"
+                    },
+                    "url": "URL#5526263"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5582139",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "00/1800",
+                                "text": "Arek Kasprzyk"
+                            }
+                        },
+                        "title": "BioMart: driving a paradigm change in biological data management.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2011",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/Kasprzyk11",
+                        "doi": "10.1093/DATABASE/BAR049",
+                        "ee": "https://doi.org/10.1093/database/bar049",
+                        "url": "https://dblp.org/rec/journals/biodb/Kasprzyk11"
+                    },
+                    "url": "URL#5582139"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5627706",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "05/8059",
+                                    "text": "Wadii Boulila"
+                                },
+                                {
+                                    "@pid": "83/1660",
+                                    "text": "Imed Riadh Farah"
+                                },
+                                {
+                                    "@pid": "29/7760",
+                                    "text": "Karim Saheb Ettaba\u00e2"
+                                },
+                                {
+                                    "@pid": "78/1573",
+                                    "text": "Basel Solaiman"
+                                }
+                            ]
+                        },
+                        "title": "Combining Decision Fusion and Uncertainty Propagation to Improve Land Cover Change Prediction in Satellite Image Databases.",
+                        "venue": "J. Multim. Process. Technol.",
+                        "volume": "2",
+                        "number": "3",
+                        "pages": "127-139",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jmpt/BoulilaFES11",
+                        "ee": "http://www.dline.info/jmpt/fulltext/v2n3/1.pdf",
+                        "url": "https://dblp.org/rec/journals/jmpt/BoulilaFES11"
+                    },
+                    "url": "URL#5627706"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5670988",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/2273",
+                                    "text": "Feiyue Ye"
+                                },
+                                {
+                                    "@pid": "l/JixueLiu",
+                                    "text": "Jixue Liu"
+                                },
+                                {
+                                    "@pid": "99/826",
+                                    "text": "Jin Qian"
+                                },
+                                {
+                                    "@pid": "04/10246",
+                                    "text": "Yuxi Shi"
+                                }
+                            ]
+                        },
+                        "title": "Discovering Association Rules Change from Large Databases.",
+                        "venue": "AICI",
+                        "pages": "388-395",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/aici/YeLQS11",
+                        "doi": "10.1007/978-3-642-23881-9_51",
+                        "ee": "https://doi.org/10.1007/978-3-642-23881-9_51",
+                        "url": "https://dblp.org/rec/conf/aici/YeLQS11"
+                    },
+                    "url": "URL#5670988"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5692239",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "09/2944-2",
+                                    "text": "Waqas Ahmed 0002"
+                                },
+                                {
+                                    "@pid": "98/1616",
+                                    "text": "Muhammad Ahtisham Aslam"
+                                },
+                                {
+                                    "@pid": "48/5700-1",
+                                    "text": "Jun Shen 0001"
+                                },
+                                {
+                                    "@pid": "84/3458",
+                                    "text": "Jianming Yong"
+                                }
+                            ]
+                        },
+                        "title": "A light weight approach for ontology generation and change synchronization between ontologies and source relational databases.",
+                        "venue": "CSCWD",
+                        "pages": "208-214",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cscwd/AhmedASY11",
+                        "doi": "10.1109/CSCWD.2011.5960076",
+                        "ee": "https://doi.org/10.1109/CSCWD.2011.5960076",
+                        "url": "https://dblp.org/rec/conf/cscwd/AhmedASY11"
+                    },
+                    "url": "URL#5692239"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5982205",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "79/1221",
+                                    "text": "Marie Chabert"
+                                },
+                                {
+                                    "@pid": "59/3376",
+                                    "text": "Jean-Yves Tourneret"
+                                },
+                                {
+                                    "@pid": "24/8948",
+                                    "text": "Vincent Poulain"
+                                },
+                                {
+                                    "@pid": "57/4686",
+                                    "text": "Jordi Inglada"
+                                }
+                            ]
+                        },
+                        "title": "Logistic regression for detecting changes between databases and remote sensing images.",
+                        "venue": "IGARSS",
+                        "pages": "3198-3201",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/igarss/ChabertTPI10",
+                        "doi": "10.1109/IGARSS.2010.5649669",
+                        "ee": "https://doi.org/10.1109/IGARSS.2010.5649669",
+                        "url": "https://dblp.org/rec/conf/igarss/ChabertTPI10"
+                    },
+                    "url": "URL#5982205"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5985474",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "29/8297",
+                                    "text": "Armin Sharafi"
+                                },
+                                {
+                                    "@pid": "47/6732-1",
+                                    "text": "Petra Wolf 0001"
+                                },
+                                {
+                                    "@pid": "k/HelmutKrcmar",
+                                    "text": "Helmut Krcmar"
+                                }
+                            ]
+                        },
+                        "title": "Knowledge Discovery in Databases on the Example of Engineering Change Management.",
+                        "venue": "ICDM",
+                        "pages": "9-16",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/incdm/SharafiWK10",
+                        "url": "https://dblp.org/rec/conf/incdm/SharafiWK10"
+                    },
+                    "url": "URL#5985474"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6157120",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/3459",
+                                    "text": "Aijun An"
+                                },
+                                {
+                                    "@pid": "25/3876-1",
+                                    "text": "Qian Wan 0001"
+                                },
+                                {
+                                    "@pid": "04/4871",
+                                    "text": "Jiashu Zhao"
+                                },
+                                {
+                                    "@pid": "h/XiangjiHuang",
+                                    "text": "Xiangji Huang 0001"
+                                }
+                            ]
+                        },
+                        "title": "Diverging patterns: discovering significant frequency change dissimilarities in large databases.",
+                        "venue": "CIKM",
+                        "pages": "1473-1476",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/AnWZH09",
+                        "doi": "10.1145/1645953.1646148",
+                        "ee": "https://doi.org/10.1145/1645953.1646148",
+                        "url": "https://dblp.org/rec/conf/cikm/AnWZH09"
+                    },
+                    "url": "URL#6157120"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6195467",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "62/6035",
+                                    "text": "Ferdinando Di Martino"
+                                },
+                                {
+                                    "@pid": "88/5468-2",
+                                    "text": "Salvatore Sessa 0002"
+                                },
+                                {
+                                    "@pid": "97/3702",
+                                    "text": "Giuseppe Polese"
+                                },
+                                {
+                                    "@pid": "84/5919",
+                                    "text": "Mario Vacca"
+                                }
+                            ]
+                        },
+                        "title": "A Mapreduce Framework for Change Propagation in Geographic Databases.",
+                        "venue": "ICEIS",
+                        "pages": "31-36",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/iceis/MartinoSPV09",
+                        "url": "https://dblp.org/rec/conf/iceis/MartinoSPV09"
+                    },
+                    "url": "URL#6195467"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6406648",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "38/3573",
+                                    "text": "J. R. Coz"
+                                },
+                                {
+                                    "@pid": "08/9",
+                                    "text": "Ruben Heradio Gil"
+                                },
+                                {
+                                    "@pid": "94/4764",
+                                    "text": "Jos\u00e9 Antonio Cerrada Somolinos"
+                                },
+                                {
+                                    "@pid": "59/3520",
+                                    "text": "J. C. L\u00f3pez Ruiz"
+                                }
+                            ]
+                        },
+                        "title": "A Generative Approach to Improve the Abstraction Level to Build Applications Based on the Notification of Changes in Databases.",
+                        "venue": "ICEIS",
+                        "pages": "421-424",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/iceis/CozGSR08",
+                        "url": "https://dblp.org/rec/conf/iceis/CozGSR08"
+                    },
+                    "url": "URL#6406648"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6486533",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "l/ErwinLeonardi",
+                                "text": "Erwin Leonardi"
+                            }
+                        },
+                        "title": "Scalable XML change detection using relational databases",
+                        "year": "2007",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/sg/Leonardi07",
+                        "doi": "10.32657/10356/35727",
+                        "ee": "https://doi.org/10.32657/10356/35727",
+                        "url": "https://dblp.org/rec/phd/sg/Leonardi07"
+                    },
+                    "url": "URL#6486533"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6550101",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/986",
+                                    "text": "Panagiotis G. Ipeirotis"
+                                },
+                                {
+                                    "@pid": "92/2820",
+                                    "text": "Alexandros Ntoulas"
+                                },
+                                {
+                                    "@pid": "76/4977",
+                                    "text": "Junghoo Cho"
+                                },
+                                {
+                                    "@pid": "g/LuisGravano",
+                                    "text": "Luis Gravano"
+                                }
+                            ]
+                        },
+                        "title": "Modeling and managing changes in text databases.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "32",
+                        "number": "3",
+                        "pages": "14",
+                        "year": "2007",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/IpeirotisNCG07",
+                        "doi": "10.1145/1272743.1272744",
+                        "ee": "https://doi.org/10.1145/1272743.1272744",
+                        "url": "https://dblp.org/rec/journals/tods/IpeirotisNCG07"
+                    },
+                    "url": "URL#6550101"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6651668",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                }
+                            ]
+                        },
+                        "title": "XANADUE: a system for detecting changes to XML data in tree-unaware relational databases.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "1137-1140",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/LeonardiB07",
+                        "doi": "10.1145/1247480.1247633",
+                        "ee": "https://doi.org/10.1145/1247480.1247633",
+                        "url": "https://dblp.org/rec/conf/sigmod/LeonardiB07"
+                    },
+                    "url": "URL#6651668"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6690613",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                }
+                            ]
+                        },
+                        "title": "Xandy: A scalable change detection technique for ordered XML documents using relational databases.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "59",
+                        "number": "2",
+                        "pages": "476-507",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/LeonardiB06",
+                        "doi": "10.1016/J.DATAK.2005.06.006",
+                        "ee": "https://doi.org/10.1016/j.datak.2005.06.006",
+                        "url": "https://dblp.org/rec/journals/dke/LeonardiB06"
+                    },
+                    "url": "URL#6690613"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6925518",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                }
+                            ]
+                        },
+                        "title": "Detecting changes on unordered XML documents using relational databases: a schema-conscious approach.",
+                        "venue": "CIKM",
+                        "pages": "509-516",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/LeonardiB05",
+                        "doi": "10.1145/1099554.1099693",
+                        "ee": "https://doi.org/10.1145/1099554.1099693",
+                        "url": "https://dblp.org/rec/conf/cikm/LeonardiB05"
+                    },
+                    "url": "URL#6925518"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6931076",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/JChomicki",
+                                    "text": "Jan Chomicki"
+                                },
+                                {
+                                    "@pid": "37/6028",
+                                    "text": "Jerzy Marcinkowski"
+                                }
+                            ]
+                        },
+                        "title": "On the Computational Complexity of Minimal-Change Integrity Maintenance in Relational Databases.",
+                        "venue": "Inconsistency Tolerance",
+                        "pages": "119-150",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/ChomickiM05",
+                        "doi": "10.1007/978-3-540-30597-2_5",
+                        "ee": "https://doi.org/10.1007/978-3-540-30597-2_5",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/ChomickiM05"
+                    },
+                    "url": "URL#6931076"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6931214",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                },
+                                {
+                                    "@pid": "m/SanjayKumarMadria",
+                                    "text": "Sanjay Madria"
+                                }
+                            ]
+                        },
+                        "title": "Xandy: Detecting Changes on Large Unordered XML Documents Using Relational Databases.",
+                        "venue": "DASFAA",
+                        "pages": "711-723",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dasfaa/LeonardiBM05",
+                        "doi": "10.1007/11408079_65",
+                        "ee": "https://doi.org/10.1007/11408079_65",
+                        "url": "https://dblp.org/rec/conf/dasfaa/LeonardiBM05"
+                    },
+                    "url": "URL#6931214"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6932092",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "19/6834",
+                                    "text": "Sri L. Budiman"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                }
+                            ]
+                        },
+                        "title": "Detecting Changes to Hybrid XML Documents Using Relational Databases.",
+                        "venue": "DEXA",
+                        "pages": "482-492",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/LeonardiBB05",
+                        "doi": "10.1007/11546924_47",
+                        "ee": "https://doi.org/10.1007/11546924_47",
+                        "url": "https://dblp.org/rec/conf/dexa/LeonardiBB05"
+                    },
+                    "url": "URL#6932092"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6953348",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/986",
+                                    "text": "Panagiotis G. Ipeirotis"
+                                },
+                                {
+                                    "@pid": "92/2820",
+                                    "text": "Alexandros Ntoulas"
+                                },
+                                {
+                                    "@pid": "76/4977",
+                                    "text": "Junghoo Cho"
+                                },
+                                {
+                                    "@pid": "g/LuisGravano",
+                                    "text": "Luis Gravano"
+                                }
+                            ]
+                        },
+                        "title": "Modeling and Managing Content Changes in Text Databases.",
+                        "venue": "ICDE",
+                        "pages": "606-617",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/IpeirotisNCG05",
+                        "doi": "10.1109/ICDE.2005.91",
+                        "ee": "https://doi.org/10.1109/ICDE.2005.91",
+                        "url": "https://dblp.org/rec/conf/icde/IpeirotisNCG05"
+                    },
+                    "url": "URL#6953348"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6953647",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "28/2703",
+                                    "text": "Marcelino Pereira dos Santos Silva"
+                                },
+                                {
+                                    "@pid": "76/5209",
+                                    "text": "Gilberto C\u00e2mara"
+                                },
+                                {
+                                    "@pid": "76/3665",
+                                    "text": "Ricardo Cartaxo Modesto de Souza"
+                                },
+                                {
+                                    "@pid": "121/7052",
+                                    "text": "Dalton de Morisson Valeriano"
+                                },
+                                {
+                                    "@pid": "35/484",
+                                    "text": "Maria Isabel Sobral Escada"
+                                }
+                            ]
+                        },
+                        "title": "Mining Patterns of Change in Remote Sensing Image Databases.",
+                        "venue": "ICDM",
+                        "pages": "362-369",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdm/SilvaCSVE05",
+                        "doi": "10.1109/ICDM.2005.98",
+                        "ee": "https://doi.org/10.1109/ICDM.2005.98",
+                        "url": "https://dblp.org/rec/conf/icdm/SilvaCSVE05"
+                    },
+                    "url": "URL#6953647"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7079431",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                },
+                                {
+                                    "@pid": "24/6166",
+                                    "text": "T. S. Dharma"
+                                },
+                                {
+                                    "@pid": "m/SanjayKumarMadria",
+                                    "text": "Sanjay Madria"
+                                }
+                            ]
+                        },
+                        "title": "Detecting Content Changes on Ordered XML Documents Using Relational Databases.",
+                        "venue": "DEXA",
+                        "pages": "580-590",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/LeonardiBDM04",
+                        "doi": "10.1007/978-3-540-30075-5_56",
+                        "ee": "https://doi.org/10.1007/978-3-540-30075-5_56",
+                        "url": "https://dblp.org/rec/conf/dexa/LeonardiBDM04"
+                    },
+                    "url": "URL#7079431"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7308462",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "62/1193",
+                                    "text": "Yannis Stavrakas"
+                                },
+                                {
+                                    "@pid": "82/528",
+                                    "text": "Manolis Gergatsoulis"
+                                },
+                                {
+                                    "@pid": "14/3086",
+                                    "text": "Christos Doulkeridis"
+                                },
+                                {
+                                    "@pid": "05/5297",
+                                    "text": "Vassilis Zafeiris"
+                                }
+                            ]
+                        },
+                        "title": "Accommodating Changes in Semistructured Databases Using Multidimensional OEM.",
+                        "venue": "ADBIS",
+                        "pages": "360-373",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adbis/StavrakasGDZ02",
+                        "doi": "10.1007/3-540-45710-0_29",
+                        "ee": "https://doi.org/10.1007/3-540-45710-0_29",
+                        "url": "https://dblp.org/rec/conf/adbis/StavrakasGDZ02"
+                    },
+                    "url": "URL#7308462"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7325163",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "61/2852",
+                                    "text": "Nassima Djafri"
+                                },
+                                {
+                                    "@pid": "f/AAAFernandes",
+                                    "text": "Alvaro A. A. Fernandes"
+                                },
+                                {
+                                    "@pid": "p/NWPaton",
+                                    "text": "Norman W. Paton"
+                                },
+                                {
+                                    "@pid": "14/1746",
+                                    "text": "Tony Griffiths"
+                                }
+                            ]
+                        },
+                        "title": "Spatio-temporal evolution: querying patterns of change in databases.",
+                        "venue": "ACM-GIS",
+                        "pages": "35-41",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/gis/DjafriFPG02",
+                        "doi": "10.1145/585147.585156",
+                        "ee": "https://doi.org/10.1145/585147.585156",
+                        "url": "https://dblp.org/rec/conf/gis/DjafriFPG02"
+                    },
+                    "url": "URL#7325163"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7357325",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "32/3356",
+                                    "text": "Jin-Hau Kuo"
+                                },
+                                {
+                                    "@pid": "51/2694",
+                                    "text": "Ja-Ling Wu"
+                                }
+                            ]
+                        },
+                        "title": "Efficient algorithm for scene change detection and camera motion characterization using the approach of heterogeneous video transcoding on MPEG compressed videos.",
+                        "venue": "Storage and Retrieval for Media Databases",
+                        "pages": "168-176",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/KuoW02",
+                        "doi": "10.1117/12.451088",
+                        "ee": "https://doi.org/10.1117/12.451088",
+                        "url": "https://dblp.org/rec/conf/spieSR/KuoW02"
+                    },
+                    "url": "URL#7357325"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7357327",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "27/679",
+                                    "text": "Shang-Hong Lai"
+                                },
+                                {
+                                    "@pid": "06/8305",
+                                    "text": "Wei-Kuang Lee"
+                                }
+                            ]
+                        },
+                        "title": "New video shot change detection algorithm based on accurate motion and illumination estimation.",
+                        "venue": "Storage and Retrieval for Media Databases",
+                        "pages": "148-157",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/LaiL02",
+                        "doi": "10.1117/12.451085",
+                        "ee": "https://doi.org/10.1117/12.451085",
+                        "url": "https://dblp.org/rec/conf/spieSR/LaiL02"
+                    },
+                    "url": "URL#7357327"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7498177",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "11/6397",
+                                    "text": "Laurent Deruelle"
+                                },
+                                {
+                                    "@pid": "54/3909",
+                                    "text": "Mourad Bouneffa"
+                                },
+                                {
+                                    "@pid": "m/NouredineMelab",
+                                    "text": "Nordine Melab"
+                                },
+                                {
+                                    "@pid": "44/4054",
+                                    "text": "Henri Basson"
+                                },
+                                {
+                                    "@pid": "70/5574",
+                                    "text": "Gilles Goncalves"
+                                },
+                                {
+                                    "@pid": "99/452",
+                                    "text": "Jean-Christophe Nicolas"
+                                }
+                            ]
+                        },
+                        "title": "A Change Impact Analysis Approach for CORBA-Based Federated Databases.",
+                        "venue": "DEXA",
+                        "pages": "949-958",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/DeruelleBMBGN00",
+                        "doi": "10.1007/3-540-44469-6_89",
+                        "ee": "https://doi.org/10.1007/3-540-44469-6_89",
+                        "url": "https://dblp.org/rec/conf/dexa/DeruelleBMBGN00"
+                    },
+                    "url": "URL#7498177"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7511540",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "79/6124",
+                                    "text": "Audris Mockus"
+                                },
+                                {
+                                    "@pid": "21/4750",
+                                    "text": "Lawrence G. Votta"
+                                }
+                            ]
+                        },
+                        "title": "Identifying Reasons for Software Changes using Historic Databases.",
+                        "venue": "ICSM",
+                        "pages": "120-130",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icsm/MockusV00",
+                        "doi": "10.1109/ICSM.2000.883028",
+                        "ee": "https://doi.org/10.1109/ICSM.2000.883028",
+                        "url": "https://dblp.org/rec/conf/icsm/MockusV00"
+                    },
+                    "url": "URL#7511540"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7511868",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "s/TimosKSellis",
+                                "text": "Timos K. Sellis"
+                            }
+                        },
+                        "title": "Databases Supporting Changes in Changing Worlds-The Case Spatio-Temporal Database Systems.",
+                        "venue": "IDEAS",
+                        "pages": "145",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/ideas/Sellis00",
+                        "url": "https://dblp.org/rec/conf/ideas/Sellis00"
+                    },
+                    "url": "URL#7511868"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7525238",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "69/289",
+                                    "text": "S. C. Rennie"
+                                },
+                                {
+                                    "@pid": "76/6451",
+                                    "text": "A. M. J. Lane"
+                                },
+                                {
+                                    "@pid": "94/521",
+                                    "text": "M. Wilson"
+                                }
+                            ]
+                        },
+                        "title": "Web Access to Environmental Databases: a Database Query and Presentation System for the UK Environmental Change Network.",
+                        "venue": "SAC",
+                        "pages": "894-897",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/RennieLW00",
+                        "doi": "10.1145/338407.338678",
+                        "ee": "https://doi.org/10.1145/338407.338678",
+                        "url": "https://dblp.org/rec/conf/sac/RennieLW00"
+                    },
+                    "url": "URL#7525238"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7527671",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "73/467",
+                                    "text": "Ajay Divakaran"
+                                },
+                                {
+                                    "@pid": "42/171-3",
+                                    "text": "Hiroshi Ito 0003"
+                                },
+                                {
+                                    "@pid": "18/4852",
+                                    "text": "Huifang Sun"
+                                },
+                                {
+                                    "@pid": "52/6998",
+                                    "text": "Tommy Poon"
+                                }
+                            ]
+                        },
+                        "title": "Fade-in/out scene change detection in the MPEG-1/2/4 compressed video domain.",
+                        "venue": "Storage and Retrieval for Media Databases",
+                        "pages": "518-522",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/DivakaranISP00",
+                        "doi": "10.1117/12.373584",
+                        "ee": "https://doi.org/10.1117/12.373584",
+                        "url": "https://dblp.org/rec/conf/spieSR/DivakaranISP00"
+                    },
+                    "url": "URL#7527671"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7527673",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "d/MarkSDrew",
+                                    "text": "Mark S. Drew"
+                                },
+                                {
+                                    "@pid": "68/3417",
+                                    "text": "Zinovi Tauber"
+                                },
+                                {
+                                    "@pid": "l/ZeNianLi",
+                                    "text": "Ze-Nian Li"
+                                }
+                            ]
+                        },
+                        "title": "Feature localization and search by object model under illumination change.",
+                        "venue": "Storage and Retrieval for Media Databases",
+                        "pages": "399-410",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/DrewTL00",
+                        "doi": "10.1117/12.373572",
+                        "ee": "https://doi.org/10.1117/12.373572",
+                        "url": "https://dblp.org/rec/conf/spieSR/DrewTL00"
+                    },
+                    "url": "URL#7527673"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7536392",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "c/SSChawathe",
+                                "text": "Sudarshan S. Chawathe"
+                            }
+                        },
+                        "title": "Managing change in heterogeneous autonomous databases.",
+                        "year": "1999",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/us/Chawathe99",
+                        "ee": "https://searchworks.stanford.edu/view/4140709",
+                        "url": "https://dblp.org/rec/phd/us/Chawathe99"
+                    },
+                    "url": "URL#7536392"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7590221",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "31/6638",
+                                "text": "Ben Gorte"
+                            }
+                        },
+                        "title": "Change Detection by Classification of a Multi-temporal Image.",
+                        "venue": "Integrated Spatial Databases",
+                        "pages": "105-121",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isd/Gorte99",
+                        "doi": "10.1007/3-540-46621-5_7",
+                        "ee": "https://doi.org/10.1007/3-540-46621-5_7",
+                        "url": "https://dblp.org/rec/conf/isd/Gorte99"
+                    },
+                    "url": "URL#7590221"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7590224",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "26/3441",
+                                    "text": "Christopher B. Jones"
+                                },
+                                {
+                                    "@pid": "50/6999",
+                                    "text": "J. Mark Ware"
+                                },
+                                {
+                                    "@pid": "51/1931",
+                                    "text": "David R. Miller"
+                                }
+                            ]
+                        },
+                        "title": "A Probabilistic Approach to Environmental Change Detection with Area-Class Map Data.",
+                        "venue": "Integrated Spatial Databases",
+                        "pages": "122-136",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/isd/JonesWM99",
+                        "doi": "10.1007/3-540-46621-5_8",
+                        "ee": "https://doi.org/10.1007/3-540-46621-5_8",
+                        "url": "https://dblp.org/rec/conf/isd/JonesWM99"
+                    },
+                    "url": "URL#7590224"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7599618",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "73/467",
+                                    "text": "Ajay Divakaran"
+                                },
+                                {
+                                    "@pid": "42/171-3",
+                                    "text": "Hiroshi Ito 0003"
+                                },
+                                {
+                                    "@pid": "18/4852",
+                                    "text": "Huifang Sun"
+                                },
+                                {
+                                    "@pid": "52/6998",
+                                    "text": "Tommy Poon"
+                                }
+                            ]
+                        },
+                        "title": "Scene change detection and feature extraction for MPEG-4 sequences.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "545-551",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/DivakaranISP99",
+                        "doi": "10.1117/12.333874",
+                        "ee": "https://doi.org/10.1117/12.333874",
+                        "url": "https://dblp.org/rec/conf/spieSR/DivakaranISP99"
+                    },
+                    "url": "URL#7599618"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7599631",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "43/3779",
+                                    "text": "Woonkyung Michael Kim"
+                                },
+                                {
+                                    "@pid": "43/4051",
+                                    "text": "Samuel Moon-Ho Song"
+                                },
+                                {
+                                    "@pid": "88/5149",
+                                    "text": "Hyeokman Kim"
+                                },
+                                {
+                                    "@pid": "46/10023",
+                                    "text": "Cheeyang Song"
+                                },
+                                {
+                                    "@pid": "181/9850",
+                                    "text": "Byung W. Kwon"
+                                },
+                                {
+                                    "@pid": "181/9824",
+                                    "text": "Sun G. Kim"
+                                }
+                            ]
+                        },
+                        "title": "Morphological approach to scene change detection and digital video storage and retrieval.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "733-",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/KimSKSKK99",
+                        "doi": "10.1117/12.333893",
+                        "ee": "https://doi.org/10.1117/12.333893",
+                        "url": "https://dblp.org/rec/conf/spieSR/KimSKSKK99"
+                    },
+                    "url": "URL#7599631"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7612625",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "h/ChunNanHsu",
+                                    "text": "Chun-Nan Hsu"
+                                },
+                                {
+                                    "@pid": "k/CAKnoblock",
+                                    "text": "Craig A. Knoblock"
+                                }
+                            ]
+                        },
+                        "title": "Discovering Robust Knowledge from Databases that Change.",
+                        "venue": "Data Min. Knowl. Discov.",
+                        "volume": "2",
+                        "number": "1",
+                        "pages": "69-95",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/datamine/HsuK98",
+                        "doi": "10.1023/A:1009717820785",
+                        "ee": "https://doi.org/10.1023/A:1009717820785",
+                        "url": "https://dblp.org/rec/journals/datamine/HsuK98"
+                    },
+                    "url": "URL#7612625"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640234",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "76/6735",
+                                    "text": "Marcelo Arenas"
+                                },
+                                {
+                                    "@pid": "b/LEBertossi",
+                                    "text": "Leopoldo E. Bertossi"
+                                }
+                            ]
+                        },
+                        "title": "The Dynamics of Database Views.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "197-226",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/ArenasB98",
+                        "doi": "10.1007/BFB0055500",
+                        "ee": "https://doi.org/10.1007/BFb0055500",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/ArenasB98"
+                    },
+                    "url": "URL#7640234"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640237",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/ElisaBertino",
+                                    "text": "Elisa Bertino"
+                                },
+                                {
+                                    "@pid": "c/BarbaraCatania",
+                                    "text": "Barbara Catania"
+                                },
+                                {
+                                    "@pid": "g/VincenzoGervasi",
+                                    "text": "Vincenzo Gervasi"
+                                },
+                                {
+                                    "@pid": "42/5086",
+                                    "text": "Alessandra Raffaet\u00e0"
+                                }
+                            ]
+                        },
+                        "title": "Active-U-Datalog: Integrating Active Rules in a Logical Update Language.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "107-133",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/BertinoCGR98",
+                        "doi": "10.1007/BFB0055497",
+                        "ee": "https://doi.org/10.1007/BFb0055497",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/BertinoCGR98"
+                    },
+                    "url": "URL#7640237"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640241",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/AJBonner",
+                                    "text": "Anthony J. Bonner"
+                                },
+                                {
+                                    "@pid": "k/MichaelKifer",
+                                    "text": "Michael Kifer"
+                                }
+                            ]
+                        },
+                        "title": "Results on Reasoning about Updates in Transaction Logic.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "166-196",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/BonnerK98b",
+                        "doi": "10.1007/BFB0055499",
+                        "ee": "https://doi.org/10.1007/BFb0055499",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/BonnerK98b"
+                    },
+                    "url": "URL#7640241"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640249",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/HChristiansen",
+                                    "text": "Henning Christiansen 0001"
+                                },
+                                {
+                                    "@pid": "42/2586",
+                                    "text": "Troels Andreasen"
+                                }
+                            ]
+                        },
+                        "title": "A Practical Approach to Hypothetical Database Queries.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "340-355",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/ChristiansenA98",
+                        "doi": "10.1007/BFB0055505",
+                        "ee": "https://doi.org/10.1007/BFb0055505",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/ChristiansenA98"
+                    },
+                    "url": "URL#7640249"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640261",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "06/2326",
+                                    "text": "Pascal van Eck"
+                                },
+                                {
+                                    "@pid": "91/3901",
+                                    "text": "Joeri Engelfriet"
+                                },
+                                {
+                                    "@pid": "31/4309",
+                                    "text": "Dieter Fensel"
+                                },
+                                {
+                                    "@pid": "h/FrankvanHarmelen",
+                                    "text": "Frank van Harmelen"
+                                },
+                                {
+                                    "@pid": "v/YdeVenema",
+                                    "text": "Yde Venema"
+                                },
+                                {
+                                    "@pid": "82/5316",
+                                    "text": "Mark Willems"
+                                }
+                            ]
+                        },
+                        "title": "Specification of Dynamics for Knowledge-Based Systems.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "37-68",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/EckEFHVW98",
+                        "doi": "10.1007/BFB0055495",
+                        "ee": "https://doi.org/10.1007/BFb0055495",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/EckEFHVW98"
+                    },
+                    "url": "URL#7640261"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640306",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "t/EugeniaTernovska",
+                                "text": "Eugenia Ternovskaia"
+                            }
+                        },
+                        "title": "Inductive Definability and the Situation Calculus.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "227-248",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/Ternovskaia98",
+                        "doi": "10.1007/BFB0055501",
+                        "ee": "https://doi.org/10.1007/BFb0055501",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/Ternovskaia98"
+                    },
+                    "url": "URL#7640306"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640307",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "w/CAWichert",
+                                    "text": "Carl-Alexander Wichert"
+                                },
+                                {
+                                    "@pid": "f/BurkhardFreitag",
+                                    "text": "Burkhard Freitag"
+                                },
+                                {
+                                    "@pid": "69/418",
+                                    "text": "Alfred Fent"
+                                }
+                            ]
+                        },
+                        "title": "Logical Transactions and Serializability.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "134-165",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/WichertFF98",
+                        "doi": "10.1007/BFB0055498",
+                        "ee": "https://doi.org/10.1007/BFb0055498",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/WichertFF98"
+                    },
+                    "url": "URL#7640307"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7640308",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "84/6183",
+                                "text": "Mary-Anne Williams"
+                            }
+                        },
+                        "title": "Applications of Belief Revision.",
+                        "venue": "Transactions and Change in Logic Databases",
+                        "pages": "287-316",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/Williams98",
+                        "doi": "10.1007/BFB0055503",
+                        "ee": "https://doi.org/10.1007/BFb0055503",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/Williams98"
+                    },
+                    "url": "URL#7640308"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7658385",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/3058",
+                                    "text": "Todd L. Graves"
+                                },
+                                {
+                                    "@pid": "79/6124",
+                                    "text": "Audris Mockus"
+                                }
+                            ]
+                        },
+                        "title": "Inferring Change Effort from Configuration Management Databases.",
+                        "venue": "IEEE METRICS",
+                        "pages": "267-",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/metrics/GravesM98",
+                        "doi": "10.1109/METRIC.1998.731253",
+                        "ee": "https://doi.org/10.1109/METRIC.1998.731253",
+                        "url": "https://dblp.org/rec/conf/metrics/GravesM98"
+                    },
+                    "url": "URL#7658385"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7665186",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "43/4051",
+                                    "text": "Samuel Moon-Ho Song"
+                                },
+                                {
+                                    "@pid": "65/5564",
+                                    "text": "Tae-Hoon Kwon"
+                                },
+                                {
+                                    "@pid": "43/3779",
+                                    "text": "Woonkyung Michael Kim"
+                                },
+                                {
+                                    "@pid": "88/5149",
+                                    "text": "Hyeokman Kim"
+                                },
+                                {
+                                    "@pid": "80/1701",
+                                    "text": "Byung-Do Rhee"
+                                }
+                            ]
+                        },
+                        "title": "Detection of Gradual Scene Changes for Parsing of Video Data.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "404-413",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/SongKKKR98",
+                        "doi": "10.1117/12.298449",
+                        "ee": "https://doi.org/10.1117/12.298449",
+                        "url": "https://dblp.org/rec/conf/spieSR/SongKKKR98"
+                    },
+                    "url": "URL#7665186"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7723168",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/AJBonner",
+                                    "text": "Anthony J. Bonner"
+                                },
+                                {
+                                    "@pid": "f/BurkhardFreitag",
+                                    "text": "Burkhard Freitag"
+                                },
+                                {
+                                    "@pid": "g/LauraGiordano1",
+                                    "text": "Laura Giordano 0001"
+                                },
+                                {
+                                    "@pid": "k/RobertAKowalski",
+                                    "text": "Robert A. Kowalski"
+                                }
+                            ]
+                        },
+                        "title": "Workshop DYNAMICS 97: (Trans)Actions and Change in Logic Programming and Deductive Databases.",
+                        "venue": "ILPS",
+                        "pages": "415-416",
+                        "year": "1997",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/slp/BonnerFGK97",
+                        "url": "https://dblp.org/rec/conf/slp/BonnerFGK97"
+                    },
+                    "url": "URL#7723168"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7809269",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/3909",
+                                    "text": "Mourad Bouneffa"
+                                },
+                                {
+                                    "@pid": "64/537",
+                                    "text": "Nacer Boudjlida"
+                                }
+                            ]
+                        },
+                        "title": "Managing Schema Changes in Object-Relationship Databases.",
+                        "venue": "OOER",
+                        "pages": "113-122",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/BouneffaB95",
+                        "doi": "10.1007/BFB0020525",
+                        "ee": "https://doi.org/10.1007/BFb0020525",
+                        "url": "https://dblp.org/rec/conf/er/BouneffaB95"
+                    },
+                    "url": "URL#7809269"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7825242",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/IshwarKSethi",
+                                    "text": "Ishwar K. Sethi"
+                                },
+                                {
+                                    "@pid": "82/3707",
+                                    "text": "Nilesh V. Patel"
+                                }
+                            ]
+                        },
+                        "title": "Statistical Approach to Scene Change Detection.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "329-338",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/SethiP95",
+                        "doi": "10.1117/12.205299",
+                        "ee": "https://doi.org/10.1117/12.205299",
+                        "url": "https://dblp.org/rec/conf/spieSR/SethiP95"
+                    },
+                    "url": "URL#7825242"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7854800",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "80/3358",
+                                "text": "Carme Quer"
+                            }
+                        },
+                        "title": "An Execution Model for change Computation in Deductive Databases.",
+                        "venue": "DAISD",
+                        "pages": "159-187",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/daisd/Quer94",
+                        "url": "https://dblp.org/rec/conf/daisd/Quer94"
+                    },
+                    "url": "URL#7854800"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7858596",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "33/6664",
+                                    "text": "P. Robert Hsu"
+                                },
+                                {
+                                    "@pid": "15/2914",
+                                    "text": "Hiroshi Harashima"
+                                }
+                            ]
+                        },
+                        "title": "Detecting scene changes and activities in video databases.",
+                        "venue": "ICASSP",
+                        "pages": "33-36",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icassp/HsuH94",
+                        "doi": "10.1109/ICASSP.1994.389518",
+                        "ee": "https://doi.org/10.1109/ICASSP.1994.389518",
+                        "url": "https://dblp.org/rec/conf/icassp/HsuH94"
+                    },
+                    "url": "URL#7858596"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7869350",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/1865",
+                                    "text": "Toni Urp\u00ed"
+                                },
+                                {
+                                    "@pid": "89/4942",
+                                    "text": "Antoni Oliv\u00e9"
+                                }
+                            ]
+                        },
+                        "title": "Semantic Change Computation Optimization in Active Databases.",
+                        "venue": "RIDE-ADS",
+                        "pages": "19-27",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ride/UrpiO94",
+                        "doi": "10.1109/RIDE.1994.282857",
+                        "ee": "https://doi.org/10.1109/RIDE.1994.282857",
+                        "url": "https://dblp.org/rec/conf/ride/UrpiO94"
+                    },
+                    "url": "URL#7869350"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7949005",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "35/1865",
+                                    "text": "Toni Urp\u00ed"
+                                },
+                                {
+                                    "@pid": "89/4942",
+                                    "text": "Antoni Oliv\u00e9"
+                                }
+                            ]
+                        },
+                        "title": "A Method for Change Computation in Deductive Databases.",
+                        "venue": "VLDB",
+                        "pages": "225-237",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/UrpiO92",
+                        "ee": "http://www.vldb.org/conf/1992/P225.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/UrpiO92"
+                    },
+                    "url": "URL#7949005"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7969929",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "35/1865",
+                                "text": "Toni Urp\u00ed"
+                            }
+                        },
+                        "title": "An Approach to Monitoring Changes in Deductive Databases.",
+                        "venue": "DAISD",
+                        "pages": "87-113",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/daisd/Urpi91",
+                        "url": "https://dblp.org/rec/conf/daisd/Urpi91"
+                    },
+                    "url": "URL#7969929"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7997275",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "62/543",
+                                    "text": "Elizabeth A. Unger"
+                                },
+                                {
+                                    "@pid": "22/5291",
+                                    "text": "Sallie Keller-McNulty"
+                                },
+                                {
+                                    "@pid": "175/3275",
+                                    "text": "Paul Connelly"
+                                }
+                            ]
+                        },
+                        "title": "Natural change in dynamic databases as a deterrent to compromise by trackers.",
+                        "venue": "ACSAC",
+                        "pages": "116-124",
+                        "year": "1990",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/acsac/UngerMC90",
+                        "doi": "10.1109/CSAC.1990.143760",
+                        "ee": "https://doi.org/10.1109/CSAC.1990.143760",
+                        "url": "https://dblp.org/rec/conf/acsac/UngerMC90"
+                    },
+                    "url": "URL#7997275"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8030128",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/721",
+                                    "text": "Gia Toan Nguyen"
+                                },
+                                {
+                                    "@pid": "54/5215",
+                                    "text": "Dominique Rieu"
+                                }
+                            ]
+                        },
+                        "title": "Schema Change Propagation in Object-Oriented Databases.",
+                        "venue": "IFIP Congress",
+                        "pages": "815-820",
+                        "year": "1989",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/ifip/NguyenR89",
+                        "url": "https://dblp.org/rec/conf/ifip/NguyenR89"
+                    },
+                    "url": "URL#8030128"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8144361",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/StanleyYWSu",
+                                    "text": "Stanley Y. W. Su"
+                                },
+                                {
+                                    "@pid": "l/HermanLam",
+                                    "text": "Herman Lam"
+                                },
+                                {
+                                    "@pid": "14/2647",
+                                    "text": "Der Her Lo"
+                                }
+                            ]
+                        },
+                        "title": "Transformation of Data Traversals and Operations in Application Programs to Account for Semantic Changes of Databases.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "6",
+                        "number": "2",
+                        "pages": "255-294",
+                        "year": "1981",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/SuLL81",
+                        "doi": "10.1145/319566.319573",
+                        "ee": "https://doi.org/10.1145/319566.319573",
+                        "url": "https://dblp.org/rec/journals/tods/SuLL81"
+                    },
+                    "url": "URL#8144361"
+                }
+            ]
+        }
+    }
+}

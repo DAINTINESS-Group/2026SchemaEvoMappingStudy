@@ -1,0 +1,181 @@
+{
+    "result": {
+        "query": "Databases* Adaptation*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "3.02"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "5",
+                "@dc": "5",
+                "@oc": "5",
+                "@id": "62653346",
+                "text": "adaptation"
+            }
+        },
+        "hits": {
+            "@total": "5",
+            "@computed": "5",
+            "@sent": "5",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "5846066",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "p/OdysseasPapapetrou",
+                                    "text": "Odysseas Papapetrou"
+                                },
+                                {
+                                    "@pid": "s/WolfSiberski",
+                                    "text": "Wolf Siberski"
+                                },
+                                {
+                                    "@pid": "n/WolfgangNejdl",
+                                    "text": "Wolfgang Nejdl"
+                                }
+                            ]
+                        },
+                        "title": "Cardinality estimation and dynamic length adaptation for Bloom filters.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "28",
+                        "number": "2-3",
+                        "pages": "119-156",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/PapapetrouSN10",
+                        "doi": "10.1007/S10619-010-7067-2",
+                        "ee": "https://doi.org/10.1007/s10619-010-7067-2",
+                        "url": "https://dblp.org/rec/journals/dpd/PapapetrouSN10"
+                    },
+                    "url": "URL#5846066"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6472030",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/3504",
+                                    "text": "Stefan Poslad"
+                                },
+                                {
+                                    "@pid": "04/280",
+                                    "text": "Landong Zuo"
+                                }
+                            ]
+                        },
+                        "title": "An Adaptive Semantic Framework to Support Multiple User Viewpoints over Multiple Databases.",
+                        "venue": "Advances in Semantic Media Adaptation and Personalization",
+                        "pages": "261-284",
+                        "year": "2008",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/PosladZ08",
+                        "doi": "10.1007/978-3-540-76361_13",
+                        "ee": "https://doi.org/10.1007/978-3-540-76361_13",
+                        "url": "https://dblp.org/rec/series/sci/PosladZ08"
+                    },
+                    "url": "URL#6472030"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7522135",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "26/3330",
+                                    "text": "Awais Rashid"
+                                },
+                                {
+                                    "@pid": "s/PeterSawyer",
+                                    "text": "Peter Sawyer"
+                                },
+                                {
+                                    "@pid": "p/EPulvermuller",
+                                    "text": "Elke Pulverm\u00fcller"
+                                }
+                            ]
+                        },
+                        "title": "A Flexible Approach for Instance Adaptation During Class Versioning.",
+                        "venue": "Objects and Databases",
+                        "pages": "101-113",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/oodbs/RashidSP00",
+                        "doi": "10.1007/3-540-44677-X_7",
+                        "ee": "https://doi.org/10.1007/3-540-44677-X_7",
+                        "url": "https://dblp.org/rec/conf/oodbs/RashidSP00"
+                    },
+                    "url": "URL#7522135"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7599644",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "38/523",
+                                "text": "Silvia Pfeiffer"
+                            }
+                        },
+                        "title": "Importance of perceptive adaptation of sound features in audio content processing.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "328-337",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/Pfeiffer99",
+                        "doi": "10.1117/12.333852",
+                        "ee": "https://doi.org/10.1117/12.333852",
+                        "url": "https://dblp.org/rec/conf/spieSR/Pfeiffer99"
+                    },
+                    "url": "URL#7599644"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7654326",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "60/4272",
+                                    "text": "Albino Nogueiras Rodr\u00edguez"
+                                },
+                                {
+                                    "@pid": "11/3204",
+                                    "text": "Jos\u00e9 B. Mari\u00f1o"
+                                }
+                            ]
+                        },
+                        "title": "Task adaptation of sub-lexical unit models using the minimum confusibility criterion on task independent databases.",
+                        "venue": "ICSLP",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/interspeech/RodriguezM98",
+                        "doi": "10.21437/ICSLP.1998-191",
+                        "ee": "https://doi.org/10.21437/ICSLP.1998-191",
+                        "url": "https://dblp.org/rec/conf/interspeech/RodriguezM98"
+                    },
+                    "url": "URL#7654326"
+                }
+            ]
+        }
+    }
+}

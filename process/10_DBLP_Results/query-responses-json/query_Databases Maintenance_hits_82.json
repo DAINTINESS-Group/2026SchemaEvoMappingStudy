@@ -1,0 +1,2678 @@
+{
+    "result": {
+        "query": "Databases* Maintenance*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "10.59"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "83",
+                "@dc": "82",
+                "@oc": "83",
+                "@id": "63638540",
+                "text": "maintenance"
+            }
+        },
+        "hits": {
+            "@total": "82",
+            "@computed": "82",
+            "@sent": "82",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "5363918",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "119/6860",
+                                    "text": "Andr\u00e9 Medeiros"
+                                },
+                                {
+                                    "@pid": "119/6766",
+                                    "text": "Arist\u00eanio Saraiva"
+                                },
+                                {
+                                    "@pid": "84/9319",
+                                    "text": "Gustavo Augusto Lima de Campos"
+                                },
+                                {
+                                    "@pid": "119/6830",
+                                    "text": "Pedro Holanda"
+                                },
+                                {
+                                    "@pid": "92/1818",
+                                    "text": "Jos\u00e9 Maria Monteiro"
+                                },
+                                {
+                                    "@pid": "b/AngeloBrayner",
+                                    "text": "Angelo Brayner"
+                                },
+                                {
+                                    "@pid": "l/SLifschitz",
+                                    "text": "S\u00e9rgio Lifschitz"
+                                }
+                            ]
+                        },
+                        "title": "Proactive Index Maintenance: Using Prediction Models for Improving Index Maintenance in Databases.",
+                        "venue": "J. Inf. Data Manag.",
+                        "volume": "3",
+                        "number": "3",
+                        "pages": "255-270",
+                        "year": "2012",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jidm/MedeirosSCHMBL12",
+                        "ee": "https://sol.sbc.org.br/journals/index.php/jidm/article/view/1452",
+                        "url": "https://dblp.org/rec/journals/jidm/MedeirosSCHMBL12"
+                    },
+                    "url": "URL#5363918"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7613418",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/JamesBailey",
+                                    "text": "James Bailey 0001"
+                                },
+                                {
+                                    "@pid": "d/GuozhuDong",
+                                    "text": "Guozhu Dong"
+                                },
+                                {
+                                    "@pid": "85/6670",
+                                    "text": "Mukesh K. Mohania"
+                                },
+                                {
+                                    "@pid": "w/XiaoyangSeanWang",
+                                    "text": "Xiaoyang Sean Wang"
+                                }
+                            ]
+                        },
+                        "title": "Incremental View Maintenance By Base Relation Tagging in Distributed Databases.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "6",
+                        "number": "3",
+                        "pages": "287-309",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/BaileyDMW98",
+                        "doi": "10.1023/A:1008683116381",
+                        "ee": "https://doi.org/10.1023/A:1008683116381",
+                        "url": "https://dblp.org/rec/journals/dpd/BaileyDMW98"
+                    },
+                    "url": "URL#7613418"
+                },
+                {
+                    "@score": "2",
+                    "@id": "177134",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "04/11534",
+                                    "text": "Sen Zhao"
+                                },
+                                {
+                                    "@pid": "90/5236-1",
+                                    "text": "Haibo Hu 0001"
+                                },
+                                {
+                                    "@pid": "22/8078",
+                                    "text": "Zheli Liu"
+                                },
+                                {
+                                    "@pid": "c/XiaofengChen1",
+                                    "text": "Xiaofeng Chen 0001"
+                                }
+                            ]
+                        },
+                        "title": "SARAs: Substitution and Replay Attacks in the Maintenance Mode of Encrypted Databases.",
+                        "venue": "IEEE Trans. Dependable Secur. Comput.",
+                        "volume": "22",
+                        "number": "6",
+                        "pages": "7680-7693",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tdsc/ZhaoHLC25",
+                        "doi": "10.1109/TDSC.2025.3599488",
+                        "ee": "https://doi.org/10.1109/TDSC.2025.3599488",
+                        "url": "https://dblp.org/rec/journals/tdsc/ZhaoHLC25"
+                    },
+                    "url": "URL#177134"
+                },
+                {
+                    "@score": "2",
+                    "@id": "790901",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "292/6212",
+                                    "text": "Gustavo M. Torres"
+                                },
+                                {
+                                    "@pid": "328/6556",
+                                    "text": "Andrey R. R. Bessa"
+                                },
+                                {
+                                    "@pid": "328/6158",
+                                    "text": "Jos\u00e9 E. B. de S. Linhares"
+                                },
+                                {
+                                    "@pid": "292/5497",
+                                    "text": "Mateus O. Silva"
+                                },
+                                {
+                                    "@pid": "306/9588",
+                                    "text": "Adriel V. Dos Santos"
+                                },
+                                {
+                                    "@pid": "292/5397",
+                                    "text": "Myke D. M. Valad\u00e3o"
+                                },
+                                {
+                                    "@pid": "391/1387",
+                                    "text": "Vinicius S. Menezes"
+                                },
+                                {
+                                    "@pid": "292/5869",
+                                    "text": "Edma V. C. Urtiga Mattos"
+                                },
+                                {
+                                    "@pid": "292/5950",
+                                    "text": "Ant\u00f4nio M. C. Pereira"
+                                },
+                                {
+                                    "@pid": "292/5471",
+                                    "text": "Agemilson P. Silva"
+                                },
+                                {
+                                    "@pid": "391/1368",
+                                    "text": "Allan C. Brito"
+                                },
+                                {
+                                    "@pid": "92/4409",
+                                    "text": "Ruan J. S. Bel\u00e9m"
+                                },
+                                {
+                                    "@pid": "391/1319",
+                                    "text": "R\u00f4mulo S. F."
+                                },
+                                {
+                                    "@pid": "120/9096",
+                                    "text": "Waldir S. S. J\u00fanior"
+                                },
+                                {
+                                    "@pid": "202/1871",
+                                    "text": "Celso B. Carvalho"
+                                }
+                            ]
+                        },
+                        "title": "A Designing Databases Framework for AI Training in Industrial Predictive Maintenance.",
+                        "venue": "ICCE-Taiwan",
+                        "pages": "263-264",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icce-tw/TorresBLSSVMMPS24",
+                        "doi": "10.1109/ICCE-TAIWAN62264.2024.10674079",
+                        "ee": "https://doi.org/10.1109/ICCE-Taiwan62264.2024.10674079",
+                        "url": "https://dblp.org/rec/conf/icce-tw/TorresBLSSVMMPS24"
+                    },
+                    "url": "URL#790901"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1005265",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "284/8393",
+                                    "text": "Ricardo Di Pasquale"
+                                },
+                                {
+                                    "@pid": "389/7957",
+                                    "text": "Soledad Represa"
+                                }
+                            ]
+                        },
+                        "title": "Empowering Domain-Specific Language Models with Graph-Oriented Databases: A Paradigm Shift in Performance and Model Maintenance.",
+                        "venue": "CoRR",
+                        "volume": "abs/2410.03867",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2410-03867",
+                        "doi": "10.48550/ARXIV.2410.03867",
+                        "ee": "https://doi.org/10.48550/arXiv.2410.03867",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2410-03867"
+                    },
+                    "url": "URL#1005265"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1886738",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                },
+                                {
+                                    "@pid": "309/4433",
+                                    "text": "Pavel Koupil"
+                                },
+                                {
+                                    "@pid": "l/JiahengLu",
+                                    "text": "Jiaheng Lu"
+                                }
+                            ]
+                        },
+                        "title": "Self-Adapting Design and Maintenance of Multi-Model Databases.",
+                        "venue": "IDEAS",
+                        "pages": "9-15",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ideas/HolubovaKL22",
+                        "doi": "10.1145/3548785.3548810",
+                        "ee": "https://doi.org/10.1145/3548785.3548810",
+                        "url": "https://dblp.org/rec/conf/ideas/HolubovaKL22"
+                    },
+                    "url": "URL#1886738"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2086373",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "301/8530",
+                                    "text": "Florian Malard"
+                                },
+                                {
+                                    "@pid": "301/8718",
+                                    "text": "Eugenia Wulff-Fuentes"
+                                },
+                                {
+                                    "@pid": "301/8829",
+                                    "text": "Rex R. Berendt"
+                                },
+                                {
+                                    "@pid": "296/7519-2",
+                                    "text": "Guillaume Didier 0002"
+                                },
+                                {
+                                    "@pid": "301/8757",
+                                    "text": "St\u00e9phanie Olivier-Van Stichelen"
+                                }
+                            ]
+                        },
+                        "title": "Automatization and self-maintenance of the O-GlcNAcome catalog: a smart scientific database.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2021",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/MalardWBDS21",
+                        "doi": "10.1093/DATABASE/BAAB039",
+                        "ee": "https://doi.org/10.1093/database/baab039",
+                        "url": "https://dblp.org/rec/journals/biodb/MalardWBDS21"
+                    },
+                    "url": "URL#2086373"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2810729",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "183/2637",
+                                    "text": "Jimmy Ming-Tai Wu"
+                                },
+                                {
+                                    "@pid": "264/4957",
+                                    "text": "Qian Teng"
+                                },
+                                {
+                                    "@pid": "41/912",
+                                    "text": "Jerry Chun-Wei Lin"
+                                },
+                                {
+                                    "@pid": "76/2649",
+                                    "text": "Philippe Fournier-Viger"
+                                },
+                                {
+                                    "@pid": "26/6102",
+                                    "text": "Chien-Fu Cheng"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Prelarge High Average-Utility Patterns in Incremental Databases.",
+                        "venue": "IEA/AIE",
+                        "pages": "884-895",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ieaaie/WuTLFC20",
+                        "doi": "10.1007/978-3-030-55789-8_75",
+                        "ee": "https://doi.org/10.1007/978-3-030-55789-8_75",
+                        "url": "https://dblp.org/rec/conf/ieaaie/WuTLFC20"
+                    },
+                    "url": "URL#2810729"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3435360",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "206/4790",
+                                "text": "Heidi Imker"
+                            }
+                        },
+                        "title": "25 Years of Molecular Biology Databases: A Study of Proliferation, Impact, and Maintenance.",
+                        "venue": "Frontiers Res. Metrics Anal.",
+                        "volume": "3",
+                        "pages": "18",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/frma/Imker18",
+                        "doi": "10.3389/FRMA.2018.00018",
+                        "ee": "https://doi.org/10.3389/frma.2018.00018",
+                        "url": "https://dblp.org/rec/journals/frma/Imker18"
+                    },
+                    "url": "URL#3435360"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3827724",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "133/2586",
+                                    "text": "Weiping Qu"
+                                },
+                                {
+                                    "@pid": "d/SDessloch",
+                                    "text": "Stefan Dessloch"
+                                }
+                            ]
+                        },
+                        "title": "Distributed snapshot maintenance in wide-column NoSQL databases using partitioned incremental ETL pipelines.",
+                        "venue": "Inf. Syst.",
+                        "volume": "70",
+                        "pages": "48-58",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/is/QuD17",
+                        "doi": "10.1016/J.IS.2017.05.001",
+                        "ee": "https://doi.org/10.1016/j.is.2017.05.001",
+                        "url": "https://dblp.org/rec/journals/is/QuD17"
+                    },
+                    "url": "URL#3827724"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3988996",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7780",
+                                    "text": "Sayda Elmi"
+                                },
+                                {
+                                    "@pid": "24/2709",
+                                    "text": "Allel Hadjali"
+                                },
+                                {
+                                    "@pid": "01/6255",
+                                    "text": "Mohamed Anis Bach Tobji"
+                                },
+                                {
+                                    "@pid": "34/6857",
+                                    "text": "Boutheina Ben Yaghlane"
+                                }
+                            ]
+                        },
+                        "title": "Skyline Computation and Maintenance over Imperfect Databases: A Marginal-Points-Based Approach.",
+                        "venue": "ICTAI",
+                        "pages": "1234-1242",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ictai/ElmiHTY17",
+                        "doi": "10.1109/ICTAI.2017.00187",
+                        "ee": "https://doi.org/10.1109/ICTAI.2017.00187",
+                        "url": "https://dblp.org/rec/conf/ictai/ElmiHTY17"
+                    },
+                    "url": "URL#3988996"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4328059",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "150/7780",
+                                    "text": "Sayda Elmi"
+                                },
+                                {
+                                    "@pid": "01/6255",
+                                    "text": "Mohamed Anis Bach Tobji"
+                                },
+                                {
+                                    "@pid": "24/2709",
+                                    "text": "Allel Hadjali"
+                                },
+                                {
+                                    "@pid": "34/6857",
+                                    "text": "Boutheina Ben Yaghlane"
+                                }
+                            ]
+                        },
+                        "title": "Efficient Skyline Maintenance over Frequently Updated Evidential Databases.",
+                        "venue": "IPMU",
+                        "pages": "199-210",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ipmu/ElmiTHY16",
+                        "doi": "10.1007/978-3-319-40581-0_17",
+                        "ee": "https://doi.org/10.1007/978-3-319-40581-0_17",
+                        "url": "https://dblp.org/rec/conf/ipmu/ElmiTHY16"
+                    },
+                    "url": "URL#4328059"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4391158",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "132/3418",
+                                    "text": "Thomas Beyhl"
+                                },
+                                {
+                                    "@pid": "13/1348",
+                                    "text": "Holger Giese"
+                                }
+                            ]
+                        },
+                        "title": "Incremental View Maintenance for Deductive Graph Databases Using Generalized Discrimination Networks.",
+                        "venue": "GaM@ETAPS",
+                        "pages": "57-71",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "journals/corr/BeyhlG16",
+                        "doi": "10.4204/EPTCS.231.5",
+                        "ee": "https://doi.org/10.4204/EPTCS.231.5",
+                        "url": "https://dblp.org/rec/journals/corr/BeyhlG16"
+                    },
+                    "url": "URL#4391158"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4731236",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "73/7979",
+                                "text": "Martin Hugh Goodfellow"
+                            }
+                        },
+                        "title": "Algebraic methods for incremental maintenance and updates of views within XML databases.",
+                        "year": "2014",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ethos/Goodfellow14",
+                        "ee": "http://oleg.lib.strath.ac.uk/R/?func=dbin-jump-full&amp;object_id=24341",
+                        "url": "https://dblp.org/rec/phd/ethos/Goodfellow14"
+                    },
+                    "url": "URL#4731236"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4845327",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "52/4931-1",
+                                    "text": "Stephan M\u00fcller 0001"
+                                },
+                                {
+                                    "@pid": "33/9320",
+                                    "text": "Lars Butzmann"
+                                },
+                                {
+                                    "@pid": "74/9320",
+                                    "text": "Stefan Klauck"
+                                },
+                                {
+                                    "@pid": "58/3831",
+                                    "text": "Hasso Plattner"
+                                }
+                            ]
+                        },
+                        "title": "An Adaptive Aggregate Maintenance Approach for Mixed Workloads in Columnar In-Memory Databases.",
+                        "venue": "ACSC",
+                        "pages": "3-12",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/acsc/MullerBKP14",
+                        "ee": "http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV147Muller.html",
+                        "url": "https://dblp.org/rec/conf/acsc/MullerBKP14"
+                    },
+                    "url": "URL#4845327"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5013745",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "67/4746",
+                                    "text": "Daniel Lupei"
+                                },
+                                {
+                                    "@pid": "k/ChristophKoch",
+                                    "text": "Christoph Koch 0001"
+                                },
+                                {
+                                    "@pid": "t/ValTannen",
+                                    "text": "Val Tannen"
+                                }
+                            ]
+                        },
+                        "title": "Incremental View Maintenance for Nested-Relational Databases.",
+                        "venue": "CoRR",
+                        "volume": "abs/1412.4320",
+                        "year": "2014",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/LupeiKT14",
+                        "ee": "http://arxiv.org/abs/1412.4320",
+                        "url": "https://dblp.org/rec/journals/corr/LupeiKT14"
+                    },
+                    "url": "URL#5013745"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5145185",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "52/4931-1",
+                                    "text": "Stephan M\u00fcller 0001"
+                                },
+                                {
+                                    "@pid": "33/9320",
+                                    "text": "Lars Butzmann"
+                                },
+                                {
+                                    "@pid": "74/9320",
+                                    "text": "Stefan Klauck"
+                                },
+                                {
+                                    "@pid": "58/3831",
+                                    "text": "Hasso Plattner"
+                                }
+                            ]
+                        },
+                        "title": "Workload-aware aggregate maintenance in columnar in-memory databases.",
+                        "venue": "IEEE BigData",
+                        "pages": "62-69",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bigdataconf/MullerBKP13",
+                        "doi": "10.1109/BIGDATA.2013.6691699",
+                        "ee": "https://doi.org/10.1109/BigData.2013.6691699",
+                        "url": "https://dblp.org/rec/conf/bigdataconf/MullerBKP13"
+                    },
+                    "url": "URL#5145185"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5169095",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "52/4931-1",
+                                    "text": "Stephan M\u00fcller 0001"
+                                },
+                                {
+                                    "@pid": "33/9320",
+                                    "text": "Lars Butzmann"
+                                },
+                                {
+                                    "@pid": "137/3116",
+                                    "text": "Kai Hoewelmeyer"
+                                },
+                                {
+                                    "@pid": "74/9320",
+                                    "text": "Stefan Klauck"
+                                },
+                                {
+                                    "@pid": "58/3831",
+                                    "text": "Hasso Plattner"
+                                }
+                            ]
+                        },
+                        "title": "Efficient View Maintenance for Enterprise Applications in Columnar In-Memory Databases.",
+                        "venue": "EDOC",
+                        "pages": "249-258",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edoc/MullerBHKP13",
+                        "doi": "10.1109/EDOC.2013.35",
+                        "ee": "https://doi.org/10.1109/EDOC.2013.35",
+                        "url": "https://dblp.org/rec/conf/edoc/MullerBHKP13"
+                    },
+                    "url": "URL#5169095"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5242962",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "154/7382",
+                                "text": "Artur Baybulatov"
+                            }
+                        },
+                        "title": "An Example of Industrial System Databases Security Assurance During the Maintenance Stage.",
+                        "venue": "MIM",
+                        "pages": "1091-1095",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mim/Baybulatov13",
+                        "doi": "10.3182/20130619-3-RU-3018.00579",
+                        "ee": "https://doi.org/10.3182/20130619-3-RU-3018.00579",
+                        "url": "https://dblp.org/rec/conf/mim/Baybulatov13"
+                    },
+                    "url": "URL#5242962"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5721031",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/912",
+                                    "text": "Chun-Wei Lin 0001"
+                                },
+                                {
+                                    "@pid": "93/2166",
+                                    "text": "Tzung-Pei Hong"
+                                },
+                                {
+                                    "@pid": "141/7382",
+                                    "text": "Hong-Yu Lee"
+                                },
+                                {
+                                    "@pid": "59/5735",
+                                    "text": "Shyue-Liang Wang"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Pre-large FUSP Trees in Dynamic Databases.",
+                        "venue": "IBICA",
+                        "pages": "199-202",
+                        "year": "2011",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ibica/LinHLW11",
+                        "doi": "10.1109/IBICA.2011.54",
+                        "ee": "https://doi.org/10.1109/IBICA.2011.54",
+                        "url": "https://dblp.org/rec/conf/ibica/LinHLW11"
+                    },
+                    "url": "URL#5721031"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5846058",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "07/7536",
+                                    "text": "Eftychia Baikousi"
+                                },
+                                {
+                                    "@pid": "13/1242",
+                                    "text": "Panos Vassiliadis"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of top-k materialized views.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "27",
+                        "number": "2",
+                        "pages": "95-137",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/BaikousiV10",
+                        "doi": "10.1007/S10619-009-7057-4",
+                        "ee": "https://doi.org/10.1007/s10619-009-7057-4",
+                        "url": "https://dblp.org/rec/journals/dpd/BaikousiV10"
+                    },
+                    "url": "URL#5846058"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6075124",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/875",
+                                    "text": "Lei Chang"
+                                },
+                                {
+                                    "@pid": "39/1084-3",
+                                    "text": "Tengjiao Wang 0003"
+                                },
+                                {
+                                    "@pid": "65/661",
+                                    "text": "Dongqing Yang"
+                                },
+                                {
+                                    "@pid": "79/6917",
+                                    "text": "Hua Luan"
+                                },
+                                {
+                                    "@pid": "t/ShiweiTang",
+                                    "text": "Shiwei Tang"
+                                }
+                            ]
+                        },
+                        "title": "Efficient algorithms for incremental maintenance of closed sequential patterns in large databases.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "68",
+                        "number": "1",
+                        "pages": "68-106",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/ChangWYLT09",
+                        "doi": "10.1016/J.DATAK.2008.08.003",
+                        "ee": "https://doi.org/10.1016/j.datak.2008.08.003",
+                        "url": "https://dblp.org/rec/journals/dke/ChangWYLT09"
+                    },
+                    "url": "URL#6075124"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6076127",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "h/KatjaHose",
+                                    "text": "Katja Hose"
+                                },
+                                {
+                                    "@pid": "41/1981",
+                                    "text": "Christian Lemke"
+                                },
+                                {
+                                    "@pid": "s/KaiUweSattler",
+                                    "text": "Kai-Uwe Sattler"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance strategies for routing indexes.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "26",
+                        "number": "2-3",
+                        "pages": "231-259",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/HoseLS09",
+                        "doi": "10.1007/S10619-009-7048-5",
+                        "ee": "https://doi.org/10.1007/s10619-009-7048-5",
+                        "url": "https://dblp.org/rec/journals/dpd/HoseLS09"
+                    },
+                    "url": "URL#6076127"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6081051",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "z/ShichaoZhang",
+                                    "text": "Shichao Zhang 0001"
+                                },
+                                {
+                                    "@pid": "51/1086",
+                                    "text": "Jilian Zhang"
+                                },
+                                {
+                                    "@pid": "22/3510-1",
+                                    "text": "Zhi Jin 0001"
+                                }
+                            ]
+                        },
+                        "title": "A decremental algorithm of frequent itemset maintenance for mining updated databases.",
+                        "venue": "Expert Syst. Appl.",
+                        "volume": "36",
+                        "number": "8",
+                        "pages": "10890-10895",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/eswa/ZhangZJ09",
+                        "doi": "10.1016/J.ESWA.2009.02.016",
+                        "ee": "https://doi.org/10.1016/j.eswa.2009.02.016",
+                        "url": "https://dblp.org/rec/journals/eswa/ZhangZJ09"
+                    },
+                    "url": "URL#6081051"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6112740",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "49/408",
+                                    "text": "Tadashi Imanishi"
+                                },
+                                {
+                                    "@pid": "70/2475",
+                                    "text": "Hajime Nakaoka"
+                                }
+                            ]
+                        },
+                        "title": "Hyperlink Management System and ID Converter System: enabling maintenance-free hyperlinks among major biological databases.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "37",
+                        "number": "Web-Server-Issue",
+                        "pages": "17-22",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/ImanishiN09",
+                        "doi": "10.1093/NAR/GKP355",
+                        "ee": "https://doi.org/10.1093/nar/gkp355",
+                        "url": "https://dblp.org/rec/journals/nar/ImanishiN09"
+                    },
+                    "url": "URL#6112740"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6169782",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/6255",
+                                    "text": "Mohamed Anis Bach Tobji"
+                                },
+                                {
+                                    "@pid": "34/6857",
+                                    "text": "Boutheina Ben Yaghlane"
+                                },
+                                {
+                                    "@pid": "40/5",
+                                    "text": "Khaled Mellouli"
+                                }
+                            ]
+                        },
+                        "title": "Incremental Maintenance of Frequent Itemsets in Evidential Databases.",
+                        "venue": "ECSQARU",
+                        "pages": "457-468",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ecsqaru/TobjiYM09",
+                        "doi": "10.1007/978-3-642-02906-6_40",
+                        "ee": "https://doi.org/10.1007/978-3-642-02906-6_40",
+                        "url": "https://dblp.org/rec/conf/ecsqaru/TobjiYM09"
+                    },
+                    "url": "URL#6169782"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6246008",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "87/4845",
+                                    "text": "Parag Agrawal"
+                                },
+                                {
+                                    "@pid": "s/AdamSilberstein",
+                                    "text": "Adam Silberstein"
+                                },
+                                {
+                                    "@pid": "12/875",
+                                    "text": "Brian F. Cooper"
+                                },
+                                {
+                                    "@pid": "46/2539",
+                                    "text": "Utkarsh Srivastava"
+                                },
+                                {
+                                    "@pid": "r/RaghuRamakrishnan",
+                                    "text": "Raghu Ramakrishnan 0001"
+                                }
+                            ]
+                        },
+                        "title": "Asynchronous view maintenance for VLSD databases.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "179-192",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/AgrawalSCSR09",
+                        "doi": "10.1145/1559845.1559866",
+                        "ee": "https://doi.org/10.1145/1559845.1559866",
+                        "url": "https://dblp.org/rec/conf/sigmod/AgrawalSCSR09"
+                    },
+                    "url": "URL#6246008"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6566425",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/HChristiansen",
+                                    "text": "Henning Christiansen 0001"
+                                },
+                                {
+                                    "@pid": "49/6850",
+                                    "text": "Maria Rekouts"
+                                }
+                            ]
+                        },
+                        "title": "Integrity Checking and Maintenance with Active Rules in XML Databases.",
+                        "venue": "BNCOD Workshops",
+                        "pages": "59-67",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bncod/ChristiansenR07",
+                        "doi": "10.1109/BNCOD.2007.13",
+                        "ee": "https://doi.org/10.1109/BNCOD.2007.13",
+                        "url": "https://dblp.org/rec/conf/bncod/ChristiansenR07"
+                    },
+                    "url": "URL#6566425"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6646380",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "56/3112",
+                                    "text": "Wang Lian"
+                                },
+                                {
+                                    "@pid": "c/DWLCheung",
+                                    "text": "David W. Cheung"
+                                },
+                                {
+                                    "@pid": "y/SiuMingYiu",
+                                    "text": "Siu-Ming Yiu"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of maximal frequent itemsets in large databases.",
+                        "venue": "SAC",
+                        "pages": "388-392",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/LianCY07",
+                        "doi": "10.1145/1244002.1244094",
+                        "ee": "https://doi.org/10.1145/1244002.1244094",
+                        "url": "https://dblp.org/rec/conf/sac/LianCY07"
+                    },
+                    "url": "URL#6646380"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6743165",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "09/1365",
+                                    "text": "Xin Li"
+                                },
+                                {
+                                    "@pid": "161/4814-1",
+                                    "text": "Zhi-Hong Deng 0001"
+                                },
+                                {
+                                    "@pid": "t/ShiweiTang",
+                                    "text": "Shiwei Tang"
+                                }
+                            ]
+                        },
+                        "title": "A Fast Algorithm for Maintenance of Association Rules in Incremental Databases.",
+                        "venue": "ADMA",
+                        "pages": "56-63",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adma/LiDT06",
+                        "doi": "10.1007/11811305_5",
+                        "ee": "https://doi.org/10.1007/11811305_5",
+                        "url": "https://dblp.org/rec/conf/adma/LiDT06"
+                    },
+                    "url": "URL#6743165"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6762932",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/566",
+                                    "text": "Jorge Loureiro"
+                                },
+                                {
+                                    "@pid": "65/4092",
+                                    "text": "Orlando Belo"
+                                }
+                            ]
+                        },
+                        "title": "Estimating Querying and Maintenance Costs for Restructuring Data Cubes.",
+                        "venue": "Databases and Applications",
+                        "pages": "83-88",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dba/LoureiroB06",
+                        "url": "https://dblp.org/rec/conf/dba/LoureiroB06"
+                    },
+                    "url": "URL#6762932"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6763631",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/HChristiansen",
+                                    "text": "Henning Christiansen 0001"
+                                },
+                                {
+                                    "@pid": "14/6896",
+                                    "text": "Davide Martinenghi"
+                                }
+                            ]
+                        },
+                        "title": "On Using Simplification and Correction Tables for Integrity Maintenance in Integrated Databases.",
+                        "venue": "DEXA Workshops",
+                        "pages": "569-576",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexaw/ChristiansenM06",
+                        "doi": "10.1109/DEXA.2006.103",
+                        "ee": "https://doi.org/10.1109/DEXA.2006.103",
+                        "url": "https://dblp.org/rec/conf/dexaw/ChristiansenM06"
+                    },
+                    "url": "URL#6763631"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6825619",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "73/1003",
+                                    "text": "Kai-Tak Lam"
+                                },
+                                {
+                                    "@pid": "29/2293",
+                                    "text": "Judice L. Y. Koh"
+                                },
+                                {
+                                    "@pid": "58/3541",
+                                    "text": "Bharadwaj Veeravalli"
+                                },
+                                {
+                                    "@pid": "00/6815",
+                                    "text": "Vladimir Brusic"
+                                }
+                            ]
+                        },
+                        "title": "Incremental Maintenance of Biological Databases Using Association Rule Mining.",
+                        "venue": "PRIB",
+                        "pages": "140-150",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/prib/LamKVB06",
+                        "doi": "10.1007/11818564_16",
+                        "ee": "https://doi.org/10.1007/11818564_16",
+                        "url": "https://dblp.org/rec/conf/prib/LamKVB06"
+                    },
+                    "url": "URL#6825619"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6830026",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/DarioColazzo",
+                                    "text": "Dario Colazzo"
+                                },
+                                {
+                                    "@pid": "89/5076",
+                                    "text": "Carlo Sartiani"
+                                }
+                            ]
+                        },
+                        "title": "Mapping Maintenance in XML P2P Databases.",
+                        "venue": "SEBD",
+                        "pages": "64-71",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/sebd/ColazzoS06",
+                        "url": "https://dblp.org/rec/conf/sebd/ColazzoS06"
+                    },
+                    "url": "URL#6830026"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6898591",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "26/3330",
+                                    "text": "Awais Rashid"
+                                },
+                                {
+                                    "@pid": "s/PeterSawyer",
+                                    "text": "Peter Sawyer"
+                                }
+                            ]
+                        },
+                        "title": "A database evolution taxonomy for object-oriented databases.",
+                        "venue": "J. Softw. Maintenance Res. Pract.",
+                        "volume": "17",
+                        "number": "2",
+                        "pages": "93-141",
+                        "year": "2005",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/smr/RashidS05",
+                        "doi": "10.1002/SMR.310",
+                        "ee": "https://doi.org/10.1002/smr.310",
+                        "url": "https://dblp.org/rec/journals/smr/RashidS05"
+                    },
+                    "url": "URL#6898591"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6931076",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/JChomicki",
+                                    "text": "Jan Chomicki"
+                                },
+                                {
+                                    "@pid": "37/6028",
+                                    "text": "Jerzy Marcinkowski"
+                                }
+                            ]
+                        },
+                        "title": "On the Computational Complexity of Minimal-Change Integrity Maintenance in Relational Databases.",
+                        "venue": "Inconsistency Tolerance",
+                        "pages": "119-150",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dagstuhl/ChomickiM05",
+                        "doi": "10.1007/978-3-540-30597-2_5",
+                        "ee": "https://doi.org/10.1007/978-3-540-30597-2_5",
+                        "url": "https://dblp.org/rec/conf/dagstuhl/ChomickiM05"
+                    },
+                    "url": "URL#6931076"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6931691",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/DarioColazzo",
+                                    "text": "Dario Colazzo"
+                                },
+                                {
+                                    "@pid": "89/5076",
+                                    "text": "Carlo Sartiani"
+                                }
+                            ]
+                        },
+                        "title": "Mapping Maintenance in XML P2P Databases.",
+                        "venue": "DBPL",
+                        "pages": "74-89",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dbpl/ColazzoS05",
+                        "doi": "10.1007/11601524_5",
+                        "ee": "https://doi.org/10.1007/11601524_5",
+                        "url": "https://dblp.org/rec/conf/dbpl/ColazzoS05"
+                    },
+                    "url": "URL#6931691"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7025063",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "93/6815",
+                                    "text": "Jiaxin J. Gao"
+                                },
+                                {
+                                    "@pid": "q/DQuass",
+                                    "text": "Dallan Quass"
+                                },
+                                {
+                                    "@pid": "08/4453",
+                                    "text": "Yiu-Kai Ng"
+                                }
+                            ]
+                        },
+                        "title": "Selective-Splitting and Cache-Maintenance Algorithms for Associative-Client Caches.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "16",
+                        "number": "1",
+                        "pages": "5-43",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/GaoQN04",
+                        "doi": "10.1023/B:DAPD.0000026269.11225.F5",
+                        "ee": "https://doi.org/10.1023/B:DAPD.0000026269.11225.f5",
+                        "url": "https://dblp.org/rec/journals/dpd/GaoQN04"
+                    },
+                    "url": "URL#7025063"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7131956",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/629",
+                                    "text": "Juliusz Jezierski"
+                                },
+                                {
+                                    "@pid": "29/5986",
+                                    "text": "Mariusz Masewicz"
+                                },
+                                {
+                                    "@pid": "41/3391",
+                                    "text": "Robert Wrembel"
+                                }
+                            ]
+                        },
+                        "title": "Prototype system for method materialisation and maintenance in object-oriented databases.",
+                        "venue": "SAC",
+                        "pages": "1323-1327",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/JezierskiMW04",
+                        "doi": "10.1145/967900.968167",
+                        "ee": "https://doi.org/10.1145/967900.968167",
+                        "url": "https://dblp.org/rec/conf/sac/JezierskiMW04"
+                    },
+                    "url": "URL#7131956"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7347285",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "22/5249",
+                                    "text": "Masayuki Asahara"
+                                },
+                                {
+                                    "@pid": "49/6486",
+                                    "text": "Ryuichi Yoneda"
+                                },
+                                {
+                                    "@pid": "116/0770",
+                                    "text": "Akiko Yamashita"
+                                },
+                                {
+                                    "@pid": "16/1858",
+                                    "text": "Yasuharu Den"
+                                },
+                                {
+                                    "@pid": "11/4619",
+                                    "text": "Yuji Matsumoto 0001"
+                                }
+                            ]
+                        },
+                        "title": "Use of XML and Relational Databases for Consistent Development and Maintenance of Lexicons and Annotated Corpora.",
+                        "venue": "LREC",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/lrec/AsaharaYYDM02",
+                        "ee": "http://www.lrec-conf.org/proceedings/lrec2002/sumarios/191.htm",
+                        "url": "https://dblp.org/rec/conf/lrec/AsaharaYYDM02"
+                    },
+                    "url": "URL#7347285"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7362610",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "93/5607",
+                                "text": "Ulrich Schiel"
+                            }
+                        },
+                        "title": "Integrity Maintenance in Extensible Databases.",
+                        "venue": "Database Integrity",
+                        "pages": "322-334",
+                        "year": "2002",
+                        "type": "Parts in Books or Collections",
+                        "access": "unavailable",
+                        "key": "books/idea/doornR02/Schiel02",
+                        "url": "https://dblp.org/rec/books/idea/doornR02/Schiel02"
+                    },
+                    "url": "URL#7362610"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7409741",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "69/1524",
+                                    "text": "Wai Gen Yee"
+                                },
+                                {
+                                    "@pid": "o/EdwardOmiecinski",
+                                    "text": "Edward Omiecinski"
+                                },
+                                {
+                                    "@pid": "88/1792",
+                                    "text": "Michael J. Donahoo"
+                                },
+                                {
+                                    "@pid": "n/ShamkantBNavathe",
+                                    "text": "Shamkant B. Navathe"
+                                }
+                            ]
+                        },
+                        "title": "Scaling Replica Maintenance In Intermittently Synchronized Mobile Databases.",
+                        "venue": "CIKM",
+                        "pages": "450-457",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/YeeODN01",
+                        "doi": "10.1145/502585.502661",
+                        "ee": "https://doi.org/10.1145/502585.502661",
+                        "url": "https://dblp.org/rec/conf/cikm/YeeODN01"
+                    },
+                    "url": "URL#7409741"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7412139",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "a/MAAli",
+                                    "text": "Muhammad Akhtar Ali"
+                                },
+                                {
+                                    "@pid": "p/NWPaton",
+                                    "text": "Norman W. Paton"
+                                },
+                                {
+                                    "@pid": "f/AAAFernandes",
+                                    "text": "Alvaro A. A. Fernandes"
+                                }
+                            ]
+                        },
+                        "title": "An Experimental Performance Evaluation of Incremental Materialized View Maintenance in Object Databases.",
+                        "venue": "DaWaK",
+                        "pages": "240-253",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dawak/AliPF01",
+                        "doi": "10.1007/3-540-44801-2_24",
+                        "ee": "https://doi.org/10.1007/3-540-44801-2_24",
+                        "url": "https://dblp.org/rec/conf/dawak/AliPF01"
+                    },
+                    "url": "URL#7412139"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7446469",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/HaiderAliRamadhan",
+                                    "text": "Haider Ali Ramadhan"
+                                },
+                                {
+                                    "@pid": "54/3554",
+                                    "text": "Zuhoor A. Al-Khanjari"
+                                },
+                                {
+                                    "@pid": "49/1323",
+                                    "text": "Khalil Shihab"
+                                }
+                            ]
+                        },
+                        "title": "CIAV: Facilitating the Maintenance and Re-engineering of Relational Databases using a Visualization Framework.",
+                        "venue": "VIIP",
+                        "pages": "89-94",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/viip/RamadhanAS01",
+                        "url": "https://dblp.org/rec/conf/viip/RamadhanAS01"
+                    },
+                    "url": "URL#7446469"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7474194",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "48/6065",
+                                    "text": "Ken C. K. Lee"
+                                },
+                                {
+                                    "@pid": "l/HongVaLeong",
+                                    "text": "Hong Va Leong"
+                                },
+                                {
+                                    "@pid": "35/5958",
+                                    "text": "Antonio Si"
+                                }
+                            ]
+                        },
+                        "title": "Incremental View Maintenance for Mobile Databases.",
+                        "venue": "Knowl. Inf. Syst.",
+                        "volume": "2",
+                        "number": "4",
+                        "pages": "413-437",
+                        "year": "2000",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/kais/LeeLS00",
+                        "doi": "10.1007/PL00011650",
+                        "ee": "https://doi.org/10.1007/PL00011650",
+                        "url": "https://dblp.org/rec/journals/kais/LeeLS00"
+                    },
+                    "url": "URL#7474194"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7495635",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/2452",
+                                    "text": "Mutsumi Nakamura"
+                                },
+                                {
+                                    "@pid": "b/ChittaBaral",
+                                    "text": "Chitta Baral"
+                                }
+                            ]
+                        },
+                        "title": "Invariance, Maintenance, and Other Declarative Objectives of Triggers - A Formal Characterization of Active Databases.",
+                        "venue": "Computational Logic",
+                        "pages": "1210-1224",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cl/NakamuraB00",
+                        "doi": "10.1007/3-540-44957-4_81",
+                        "ee": "https://doi.org/10.1007/3-540-44957-4_81",
+                        "url": "https://dblp.org/rec/conf/cl/NakamuraB00"
+                    },
+                    "url": "URL#7495635"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7501027",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/KBohm",
+                                    "text": "Klemens B\u00f6hm"
+                                },
+                                {
+                                    "@pid": "90/1374",
+                                    "text": "Torsten Grabs"
+                                },
+                                {
+                                    "@pid": "r/UweRohm",
+                                    "text": "Uwe R\u00f6hm"
+                                },
+                                {
+                                    "@pid": "s/HansJorgSchek",
+                                    "text": "Hans-J\u00f6rg Schek"
+                                }
+                            ]
+                        },
+                        "title": "Evaluating the Coordination Overhead of Replica Maintenance in a Cluster of Databases.",
+                        "venue": "Euro-Par",
+                        "pages": "435-444",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/europar/BohmGRS00",
+                        "doi": "10.1007/3-540-44520-X_56",
+                        "ee": "https://doi.org/10.1007/3-540-44520-X_56",
+                        "url": "https://dblp.org/rec/conf/europar/BohmGRS00"
+                    },
+                    "url": "URL#7501027"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7527887",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "15/6915",
+                                    "text": "Andrew C. Jones"
+                                },
+                                {
+                                    "@pid": "20/3428",
+                                    "text": "Iain Sutherland"
+                                },
+                                {
+                                    "@pid": "e/SMEmbury",
+                                    "text": "Suzanne M. Embury"
+                                },
+                                {
+                                    "@pid": "g/WAGray",
+                                    "text": "W. A. Gray"
+                                },
+                                {
+                                    "@pid": "40/1896",
+                                    "text": "Richard J. White"
+                                },
+                                {
+                                    "@pid": "54/6207",
+                                    "text": "John S. Robinson"
+                                },
+                                {
+                                    "@pid": "22/664",
+                                    "text": "Frank A. Bisby"
+                                },
+                                {
+                                    "@pid": "84/2792",
+                                    "text": "Sue M. Brandt"
+                                }
+                            ]
+                        },
+                        "title": "Techniques for Effective Integration, Maintenance and Evolution of Species Databases.",
+                        "venue": "SSDBM",
+                        "pages": "3-13",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ssdbm/JonesSEGWRBB00",
+                        "doi": "10.1109/SSDM.2000.869774",
+                        "ee": "https://doi.org/10.1109/SSDM.2000.869774",
+                        "url": "https://dblp.org/rec/conf/ssdbm/JonesSEGWRBB00"
+                    },
+                    "url": "URL#7527887"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7538737",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "14/3403",
+                                    "text": "Pentti Riikonen"
+                                },
+                                {
+                                    "@pid": "36/1733",
+                                    "text": "Mauno Vihinen"
+                                }
+                            ]
+                        },
+                        "title": "MUTbase: maintenance and analysis of distributed mutation databases.",
+                        "venue": "Bioinform.",
+                        "volume": "15",
+                        "number": "10",
+                        "pages": "852-859",
+                        "year": "1999",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/bioinformatics/RiikonenV99",
+                        "doi": "10.1093/BIOINFORMATICS/15.10.852",
+                        "ee": "https://doi.org/10.1093/bioinformatics/15.10.852",
+                        "url": "https://dblp.org/rec/journals/bioinformatics/RiikonenV99"
+                    },
+                    "url": "URL#7538737"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7597562",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "08/2901",
+                                    "text": "Jo\u00e3o Pascoal Faria"
+                                },
+                                {
+                                    "@pid": "06/600",
+                                    "text": "Raul Moreira Vidal"
+                                }
+                            ]
+                        },
+                        "title": "Data-driven Active Rules for the Maintenance of Derived Data and Integrity Constraints in User Interfaces to Databases.",
+                        "venue": "SBBD",
+                        "pages": "11-25",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/sbbd/FariaV99",
+                        "url": "https://dblp.org/rec/conf/sbbd/FariaV99"
+                    },
+                    "url": "URL#7597562"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7612640",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/11148",
+                                    "text": "Reda Alhajj"
+                                },
+                                {
+                                    "@pid": "99/4002",
+                                    "text": "Faruk Polat"
+                                }
+                            ]
+                        },
+                        "title": "Incrementalk View Maintenance in Object-Oriented Databases.",
+                        "venue": "Data Base",
+                        "volume": "29",
+                        "number": "3",
+                        "pages": "52-64",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/db/AlhajjP98",
+                        "doi": "10.1145/313310.313338",
+                        "ee": "https://doi.org/10.1145/313310.313338",
+                        "url": "https://dblp.org/rec/journals/db/AlhajjP98"
+                    },
+                    "url": "URL#7612640"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7613429",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "z/YueZhuge",
+                                    "text": "Yue Zhuge"
+                                },
+                                {
+                                    "@pid": "g/HGarciaMolina",
+                                    "text": "Hector Garcia-Molina"
+                                },
+                                {
+                                    "@pid": "w/JanetLWiener",
+                                    "text": "Janet L. Wiener"
+                                }
+                            ]
+                        },
+                        "title": "Consistency Algorithms for Multi-Source Warehouse View Maintenance.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "6",
+                        "number": "1",
+                        "pages": "7-40",
+                        "year": "1998",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/ZhugeGW98",
+                        "doi": "10.1023/A:1008698814840",
+                        "ee": "https://doi.org/10.1023/A:1008698814840",
+                        "url": "https://dblp.org/rec/journals/dpd/ZhugeGW98"
+                    },
+                    "url": "URL#7613429"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7670785",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "89/1336",
+                                "text": "Dimitra Vista"
+                            }
+                        },
+                        "title": "Optimizing incremental view maintenance expressions in relational databases.",
+                        "year": "1997",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ca/Vista97",
+                        "ee": "https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106071705606196",
+                        "url": "https://dblp.org/rec/phd/ca/Vista97"
+                    },
+                    "url": "URL#7670785"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7723558",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "30/4745",
+                                    "text": "Vincenzo Di Lecce"
+                                },
+                                {
+                                    "@pid": "57/118",
+                                    "text": "Andrea Guerriero"
+                                }
+                            ]
+                        },
+                        "title": "Evaluation of Content Maintenance in Multiresolution Image Coding.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "439-447",
+                        "year": "1997",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/LecceG97",
+                        "doi": "10.1117/12.263433",
+                        "ee": "https://doi.org/10.1117/12.263433",
+                        "url": "https://dblp.org/rec/conf/spieSR/LecceG97"
+                    },
+                    "url": "URL#7723558"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7743026",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "57/7449",
+                                    "text": "Qing-Long Zhang"
+                                },
+                                {
+                                    "@pid": "c/ShiKuoChang",
+                                    "text": "Shi-Kuo Chang"
+                                },
+                                {
+                                    "@pid": "y/StephenSTYau",
+                                    "text": "Stephen S.-T. Yau"
+                                }
+                            ]
+                        },
+                        "title": "A Unified Approach to Iconic Indexing, Retrieval, and Maintenance of Spatial Relationships in Image Databases.",
+                        "venue": "J. Vis. Commun. Image Represent.",
+                        "volume": "7",
+                        "number": "4",
+                        "pages": "307-324",
+                        "year": "1996",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jvcir/ZhangCY96",
+                        "doi": "10.1006/JVCI.1996.0027",
+                        "ee": "https://doi.org/10.1006/jvci.1996.0027",
+                        "url": "https://dblp.org/rec/journals/jvcir/ZhangCY96"
+                    },
+                    "url": "URL#7743026"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7758157",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/11148",
+                                    "text": "Reda Alhajj"
+                                },
+                                {
+                                    "@pid": "99/4002",
+                                    "text": "Faruk Polat"
+                                }
+                            ]
+                        },
+                        "title": "View Maintenance in Object-Oriented Databases.",
+                        "venue": "DEXA",
+                        "pages": "153-162",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/AlhajjP96",
+                        "doi": "10.1007/BFB0034677",
+                        "ee": "https://doi.org/10.1007/BFb0034677",
+                        "url": "https://dblp.org/rec/conf/dexa/AlhajjP96"
+                    },
+                    "url": "URL#7758157"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7758297",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "t/JukkaTeuhola",
+                                "text": "Jukka Teuhola"
+                            }
+                        },
+                        "title": "Deferred Maintenance of Replicated Objects in Single-Site Databases.",
+                        "venue": "DEXA Workshop",
+                        "pages": "476-481",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexaw/Teuhola96",
+                        "doi": "10.1109/DEXA.1996.558597",
+                        "ee": "https://doi.org/10.1109/DEXA.1996.558597",
+                        "url": "https://dblp.org/rec/conf/dexaw/Teuhola96"
+                    },
+                    "url": "URL#7758297"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7764374",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/DWLCheung",
+                                    "text": "David Wai-Lok Cheung"
+                                },
+                                {
+                                    "@pid": "h/JiaweiHan",
+                                    "text": "Jiawei Han 0001"
+                                },
+                                {
+                                    "@pid": "n/VTYNg",
+                                    "text": "Vincent T. Y. Ng"
+                                },
+                                {
+                                    "@pid": "13/3638",
+                                    "text": "C. Y. Wong"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique.",
+                        "venue": "ICDE",
+                        "pages": "106-114",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/CheungHNW96",
+                        "doi": "10.1109/ICDE.1996.492094",
+                        "ee": "https://doi.org/10.1109/ICDE.1996.492094",
+                        "url": "https://dblp.org/rec/conf/icde/CheungHNW96"
+                    },
+                    "url": "URL#7764374"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7765941",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "d/HendrikDecker",
+                                "text": "Hendrik Decker"
+                            }
+                        },
+                        "title": "An Extension of SLD by Abduction and Integrity Maintenance for View Updating in Deductive Databases.",
+                        "venue": "JICSLP",
+                        "pages": "157-169",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iclp/Decker96",
+                        "ee": "https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6278929",
+                        "url": "https://dblp.org/rec/conf/iclp/Decker96"
+                    },
+                    "url": "URL#7765941"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7790342",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "89/6748",
+                                "text": "John V. Harrison"
+                            }
+                        },
+                        "title": "Incremental view maintenance in extended relational databases.",
+                        "venue": "Inf. Softw. Technol.",
+                        "volume": "37",
+                        "number": "9",
+                        "pages": "479-491",
+                        "year": "1995",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/infsof/Harrison95",
+                        "doi": "10.1016/0950-5849(95)97292-G",
+                        "ee": "https://doi.org/10.1016/0950-5849(95)97292-G",
+                        "url": "https://dblp.org/rec/journals/infsof/Harrison95"
+                    },
+                    "url": "URL#7790342"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7810686",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/CBMedeiros",
+                                    "text": "Claudia Bauzer Medeiros"
+                                },
+                                {
+                                    "@pid": "c/MarianoCilia",
+                                    "text": "Mariano Cilia"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Binary Topological Constraints Through Active Databases.",
+                        "venue": "ACM-GIS",
+                        "pages": "127-",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/gis/MedeirosC95",
+                        "url": "https://dblp.org/rec/conf/gis/MedeirosC95"
+                    },
+                    "url": "URL#7810686"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7852408",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "89/1336",
+                                "text": "Dimitra Vista"
+                            }
+                        },
+                        "title": "View maintenance in relational and deductive databases by incremental query evaluation.",
+                        "venue": "CASCON",
+                        "pages": "70",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cascon/Vista94",
+                        "ee": "https://dl.acm.org/citation.cfm?id=782255",
+                        "url": "https://dblp.org/rec/conf/cascon/Vista94"
+                    },
+                    "url": "URL#7852408"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7870784",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "64/4350",
+                                    "text": "Hiroyuki Ishikawa"
+                                },
+                                {
+                                    "@pid": "12/1348",
+                                    "text": "Norihiro Minegishi"
+                                },
+                                {
+                                    "@pid": "17/6044",
+                                    "text": "Mitsuhide Shima"
+                                },
+                                {
+                                    "@pid": "53/3054",
+                                    "text": "Kenji Kira"
+                                },
+                                {
+                                    "@pid": "38/6839",
+                                    "text": "Satoshi Tanaka"
+                                }
+                            ]
+                        },
+                        "title": "Development of Object-Oriented Multimedia Database and its Application to Retrieval of Maintenance Parts.",
+                        "venue": "Storage and Retrieval for Image and Video Databases",
+                        "pages": "119-128",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/spieSR/IshikawaMSKT94",
+                        "doi": "10.1117/12.171769",
+                        "ee": "https://doi.org/10.1117/12.171769",
+                        "url": "https://dblp.org/rec/conf/spieSR/IshikawaMSKT94"
+                    },
+                    "url": "URL#7870784"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7901696",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "12/4057",
+                                    "text": "Anton P. Karadimce"
+                                },
+                                {
+                                    "@pid": "62/1192",
+                                    "text": "Susan Darling Urban"
+                                }
+                            ]
+                        },
+                        "title": "A Framework for Declarative Updates and Constraint Maintenance in Object-Oriented Databases.",
+                        "venue": "ICDE",
+                        "pages": "391-398",
+                        "year": "1993",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/KaradimceU93",
+                        "doi": "10.1109/ICDE.1993.344042",
+                        "ee": "https://doi.org/10.1109/ICDE.1993.344042",
+                        "url": "https://dblp.org/rec/conf/icde/KaradimceU93"
+                    },
+                    "url": "URL#7901696"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7912603",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "56/6818",
+                                    "text": "Michael Rowley"
+                                },
+                                {
+                                    "@pid": "c/WesleyWChu",
+                                    "text": "Wesley W. Chu"
+                                }
+                            ]
+                        },
+                        "title": "Detectors: Encapsulating Constraint Maintenance in Object-Oriented Databases.",
+                        "venue": "TOOLS",
+                        "pages": "439-452",
+                        "year": "1993",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/tools/RowleyC93",
+                        "url": "https://dblp.org/rec/conf/tools/RowleyC93"
+                    },
+                    "url": "URL#7912603"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7920454",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/LeonardJSeligman",
+                                    "text": "Leonard J. Seligman"
+                                },
+                                {
+                                    "@pid": "k/LarryKerschberg",
+                                    "text": "Larry Kerschberg"
+                                }
+                            ]
+                        },
+                        "title": "Active Databases for Appropriated Consistency Maintenance.",
+                        "venue": "IEEE Data Eng. Bull.",
+                        "volume": "15",
+                        "number": "1-4",
+                        "pages": "52-55",
+                        "year": "1992",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/debu/SeligmanK92",
+                        "ee": "http://sites.computer.org/debull/92DEC-CD.pdf",
+                        "url": "https://dblp.org/rec/journals/debu/SeligmanK92"
+                    },
+                    "url": "URL#7920454"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7936438",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "27/4744-1",
+                                    "text": "Ashish Gupta 0001"
+                                },
+                                {
+                                    "@pid": "86/4944",
+                                    "text": "Dinesh Katiyar"
+                                },
+                                {
+                                    "@pid": "m/ISMumick",
+                                    "text": "Inderpal Singh Mumick"
+                                }
+                            ]
+                        },
+                        "title": "Counting solutions to the View Maintenance Problem.",
+                        "venue": "Workshop on Deductive Databases, JICSLP",
+                        "pages": "185-194",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/deductive/GuptaKM92",
+                        "url": "https://dblp.org/rec/conf/deductive/GuptaKM92"
+                    },
+                    "url": "URL#7936438"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7936439",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "27/4744-1",
+                                    "text": "Ashish Gupta 0001"
+                                },
+                                {
+                                    "@pid": "u/JeffreyDUllman",
+                                    "text": "Jeffrey D. Ullman"
+                                }
+                            ]
+                        },
+                        "title": "Generalizing Conjunctive Query Containment for View Maintenance and Integrity Constraint Verification (Abstract).",
+                        "venue": "Workshop on Deductive Databases, JICSLP",
+                        "pages": "195",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/deductive/GuptaU92",
+                        "url": "https://dblp.org/rec/conf/deductive/GuptaU92"
+                    },
+                    "url": "URL#7936439"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7936442",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "89/6748",
+                                    "text": "John V. Harrison"
+                                },
+                                {
+                                    "@pid": "d/SWDietrich",
+                                    "text": "Suzanne W. Dietrich"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Materialized Views in a Deductive Database: An Update Propagation Approach.",
+                        "venue": "Workshop on Deductive Databases, JICSLP",
+                        "pages": "56-65",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/deductive/HarrisonD92",
+                        "url": "https://dblp.org/rec/conf/deductive/HarrisonD92"
+                    },
+                    "url": "URL#7936442"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7939487",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "26/971",
+                                    "text": "Robert C. Armstrong"
+                                },
+                                {
+                                    "@pid": "43/32",
+                                    "text": "Jonathan Allen"
+                                }
+                            ]
+                        },
+                        "title": "FICOM: a framework for incremental consistency maintenance in multi-representation, structural VLSI databases.",
+                        "venue": "ICCAD",
+                        "pages": "336-343",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iccad/ArmstrongA92",
+                        "doi": "10.1109/ICCAD.1992.279350",
+                        "ee": "https://doi.org/10.1109/ICCAD.1992.279350",
+                        "url": "https://dblp.org/rec/conf/iccad/ArmstrongA92"
+                    },
+                    "url": "URL#7939487"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7948976",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "j/HVJagadish",
+                                    "text": "H. V. Jagadish"
+                                },
+                                {
+                                    "@pid": "91/2417",
+                                    "text": "Xiaolei Qian"
+                                }
+                            ]
+                        },
+                        "title": "Integrity Maintenance in Object-Oriented Databases.",
+                        "venue": "VLDB",
+                        "pages": "469-480",
+                        "year": "1992",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vldb/JagadishQ92",
+                        "ee": "http://www.vldb.org/conf/1992/P469.PDF",
+                        "url": "https://dblp.org/rec/conf/vldb/JagadishQ92"
+                    },
+                    "url": "URL#7948976"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7970119",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "66/4350",
+                                    "text": "J. C. Burneau"
+                                },
+                                {
+                                    "@pid": "25/6283",
+                                    "text": "O. Thiery"
+                                }
+                            ]
+                        },
+                        "title": "Object Oriented Databases for Maintenance Expert Systems.",
+                        "venue": "DEXA",
+                        "pages": "19-23",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/dexa/BurneauT91",
+                        "url": "https://dblp.org/rec/conf/dexa/BurneauT91"
+                    },
+                    "url": "URL#7970119"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7971237",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "12/4057",
+                                    "text": "Anton P. Karadimce"
+                                },
+                                {
+                                    "@pid": "62/1192",
+                                    "text": "Susan Darling Urban"
+                                }
+                            ]
+                        },
+                        "title": "Diagnosing Anomalous Rule Behavior in Databases with Integrity Maintenance Production Rules.",
+                        "venue": "FMLDO",
+                        "pages": "77-102",
+                        "year": "1991",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/fmldo/KaradimceU91",
+                        "url": "https://dblp.org/rec/conf/fmldo/KaradimceU91"
+                    },
+                    "url": "URL#7971237"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7997422",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/3441",
+                                    "text": "Subrata Kumar Das"
+                                },
+                                {
+                                    "@pid": "04/968",
+                                    "text": "M. Howard Williams"
+                                }
+                            ]
+                        },
+                        "title": "Extending the Integrity Maintenance Capability in Deductive Databases.",
+                        "venue": "ALPUK",
+                        "pages": "75-111",
+                        "year": "1990",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/alpuk/DasW90",
+                        "url": "https://dblp.org/rec/conf/alpuk/DasW90"
+                    },
+                    "url": "URL#7997422"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8044940",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "297/5054",
+                                "text": "Sai-Cheong Chu"
+                            }
+                        },
+                        "title": "User Interface Strategies for Large Maintenance Databases.",
+                        "venue": "ACM SIGCHI Bull.",
+                        "volume": "19",
+                        "number": "3",
+                        "pages": "56",
+                        "year": "1988",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/sigchi/Chu88",
+                        "doi": "10.1145/49108.1045609",
+                        "ee": "https://doi.org/10.1145/49108.1045609",
+                        "url": "https://dblp.org/rec/journals/sigchi/Chu88"
+                    },
+                    "url": "URL#8044940"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8049012",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "47/6699",
+                                "text": "Marc Domenig"
+                            }
+                        },
+                        "title": "Word Manager: a system for the definition, access and maintenance of lexical databases.",
+                        "venue": "COLING",
+                        "pages": "154-159",
+                        "year": "1988",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/coling/Domenig88",
+                        "ee": "https://aclanthology.org/C88-1032/",
+                        "url": "https://dblp.org/rec/conf/coling/Domenig88"
+                    },
+                    "url": "URL#8049012"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8052462",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "57/144",
+                                    "text": "M. Rajini Kanth"
+                                },
+                                {
+                                    "@pid": "08/191",
+                                    "text": "Prasanta K. Bose"
+                                }
+                            ]
+                        },
+                        "title": "Extending an Assumption Based Truth Maintenance System to Databases.",
+                        "venue": "ICDE",
+                        "pages": "354-359",
+                        "year": "1988",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/KanthB88",
+                        "doi": "10.1109/ICDE.1988.105479",
+                        "ee": "https://doi.org/10.1109/ICDE.1988.105479",
+                        "url": "https://dblp.org/rec/conf/icde/KanthB88"
+                    },
+                    "url": "URL#8052462"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8073748",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "a/KRApt",
+                                    "text": "Krzysztof R. Apt"
+                                },
+                                {
+                                    "@pid": "82/6021",
+                                    "text": "Jean-Marc Pugin"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of Stratified Databases Viewed as a Belief Revision System.",
+                        "venue": "PODS",
+                        "pages": "136-145",
+                        "year": "1987",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/pods/AptP87",
+                        "doi": "10.1145/28659.28674",
+                        "ee": "https://doi.org/10.1145/28659.28674",
+                        "url": "https://dblp.org/rec/conf/pods/AptP87"
+                    },
+                    "url": "URL#8073748"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8119994",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/5719",
+                                    "text": "Richard A. Frost"
+                                },
+                                {
+                                    "@pid": "19/5638",
+                                    "text": "S. Whittaker"
+                                }
+                            ]
+                        },
+                        "title": "A Step Towards the Automatic Maintenance of the Semantic Integrity of Databases.",
+                        "venue": "Comput. J.",
+                        "volume": "26",
+                        "number": "2",
+                        "pages": "124-133",
+                        "year": "1983",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/cj/FrostW83",
+                        "doi": "10.1093/COMJNL/26.2.124",
+                        "ee": "https://doi.org/10.1093/comjnl/26.2.124",
+                        "url": "https://dblp.org/rec/journals/cj/FrostW83"
+                    },
+                    "url": "URL#8119994"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8144592",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/6350",
+                                    "text": "Michael Hatzopoulos"
+                                },
+                                {
+                                    "@pid": "37/326",
+                                    "text": "John G. Kollias"
+                                },
+                                {
+                                    "@pid": "16/10959",
+                                    "text": "V. J. Kollias"
+                                }
+                            ]
+                        },
+                        "title": "The Application of a Number of Differential Files to the Maintenance of Large Databases.",
+                        "venue": "Angew. Inform.",
+                        "volume": "23",
+                        "number": "1",
+                        "pages": "12-16",
+                        "year": "1981",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/wi/HatzopoulosKK81",
+                        "url": "https://dblp.org/rec/journals/wi/HatzopoulosKK81"
+                    },
+                    "url": "URL#8144592"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8178902",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/DennisGSeverance",
+                                    "text": "Dennis G. Severance"
+                                },
+                                {
+                                    "@pid": "21/2457",
+                                    "text": "Guy M. Lohman"
+                                }
+                            ]
+                        },
+                        "title": "Differential Files: Their Application to the Maintenance of Large Databases.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "1",
+                        "number": "3",
+                        "pages": "256-267",
+                        "year": "1976",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/SeveranceL76",
+                        "doi": "10.1145/320473.320484",
+                        "ee": "https://doi.org/10.1145/320473.320484",
+                        "url": "https://dblp.org/rec/journals/tods/SeveranceL76"
+                    },
+                    "url": "URL#8178902"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8186410",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "66/1236",
+                                    "text": "Paul R. Johnson"
+                                },
+                                {
+                                    "@pid": "19/5639",
+                                    "text": "Robert Thomas 0001"
+                                }
+                            ]
+                        },
+                        "title": "Maintenance of duplicate databases.",
+                        "venue": "RFC",
+                        "volume": "677",
+                        "pages": "1-10",
+                        "year": "1975",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/rfc/rfc677",
+                        "doi": "10.17487/RFC0677",
+                        "ee": "https://doi.org/10.17487/RFC0677",
+                        "url": "https://dblp.org/rec/journals/rfc/rfc677"
+                    },
+                    "url": "URL#8186410"
+                }
+            ]
+        }
+    }
+}

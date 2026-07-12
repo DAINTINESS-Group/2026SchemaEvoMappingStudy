@@ -1,0 +1,1198 @@
+{
+    "result": {
+        "query": "Schema* Migration*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "2.69"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "34",
+                    "@dc": "32",
+                    "@oc": "34",
+                    "@id": "63708241",
+                    "text": "migration"
+                },
+                {
+                    "@sc": "2",
+                    "@dc": "2",
+                    "@oc": "2",
+                    "@id": "63708248",
+                    "text": "migrations"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "34",
+            "@computed": "34",
+            "@sent": "34",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "4",
+                    "@id": "1923824",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                }
+                            ]
+                        },
+                        "title": "Managing Schema Migration in NoSQL Databases: Advisor Heuristics vs. Self-adaptive Schema Migration Strategies.",
+                        "venue": "MODELSWARD",
+                        "pages": "230-253",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/modelsward/HillenbrandS22a",
+                        "doi": "10.1007/978-3-031-38821-7_11",
+                        "ee": "https://doi.org/10.1007/978-3-031-38821-7_11",
+                        "url": "https://dblp.org/rec/conf/modelsward/HillenbrandS22a"
+                    },
+                    "url": "URL#1923824"
+                },
+                {
+                    "@score": "3",
+                    "@id": "1431956",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/4111",
+                                    "text": "Loris Bozzato"
+                                },
+                                {
+                                    "@pid": "s/LucianoSerafini",
+                                    "text": "Luciano Serafini"
+                                }
+                            ]
+                        },
+                        "title": "Ontology-Mediated Data Migration: Deriving Migration Rules by Reasoning on Schema Descriptions.",
+                        "venue": "SAC",
+                        "pages": "1724-1731",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sac/BozzatoS23",
+                        "doi": "10.1145/3555776.3577616",
+                        "ee": "https://doi.org/10.1145/3555776.3577616",
+                        "url": "https://dblp.org/rec/conf/sac/BozzatoS23"
+                    },
+                    "url": "URL#1431956"
+                },
+                {
+                    "@score": "2",
+                    "@id": "242242",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "68/4491",
+                                    "text": "Fumihiro Yamashita"
+                                },
+                                {
+                                    "@pid": "219/6333",
+                                    "text": "Qiong Chang"
+                                },
+                                {
+                                    "@pid": "49/4886",
+                                    "text": "Jun Miyazaki"
+                                }
+                            ]
+                        },
+                        "title": "Unified Schema-Driven Graph Polystore: Achieving Transparency in Multi-model Integration and Migration.",
+                        "venue": "DEXA",
+                        "pages": "136-143",
+                        "year": "2025",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/YamashitaCM25",
+                        "doi": "10.1007/978-3-032-02088-8_10",
+                        "ee": "https://doi.org/10.1007/978-3-032-02088-8_10",
+                        "url": "https://dblp.org/rec/conf/dexa/YamashitaCM25"
+                    },
+                    "url": "URL#242242"
+                },
+                {
+                    "@score": "2",
+                    "@id": "371143",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "279/1918",
+                                    "text": "Delfina Ramos-Vidal"
+                                },
+                                {
+                                    "@pid": "168/6150",
+                                    "text": "Alejandro Corti\u00f1as 0001"
+                                },
+                                {
+                                    "@pid": "92/3841",
+                                    "text": "Miguel R. Luaces"
+                                },
+                                {
+                                    "@pid": "27/2854",
+                                    "text": "Oscar Pedreira"
+                                },
+                                {
+                                    "@pid": "80/4289",
+                                    "text": "\u00c1ngeles Saavedra Places"
+                                },
+                                {
+                                    "@pid": "90/9459",
+                                    "text": "Wesley K. G. Assun\u00e7\u00e3o"
+                                }
+                            ]
+                        },
+                        "title": "Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience.",
+                        "venue": "CoRR",
+                        "volume": "abs/2504.17662",
+                        "year": "2025",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2504-17662",
+                        "doi": "10.48550/ARXIV.2504.17662",
+                        "ee": "https://doi.org/10.48550/arXiv.2504.17662",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2504-17662"
+                    },
+                    "url": "URL#371143"
+                },
+                {
+                    "@score": "2",
+                    "@id": "518962",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "131/6590",
+                                    "text": "Solomiia Fedushko"
+                                },
+                                {
+                                    "@pid": "394/3594",
+                                    "text": "Roman Malyi"
+                                },
+                                {
+                                    "@pid": "131/6549",
+                                    "text": "Yuriy Syerov"
+                                },
+                                {
+                                    "@pid": "380/0835",
+                                    "text": "Pavlo Serdyuk"
+                                }
+                            ]
+                        },
+                        "title": "NoSQL document data migration strategy in the context of schema evolution.",
+                        "venue": "Data Knowl. Eng.",
+                        "volume": "154",
+                        "pages": "102369",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dke/FedushkoMSS24",
+                        "doi": "10.1016/J.DATAK.2024.102369",
+                        "ee": "https://doi.org/10.1016/j.datak.2024.102369",
+                        "url": "https://dblp.org/rec/journals/dke/FedushkoMSS24"
+                    },
+                    "url": "URL#518962"
+                },
+                {
+                    "@score": "2",
+                    "@id": "697843",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "129/1473",
+                                    "text": "Sebastiaan J. C. Joosten"
+                                },
+                                {
+                                    "@pid": "97/5771",
+                                    "text": "Stef Joosten"
+                                }
+                            ]
+                        },
+                        "title": "Data Migration Under a Changing Schema in Ampersand.",
+                        "venue": "RAMiCS",
+                        "pages": "175-192",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/RelMiCS/JoostenJ24",
+                        "doi": "10.1007/978-3-031-68279-7_11",
+                        "ee": "https://doi.org/10.1007/978-3-031-68279-7_11",
+                        "url": "https://dblp.org/rec/conf/RelMiCS/JoostenJ24"
+                    },
+                    "url": "URL#697843"
+                },
+                {
+                    "@score": "2",
+                    "@id": "722287",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "250/0547",
+                                    "text": "Annabelle Gillet"
+                                },
+                                {
+                                    "@pid": "31/5064",
+                                    "text": "\u00c9ric Leclercq"
+                                }
+                            ]
+                        },
+                        "title": "CDMiA: Revealing Impacts of Data Migrations on Schemas in Multi-model Systems.",
+                        "venue": "CAiSE Forum",
+                        "pages": "120-128",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/caise/GilletL24",
+                        "doi": "10.1007/978-3-031-61000-4_14",
+                        "ee": "https://doi.org/10.1007/978-3-031-61000-4_14",
+                        "url": "https://dblp.org/rec/conf/caise/GilletL24"
+                    },
+                    "url": "URL#722287"
+                },
+                {
+                    "@score": "2",
+                    "@id": "744762",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "355/4732",
+                                    "text": "Zhilin Zeng"
+                                },
+                                {
+                                    "@pid": "66/3387",
+                                    "text": "Hui Li"
+                                },
+                                {
+                                    "@pid": "239/6175",
+                                    "text": "Xiyue Gao"
+                                },
+                                {
+                                    "@pid": "181/2846",
+                                    "text": "Hui Zhang"
+                                },
+                                {
+                                    "@pid": "123/0672",
+                                    "text": "Huiquan Zhang"
+                                },
+                                {
+                                    "@pid": "00/1740",
+                                    "text": "Jiangtao Cui"
+                                }
+                            ]
+                        },
+                        "title": "SLSM: An Efficient Strategy for Lazy Schema Migration on Shared-Nothing Databases.",
+                        "venue": "DASFAA",
+                        "pages": "357-367",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dasfaa/ZengLGZZC24",
+                        "doi": "10.1007/978-981-97-5552-3_24",
+                        "ee": "https://doi.org/10.1007/978-981-97-5552-3_24",
+                        "url": "https://dblp.org/rec/conf/dasfaa/ZengLGZZC24"
+                    },
+                    "url": "URL#744762"
+                },
+                {
+                    "@score": "2",
+                    "@id": "943250",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "355/4732",
+                                    "text": "Zhilin Zeng"
+                                },
+                                {
+                                    "@pid": "66/3387",
+                                    "text": "Hui Li"
+                                },
+                                {
+                                    "@pid": "239/6175",
+                                    "text": "Xiyue Gao"
+                                },
+                                {
+                                    "@pid": "181/2846",
+                                    "text": "Hui Zhang"
+                                },
+                                {
+                                    "@pid": "123/0672",
+                                    "text": "Huiquan Zhang"
+                                },
+                                {
+                                    "@pid": "00/1740",
+                                    "text": "Jiangtao Cui"
+                                }
+                            ]
+                        },
+                        "title": "SLSM : An Efficient Strategy for Lazy Schema Migration on Shared-Nothing Databases.",
+                        "venue": "CoRR",
+                        "volume": "abs/2404.03929",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2404-03929",
+                        "doi": "10.48550/ARXIV.2404.03929",
+                        "ee": "https://doi.org/10.48550/arXiv.2404.03929",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2404-03929"
+                    },
+                    "url": "URL#943250"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1618199",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "320/0157",
+                                    "text": "Norwini Zaidi"
+                                },
+                                {
+                                    "@pid": "157/5273",
+                                    "text": "Iskandar Ishak"
+                                },
+                                {
+                                    "@pid": "83/9112",
+                                    "text": "Fatimah Sidi"
+                                },
+                                {
+                                    "@pid": "65/5585",
+                                    "text": "Lilly Suriani Affendey"
+                                }
+                            ]
+                        },
+                        "title": "An Efficient Schema Transformation Technique for Data Migration from Relational to Column-Oriented Databases.",
+                        "venue": "Comput. Syst. Sci. Eng.",
+                        "volume": "43",
+                        "number": "3",
+                        "pages": "1175-1188",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/csse/ZaidiISA22",
+                        "doi": "10.32604/CSSE.2022.021969",
+                        "ee": "https://doi.org/10.32604/csse.2022.021969",
+                        "url": "https://dblp.org/rec/journals/csse/ZaidiISA22"
+                    },
+                    "url": "URL#1618199"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1622636",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "265/9630",
+                                    "text": "Shamil Nabiyev"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                }
+                            ]
+                        },
+                        "title": "Self-adapting data migration in the context of schema evolution in NoSQL databases.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "40",
+                        "number": "1",
+                        "pages": "5-25",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/dpd/HillenbrandSNK22",
+                        "doi": "10.1007/S10619-021-07334-1",
+                        "ee": "https://doi.org/10.1007/s10619-021-07334-1",
+                        "url": "https://dblp.org/rec/journals/dpd/HillenbrandSNK22"
+                    },
+                    "url": "URL#1622636"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1834154",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                }
+                            ]
+                        },
+                        "title": "Darwin: A Data Platform for Schema Evolution Management and Data Migration.",
+                        "venue": "EDBT/ICDT Workshops",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/edbt/StorlK22",
+                        "ee": "https://ceur-ws.org/Vol-3135/dataplat_short3.pdf",
+                        "url": "https://dblp.org/rec/conf/edbt/StorlK22"
+                    },
+                    "url": "URL#1834154"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1936375",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "273/9541",
+                                    "text": "Jihane Mali"
+                                },
+                                {
+                                    "@pid": "173/8473",
+                                    "text": "Shohreh Ahvar"
+                                },
+                                {
+                                    "@pid": "77/10222",
+                                    "text": "Faten Atigui"
+                                },
+                                {
+                                    "@pid": "30/1769",
+                                    "text": "Ahmed Azough"
+                                },
+                                {
+                                    "@pid": "75/5308",
+                                    "text": "Nicolas Travers"
+                                }
+                            ]
+                        },
+                        "title": "A Global Model-Driven Denormalization Approach for Schema Migration.",
+                        "venue": "RCIS",
+                        "pages": "529-545",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/rcis/MaliAAAT22",
+                        "doi": "10.1007/978-3-031-05760-1_31",
+                        "ee": "https://doi.org/10.1007/978-3-031-05760-1_31",
+                        "url": "https://dblp.org/rec/conf/rcis/MaliAAAT22"
+                    },
+                    "url": "URL#1936375"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2179036",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "11/880",
+                                "text": "Mohammad Masoud Javidi"
+                            }
+                        },
+                        "title": "Feature selection schema based on game theory and biology migration algorithm for regression problems.",
+                        "venue": "Int. J. Mach. Learn. Cybern.",
+                        "volume": "12",
+                        "number": "2",
+                        "pages": "303-342",
+                        "year": "2021",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/mlc/Javidi21",
+                        "doi": "10.1007/S13042-020-01174-8",
+                        "ee": "https://doi.org/10.1007/s13042-020-01174-8",
+                        "url": "https://dblp.org/rec/journals/mlc/Javidi21"
+                    },
+                    "url": "URL#2179036"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2753561",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "173/9289",
+                                    "text": "Alexander Stiemer"
+                                },
+                                {
+                                    "@pid": "213/1410",
+                                    "text": "Marco Vogt 0001"
+                                },
+                                {
+                                    "@pid": "s/HSchuldt",
+                                    "text": "Heiko Schuldt"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                }
+                            ]
+                        },
+                        "title": "PolyMigrate: Dynamic Schema Evolution and Data Migration in a Distributed Polystore.",
+                        "venue": "Poly/DMAH@VLDB",
+                        "pages": "42-53",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dmah-ws/StiemerVSS20",
+                        "doi": "10.1007/978-3-030-71055-2_4",
+                        "ee": "https://doi.org/10.1007/978-3-030-71055-2_4",
+                        "url": "https://dblp.org/rec/conf/dmah-ws/StiemerVSS20"
+                    },
+                    "url": "URL#2753561"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2758464",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "s/StefanieScherzinger",
+                                    "text": "Stefanie Scherzinger"
+                                }
+                            ]
+                        },
+                        "title": "NoSQL Schema Evolution and Data Migration: State-of-the-Art and Opportunities.",
+                        "venue": "EDBT",
+                        "pages": "655-658",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/edbt/StorlKS20",
+                        "doi": "10.5441/002/EDBT.2020.87",
+                        "ee": "https://doi.org/10.5441/002/edbt.2020.87",
+                        "url": "https://dblp.org/rec/conf/edbt/StorlKS20"
+                    },
+                    "url": "URL#2758464"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2791234",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "243/2338",
+                                    "text": "Andrea Hillenbrand"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "243/2499",
+                                    "text": "Maksym Levchenko"
+                                },
+                                {
+                                    "@pid": "265/9630",
+                                    "text": "Shamil Nabiyev"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                }
+                            ]
+                        },
+                        "title": "Towards Self-Adapting Data Migration in the Context of Schema Evolution in NoSQL Databases.",
+                        "venue": "ICDE Workshops",
+                        "pages": "133-138",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/HillenbrandSLNK20",
+                        "doi": "10.1109/ICDEW49219.2020.00013",
+                        "ee": "https://doi.org/10.1109/ICDEW49219.2020.00013",
+                        "url": "https://dblp.org/rec/conf/icde/HillenbrandSLNK20"
+                    },
+                    "url": "URL#2791234"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4031248",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "218/1395",
+                                    "text": "Shady Hamouda"
+                                },
+                                {
+                                    "@pid": "78/3449",
+                                    "text": "Zurinahni Zainol"
+                                }
+                            ]
+                        },
+                        "title": "Document-Oriented Data Schema for Relational Database Migration to NoSQL.",
+                        "venue": "Innovate-Data",
+                        "pages": "43-50",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/obd/HamoudaZ17",
+                        "doi": "10.1109/INNOVATE-DATA.2017.13",
+                        "ee": "https://doi.org/10.1109/Innovate-Data.2017.13",
+                        "url": "https://dblp.org/rec/conf/obd/HamoudaZ17"
+                    },
+                    "url": "URL#4031248"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4245917",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "82/1426",
+                                    "text": "Uta St\u00f6rl"
+                                },
+                                {
+                                    "@pid": "194/7661",
+                                    "text": "Manuel Shenavai"
+                                },
+                                {
+                                    "@pid": "s/StefanieScherzinger",
+                                    "text": "Stefanie Scherzinger"
+                                }
+                            ]
+                        },
+                        "title": "NoSQL schema evolution and big data migration at scale.",
+                        "venue": "IEEE BigData",
+                        "pages": "2764-2774",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bigdataconf/KlettkeSSS16",
+                        "doi": "10.1109/BIGDATA.2016.7840924",
+                        "ee": "https://doi.org/10.1109/BigData.2016.7840924",
+                        "url": "https://dblp.org/rec/conf/bigdataconf/KlettkeSSS16"
+                    },
+                    "url": "URL#4245917"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4286190",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "133/0130",
+                                    "text": "Jiuchuan Hu"
+                                },
+                                {
+                                    "@pid": "35/2456",
+                                    "text": "Dongrui Fan"
+                                },
+                                {
+                                    "@pid": "60/7723",
+                                    "text": "Danping Li"
+                                },
+                                {
+                                    "@pid": "99/1615",
+                                    "text": "Long Yan"
+                                },
+                                {
+                                    "@pid": "22/3129",
+                                    "text": "Xiaochun Ye"
+                                }
+                            ]
+                        },
+                        "title": "A Percolation Data Migration Schema in a hybrid Cache Hierarchy.",
+                        "venue": "IGSC",
+                        "pages": "1-5",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/green/HuFLYY16",
+                        "doi": "10.1109/IGCC.2016.7892590",
+                        "ee": "https://doi.org/10.1109/IGCC.2016.7892590",
+                        "url": "https://dblp.org/rec/conf/green/HuFLYY16"
+                    },
+                    "url": "URL#4286190"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4476394",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "97/143-1",
+                                    "text": "Kun Ma 0001"
+                                },
+                                {
+                                    "@pid": "172/4360",
+                                    "text": "Fusen Dong"
+                                }
+                            ]
+                        },
+                        "title": "Live data migration approach from relational tables to schema-free collections with MapReduce.",
+                        "venue": "Int. J. Serv. Technol. Manag.",
+                        "volume": "21",
+                        "number": "1/2/3",
+                        "pages": "318",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijstm/MaD15",
+                        "doi": "10.1504/IJSTM.2015.073942",
+                        "ee": "https://doi.org/10.1504/ijstm.2015.073942",
+                        "url": "https://dblp.org/rec/journals/ijstm/MaD15"
+                    },
+                    "url": "URL#4476394"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4684774",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/4007",
+                                    "text": "Chao-Hsien Lee"
+                                },
+                                {
+                                    "@pid": "174/3483",
+                                    "text": "Yu-Lin Zheng"
+                                }
+                            ]
+                        },
+                        "title": "SQL-to-NoSQL Schema Denormalization and Migration: A Study on Content Management Systems.",
+                        "venue": "SMC",
+                        "pages": "2022-2026",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/smc/LeeZ15",
+                        "doi": "10.1109/SMC.2015.353",
+                        "ee": "https://doi.org/10.1109/SMC.2015.353",
+                        "url": "https://dblp.org/rec/conf/smc/LeeZ15"
+                    },
+                    "url": "URL#4684774"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4841105",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "51/2046",
+                                    "text": "Gansen Zhao"
+                                },
+                                {
+                                    "@pid": "144/1217",
+                                    "text": "Libo Li"
+                                },
+                                {
+                                    "@pid": "71/8914",
+                                    "text": "Zijing Li"
+                                },
+                                {
+                                    "@pid": "158/3461",
+                                    "text": "Qiaoying Lin"
+                                }
+                            ]
+                        },
+                        "title": "Multiple Nested Schema of HBase for Migration from SQL.",
+                        "venue": "3PGCIC",
+                        "pages": "338-343",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/3pgcic/ZhaoLLL14",
+                        "doi": "10.1109/3PGCIC.2014.127",
+                        "ee": "https://doi.org/10.1109/3PGCIC.2014.127",
+                        "url": "https://dblp.org/rec/conf/3pgcic/ZhaoLLL14"
+                    },
+                    "url": "URL#4841105"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5075084",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/11337",
+                                    "text": "Robert M. Marks"
+                                },
+                                {
+                                    "@pid": "38/3095",
+                                    "text": "Roy Sterritt"
+                                }
+                            ]
+                        },
+                        "title": "A metadata driven approach to performing complex heterogeneous database schema migrations.",
+                        "venue": "Innov. Syst. Softw. Eng.",
+                        "volume": "9",
+                        "number": "3",
+                        "pages": "179-190",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/isse/MarksS13",
+                        "doi": "10.1007/S11334-013-0217-8",
+                        "ee": "https://doi.org/10.1007/s11334-013-0217-8",
+                        "url": "https://dblp.org/rec/journals/isse/MarksS13"
+                    },
+                    "url": "URL#5075084"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5543403",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/4896",
+                                    "text": "Daniel Biella"
+                                },
+                                {
+                                    "@pid": "06/6177",
+                                    "text": "Wolfram Luther"
+                                },
+                                {
+                                    "@pid": "122/5890",
+                                    "text": "Daniel Sacher"
+                                }
+                            ]
+                        },
+                        "title": "Schema migration into a web-based framework for generating virtual museums and laboratories.",
+                        "venue": "VSMM",
+                        "pages": "307-314",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vsmm/BiellaLS12",
+                        "doi": "10.1109/VSMM.2012.6365939",
+                        "ee": "https://doi.org/10.1109/VSMM.2012.6365939",
+                        "url": "https://dblp.org/rec/conf/vsmm/BiellaLS12"
+                    },
+                    "url": "URL#5543403"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6572138",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/4029",
+                                    "text": "Christian Drumm"
+                                },
+                                {
+                                    "@pid": "67/62",
+                                    "text": "Matthias Schmitt"
+                                },
+                                {
+                                    "@pid": "d/HongHaiDo",
+                                    "text": "Hong Hai Do"
+                                },
+                                {
+                                    "@pid": "r/ERahm",
+                                    "text": "Erhard Rahm"
+                                }
+                            ]
+                        },
+                        "title": "Quickmig: automatic schema matching for data migration projects.",
+                        "venue": "CIKM",
+                        "pages": "107-116",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/DrummSDR07",
+                        "doi": "10.1145/1321440.1321458",
+                        "ee": "https://doi.org/10.1145/1321440.1321458",
+                        "url": "https://dblp.org/rec/conf/cikm/DrummSDR07"
+                    },
+                    "url": "URL#6572138"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6895148",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "41/6877",
+                                "text": "Fernando Arango Isaza"
+                            }
+                        },
+                        "title": "Inconsistency Management in Schema Evolution and Data Base Migration.",
+                        "venue": "Rev. Avances en Sistemas Inform\u00e1tica",
+                        "volume": "2",
+                        "number": "1",
+                        "pages": "9-18",
+                        "year": "2005",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/rasi/Isaza05",
+                        "ee": "http://pisis.unalmed.edu.co/avances/archivos/ediciones/2005/arango05.pdf",
+                        "url": "https://dblp.org/rec/journals/rasi/Isaza05"
+                    },
+                    "url": "URL#6895148"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7137886",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "d/DirkDraheim",
+                                    "text": "Dirk Draheim"
+                                },
+                                {
+                                    "@pid": "87/3261",
+                                    "text": "Matthias Horn"
+                                },
+                                {
+                                    "@pid": "68/1304",
+                                    "text": "Ina Schulz"
+                                }
+                            ]
+                        },
+                        "title": "The Schema Evolution and Data Migration Framework of the Environmental Mass Database IMIS.",
+                        "venue": "SSDBM",
+                        "pages": "341-344",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ssdbm/DraheimHS04",
+                        "doi": "10.1109/SSDBM.2004.69",
+                        "ee": "https://doi.ieeecomputersociety.org/10.1109/SSDBM.2004.69",
+                        "url": "https://dblp.org/rec/conf/ssdbm/DraheimHS04"
+                    },
+                    "url": "URL#7137886"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7281633",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/StefanieRinderle",
+                                    "text": "Stefanie Rinderle"
+                                },
+                                {
+                                    "@pid": "r/ManfredReichert",
+                                    "text": "Manfred Reichert"
+                                },
+                                {
+                                    "@pid": "d/PDadam",
+                                    "text": "Peter Dadam"
+                                }
+                            ]
+                        },
+                        "title": "Effiziente Vertr\u00e4glichkeitspr\u00fcfung und automatische Migration von Workflow-Instanzen bei der Evolution von Workflow-Schemata.",
+                        "venue": "Inform. Forsch. Entwickl.",
+                        "volume": "17",
+                        "number": "4",
+                        "pages": "177-197",
+                        "year": "2002",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ife/RinderleRD02",
+                        "doi": "10.1007/S00450-002-0122-0",
+                        "ee": "https://doi.org/10.1007/s00450-002-0122-0",
+                        "url": "https://dblp.org/rec/journals/ife/RinderleRD02"
+                    },
+                    "url": "URL#7281633"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7316588",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/5742",
+                                    "text": "Baowen Xu"
+                                },
+                                {
+                                    "@pid": "86/6151",
+                                    "text": "Yu Guan"
+                                },
+                                {
+                                    "@pid": "64/7028",
+                                    "text": "Zhenqiang Chen"
+                                },
+                                {
+                                    "@pid": "23/5291",
+                                    "text": "Karl R. P. H. Leung"
+                                }
+                            ]
+                        },
+                        "title": "Parallel Genetic Algorithms with Schema Migration.",
+                        "venue": "COMPSAC",
+                        "pages": "879-886",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/compsac/XuGCL02",
+                        "doi": "10.1109/CMPSAC.2002.1045117",
+                        "ee": "https://doi.org/10.1109/CMPSAC.2002.1045117",
+                        "url": "https://dblp.org/rec/conf/compsac/XuGCL02"
+                    },
+                    "url": "URL#7316588"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7570627",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "93/1423",
+                                    "text": "Markus Kradolfer"
+                                },
+                                {
+                                    "@pid": "g/AndreasGeppert",
+                                    "text": "Andreas Geppert"
+                                }
+                            ]
+                        },
+                        "title": "Dynamic Workflow Schema Evolution Based on Workflow Type Versioning and Workflow Migration.",
+                        "venue": "CoopIS",
+                        "pages": "104-114",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/coopis/KradolferG99",
+                        "doi": "10.1109/COOPIS.1999.792162",
+                        "ee": "https://doi.org/10.1109/COOPIS.1999.792162",
+                        "url": "https://dblp.org/rec/conf/coopis/KradolferG99"
+                    },
+                    "url": "URL#7570627"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7574044",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "m/PeterMcBrien",
+                                    "text": "Peter McBrien"
+                                },
+                                {
+                                    "@pid": "p/APoulovassilis",
+                                    "text": "Alexandra Poulovassilis"
+                                }
+                            ]
+                        },
+                        "title": "Automatic Migration and Wrapping of Database Applications - A Schema Transformation Approach.",
+                        "venue": "ER",
+                        "pages": "96-113",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/McBrienP99",
+                        "doi": "10.1007/3-540-47866-3_7",
+                        "ee": "https://doi.org/10.1007/3-540-47866-3_7",
+                        "url": "https://dblp.org/rec/conf/er/McBrienP99"
+                    },
+                    "url": "URL#7574044"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7754992",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "70/4562",
+                                    "text": "J. H. Yapi"
+                                },
+                                {
+                                    "@pid": "79/6474",
+                                    "text": "A. Lasquellec"
+                                },
+                                {
+                                    "@pid": "g/BernardGibaud",
+                                    "text": "Bernard Gibaud"
+                                }
+                            ]
+                        },
+                        "title": "Evolution de Sch\u00e9ma et Migration d&apos;Instances. Prise en compte des Besoins d&apos;une Application M\u00e9dicale.",
+                        "venue": "BDA",
+                        "pages": "353-372",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/bda/YapiLG96",
+                        "url": "https://dblp.org/rec/conf/bda/YapiLG96"
+                    },
+                    "url": "URL#7754992"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7761546",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/MichaelGschwind",
+                                    "text": "Michael Gschwind"
+                                },
+                                {
+                                    "@pid": "50/1775",
+                                    "text": "Christian Mautner"
+                                }
+                            ]
+                        },
+                        "title": "Migration from Schematic-Based Designs to a VHDL Synthesis Environment.",
+                        "venue": "FPL",
+                        "pages": "346-355",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/fpl/GschwindM96",
+                        "doi": "10.1007/3-540-61730-2_37",
+                        "ee": "https://doi.org/10.1007/3-540-61730-2_37",
+                        "url": "https://dblp.org/rec/conf/fpl/GschwindM96"
+                    },
+                    "url": "URL#7761546"
+                }
+            ]
+        }
+    }
+}

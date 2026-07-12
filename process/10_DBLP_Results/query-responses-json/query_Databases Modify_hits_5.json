@@ -1,0 +1,217 @@
+{
+    "result": {
+        "query": "Databases* Modify*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "12.34"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "5",
+                "@dc": "5",
+                "@oc": "5",
+                "@id": "63728833",
+                "text": "modifying"
+            }
+        },
+        "hits": {
+            "@total": "5",
+            "@computed": "5",
+            "@sent": "5",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "1666137",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/517",
+                                    "text": "Syam Menon"
+                                },
+                                {
+                                    "@pid": "64/10656",
+                                    "text": "Abhijeet Ghoshal"
+                                },
+                                {
+                                    "@pid": "90/3807",
+                                    "text": "Sumit Sarkar"
+                                }
+                            ]
+                        },
+                        "title": "Modifying Transactional Databases to Hide Sensitive Association Rules.",
+                        "venue": "Inf. Syst. Res.",
+                        "volume": "33",
+                        "number": "1",
+                        "pages": "152-178",
+                        "year": "2022",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/isr/MenonGS22",
+                        "doi": "10.1287/ISRE.2021.1033",
+                        "ee": "https://doi.org/10.1287/isre.2021.1033",
+                        "url": "https://dblp.org/rec/journals/isr/MenonGS22"
+                    },
+                    "url": "URL#1666137"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3780682",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "213/7189",
+                                    "text": "Nadav Topaz"
+                                },
+                                {
+                                    "@pid": "213/7108",
+                                    "text": "Nazia Mojib"
+                                },
+                                {
+                                    "@pid": "213/7241",
+                                    "text": "Aroon T. Chande"
+                                },
+                                {
+                                    "@pid": "145/4299",
+                                    "text": "Julia Kubanek"
+                                },
+                                {
+                                    "@pid": "56/6502",
+                                    "text": "I. King Jordan"
+                                }
+                            ]
+                        },
+                        "title": "RampDB: a web application and database for the exploration and prediction of receptor activity modifying protein interactions.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2017",
+                        "pages": "bax067",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/TopazMCKJ17",
+                        "doi": "10.1093/DATABASE/BAX067",
+                        "ee": "https://doi.org/10.1093/database/bax067",
+                        "url": "https://dblp.org/rec/journals/biodb/TopazMCKJ17"
+                    },
+                    "url": "URL#3780682"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4438121",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/1900",
+                                    "text": "Jaeyoung Choi"
+                                },
+                                {
+                                    "@pid": "21/972",
+                                    "text": "Ki-Tae Kim"
+                                },
+                                {
+                                    "@pid": "164/1663",
+                                    "text": "Aram Huh"
+                                },
+                                {
+                                    "@pid": "164/1644",
+                                    "text": "Seomun Kwon"
+                                },
+                                {
+                                    "@pid": "164/1727",
+                                    "text": "Changyoung Hong"
+                                },
+                                {
+                                    "@pid": "164/1760",
+                                    "text": "Fred O. Asiegbu"
+                                },
+                                {
+                                    "@pid": "164/1778",
+                                    "text": "Junhyun Jeon"
+                                },
+                                {
+                                    "@pid": "69/903",
+                                    "text": "Yong-Hwan Lee"
+                                }
+                            ]
+                        },
+                        "title": "dbHiMo: a web-based epigenomics platform for histone-modifying enzymes.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2015",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/ChoiKHKHAJL15",
+                        "doi": "10.1093/DATABASE/BAV052",
+                        "ee": "https://doi.org/10.1093/database/bav052",
+                        "url": "https://dblp.org/rec/journals/biodb/ChoiKHKHAJL15"
+                    },
+                    "url": "URL#4438121"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5269386",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/8052",
+                                    "text": "Ladan Golipour"
+                                },
+                                {
+                                    "@pid": "39/4580",
+                                    "text": "Alistair Conkie"
+                                },
+                                {
+                                    "@pid": "61/7151",
+                                    "text": "Ann K. Syrdal"
+                                }
+                            ]
+                        },
+                        "title": "Prosodically modifying speech for unit selection speech synthesis databases.",
+                        "venue": "SSW",
+                        "pages": "255-259",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/ssw/GolipourCS13",
+                        "ee": "https://www.isca-archive.org/ssw_2013/golipour13_ssw.html",
+                        "url": "https://dblp.org/rec/conf/ssw/GolipourCS13"
+                    },
+                    "url": "URL#5269386"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5294462",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "131/6553",
+                                "text": "Dhammika Pieris"
+                            }
+                        },
+                        "title": "Modifying the Entity relationship modelling notation: towards high quality relational databases from better notated ER models.",
+                        "venue": "CoRR",
+                        "volume": "abs/1306.5690",
+                        "year": "2013",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/Pieris13",
+                        "ee": "http://arxiv.org/abs/1306.5690",
+                        "url": "https://dblp.org/rec/journals/corr/Pieris13"
+                    },
+                    "url": "URL#5294462"
+                }
+            ]
+        }
+    }
+}

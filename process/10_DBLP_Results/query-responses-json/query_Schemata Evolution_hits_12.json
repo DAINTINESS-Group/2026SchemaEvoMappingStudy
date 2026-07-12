@@ -1,0 +1,401 @@
+{
+    "result": {
+        "query": "Schemata* Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "8.50"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "6",
+                    "@dc": "6",
+                    "@oc": "6",
+                    "@id": "63144075",
+                    "text": "evolution"
+                },
+                {
+                    "@sc": "6",
+                    "@dc": "6",
+                    "@oc": "6",
+                    "@id": "63144092",
+                    "text": "evolutionary"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "12",
+            "@computed": "12",
+            "@sent": "12",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "6371381",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/1343",
+                                    "text": "William D. Smart"
+                                },
+                                {
+                                    "@pid": "z/MengjieZhang",
+                                    "text": "Mengjie Zhang 0001"
+                                }
+                            ]
+                        },
+                        "title": "Empirical analysis of schemata in Genetic Programming using maximal schemata and MSG.",
+                        "venue": "IEEE Congress on Evolutionary Computation",
+                        "pages": "2983-2990",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cec/SmartZ08",
+                        "doi": "10.1109/CEC.2008.4631200",
+                        "ee": "https://doi.org/10.1109/CEC.2008.4631200",
+                        "url": "https://dblp.org/rec/conf/cec/SmartZ08"
+                    },
+                    "url": "URL#6371381"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5457275",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "46/11440",
+                                    "text": "Thomas N\u00f6singer"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "h/AHeuer",
+                                    "text": "Andreas Heuer 0001"
+                                }
+                            ]
+                        },
+                        "title": "Evolution von XML-Schemata auf konzeptioneller Ebene - \u00dcbersicht: Der CodeX-Ansatz zur L\u00f6sung des G\u00fcltigkeitsproblems.",
+                        "venue": "Grundlagen von Datenbanken",
+                        "pages": "29-34",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/gvd/NosingerKH12",
+                        "ee": "https://ceur-ws.org/Vol-850/paper_noesinger.pdf",
+                        "url": "https://dblp.org/rec/conf/gvd/NosingerKH12"
+                    },
+                    "url": "URL#5457275"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6081454",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "15/1541",
+                                    "text": "Takashi Maruyama"
+                                },
+                                {
+                                    "@pid": "34/1114",
+                                    "text": "Eisuke Kita"
+                                }
+                            ]
+                        },
+                        "title": "Evolutionary algorithm based on schemata theory.",
+                        "venue": "Frontiers Comput. Sci. China",
+                        "volume": "3",
+                        "number": "1",
+                        "pages": "123-129",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/fcsc/MaruyamaK09",
+                        "doi": "10.1007/S11704-009-0001-Y",
+                        "ee": "https://doi.org/10.1007/s11704-009-0001-y",
+                        "url": "https://dblp.org/rec/journals/fcsc/MaruyamaK09"
+                    },
+                    "url": "URL#6081454"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6985906",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "15/1541",
+                                    "text": "Takashi Maruyama"
+                                },
+                                {
+                                    "@pid": "34/1114",
+                                    "text": "Eisuke Kita"
+                                }
+                            ]
+                        },
+                        "title": "Evolutionary Algorithm Based on Schemata Exploiter.",
+                        "venue": "PDPTA",
+                        "pages": "423-426",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/pdpta/MaruyamaK05",
+                        "url": "https://dblp.org/rec/conf/pdpta/MaruyamaK05"
+                    },
+                    "url": "URL#6985906"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7079471",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "80/4772",
+                                    "text": "F\u00e1bio Zschornack"
+                                },
+                                {
+                                    "@pid": "e/NinaEdelweiss",
+                                    "text": "Nina Edelweiss"
+                                }
+                            ]
+                        },
+                        "title": "On Evolution of XML Workflow Schemata.",
+                        "venue": "DEXA",
+                        "pages": "98-108",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/ZschornackE04",
+                        "doi": "10.1007/978-3-540-30075-5_10",
+                        "ee": "https://doi.org/10.1007/978-3-540-30075-5_10",
+                        "url": "https://dblp.org/rec/conf/dexa/ZschornackE04"
+                    },
+                    "url": "URL#7079471"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7210146",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "38/7026",
+                                    "text": "Ismael Sanz"
+                                },
+                                {
+                                    "@pid": "67/67",
+                                    "text": "Juan Manuel P\u00e9rez"
+                                },
+                                {
+                                    "@pid": "b/RafaelBerlangaLlavori",
+                                    "text": "Rafael Berlanga Llavori"
+                                },
+                                {
+                                    "@pid": "c/MJAramburuCabo",
+                                    "text": "Mar\u00eda Jos\u00e9 Aramburu Cabo"
+                                }
+                            ]
+                        },
+                        "title": "XML Schemata Inference and Evolution.",
+                        "venue": "DEXA",
+                        "pages": "109-118",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/SanzPLA03",
+                        "doi": "10.1007/978-3-540-45227-0_12",
+                        "ee": "https://doi.org/10.1007/978-3-540-45227-0_12",
+                        "url": "https://dblp.org/rec/conf/dexa/SanzPLA03"
+                    },
+                    "url": "URL#7210146"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7281633",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/StefanieRinderle",
+                                    "text": "Stefanie Rinderle"
+                                },
+                                {
+                                    "@pid": "r/ManfredReichert",
+                                    "text": "Manfred Reichert"
+                                },
+                                {
+                                    "@pid": "d/PDadam",
+                                    "text": "Peter Dadam"
+                                }
+                            ]
+                        },
+                        "title": "Effiziente Vertr\u00e4glichkeitspr\u00fcfung und automatische Migration von Workflow-Instanzen bei der Evolution von Workflow-Schemata.",
+                        "venue": "Inform. Forsch. Entwickl.",
+                        "volume": "17",
+                        "number": "4",
+                        "pages": "177-197",
+                        "year": "2002",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ife/RinderleRD02",
+                        "doi": "10.1007/S00450-002-0122-0",
+                        "ee": "https://doi.org/10.1007/s00450-002-0122-0",
+                        "url": "https://dblp.org/rec/journals/ife/RinderleRD02"
+                    },
+                    "url": "URL#7281633"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7323680",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "44/2540",
+                                "text": "Hiroshi Furutani"
+                            }
+                        },
+                        "title": "Schema Analysis of OneMax Problem: Evolution Equation for First Order Schemata.",
+                        "venue": "FOGA",
+                        "pages": "9-26",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/foga/Furutani02",
+                        "url": "https://dblp.org/rec/conf/foga/Furutani02"
+                    },
+                    "url": "URL#7323680"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7543349",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "55/5780",
+                                    "text": "Christopher R. Stephens"
+                                },
+                                {
+                                    "@pid": "43/6258",
+                                    "text": "Henri Waelbroeck"
+                                }
+                            ]
+                        },
+                        "title": "Schemata Evolution and Building Blocks.",
+                        "venue": "Evol. Comput.",
+                        "volume": "7",
+                        "number": "2",
+                        "pages": "109-124",
+                        "year": "1999",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ec/StephensW99",
+                        "doi": "10.1162/EVCO.1999.7.2.109",
+                        "ee": "https://doi.org/10.1162/evco.1999.7.2.109",
+                        "url": "https://dblp.org/rec/journals/ec/StephensW99"
+                    },
+                    "url": "URL#7543349"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7545410",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/3851",
+                                    "text": "Heinz M\u00fchlenbein"
+                                },
+                                {
+                                    "@pid": "39/6096",
+                                    "text": "Thilo Mahnig"
+                                },
+                                {
+                                    "@pid": "88/2345",
+                                    "text": "Alberto Ochoa-Rodr\u00edguez"
+                                }
+                            ]
+                        },
+                        "title": "Schemata, Distributions and Graphical Models in Evolutionary Optimization.",
+                        "venue": "J. Heuristics",
+                        "volume": "5",
+                        "number": "2",
+                        "pages": "215-247",
+                        "year": "1999",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/heuristics/MuhlenbeinMO99",
+                        "doi": "10.1023/A:1009689913453",
+                        "ee": "https://doi.org/10.1023/A:1009689913453",
+                        "url": "https://dblp.org/rec/journals/heuristics/MuhlenbeinMO99"
+                    },
+                    "url": "URL#7545410"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7764435",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "14/1013",
+                                    "text": "Alexandru Agapie"
+                                },
+                                {
+                                    "@pid": "66/4469",
+                                    "text": "Adrian-Horia Dediu"
+                                }
+                            ]
+                        },
+                        "title": "GA for Deceptive Problems: Inverting Schemata by a Statistical Approach.",
+                        "venue": "International Conference on Evolutionary Computation",
+                        "pages": "336-340",
+                        "year": "1996",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icec/AgapieD96",
+                        "doi": "10.1109/ICEC.1996.542385",
+                        "ee": "https://doi.org/10.1109/ICEC.1996.542385",
+                        "url": "https://dblp.org/rec/conf/icec/AgapieD96"
+                    },
+                    "url": "URL#7764435"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7859667",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "63/1600",
+                                "text": "Akiko N. Aizawa"
+                            }
+                        },
+                        "title": "Evolving SSE: A Stochastic Schemata Exploiter.",
+                        "venue": "International Conference on Evolutionary Computation",
+                        "pages": "525-529",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icec/Aizawa94",
+                        "doi": "10.1109/ICEC.1994.349895",
+                        "ee": "https://doi.org/10.1109/ICEC.1994.349895",
+                        "url": "https://dblp.org/rec/conf/icec/Aizawa94"
+                    },
+                    "url": "URL#7859667"
+                }
+            ]
+        }
+    }
+}

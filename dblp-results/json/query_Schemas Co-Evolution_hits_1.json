@@ -1,0 +1,68 @@
+{
+    "result": {
+        "query": "Schemas* Co Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "13.68"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "1",
+                "@dc": "1",
+                "@oc": "1",
+                "@id": "63144092",
+                "text": "evolutionary"
+            }
+        },
+        "hits": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "1113016",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "g/PabloGervas",
+                                    "text": "Pablo Gerv\u00e1s"
+                                },
+                                {
+                                    "@pid": "61/1589-1",
+                                    "text": "Gonzalo M\u00e9ndez 0001"
+                                },
+                                {
+                                    "@pid": "182/8925",
+                                    "text": "Eugenio Concepci\u00f3n"
+                                }
+                            ]
+                        },
+                        "title": "Evolutionary combination of connected event schemas into meaningful plots.",
+                        "venue": "Genet. Program. Evolvable Mach.",
+                        "volume": "24",
+                        "number": "1",
+                        "pages": "7",
+                        "year": "2023",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/gpem/GervasMC23",
+                        "doi": "10.1007/S10710-023-09454-2",
+                        "ee": "https://doi.org/10.1007/s10710-023-09454-2",
+                        "url": "https://dblp.org/rec/journals/gpem/GervasMC23"
+                    },
+                    "url": "URL#1113016"
+                }
+            ]
+        }
+    }
+}

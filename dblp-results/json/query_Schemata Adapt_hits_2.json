@@ -1,0 +1,105 @@
+{
+    "result": {
+        "query": "Schemata* Adapt*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "10.02"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "2",
+                "@dc": "2",
+                "@oc": "2",
+                "@id": "62653516",
+                "text": "adaptive"
+            }
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "79914",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "139/5876",
+                                    "text": "Yuhao Zhang"
+                                },
+                                {
+                                    "@pid": "156/5831",
+                                    "text": "Siaw Ling Lo"
+                                },
+                                {
+                                    "@pid": "351/9275",
+                                    "text": "Phyo Yi Win Myint"
+                                }
+                            ]
+                        },
+                        "title": "Empowering crisis information extraction through actionability event schemata and domain-adaptive pre-training.",
+                        "venue": "Inf. Manag.",
+                        "volume": "62",
+                        "number": "1",
+                        "pages": "104065",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/iam/ZhangLM25",
+                        "doi": "10.1016/J.IM.2024.104065",
+                        "ee": "https://doi.org/10.1016/j.im.2024.104065",
+                        "url": "https://dblp.org/rec/journals/iam/ZhangLM25"
+                    },
+                    "url": "URL#79914"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6958230",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "73/237",
+                                    "text": "Fan Li"
+                                },
+                                {
+                                    "@pid": "30/3171",
+                                    "text": "Qihe Liu"
+                                },
+                                {
+                                    "@pid": "79/4191",
+                                    "text": "Fan Min 0001"
+                                },
+                                {
+                                    "@pid": "43/3366",
+                                    "text": "Guowei Yang"
+                                }
+                            ]
+                        },
+                        "title": "A New Adaptive Crossover Operator for the Preservation of Useful Schemata.",
+                        "venue": "ICMLC",
+                        "pages": "507-516",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icmlc/LiLMY05",
+                        "doi": "10.1007/11739685_53",
+                        "ee": "https://doi.org/10.1007/11739685_53",
+                        "url": "https://dblp.org/rec/conf/icmlc/LiLMY05"
+                    },
+                    "url": "URL#6958230"
+                }
+            ]
+        }
+    }
+}

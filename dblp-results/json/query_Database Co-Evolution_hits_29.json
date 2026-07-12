@@ -1,0 +1,1274 @@
+{
+    "result": {
+        "query": "Database* Co Evolution*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "17.48"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "18",
+                    "@dc": "18",
+                    "@oc": "18",
+                    "@id": "63144075",
+                    "text": "evolution"
+                },
+                {
+                    "@sc": "13",
+                    "@dc": "12",
+                    "@oc": "13",
+                    "@id": "63144092",
+                    "text": "evolutionary"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "29",
+            "@computed": "29",
+            "@sent": "29",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "5",
+                    "@id": "2994207",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "237/9397",
+                                    "text": "Kevin Correia"
+                                },
+                                {
+                                    "@pid": "237/9150",
+                                    "text": "Shi M. Yu"
+                                },
+                                {
+                                    "@pid": "91/5963",
+                                    "text": "Radhakrishnan Mahadevan"
+                                }
+                            ]
+                        },
+                        "title": "AYbRAH: a curated ortholog database for yeasts and fungi spanning 600 million years of evolution.",
+                        "venue": "Database J. Biol. Databases Curation",
+                        "volume": "2019",
+                        "pages": "baz022",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/biodb/CorreiaYM19",
+                        "doi": "10.1093/DATABASE/BAZ022",
+                        "ee": "https://doi.org/10.1093/database/baz022",
+                        "url": "https://dblp.org/rec/journals/biodb/CorreiaYM19"
+                    },
+                    "url": "URL#2994207"
+                },
+                {
+                    "@score": "4",
+                    "@id": "3854405",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/221-52",
+                                    "text": "Yi Wang 0052"
+                                },
+                                {
+                                    "@pid": "16/556",
+                                    "text": "Ling Xu"
+                                },
+                                {
+                                    "@pid": "124/1449",
+                                    "text": "Roger Thilmony"
+                                },
+                                {
+                                    "@pid": "63/2810",
+                                    "text": "Frank M. You"
+                                },
+                                {
+                                    "@pid": "68/1450",
+                                    "text": "Yong Qiang Gu"
+                                },
+                                {
+                                    "@pid": "180/8156",
+                                    "text": "Devin Coleman-Derr"
+                                }
+                            ]
+                        },
+                        "title": "PIECE 2.0: an update for the plant gene structure comparison and evolution database.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "45",
+                        "number": "Database-Issue",
+                        "pages": "1015-1020",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/WangXTYGC17",
+                        "doi": "10.1093/NAR/GKW935",
+                        "ee": "https://doi.org/10.1093/nar/gkw935",
+                        "url": "https://dblp.org/rec/journals/nar/WangXTYGC17"
+                    },
+                    "url": "URL#3854405"
+                },
+                {
+                    "@score": "4",
+                    "@id": "4190272",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "175/2043",
+                                    "text": "Mara Kim"
+                                },
+                                {
+                                    "@pid": "175/1953",
+                                    "text": "Brian A. Cooper"
+                                },
+                                {
+                                    "@pid": "175/1858",
+                                    "text": "Rohit Venkat"
+                                },
+                                {
+                                    "@pid": "175/2010",
+                                    "text": "Julie B. Phillips"
+                                },
+                                {
+                                    "@pid": "175/1888",
+                                    "text": "Haley R. Eidem"
+                                },
+                                {
+                                    "@pid": "175/2207",
+                                    "text": "Jibril Hirbo"
+                                },
+                                {
+                                    "@pid": "175/1834",
+                                    "text": "Sashank Nutakki"
+                                },
+                                {
+                                    "@pid": "03/2685",
+                                    "text": "Scott M. Williams"
+                                },
+                                {
+                                    "@pid": "175/1809",
+                                    "text": "Louis J. Muglia"
+                                },
+                                {
+                                    "@pid": "175/1964",
+                                    "text": "J. Anthony Capra"
+                                },
+                                {
+                                    "@pid": "175/1869",
+                                    "text": "Kenneth Petren"
+                                },
+                                {
+                                    "@pid": "175/1932",
+                                    "text": "Patrick Abbot"
+                                },
+                                {
+                                    "@pid": "175/1936",
+                                    "text": "Antonis Rokas"
+                                },
+                                {
+                                    "@pid": "131/9869",
+                                    "text": "Kriston L. McGary"
+                                }
+                            ]
+                        },
+                        "title": "GEneSTATION 1.0: a synthetic resource of diverse evolutionary and functional genomic data for studying the evolution of pregnancy-associated tissues and phenotypes.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "44",
+                        "number": "Database-Issue",
+                        "pages": "908-916",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/KimCVPEHNWMCPAR16",
+                        "doi": "10.1093/NAR/GKV1137",
+                        "ee": "https://doi.org/10.1093/nar/gkv1137",
+                        "url": "https://dblp.org/rec/journals/nar/KimCVPEHNWMCPAR16"
+                    },
+                    "url": "URL#4190272"
+                },
+                {
+                    "@score": "4",
+                    "@id": "6345879",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/1435",
+                                    "text": "Roc\u00edo Romero-Z\u00e1liz"
+                                },
+                                {
+                                    "@pid": "94/6735",
+                                    "text": "Cristina Rubio-Escudero"
+                                },
+                                {
+                                    "@pid": "22/2998",
+                                    "text": "J. P. Cobb"
+                                },
+                                {
+                                    "@pid": "04/0",
+                                    "text": "Francisco Herrera"
+                                },
+                                {
+                                    "@pid": "34/6784",
+                                    "text": "Oscar Cord\u00f3n"
+                                },
+                                {
+                                    "@pid": "87/277",
+                                    "text": "Igor Zwir"
+                                }
+                            ]
+                        },
+                        "title": "A Multiobjective Evolutionary Conceptual Clustering Methodology for Gene Annotation Within Structural Databases: A Case of Study on the Gene Ontology Database.",
+                        "venue": "IEEE Trans. Evol. Comput.",
+                        "volume": "12",
+                        "number": "6",
+                        "pages": "679-701",
+                        "year": "2008",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tec/Romero-ZalizRCHCZ08",
+                        "doi": "10.1109/TEVC.2008.915995",
+                        "ee": "https://doi.org/10.1109/TEVC.2008.915995",
+                        "url": "https://dblp.org/rec/journals/tec/Romero-ZalizRCHCZ08"
+                    },
+                    "url": "URL#6345879"
+                },
+                {
+                    "@score": "4",
+                    "@id": "6471546",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "71/2227",
+                                    "text": "Ricardo Landa Becerra"
+                                },
+                                {
+                                    "@pid": "93/2736",
+                                    "text": "Luis V. Santana-Quintero"
+                                },
+                                {
+                                    "@pid": "43/7183",
+                                    "text": "Carlos A. Coello Coello"
+                                }
+                            ]
+                        },
+                        "title": "Knowledge Incorporation in Multi-objective Evolutionary Algorithms.",
+                        "venue": "Multi-Objective Evolutionary Algorithms for Knowledge Discovery from Databases",
+                        "pages": "23-46",
+                        "year": "2008",
+                        "type": "Parts in Books or Collections",
+                        "access": "closed",
+                        "key": "series/sci/BecerraSC08",
+                        "doi": "10.1007/978-3-540-77467-9_2",
+                        "ee": "https://doi.org/10.1007/978-3-540-77467-9_2",
+                        "url": "https://dblp.org/rec/series/sci/BecerraSC08"
+                    },
+                    "url": "URL#6471546"
+                },
+                {
+                    "@score": "4",
+                    "@id": "6533120",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "72/6546",
+                                    "text": "Lesley H. Greene"
+                                },
+                                {
+                                    "@pid": "59/967",
+                                    "text": "Tony E. Lewis"
+                                },
+                                {
+                                    "@pid": "15/2360",
+                                    "text": "Sarah Addou"
+                                },
+                                {
+                                    "@pid": "10/131",
+                                    "text": "Alison L. Cuff"
+                                },
+                                {
+                                    "@pid": "00/5379",
+                                    "text": "Timothy Dallman"
+                                },
+                                {
+                                    "@pid": "69/2293",
+                                    "text": "Mark Dibley"
+                                },
+                                {
+                                    "@pid": "45/1712",
+                                    "text": "Oliver Redfern"
+                                },
+                                {
+                                    "@pid": "77/3241",
+                                    "text": "Frances M. G. Pearl"
+                                },
+                                {
+                                    "@pid": "09/2770",
+                                    "text": "Rekha Nambudiry"
+                                },
+                                {
+                                    "@pid": "16/4918",
+                                    "text": "Adam James Reid"
+                                },
+                                {
+                                    "@pid": "06/1632",
+                                    "text": "Ian Sillitoe"
+                                },
+                                {
+                                    "@pid": "02/858",
+                                    "text": "Corin Yeats"
+                                },
+                                {
+                                    "@pid": "82/3324",
+                                    "text": "Janet M. Thornton"
+                                },
+                                {
+                                    "@pid": "71/4733",
+                                    "text": "Christine A. Orengo"
+                                }
+                            ]
+                        },
+                        "title": "The CATH domain structure database: new protocols and classification levels give a more comprehensive resource for exploring evolution.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "35",
+                        "number": "Database-Issue",
+                        "pages": "291-297",
+                        "year": "2007",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/GreeneLACDDRPNRSYTO07",
+                        "doi": "10.1093/NAR/GKL959",
+                        "ee": "https://doi.org/10.1093/nar/gkl959",
+                        "url": "https://dblp.org/rec/journals/nar/GreeneLACDDRPNRSYTO07"
+                    },
+                    "url": "URL#6533120"
+                },
+                {
+                    "@score": "3",
+                    "@id": "1830862",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "65/6901",
+                                    "text": "Robert E. Schuler"
+                                },
+                                {
+                                    "@pid": "06/4477",
+                                    "text": "Carl Kesselman"
+                                }
+                            ]
+                        },
+                        "title": "Managing Database-Application Co-Evolution in a Scientific Data Ecosystem.",
+                        "venue": "e-Science",
+                        "pages": "214-224",
+                        "year": "2022",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/eScience/SchulerK22",
+                        "doi": "10.1109/ESCIENCE55777.2022.00035",
+                        "ee": "https://doi.org/10.1109/eScience55777.2022.00035",
+                        "url": "https://dblp.org/rec/conf/eScience/SchulerK22"
+                    },
+                    "url": "URL#1830862"
+                },
+                {
+                    "@score": "3",
+                    "@id": "3037796",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "90/6339-3",
+                                    "text": "Yufeng Wang 0003"
+                                },
+                                {
+                                    "@pid": "40/3475",
+                                    "text": "Wenyong Dong"
+                                },
+                                {
+                                    "@pid": "205/0409",
+                                    "text": "Chunyu Xu"
+                                }
+                            ]
+                        },
+                        "title": "A novel particle swarms with mixed cooperative co-evolution for large scale global optimisation.",
+                        "venue": "Int. J. Intell. Inf. Database Syst.",
+                        "volume": "12",
+                        "number": "1/2",
+                        "pages": "121-135",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijiids/WangDX19",
+                        "doi": "10.1504/IJIIDS.2019.102331",
+                        "ee": "https://doi.org/10.1504/IJIIDS.2019.102331",
+                        "url": "https://dblp.org/rec/journals/ijiids/WangDX19"
+                    },
+                    "url": "URL#3037796"
+                },
+                {
+                    "@score": "3",
+                    "@id": "3485194",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "02/2740",
+                                    "text": "Michiel Van Bel"
+                                },
+                                {
+                                    "@pid": "213/6785",
+                                    "text": "Tim Diels"
+                                },
+                                {
+                                    "@pid": "213/7087",
+                                    "text": "Emmelien Vancaester"
+                                },
+                                {
+                                    "@pid": "209/8013",
+                                    "text": "Lukasz Kreft"
+                                },
+                                {
+                                    "@pid": "209/7289",
+                                    "text": "Alexander Botzki"
+                                },
+                                {
+                                    "@pid": "66/3057",
+                                    "text": "Yves Van de Peer"
+                                },
+                                {
+                                    "@pid": "84/4701",
+                                    "text": "Frederik Coppens"
+                                },
+                                {
+                                    "@pid": "64/9331",
+                                    "text": "Klaas Vandepoele"
+                                }
+                            ]
+                        },
+                        "title": "PLAZA 4.0: an integrative resource for functional, evolutionary and comparative plant genomics.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "46",
+                        "number": "Database-Issue",
+                        "pages": "D1190-D1196",
+                        "year": "2018",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/BelDVKBPCV18",
+                        "doi": "10.1093/NAR/GKX1002",
+                        "ee": "https://doi.org/10.1093/nar/gkx1002",
+                        "url": "https://dblp.org/rec/journals/nar/BelDVKBPCV18"
+                    },
+                    "url": "URL#3485194"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4046281",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/65",
+                                    "text": "Kai Herrmann 0002"
+                                },
+                                {
+                                    "@pid": "19/1082",
+                                    "text": "Hannes Voigt"
+                                },
+                                {
+                                    "@pid": "39/3706",
+                                    "text": "Andreas Behrend"
+                                },
+                                {
+                                    "@pid": "185/0920",
+                                    "text": "Jonas Rausch"
+                                },
+                                {
+                                    "@pid": "l/WLehner",
+                                    "text": "Wolfgang Lehner"
+                                }
+                            ]
+                        },
+                        "title": "Living in Parallel Realities: Co-Existing Schema Versions with a Bidirectional Database Evolution Language.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "1101-1116",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/HerrmannVBRL17",
+                        "doi": "10.1145/3035918.3064046",
+                        "ee": "https://doi.org/10.1145/3035918.3064046",
+                        "url": "https://dblp.org/rec/conf/sigmod/HerrmannVBRL17"
+                    },
+                    "url": "URL#4046281"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4690011",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/CarloCombi",
+                                    "text": "Carlo Combi"
+                                },
+                                {
+                                    "@pid": "81/4826",
+                                    "text": "Romeo Rizzi"
+                                },
+                                {
+                                    "@pid": "90/2082",
+                                    "text": "Pietro Sala"
+                                }
+                            ]
+                        },
+                        "title": "The Price of Evolution in Temporal Databases.",
+                        "venue": "TIME",
+                        "pages": "47-58",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/time/CombiRS15",
+                        "doi": "10.1109/TIME.2015.24",
+                        "ee": "https://doi.org/10.1109/TIME.2015.24",
+                        "url": "https://dblp.org/rec/conf/time/CombiRS15"
+                    },
+                    "url": "URL#4690011"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5096579",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "42/2429",
+                                    "text": "Heladia Salgado"
+                                },
+                                {
+                                    "@pid": "54/4409",
+                                    "text": "Mart\u00edn Peralta-Gil"
+                                },
+                                {
+                                    "@pid": "54/2146",
+                                    "text": "Socorro Gama-Castro"
+                                },
+                                {
+                                    "@pid": "60/4170",
+                                    "text": "Alberto Santos-Zavaleta"
+                                },
+                                {
+                                    "@pid": "86/2299",
+                                    "text": "Luis Mu\u00f1iz-Rascado"
+                                },
+                                {
+                                    "@pid": "175/1840",
+                                    "text": "Jair S. Garc\u00eda-Sotelo"
+                                },
+                                {
+                                    "@pid": "01/9441",
+                                    "text": "Verena Weiss"
+                                },
+                                {
+                                    "@pid": "31/9439",
+                                    "text": "Hilda Solano-Lira"
+                                },
+                                {
+                                    "@pid": "28/864",
+                                    "text": "Irma Mart\u00ednez-Flores"
+                                },
+                                {
+                                    "@pid": "46/9437",
+                                    "text": "Alejandra Medina-Rivera"
+                                },
+                                {
+                                    "@pid": "124/1335",
+                                    "text": "Gerardo Salgado-Osorio"
+                                },
+                                {
+                                    "@pid": "02/9439",
+                                    "text": "Shirley Alquicira-Hern\u00e1ndez"
+                                },
+                                {
+                                    "@pid": "47/9441",
+                                    "text": "Kevin Alquicira-Hern\u00e1ndez"
+                                },
+                                {
+                                    "@pid": "51/9439",
+                                    "text": "Alejandra L\u00f3pez-Fuentes"
+                                },
+                                {
+                                    "@pid": "21/9438",
+                                    "text": "Liliana Porr\u00f3n-Sotelo"
+                                },
+                                {
+                                    "@pid": "56/3009",
+                                    "text": "Araceli M. Huerta"
+                                },
+                                {
+                                    "@pid": "12/613",
+                                    "text": "C\u00e9sar Bonavides-Mart\u00ednez"
+                                },
+                                {
+                                    "@pid": "124/1237",
+                                    "text": "Yalbi Itzel Balderas-Mart\u00ednez"
+                                },
+                                {
+                                    "@pid": "124/1171",
+                                    "text": "Lucia Pannier"
+                                },
+                                {
+                                    "@pid": "06/9439",
+                                    "text": "Maricela Olvera"
+                                },
+                                {
+                                    "@pid": "124/1271",
+                                    "text": "Aurora Labastida"
+                                },
+                                {
+                                    "@pid": "26/942",
+                                    "text": "Ver\u00f3nica Jim\u00e9nez-Jacinto"
+                                },
+                                {
+                                    "@pid": "96/4953",
+                                    "text": "Leticia Vega-Alvarado"
+                                },
+                                {
+                                    "@pid": "124/1033",
+                                    "text": "Victor del Moral-Ch\u00e1vez"
+                                },
+                                {
+                                    "@pid": "124/1385",
+                                    "text": "Alfredo Hern\u00e1ndez-Alvarez"
+                                },
+                                {
+                                    "@pid": "18/6958",
+                                    "text": "Enrique Morett"
+                                },
+                                {
+                                    "@pid": "28/5591",
+                                    "text": "Julio Collado-Vides"
+                                }
+                            ]
+                        },
+                        "title": "RegulonDB v8.0: omics data sets, evolutionary conservation, regulatory phrases, cross-validated gold standards and more.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "41",
+                        "number": "Database-Issue",
+                        "pages": "203-213",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/SalgadoPGSMGWSMMSAALPHBBPOLJVMHMC13",
+                        "doi": "10.1093/NAR/GKS1201",
+                        "ee": "https://doi.org/10.1093/nar/gks1201",
+                        "url": "https://dblp.org/rec/journals/nar/SalgadoPGSMGWSMMSAALPHBBPOLJVMHMC13"
+                    },
+                    "url": "URL#5096579"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5264341",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "79/3415",
+                                    "text": "Dong Qiu"
+                                },
+                                {
+                                    "@pid": "l/BixinLi",
+                                    "text": "Bixin Li"
+                                },
+                                {
+                                    "@pid": "s/ZhendongSu",
+                                    "text": "Zhendong Su 0001"
+                                }
+                            ]
+                        },
+                        "title": "An empirical analysis of the co-evolution of schema and code in database applications.",
+                        "venue": "ESEC/SIGSOFT FSE",
+                        "pages": "125-135",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigsoft/QiuLS13",
+                        "doi": "10.1145/2491411.2491431",
+                        "ee": "https://doi.org/10.1145/2491411.2491431",
+                        "url": "https://dblp.org/rec/conf/sigsoft/QiuLS13"
+                    },
+                    "url": "URL#5264341"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5519097",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/3691",
+                                    "text": "Christophe Debruyne"
+                                },
+                                {
+                                    "@pid": "30/9460",
+                                    "text": "Cristian Vasquez Paulus"
+                                },
+                                {
+                                    "@pid": "54/544",
+                                    "text": "Koen Kerremans"
+                                },
+                                {
+                                    "@pid": "124/9794",
+                                    "text": "Andr\u00e9s Dom\u00ednguez Burgos"
+                                }
+                            ]
+                        },
+                        "title": "A Methodological Framework for Ontology and Multilingual Termontological Database Co-evolution.",
+                        "venue": "OTM Workshops",
+                        "pages": "220-230",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/otm/DebruyneVKB12",
+                        "doi": "10.1007/978-3-642-33618-8_31",
+                        "ee": "https://doi.org/10.1007/978-3-642-33618-8_31",
+                        "url": "https://dblp.org/rec/conf/otm/DebruyneVKB12"
+                    },
+                    "url": "URL#5519097"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5588245",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "98/542",
+                                    "text": "Ender Sevin\u00e7"
+                                },
+                                {
+                                    "@pid": "59/3447",
+                                    "text": "Ahmet Cosar"
+                                }
+                            ]
+                        },
+                        "title": "An Evolutionary Genetic Algorithm for Optimization of Distributed Database Queries.",
+                        "venue": "Comput. J.",
+                        "volume": "54",
+                        "number": "5",
+                        "pages": "717-725",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/cj/SevincC11",
+                        "doi": "10.1093/COMJNL/BXP130",
+                        "ee": "https://doi.org/10.1093/comjnl/bxp130",
+                        "url": "https://dblp.org/rec/journals/cj/SevincC11"
+                    },
+                    "url": "URL#5588245"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5611761",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "10/901-2",
+                                    "text": "Chengyu Hu 0002"
+                                },
+                                {
+                                    "@pid": "48/3685",
+                                    "text": "Qingzhong Liang"
+                                },
+                                {
+                                    "@pid": "51/2259",
+                                    "text": "Yuanyuan Fan"
+                                },
+                                {
+                                    "@pid": "89/5167",
+                                    "text": "Guangming Dai"
+                                }
+                            ]
+                        },
+                        "title": "Multi-swarm co-evolutionary paradigm for dynamic multi-objective optimisation problems.",
+                        "venue": "Int. J. Intell. Inf. Database Syst.",
+                        "volume": "5",
+                        "number": "6",
+                        "pages": "618-641",
+                        "year": "2011",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijiids/HuLFD11",
+                        "doi": "10.1504/IJIIDS.2011.043126",
+                        "ee": "https://doi.org/10.1504/IJIIDS.2011.043126",
+                        "url": "https://dblp.org/rec/journals/ijiids/HuLFD11"
+                    },
+                    "url": "URL#5611761"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5944704",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "53/1820",
+                                    "text": "James F. Terwilliger"
+                                },
+                                {
+                                    "@pid": "b/PhilipABernstein",
+                                    "text": "Philip A. Bernstein"
+                                },
+                                {
+                                    "@pid": "06/8166",
+                                    "text": "Adi Unnithan"
+                                }
+                            ]
+                        },
+                        "title": "Automated Co-evolution of Conceptual Models, Physical Databases, and Mappings.",
+                        "venue": "ER",
+                        "pages": "146-159",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/TerwilligerBU10",
+                        "doi": "10.1007/978-3-642-16373-9_11",
+                        "ee": "https://doi.org/10.1007/978-3-642-16373-9_11",
+                        "url": "https://dblp.org/rec/conf/er/TerwilligerBU10"
+                    },
+                    "url": "URL#5944704"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6216937",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "98/542",
+                                    "text": "Ender Sevin\u00e7"
+                                },
+                                {
+                                    "@pid": "59/3447",
+                                    "text": "Ahmet Cosar"
+                                }
+                            ]
+                        },
+                        "title": "An evolutionary genetic algorithm for optimization of distributed database queries.",
+                        "venue": "ISCIS",
+                        "pages": "147-152",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iscis/SevincC09",
+                        "doi": "10.1109/ISCIS.2009.5291839",
+                        "ee": "https://doi.org/10.1109/ISCIS.2009.5291839",
+                        "url": "https://dblp.org/rec/conf/iscis/SevincC09"
+                    },
+                    "url": "URL#6216937"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6719246",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "02/858",
+                                    "text": "Corin Yeats"
+                                },
+                                {
+                                    "@pid": "57/5702",
+                                    "text": "Michael Maibaum"
+                                },
+                                {
+                                    "@pid": "41/5517",
+                                    "text": "Russell L. Marsden"
+                                },
+                                {
+                                    "@pid": "69/2293",
+                                    "text": "Mark Dibley"
+                                },
+                                {
+                                    "@pid": "37/6546",
+                                    "text": "David A. Lee"
+                                },
+                                {
+                                    "@pid": "15/2360",
+                                    "text": "Sarah Addou"
+                                },
+                                {
+                                    "@pid": "71/4733",
+                                    "text": "Christine A. Orengo"
+                                }
+                            ]
+                        },
+                        "title": "Gene3D: modelling protein structure, function and evolution.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "34",
+                        "number": "Database-Issue",
+                        "pages": "281-284",
+                        "year": "2006",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/YeatsMMDLAO06",
+                        "doi": "10.1093/NAR/GKJ057",
+                        "ee": "https://doi.org/10.1093/nar/gkj057",
+                        "url": "https://dblp.org/rec/journals/nar/YeatsMMDLAO06"
+                    },
+                    "url": "URL#6719246"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6772167",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/1435",
+                                    "text": "Roc\u00edo Romero-Z\u00e1liz"
+                                },
+                                {
+                                    "@pid": "94/6735",
+                                    "text": "Cristina Rubio-Escudero"
+                                },
+                                {
+                                    "@pid": "34/6784",
+                                    "text": "Oscar Cord\u00f3n"
+                                },
+                                {
+                                    "@pid": "28/6739",
+                                    "text": "Oscar Harari"
+                                },
+                                {
+                                    "@pid": "98/659",
+                                    "text": "Coral del Val"
+                                },
+                                {
+                                    "@pid": "87/277",
+                                    "text": "Igor Zwir"
+                                }
+                            ]
+                        },
+                        "title": "Mining Structural Databases: An Evolutionary Multi-Objetive Conceptual Clustering Methodology.",
+                        "venue": "EvoWorkshops",
+                        "pages": "159-171",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/evoW/Romero-ZalizRCHVZ06",
+                        "doi": "10.1007/11732242_15",
+                        "ee": "https://doi.org/10.1007/11732242_15",
+                        "url": "https://dblp.org/rec/conf/evoW/Romero-ZalizRCHVZ06"
+                    },
+                    "url": "URL#6772167"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6944219",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "c/AnthonyCleve",
+                                    "text": "Anthony Cleve"
+                                },
+                                {
+                                    "@pid": "h/JeanLucHainaut",
+                                    "text": "Jean-Luc Hainaut"
+                                }
+                            ]
+                        },
+                        "title": "Co-transformations in Database Applications Evolution.",
+                        "venue": "GTTSE",
+                        "pages": "409-421",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/gttse/CleveH06",
+                        "doi": "10.1007/11877028_17",
+                        "ee": "https://doi.org/10.1007/11877028_17",
+                        "url": "https://dblp.org/rec/conf/gttse/CleveH06"
+                    },
+                    "url": "URL#6944219"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7026346",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "33/5461",
+                                    "text": "Nadira Lammari"
+                                },
+                                {
+                                    "@pid": "17/544",
+                                    "text": "Jacky Akoka"
+                                },
+                                {
+                                    "@pid": "c/IsabelleComynWattiau",
+                                    "text": "Isabelle Comyn-Wattiau"
+                                }
+                            ]
+                        },
+                        "title": "An Ontology-based Approach for Database Evolution.",
+                        "venue": "EMISA Forum",
+                        "volume": "24",
+                        "number": "1",
+                        "pages": "30-32",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/emisa/LammariAC04",
+                        "url": "https://dblp.org/rec/journals/emisa/LammariAC04"
+                    },
+                    "url": "URL#7026346"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7181820",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "62/6687",
+                                "text": "S. V. Coox"
+                            }
+                        },
+                        "title": "Axiomatization of the Evolution of XML Database Schema.",
+                        "venue": "Program. Comput. Softw.",
+                        "volume": "29",
+                        "number": "3",
+                        "pages": "140-146",
+                        "year": "2003",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/pcs/Coox03",
+                        "doi": "10.1023/A:1023801022137",
+                        "ee": "https://doi.org/10.1023/A:1023801022137",
+                        "url": "https://dblp.org/rec/journals/pcs/Coox03"
+                    },
+                    "url": "URL#7181820"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7248752",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "33/5461",
+                                    "text": "Nadira Lammari"
+                                },
+                                {
+                                    "@pid": "17/544",
+                                    "text": "Jacky Akoka"
+                                },
+                                {
+                                    "@pid": "c/IsabelleComynWattiau",
+                                    "text": "Isabelle Comyn-Wattiau"
+                                }
+                            ]
+                        },
+                        "title": "Supporting Database Evolution: Using Ontologies Matching.",
+                        "venue": "OOIS",
+                        "pages": "284-288",
+                        "year": "2003",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/oois/LammariAC03",
+                        "doi": "10.1007/978-3-540-45242-3_27",
+                        "ee": "https://doi.org/10.1007/978-3-540-45242-3_27",
+                        "url": "https://dblp.org/rec/conf/oois/LammariAC03"
+                    },
+                    "url": "URL#7248752"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7323379",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "b/SanghamitraBandyopadhyay",
+                                    "text": "Sanghamitra Bandyopadhyay"
+                                },
+                                {
+                                    "@pid": "93/3249",
+                                    "text": "Ujjwal Maulik"
+                                },
+                                {
+                                    "@pid": "c/DianeJCook",
+                                    "text": "Diane J. Cook"
+                                },
+                                {
+                                    "@pid": "h/LawrenceBHolder",
+                                    "text": "Lawrence B. Holder"
+                                },
+                                {
+                                    "@pid": "16/2092",
+                                    "text": "Yousuf Ajmerwala"
+                                }
+                            ]
+                        },
+                        "title": "Enhancing Structure Discovery for Data Mining in Graphical Databases Using Evolutionary Programming.",
+                        "venue": "FLAIRS",
+                        "pages": "232-236",
+                        "year": "2002",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/flairs/BandyopadhyayMCHA02",
+                        "ee": "http://www.aaai.org/Library/FLAIRS/2002/flairs02-046.php",
+                        "url": "https://dblp.org/rec/conf/flairs/BandyopadhyayMCHA02"
+                    },
+                    "url": "URL#7323379"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7419933",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "87/1076",
+                                    "text": "Cong Tran"
+                                },
+                                {
+                                    "@pid": "j/LakhmiCJain",
+                                    "text": "Lakhmi C. Jain"
+                                },
+                                {
+                                    "@pid": "a/AAbraham",
+                                    "text": "Ajith Abraham"
+                                }
+                            ]
+                        },
+                        "title": "Adaptive Database Learning in Decision Support Systems Using Evolutionary Fuzzy Systems: A Generic Framework.",
+                        "venue": "HIS",
+                        "pages": "237-251",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/his/TranJA01",
+                        "url": "https://dblp.org/rec/conf/his/TranJA01"
+                    },
+                    "url": "URL#7419933"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7450969",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "63/3563",
+                                    "text": "Herman Balsters"
+                                },
+                                {
+                                    "@pid": "35/8389",
+                                    "text": "Bert O. de Brock"
+                                },
+                                {
+                                    "@pid": "c/StefanConrad1",
+                                    "text": "Stefan Conrad 0001"
+                                }
+                            ]
+                        },
+                        "title": "Database Schema Evolution and Meta-Modeling, 9th International Workshop on Foundations of Models and Languages for Data and Objects, FoMLaDO/DEMM 2000, Dagstuhl Castle, Germany, September 18-21, 2000, Selected Papers",
+                        "venue": [
+                            "FMLDO",
+                            "Lecture Notes in Computer Science"
+                        ],
+                        "volume": "2065",
+                        "publisher": "Springer",
+                        "year": "2001",
+                        "type": "Editorship",
+                        "key": "conf/fmldo/2000",
+                        "doi": "10.1007/3-540-48196-6",
+                        "ee": "https://doi.org/10.1007/3-540-48196-6",
+                        "url": "https://dblp.org/rec/conf/fmldo/2000"
+                    },
+                    "url": "URL#7450969"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7661201",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "49/2418",
+                                    "text": "Martin J. Oates"
+                                },
+                                {
+                                    "@pid": "c/DavidWCorne",
+                                    "text": "David Corne"
+                                }
+                            ]
+                        },
+                        "title": "Investigating Evolutionary Approaches to Adaptive Database Management Against Various Quality of Service Metrics.",
+                        "venue": "PPSN",
+                        "pages": "775-784",
+                        "year": "1998",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ppsn/OatesC98",
+                        "doi": "10.1007/BFB0056919",
+                        "ee": "https://doi.org/10.1007/BFb0056919",
+                        "url": "https://dblp.org/rec/conf/ppsn/OatesC98"
+                    },
+                    "url": "URL#7661201"
+                },
+                {
+                    "@score": "3",
+                    "@id": "7912482",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "39/3380",
+                                    "text": "Fabiano Cattaneo"
+                                },
+                                {
+                                    "@pid": "90/5778",
+                                    "text": "Alberto Coen-Porisini"
+                                },
+                                {
+                                    "@pid": "23/1696",
+                                    "text": "Luigi Lavazza"
+                                },
+                                {
+                                    "@pid": "z/RZicari",
+                                    "text": "Roberto V. Zicari"
+                                }
+                            ]
+                        },
+                        "title": "Overview and Progress Report of the ESSE Project: Supporting Object-Oriented Database Schema Analysis and Evolution.",
+                        "venue": "TOOLS",
+                        "pages": "63-74",
+                        "year": "1993",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/tools/CattaneoCLZ93",
+                        "url": "https://dblp.org/rec/conf/tools/CattaneoCLZ93"
+                    },
+                    "url": "URL#7912482"
+                }
+            ]
+        }
+    }
+}

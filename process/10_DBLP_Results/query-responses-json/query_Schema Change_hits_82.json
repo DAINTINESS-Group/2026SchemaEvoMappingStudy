@@ -1,0 +1,2714 @@
+{
+    "result": {
+        "query": "Schema* Change*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "19.44"
+        },
+        "completions": {
+            "@total": "4",
+            "@computed": "4",
+            "@sent": "4",
+            "c": [
+                {
+                    "@sc": "42",
+                    "@dc": "42",
+                    "@oc": "42",
+                    "@id": "62909028",
+                    "text": "changes"
+                },
+                {
+                    "@sc": "34",
+                    "@dc": "32",
+                    "@oc": "34",
+                    "@id": "62908954",
+                    "text": "change"
+                },
+                {
+                    "@sc": "7",
+                    "@dc": "7",
+                    "@oc": "7",
+                    "@id": "62908998",
+                    "text": "changelog"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "62909005",
+                    "text": "changement"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "82",
+            "@computed": "82",
+            "@sent": "82",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "3857411",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/8150",
+                                    "text": "Mary J. Benner"
+                                },
+                                {
+                                    "@pid": "127/9225",
+                                    "text": "Ram Ranganathan"
+                                }
+                            ]
+                        },
+                        "title": "Measuring Up? Persistence and Change in Analysts&apos; Evaluative Schemas Following Technological Change.",
+                        "venue": "Organ. Sci.",
+                        "volume": "28",
+                        "number": "4",
+                        "pages": "760-780",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/orgsci/BennerR17",
+                        "doi": "10.1287/ORSC.2017.1140",
+                        "ee": "https://doi.org/10.1287/orsc.2017.1140",
+                        "url": "https://dblp.org/rec/journals/orgsci/BennerR17"
+                    },
+                    "url": "URL#3857411"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4301382",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "Changes to XML namespaces in XML schemas and their effects on associated XML documents under schema versioning.",
+                        "venue": "ICDIM",
+                        "pages": "43-50",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icdim/BrahmiaGB16",
+                        "doi": "10.1109/ICDIM.2016.7829765",
+                        "ee": "https://doi.org/10.1109/ICDIM.2016.7829765",
+                        "url": "https://dblp.org/rec/conf/icdim/BrahmiaGB16"
+                    },
+                    "url": "URL#4301382"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4545595",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "163/0801-1",
+                                    "text": "Rihan Hai 0001"
+                                },
+                                {
+                                    "@pid": "150/4993",
+                                    "text": "Vasileios Theodorou"
+                                },
+                                {
+                                    "@pid": "48/2949",
+                                    "text": "Maik Thiele"
+                                },
+                                {
+                                    "@pid": "l/WLehner",
+                                    "text": "Wolfgang Lehner"
+                                }
+                            ]
+                        },
+                        "title": "SCIT: A Schema Change Interpretation Tool for Dynamic-Schema Data Warehouses.",
+                        "venue": "ADC",
+                        "pages": "323-327",
+                        "year": "2015",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adc/HaiTTL15",
+                        "doi": "10.1007/978-3-319-19548-3_28",
+                        "ee": "https://doi.org/10.1007/978-3-319-19548-3_28",
+                        "url": "https://dblp.org/rec/conf/adc/HaiTTL15"
+                    },
+                    "url": "URL#4545595"
+                },
+                {
+                    "@score": "3",
+                    "@id": "4775696",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "40/2273",
+                                    "text": "Barbara Oliboni"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "Schema Change Operations for Full Support of Schema Versioning in the \u03c4XSchema Framework.",
+                        "venue": "Int. J. Inf. Technol. Web Eng.",
+                        "volume": "9",
+                        "number": "2",
+                        "pages": "20-46",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijitwe/BrahmiaGOB14",
+                        "doi": "10.4018/IJITWE.2014040102",
+                        "ee": "https://doi.org/10.4018/ijitwe.2014040102",
+                        "url": "https://dblp.org/rec/journals/ijitwe/BrahmiaGOB14"
+                    },
+                    "url": "URL#4775696"
+                },
+                {
+                    "@score": "3",
+                    "@id": "5261491",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "94/5619",
+                                    "text": "Renata Queiroz Dividino"
+                                },
+                                {
+                                    "@pid": "06/2380",
+                                    "text": "Ansgar Scherp"
+                                },
+                                {
+                                    "@pid": "08/7258",
+                                    "text": "Gerd Gr\u00f6ner"
+                                },
+                                {
+                                    "@pid": "134/6594",
+                                    "text": "Thomas Grotton"
+                                }
+                            ]
+                        },
+                        "title": "Change-a-LOD: Does the Schema on the Linked Data Cloud Change or Not?",
+                        "venue": "COLD",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/semweb/DividinoSGG13",
+                        "ee": "https://ceur-ws.org/Vol-1034/DividinoEtAl_COLD2013.pdf",
+                        "url": "https://dblp.org/rec/conf/semweb/DividinoSGG13"
+                    },
+                    "url": "URL#5261491"
+                },
+                {
+                    "@score": "3",
+                    "@id": "6577706",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "01/6871",
+                                    "text": "Peter Sune J\u00f8rgensen"
+                                },
+                                {
+                                    "@pid": "b/MichaelHBohlen",
+                                    "text": "Michael H. B\u00f6hlen"
+                                }
+                            ]
+                        },
+                        "title": "Versioned Relations: Support for Conditional Schema Changes and Schema Versioning.",
+                        "venue": "DASFAA",
+                        "pages": "1058-1061",
+                        "year": "2007",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dasfaa/JorgensenB07",
+                        "doi": "10.1007/978-3-540-71703-4_104",
+                        "ee": "https://doi.org/10.1007/978-3-540-71703-4_104",
+                        "url": "https://dblp.org/rec/conf/dasfaa/JorgensenB07"
+                    },
+                    "url": "URL#6577706"
+                },
+                {
+                    "@score": "2",
+                    "@id": "146042",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "119/6881",
+                                    "text": "Panagiotis Antonopoulos"
+                                },
+                                {
+                                    "@pid": "416/0195",
+                                    "text": "Mansi Chauhan"
+                                },
+                                {
+                                    "@pid": "415/9419",
+                                    "text": "Shailender Dabas"
+                                },
+                                {
+                                    "@pid": "28/7328",
+                                    "text": "Rajat Jain"
+                                },
+                                {
+                                    "@pid": "415/9933",
+                                    "text": "Darshan Kattera"
+                                },
+                                {
+                                    "@pid": "30/10533",
+                                    "text": "Wonseok Kim"
+                                },
+                                {
+                                    "@pid": "15/3353",
+                                    "text": "Hanuma Kodavalla"
+                                },
+                                {
+                                    "@pid": "266/5882",
+                                    "text": "Nikolas Ogg"
+                                },
+                                {
+                                    "@pid": "247/8113",
+                                    "text": "Prashanth Purnananda"
+                                },
+                                {
+                                    "@pid": "312/3234",
+                                    "text": "Rahul Ranjan"
+                                },
+                                {
+                                    "@pid": "415/9375",
+                                    "text": "Alex Swanson"
+                                },
+                                {
+                                    "@pid": "415/9473",
+                                    "text": "Divyesh Tikmani"
+                                }
+                            ]
+                        },
+                        "title": "MD-MVCC: Multi-version Concurrency Control for Schema Changes in Azure SQL Database.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "18",
+                        "number": "12",
+                        "pages": "4791-4803",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/AntonopoulosCDJKKKOPRST25",
+                        "ee": "https://www.vldb.org/pvldb/vol18/p4791-antonopoulos.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/AntonopoulosCDJKKKOPRST25"
+                    },
+                    "url": "URL#146042"
+                },
+                {
+                    "@score": "2",
+                    "@id": "207662",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "188/2079",
+                                    "text": "Tobias Bleifu\u00df"
+                                },
+                                {
+                                    "@pid": "187/4248",
+                                    "text": "Leon Bornemann"
+                                },
+                                {
+                                    "@pid": "n/FelixNaumann",
+                                    "text": "Felix Naumann"
+                                },
+                                {
+                                    "@pid": "s/DiveshSrivastava",
+                                    "text": "Divesh Srivastava"
+                                }
+                            ]
+                        },
+                        "title": "Schema Change Recommendation for User-Curated Webtables Using Temporal Data.",
+                        "venue": "ACM Trans. Web",
+                        "volume": "19",
+                        "number": "3",
+                        "pages": "29:1-29:29",
+                        "year": "2025",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tweb/BleifussBNS25",
+                        "doi": "10.1145/3742920",
+                        "ee": "https://doi.org/10.1145/3742920",
+                        "url": "https://dblp.org/rec/journals/tweb/BleifussBNS25"
+                    },
+                    "url": "URL#207662"
+                },
+                {
+                    "@score": "2",
+                    "@id": "548259",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "31/83-4",
+                                    "text": "Tian Lan 0004"
+                                },
+                                {
+                                    "@pid": "35/8134",
+                                    "text": "Zhiwei Wu"
+                                },
+                                {
+                                    "@pid": "370/7795",
+                                    "text": "Chenzhen Sun"
+                                },
+                                {
+                                    "@pid": "369/1856",
+                                    "text": "Donglin Cheng"
+                                },
+                                {
+                                    "@pid": "82/11342",
+                                    "text": "Xing Shi"
+                                },
+                                {
+                                    "@pid": "157/2194",
+                                    "text": "Guangjun Zeng"
+                                },
+                                {
+                                    "@pid": "24/6914-30",
+                                    "text": "Hong Zhang 0030"
+                                },
+                                {
+                                    "@pid": "67/6523",
+                                    "text": "Qian Peng"
+                                }
+                            ]
+                        },
+                        "title": "Assessing the Suitability of Fractal Dimension for Measuring Graphic Complexity Change in Schematic Metro Networks.",
+                        "venue": "ISPRS Int. J. Geo Inf.",
+                        "volume": "13",
+                        "number": "2",
+                        "pages": "38",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/ijgi/LanWSCSZZP24",
+                        "doi": "10.3390/IJGI13020038",
+                        "ee": "https://doi.org/10.3390/ijgi13020038",
+                        "url": "https://dblp.org/rec/journals/ijgi/LanWSCSZZP24"
+                    },
+                    "url": "URL#548259"
+                },
+                {
+                    "@score": "2",
+                    "@id": "802277",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "165/2982",
+                                    "text": "Yulei Niu"
+                                },
+                                {
+                                    "@pid": "312/3635",
+                                    "text": "Wenliang Guo"
+                                },
+                                {
+                                    "@pid": "64/5725-16",
+                                    "text": "Long Chen 0016"
+                                },
+                                {
+                                    "@pid": "23/7723-3",
+                                    "text": "Xudong Lin 0003"
+                                },
+                                {
+                                    "@pid": "c/ShihFuChang",
+                                    "text": "Shih-Fu Chang"
+                                }
+                            ]
+                        },
+                        "title": "SCHEMA: State CHangEs MAtter for Procedure Planning in Instructional Videos.",
+                        "venue": "ICLR",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/iclr/NiuG00C24",
+                        "ee": "https://openreview.net/forum?id=abL5LJNZ49",
+                        "url": "https://dblp.org/rec/conf/iclr/NiuG00C24"
+                    },
+                    "url": "URL#802277"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909333",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24e",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=6.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=6.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24e"
+                    },
+                    "url": "URL#909333"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909334",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24d",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=5.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=5.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24d"
+                    },
+                    "url": "URL#909334"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909335",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24c",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=4.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=4.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24c"
+                    },
+                    "url": "URL#909335"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909336",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24b",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=3.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=3.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24b"
+                    },
+                    "url": "URL#909336"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909337",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24a",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=2.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=2.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24a"
+                    },
+                    "url": "URL#909337"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909338",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "venue": "GRO.data",
+                        "publisher": "GRO.data",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/Doan24",
+                        "doi": "10.25625/XWKW1R&amp;VERSION=1.0",
+                        "ee": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/XWKW1R&amp;version=1.0",
+                        "url": "https://dblp.org/rec/data/11/Doan24"
+                    },
+                    "url": "URL#909338"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909339",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "249/4057",
+                                "text": "Triet Doan"
+                            }
+                        },
+                        "title": "JSON Schema for the changelog PID.",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "closed",
+                        "key": "data/11/Doan24f",
+                        "doi": "10.25625/XWKW1R",
+                        "ee": "https://doi.org/10.25625/xwkw1r",
+                        "url": "https://dblp.org/rec/data/11/Doan24f"
+                    },
+                    "url": "URL#909339"
+                },
+                {
+                    "@score": "2",
+                    "@id": "931303",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "165/2982",
+                                    "text": "Yulei Niu"
+                                },
+                                {
+                                    "@pid": "312/3635",
+                                    "text": "Wenliang Guo"
+                                },
+                                {
+                                    "@pid": "64/5725-16",
+                                    "text": "Long Chen 0016"
+                                },
+                                {
+                                    "@pid": "23/7723-3",
+                                    "text": "Xudong Lin 0003"
+                                },
+                                {
+                                    "@pid": "c/ShihFuChang",
+                                    "text": "Shih-Fu Chang"
+                                }
+                            ]
+                        },
+                        "title": "SCHEMA: State CHangEs MAtter for Procedure Planning in Instructional Videos.",
+                        "venue": "CoRR",
+                        "volume": "abs/2403.01599",
+                        "year": "2024",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2403-01599",
+                        "doi": "10.48550/ARXIV.2403.01599",
+                        "ee": "https://doi.org/10.48550/arXiv.2403.01599",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2403-01599"
+                    },
+                    "url": "URL#931303"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1310246",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "208/0930",
+                                    "text": "Alberto Hern\u00e1ndez Chill\u00f3n"
+                                },
+                                {
+                                    "@pid": "78/4516",
+                                    "text": "Jes\u00fas Garc\u00eda Molina"
+                                },
+                                {
+                                    "@pid": "44/8907",
+                                    "text": "Jos\u00e9 Ram\u00f3n Hoyos"
+                                },
+                                {
+                                    "@pid": "s/MariaJoseOrtinIbanez",
+                                    "text": "Mar\u00eda-Jos\u00e9 Ort\u00edn-Ib\u00e1\u00f1ez"
+                                }
+                            ]
+                        },
+                        "title": "Propagating Schema Changes to Code: An Approach Based on a Unified Data Model.",
+                        "venue": "EDBT/ICDT Workshops",
+                        "year": "2023",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/edbt/ChillonMHO23",
+                        "ee": "https://ceur-ws.org/Vol-3379/CoMoNoS_2023_id251_Alberto_Hernandez_Chillon.pdf",
+                        "url": "https://dblp.org/rec/conf/edbt/ChillonMHO23"
+                    },
+                    "url": "URL#1310246"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1533441",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "48/4418",
+                                    "text": "Jonathan Edwards"
+                                },
+                                {
+                                    "@pid": "50/8166",
+                                    "text": "Tomas Petricek 0001"
+                                },
+                                {
+                                    "@pid": "92/6962",
+                                    "text": "Tijs van der Storm"
+                                }
+                            ]
+                        },
+                        "title": "Live &amp; Local Schema Change: Challenge Problems.",
+                        "venue": "CoRR",
+                        "volume": "abs/2309.11406",
+                        "year": "2023",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2309-11406",
+                        "doi": "10.48550/ARXIV.2309.11406",
+                        "ee": "https://doi.org/10.48550/arXiv.2309.11406",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2309-11406"
+                    },
+                    "url": "URL#1533441"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2001921",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "208/0930",
+                                    "text": "Alberto Hern\u00e1ndez Chill\u00f3n"
+                                },
+                                {
+                                    "@pid": "k/MeikeKlettke",
+                                    "text": "Meike Klettke"
+                                },
+                                {
+                                    "@pid": "s/DiegoSevilla",
+                                    "text": "Diego Sevilla Ruiz"
+                                },
+                                {
+                                    "@pid": "78/4516",
+                                    "text": "Jes\u00fas Garc\u00eda Molina"
+                                }
+                            ]
+                        },
+                        "title": "A Taxonomy of Schema Changes for NoSQL Databases.",
+                        "venue": "CoRR",
+                        "volume": "abs/2205.11660",
+                        "year": "2022",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2205-11660",
+                        "doi": "10.48550/ARXIV.2205.11660",
+                        "ee": "https://doi.org/10.48550/arXiv.2205.11660",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2205-11660"
+                    },
+                    "url": "URL#2001921"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2312900",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "208/0930",
+                                    "text": "Alberto Hern\u00e1ndez Chill\u00f3n"
+                                },
+                                {
+                                    "@pid": "s/DiegoSevilla",
+                                    "text": "Diego Sevilla Ruiz"
+                                },
+                                {
+                                    "@pid": "78/4516",
+                                    "text": "Jes\u00fas Garc\u00eda Molina"
+                                }
+                            ]
+                        },
+                        "title": "Towards a Taxonomy of Schema Changes for NoSQL Databases: The Orion Language.",
+                        "venue": "ER",
+                        "pages": "176-185",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/ChillonRM21a",
+                        "doi": "10.1007/978-3-030-89022-3_15",
+                        "ee": "https://doi.org/10.1007/978-3-030-89022-3_15",
+                        "url": "https://dblp.org/rec/conf/er/ChillonRM21a"
+                    },
+                    "url": "URL#2312900"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2387830",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "311/8813",
+                                    "text": "Sophie Xie"
+                                },
+                                {
+                                    "@pid": "208/0023",
+                                    "text": "Junwen Yang"
+                                },
+                                {
+                                    "@pid": "31/5916-1",
+                                    "text": "Shan Lu 0001"
+                                }
+                            ]
+                        },
+                        "title": "Automated Code Refactoring upon Database-Schema Changes in Web Applications.",
+                        "venue": "ASE",
+                        "pages": "1262-1265",
+                        "year": "2021",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/kbse/XieY021",
+                        "doi": "10.1109/ASE51524.2021.9678934",
+                        "ee": "https://doi.org/10.1109/ASE51524.2021.9678934",
+                        "url": "https://dblp.org/rec/conf/kbse/XieY021"
+                    },
+                    "url": "URL#2387830"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2610300",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "41/2259",
+                                    "text": "Zouhaier Brahmia"
+                                },
+                                {
+                                    "@pid": "268/3862-1",
+                                    "text": "Fabio Grandi 0001"
+                                },
+                                {
+                                    "@pid": "49/3001",
+                                    "text": "Rafik Bouaziz"
+                                }
+                            ]
+                        },
+                        "title": "Managing changes to XML schema design styles in a temporal and multi-version XML environment.",
+                        "venue": "Int. J. Web Eng. Technol.",
+                        "volume": "15",
+                        "number": "4",
+                        "pages": "351-382",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijwet/BrahmiaGB20",
+                        "doi": "10.1504/IJWET.2020.114028",
+                        "ee": "https://doi.org/10.1504/IJWET.2020.114028",
+                        "url": "https://dblp.org/rec/journals/ijwet/BrahmiaGB20"
+                    },
+                    "url": "URL#2610300"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2629101",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "62/10962",
+                                "text": "Adi Katz"
+                            }
+                        },
+                        "title": "Improved Teaching of Database Schema Modeling by Visualizing Changes in Levels of Abstraction.",
+                        "venue": "J. Inf. Syst. Educ.",
+                        "volume": "31",
+                        "number": "4",
+                        "pages": "294-311",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jisedu/Katz20",
+                        "ee": "https://jise.org/Volume31/n4/JISEv31n4p294.html",
+                        "url": "https://dblp.org/rec/journals/jisedu/Katz20"
+                    },
+                    "url": "URL#2629101"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2775502",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "195/8010",
+                                    "text": "Yiqi Xiao"
+                                },
+                                {
+                                    "@pid": "202/0129",
+                                    "text": "Chenhan Jiang"
+                                }
+                            ]
+                        },
+                        "title": "Conceptual Change in Preschool Science Education: Evaluating a Serious Game Designed with Image Schemas for Teaching Sound Concept.",
+                        "venue": "HCI",
+                        "pages": "503-520",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/hci/XiaoJ20",
+                        "doi": "10.1007/978-3-030-50164-8_37",
+                        "ee": "https://doi.org/10.1007/978-3-030-50164-8_37",
+                        "url": "https://dblp.org/rec/conf/hci/XiaoJ20"
+                    },
+                    "url": "URL#2775502"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2859968",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "252/8764",
+                                    "text": "J\u00e9r\u00f4me Fink"
+                                },
+                                {
+                                    "@pid": "137/8903-1",
+                                    "text": "Maxime Gobert 0001"
+                                },
+                                {
+                                    "@pid": "c/AnthonyCleve",
+                                    "text": "Anthony Cleve"
+                                }
+                            ]
+                        },
+                        "title": "Adapting Queries to Database Schema Changes in Hybrid Polystores.",
+                        "venue": "SCAM",
+                        "pages": "127-131",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/scam/FinkGC20",
+                        "doi": "10.1109/SCAM51674.2020.00019",
+                        "ee": "https://doi.org/10.1109/SCAM51674.2020.00019",
+                        "url": "https://dblp.org/rec/conf/scam/FinkGC20"
+                    },
+                    "url": "URL#2859968"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2878670",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "262/9447",
+                                    "text": "Ariel Afonso"
+                                },
+                                {
+                                    "@pid": "s/ASdaSilva",
+                                    "text": "Altigran S. da Silva"
+                                },
+                                {
+                                    "@pid": "48/5",
+                                    "text": "Tayana Conte"
+                                },
+                                {
+                                    "@pid": "262/9450",
+                                    "text": "Paulo Martins 0005"
+                                },
+                                {
+                                    "@pid": "29/1174",
+                                    "text": "Jo\u00e3o M. B. Cavalcanti"
+                                },
+                                {
+                                    "@pid": "g/AlessandroFGarcia",
+                                    "text": "Alessandro Garcia 0001"
+                                }
+                            ]
+                        },
+                        "title": "LESSQL: Dealing with Database Schema Changes in Continuous Deployment.",
+                        "venue": "SANER",
+                        "pages": "138-148",
+                        "year": "2020",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wcre/AfonsoSCMCG20",
+                        "doi": "10.1109/SANER48275.2020.9054796",
+                        "ee": "https://doi.org/10.1109/SANER48275.2020.9054796",
+                        "url": "https://dblp.org/rec/conf/wcre/AfonsoSCMCG20"
+                    },
+                    "url": "URL#2878670"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2943475",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "155/1278",
+                                    "text": "Zijie Wang"
+                                },
+                                {
+                                    "@pid": "276/7084",
+                                    "text": "Lixi Zhou"
+                                },
+                                {
+                                    "@pid": "61/11158",
+                                    "text": "Amitabh Das"
+                                },
+                                {
+                                    "@pid": "276/7107",
+                                    "text": "Valay Dave"
+                                },
+                                {
+                                    "@pid": "93/5912",
+                                    "text": "Zhanpeng Jin"
+                                },
+                                {
+                                    "@pid": "08/4537",
+                                    "text": "Jia Zou 0001"
+                                }
+                            ]
+                        },
+                        "title": "Survive the Schema Changes: Integration of Unmanaged Data Using Deep Learning.",
+                        "venue": "CoRR",
+                        "volume": "abs/2010.07586",
+                        "year": "2020",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2010-07586",
+                        "ee": "https://arxiv.org/abs/2010.07586",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2010-07586"
+                    },
+                    "url": "URL#2943475"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3009683",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "13/1242",
+                                    "text": "Panos Vassiliadis"
+                                },
+                                {
+                                    "@pid": "207/8906",
+                                    "text": "Michail-Romanos Kolozoff"
+                                },
+                                {
+                                    "@pid": "185/0063",
+                                    "text": "Maria Zerva"
+                                },
+                                {
+                                    "@pid": "35/3250",
+                                    "text": "Apostolos V. Zarras"
+                                }
+                            ]
+                        },
+                        "title": "Schema evolution and foreign keys: a study on usage, heartbeat of change and relationship of foreign keys to table activity.",
+                        "venue": "Computing",
+                        "volume": "101",
+                        "number": "10",
+                        "pages": "1431-1456",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/computing/VassiliadisKZZ19",
+                        "doi": "10.1007/S00607-019-00702-X",
+                        "ee": "https://doi.org/10.1007/s00607-019-00702-x",
+                        "url": "https://dblp.org/rec/journals/computing/VassiliadisKZZ19"
+                    },
+                    "url": "URL#3009683"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3031071",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "229/1475",
+                                    "text": "Kit Martin"
+                                },
+                                {
+                                    "@pid": "41/5659",
+                                    "text": "Michael S. Horn"
+                                },
+                                {
+                                    "@pid": "75/4723",
+                                    "text": "Uri Wilensky"
+                                }
+                            ]
+                        },
+                        "title": "Prevalence of Direct and Emergent Schema and Change after Play.",
+                        "venue": "Informatics Educ.",
+                        "volume": "18",
+                        "number": "1",
+                        "pages": "183-212",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/iie/MartinHW19",
+                        "doi": "10.15388/INFEDU.2019.09",
+                        "ee": "https://doi.org/10.15388/infedu.2019.09",
+                        "url": "https://dblp.org/rec/journals/iie/MartinHW19"
+                    },
+                    "url": "URL#3031071"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3163881",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "188/2079",
+                                    "text": "Tobias Bleifu\u00df"
+                                },
+                                {
+                                    "@pid": "187/4248",
+                                    "text": "Leon Bornemann"
+                                },
+                                {
+                                    "@pid": "k/DVKalashnikov",
+                                    "text": "Dmitri V. Kalashnikov"
+                                },
+                                {
+                                    "@pid": "n/FelixNaumann",
+                                    "text": "Felix Naumann"
+                                },
+                                {
+                                    "@pid": "s/DiveshSrivastava",
+                                    "text": "Divesh Srivastava"
+                                }
+                            ]
+                        },
+                        "title": "DBChEx: Interactive Exploration of Data and Schema Change.",
+                        "venue": "CIDR",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cidr/BleifussBKNS19",
+                        "ee": "http://cidrdb.org/cidr2019/papers/p65-bleifuss-cidr19.pdf",
+                        "url": "https://dblp.org/rec/conf/cidr/BleifussBKNS19"
+                    },
+                    "url": "URL#3163881"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3221297",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "226/0111",
+                                    "text": "Oliver Schmidts"
+                                },
+                                {
+                                    "@pid": "08/1474",
+                                    "text": "Bodo Kraft"
+                                },
+                                {
+                                    "@pid": "242/2845",
+                                    "text": "Ines Siebigteroth"
+                                },
+                                {
+                                    "@pid": "33/223",
+                                    "text": "Albert Z\u00fcndorf"
+                                }
+                            ]
+                        },
+                        "title": "Schema Matching with Frequent Changes on Semi-Structured Input Files: A Machine Learning Approach on Biological Product Data.",
+                        "venue": "ICEIS",
+                        "pages": "208-215",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/iceis/SchmidtsKSZ19",
+                        "doi": "10.5220/0007723602080215",
+                        "ee": "https://doi.org/10.5220/0007723602080215",
+                        "url": "https://dblp.org/rec/conf/iceis/SchmidtsKSZ19"
+                    },
+                    "url": "URL#3221297"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3234913",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "341/8493",
+                                    "text": "Amornrat Jaimoon"
+                                },
+                                {
+                                    "@pid": "00/4678",
+                                    "text": "Taratip Suwannasart"
+                                }
+                            ]
+                        },
+                        "title": "Impact Analysis of Database Schema Changes on Hibernate Source Code and Test Cases.",
+                        "venue": "ICSEB",
+                        "pages": "120-123",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icseb/JaimoonS19",
+                        "doi": "10.1145/3374549.3374579",
+                        "ee": "https://doi.org/10.1145/3374549.3374579",
+                        "url": "https://dblp.org/rec/conf/icseb/JaimoonS19"
+                    },
+                    "url": "URL#3234913"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3297034",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "205/9436",
+                                    "text": "Lynda Ait Oubelli"
+                                },
+                                {
+                                    "@pid": "a/YamineAitAmeur",
+                                    "text": "Yamine A\u00eft Ameur"
+                                },
+                                {
+                                    "@pid": "134/9463",
+                                    "text": "Judica\u00ebl Bedouet"
+                                },
+                                {
+                                    "@pid": "33/9950",
+                                    "text": "Beno\u00eet Chausserie-Lapree"
+                                },
+                                {
+                                    "@pid": "205/9483",
+                                    "text": "B\u00e9atrice Larzul"
+                                }
+                            ]
+                        },
+                        "title": "Finding conservative schema evolutions by analysing API changes.",
+                        "venue": "SEKE",
+                        "pages": "748-777",
+                        "year": "2019",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/seke/OubelliABCL19",
+                        "doi": "10.18293/SEKE2019-132",
+                        "ee": "https://doi.org/10.18293/SEKE2019-132",
+                        "url": "https://dblp.org/rec/conf/seke/OubelliABCL19"
+                    },
+                    "url": "URL#3297034"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3929693",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "176/3470",
+                                    "text": "Patricia Lichtenstein"
+                                },
+                                {
+                                    "@pid": "33/8156",
+                                    "text": "Ekaterina Shutova"
+                                }
+                            ]
+                        },
+                        "title": "Metaphor congruent image schemas shape evaluative judgment: a cross-linguistic study of metaphors for economic change.",
+                        "venue": "CogSci",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "open",
+                        "key": "conf/cogsci/LichtensteinS17",
+                        "ee": "https://escholarship.org/uc/item/0wn502rk",
+                        "url": "https://dblp.org/rec/conf/cogsci/LichtensteinS17"
+                    },
+                    "url": "URL#3929693"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3946124",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "13/1242",
+                                    "text": "Panos Vassiliadis"
+                                },
+                                {
+                                    "@pid": "207/8906",
+                                    "text": "Michail-Romanos Kolozoff"
+                                },
+                                {
+                                    "@pid": "185/0063",
+                                    "text": "Maria Zerva"
+                                },
+                                {
+                                    "@pid": "35/3250",
+                                    "text": "Apostolos V. Zarras"
+                                }
+                            ]
+                        },
+                        "title": "Schema Evolution and Foreign Keys: Birth, Eviction, Change and Absence.",
+                        "venue": "ER",
+                        "pages": "106-119",
+                        "year": "2017",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/VassiliadisKZZ17",
+                        "doi": "10.1007/978-3-319-69904-2_9",
+                        "ee": "https://doi.org/10.1007/978-3-319-69904-2_9",
+                        "url": "https://dblp.org/rec/conf/er/VassiliadisKZZ17"
+                    },
+                    "url": "URL#3946124"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4181885",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "261/0545",
+                                    "text": "Wuneng Zhang"
+                                },
+                                {
+                                    "@pid": "39/5544-17",
+                                    "text": "Hongwei Li 0017"
+                                },
+                                {
+                                    "@pid": "39/2105",
+                                    "text": "Liwei Shen"
+                                },
+                                {
+                                    "@pid": "37/4220",
+                                    "text": "Wenyun Zhao"
+                                }
+                            ]
+                        },
+                        "title": "\u9762\u5411\u6570\u636e\u5e93\u6a21\u5f0f\u53d8\u66f4\u7684\u4ee3\u7801\u6f14\u5316\u63a8\u8350\u65b9\u6cd5 (Method of Code Evolution Recommendation for Database Schema Change).",
+                        "venue": "\u8ba1\u7b97\u673a\u79d1\u5b66",
+                        "volume": "43",
+                        "number": "2",
+                        "pages": "216-223",
+                        "year": "2016",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/jsjkx/ZhangLSZ18",
+                        "doi": "10.11896/J.ISSN.1002-137X.2016.02.046",
+                        "ee": "https://doi.org/10.11896/j.issn.1002-137X.2016.02.046",
+                        "url": "https://dblp.org/rec/journals/jsjkx/ZhangLSZ18"
+                    },
+                    "url": "URL#4181885"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4476936",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "311/4127",
+                                    "text": "Abdullah M. Baqasah"
+                                },
+                                {
+                                    "@pid": "p/EPardede",
+                                    "text": "Eric Pardede"
+                                },
+                                {
+                                    "@pid": "28/5654",
+                                    "text": "J. Wenny Rahayu"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                }
+                            ]
+                        },
+                        "title": "XS-Diff: XML schema change detection algorithm.",
+                        "venue": "Int. J. Web Grid Serv.",
+                        "volume": "11",
+                        "number": "2",
+                        "pages": "160-192",
+                        "year": "2015",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijwgs/BaqasahPRH15",
+                        "doi": "10.1504/IJWGS.2015.068897",
+                        "ee": "https://doi.org/10.1504/IJWGS.2015.068897",
+                        "url": "https://dblp.org/rec/journals/ijwgs/BaqasahPRH15"
+                    },
+                    "url": "URL#4476936"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4766851",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "24/11445",
+                                    "text": "Nora Taleb"
+                                },
+                                {
+                                    "@pid": "23/9833",
+                                    "text": "Bornia Tighiouart"
+                                },
+                                {
+                                    "@pid": "139/9900",
+                                    "text": "Sara Laiche"
+                                }
+                            ]
+                        },
+                        "title": "A method based on OWL schema for detecting changes between Ontology&apos;s versions.",
+                        "venue": "Intell. Decis. Technol.",
+                        "volume": "8",
+                        "number": "1",
+                        "pages": "45-52",
+                        "year": "2014",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/idt/TalebTL14",
+                        "doi": "10.3233/IDT-130176",
+                        "ee": "https://doi.org/10.3233/IDT-130176",
+                        "url": "https://dblp.org/rec/journals/idt/TalebTL14"
+                    },
+                    "url": "URL#4766851"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4902943",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "163/2452",
+                                    "text": "Noura Azaiez"
+                                },
+                                {
+                                    "@pid": "54/4115",
+                                    "text": "Jalel Akaichi"
+                                }
+                            ]
+                        },
+                        "title": "How to Guarantee Analysis Results Coherence after Data Warehouse Schema Changes Propagation towards Data Marts?.",
+                        "venue": "KEOD",
+                        "pages": "428-435",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/ic3k/AzaiezA14",
+                        "doi": "10.5220/0005158304280435",
+                        "ee": "https://doi.org/10.5220/0005158304280435",
+                        "url": "https://dblp.org/rec/conf/ic3k/AzaiezA14"
+                    },
+                    "url": "URL#4902943"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4956383",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "79/384",
+                                    "text": "Maja Pusnik"
+                                },
+                                {
+                                    "@pid": "88/6597",
+                                    "text": "Marjan Hericko"
+                                },
+                                {
+                                    "@pid": "67/10196",
+                                    "text": "Bostjan Sumak"
+                                }
+                            ]
+                        },
+                        "title": "Measuring XML schema standard quality change through versioning.",
+                        "venue": "MIPRO",
+                        "pages": "536-539",
+                        "year": "2014",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/mipro/PusnikHS14",
+                        "doi": "10.1109/MIPRO.2014.6859626",
+                        "ee": "https://doi.org/10.1109/MIPRO.2014.6859626",
+                        "url": "https://dblp.org/rec/conf/mipro/PusnikHS14"
+                    },
+                    "url": "URL#4956383"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5102929",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "87/7992",
+                                    "text": "Ian Rae"
+                                },
+                                {
+                                    "@pid": "49/5160",
+                                    "text": "Eric Rollins"
+                                },
+                                {
+                                    "@pid": "31/11411",
+                                    "text": "Jeff Shute"
+                                },
+                                {
+                                    "@pid": "293/7505",
+                                    "text": "Sukhdeep S. Sodhi"
+                                },
+                                {
+                                    "@pid": "40/6597",
+                                    "text": "Radek Vingralek"
+                                }
+                            ]
+                        },
+                        "title": "Online, Asynchronous Schema Change in F1.",
+                        "venue": "Proc. VLDB Endow.",
+                        "volume": "6",
+                        "number": "11",
+                        "pages": "1045-1056",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/pvldb/RaeRSSV13",
+                        "doi": "10.14778/2536222.2536230",
+                        "ee": "http://www.vldb.org/pvldb/vol6/p1045-rae.pdf",
+                        "url": "https://dblp.org/rec/journals/pvldb/RaeRSSV13"
+                    },
+                    "url": "URL#5102929"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5202932",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "136/0552",
+                                "text": "Sonda Zghal"
+                            }
+                        },
+                        "title": "Change Operators for Managing Schema Evolution in Geographical Databases.",
+                        "venue": "ICEIS",
+                        "pages": "187-193",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/iceis/Zghal13",
+                        "url": "https://dblp.org/rec/conf/iceis/Zghal13"
+                    },
+                    "url": "URL#5202932"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5232489",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "45/6786-3",
+                                    "text": "Deepak Garg 0003"
+                                },
+                                {
+                                    "@pid": "80/1045",
+                                    "text": "Amitava Datta"
+                                }
+                            ]
+                        },
+                        "title": "Early detection of faults related to database schematic changes.",
+                        "venue": "JAMAICA@ISSTA",
+                        "pages": "1-6",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/issta/0003D13",
+                        "doi": "10.1145/2489280.2489283",
+                        "ee": "https://doi.org/10.1145/2489280.2489283",
+                        "url": "https://dblp.org/rec/conf/issta/0003D13"
+                    },
+                    "url": "URL#5232489"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5271726",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "311/4127",
+                                    "text": "Abdullah M. Baqasah"
+                                },
+                                {
+                                    "@pid": "p/EPardede",
+                                    "text": "Eric Pardede"
+                                },
+                                {
+                                    "@pid": "31/1317",
+                                    "text": "Irena Holubov\u00e1"
+                                },
+                                {
+                                    "@pid": "28/5654",
+                                    "text": "J. Wenny Rahayu"
+                                }
+                            ]
+                        },
+                        "title": "On Change Detection of XML Schemas.",
+                        "venue": "TrustCom/ISPA/IUCC",
+                        "pages": "974-982",
+                        "year": "2013",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/trustcom/BaqasahPHR13",
+                        "doi": "10.1109/TRUSTCOM.2013.119",
+                        "ee": "https://doi.org/10.1109/TrustCom.2013.119",
+                        "url": "https://dblp.org/rec/conf/trustcom/BaqasahPHR13"
+                    },
+                    "url": "URL#5271726"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5512423",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "21/8213",
+                                    "text": "Jakub Marciniak"
+                                },
+                                {
+                                    "@pid": "79/2850",
+                                    "text": "Tadeusz Pankowski"
+                                }
+                            ]
+                        },
+                        "title": "Tracking Changes in Database Schemas.",
+                        "venue": "MISSI",
+                        "pages": "155-165",
+                        "year": "2012",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/missi/MarciniakP12",
+                        "doi": "10.1007/978-3-642-32335-5_15",
+                        "ee": "https://doi.org/10.1007/978-3-642-32335-5_15",
+                        "url": "https://dblp.org/rec/conf/missi/MarciniakP12"
+                    },
+                    "url": "URL#5512423"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5825523",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "75/5092",
+                                "text": "Andy Maule"
+                            }
+                        },
+                        "title": "Impact analysis of database schema changes.",
+                        "year": "2010",
+                        "type": "Books and Theses",
+                        "access": "closed",
+                        "key": "phd/ethos/Maule10",
+                        "ee": "http://discovery.ucl.ac.uk/19497/",
+                        "url": "https://dblp.org/rec/phd/ethos/Maule10"
+                    },
+                    "url": "URL#5825523"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5880562",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "126/5085",
+                                "text": "Devin Looijen"
+                            }
+                        },
+                        "title": "Time for a Change: The Schema of Contract in the Digital Era.",
+                        "venue": "J. Telecommun. High Technol. Law",
+                        "volume": "8",
+                        "number": "2",
+                        "pages": "547-570",
+                        "year": "2010",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/jthtl/Looijen10",
+                        "ee": "http://www.jthtl.org/content/articles/V8I2/JTHTLv8i2_Looijen.PDF",
+                        "url": "https://dblp.org/rec/journals/jthtl/Looijen10"
+                    },
+                    "url": "URL#5880562"
+                },
+                {
+                    "@score": "2",
+                    "@id": "5955556",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "29/6418",
+                                "text": "Raoul M. Bongers"
+                            }
+                        },
+                        "title": "Do Changes in Movements after Tool Use Depend on Body Schema or Motor Learning?",
+                        "venue": "EuroHaptics",
+                        "pages": "271-276",
+                        "year": "2010",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/haptics/Bongers10",
+                        "doi": "10.1007/978-3-642-14075-4_39",
+                        "ee": "https://doi.org/10.1007/978-3-642-14075-4_39",
+                        "url": "https://dblp.org/rec/conf/haptics/Bongers10"
+                    },
+                    "url": "URL#5955556"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6046044",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "70/7997",
+                                    "text": "Lintang Yuniar Banowosari"
+                                },
+                                {
+                                    "@pid": "69/1102",
+                                    "text": "I. Wayan S. Wicaksana"
+                                },
+                                {
+                                    "@pid": "237/8181",
+                                    "text": "A. B. Mutiara 0001"
+                                }
+                            ]
+                        },
+                        "title": "Agreement Maintenance Based on Schema and Ontology Change in P2P Environment",
+                        "venue": "CoRR",
+                        "volume": "abs/1003.3082",
+                        "year": "2010",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-1003-3082",
+                        "ee": "http://arxiv.org/abs/1003.3082",
+                        "url": "https://dblp.org/rec/journals/corr/abs-1003-3082"
+                    },
+                    "url": "URL#6046044"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6087613",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "17/2905",
+                                    "text": "Spyridon K. Gardikiotis"
+                                },
+                                {
+                                    "@pid": "m/NicosMalevris",
+                                    "text": "Nicos Malevris"
+                                }
+                            ]
+                        },
+                        "title": "A two-folded impact analysis of schema changes on database applications.",
+                        "venue": "Int. J. Autom. Comput.",
+                        "volume": "6",
+                        "number": "2",
+                        "pages": "109-123",
+                        "year": "2009",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ijautcomp/GardikiotisM09",
+                        "doi": "10.1007/S11633-009-0109-4",
+                        "ee": "https://doi.org/10.1007/s11633-009-0109-4",
+                        "url": "https://dblp.org/rec/journals/ijautcomp/GardikiotisM09"
+                    },
+                    "url": "URL#6087613"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6141103",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/2379",
+                                    "text": "George Papastefanatos"
+                                },
+                                {
+                                    "@pid": "13/1242",
+                                    "text": "Panos Vassiliadis"
+                                },
+                                {
+                                    "@pid": "s/ASimitsis",
+                                    "text": "Alkis Simitsis"
+                                },
+                                {
+                                    "@pid": "s/TimosKSellis",
+                                    "text": "Timos K. Sellis"
+                                },
+                                {
+                                    "@pid": "v/YannisVassiliou",
+                                    "text": "Yannis Vassiliou"
+                                }
+                            ]
+                        },
+                        "title": "Rule-Based Management of Schema Changes at ETL Sources.",
+                        "venue": "ADBIS",
+                        "pages": "55-62",
+                        "year": "2009",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adbis/PapastefanatosVSSV09",
+                        "doi": "10.1007/978-3-642-12082-4_8",
+                        "ee": "https://doi.org/10.1007/978-3-642-12082-4_8",
+                        "url": "https://dblp.org/rec/conf/adbis/PapastefanatosVSSV09"
+                    },
+                    "url": "URL#6141103"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6415884",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "75/5092",
+                                    "text": "Andy Maule"
+                                },
+                                {
+                                    "@pid": "57/4166",
+                                    "text": "Wolfgang Emmerich"
+                                },
+                                {
+                                    "@pid": "r/DSRosenblum",
+                                    "text": "David S. Rosenblum"
+                                }
+                            ]
+                        },
+                        "title": "Impact analysis of database schema changes.",
+                        "venue": "ICSE",
+                        "pages": "451-460",
+                        "year": "2008",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icse/MauleER08",
+                        "doi": "10.1145/1368088.1368150",
+                        "ee": "https://doi.org/10.1145/1368088.1368150",
+                        "url": "https://dblp.org/rec/conf/icse/MauleER08"
+                    },
+                    "url": "URL#6415884"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6766562",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "84/719",
+                                    "text": "J\u00f8rgen L\u00f8land"
+                                },
+                                {
+                                    "@pid": "h/SOHvasshovd",
+                                    "text": "Svein-Olaf Hvasshovd"
+                                }
+                            ]
+                        },
+                        "title": "Online, Non-blocking Relational Schema Changes.",
+                        "venue": "EDBT",
+                        "pages": "405-422",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/edbt/LolandH06",
+                        "doi": "10.1007/11687238_26",
+                        "ee": "https://doi.org/10.1007/11687238_26",
+                        "url": "https://dblp.org/rec/conf/edbt/LolandH06"
+                    },
+                    "url": "URL#6766562"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6769545",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "14/3161",
+                                    "text": "Andreas Kupfer"
+                                },
+                                {
+                                    "@pid": "e/SilkeEckstein",
+                                    "text": "Silke Eckstein"
+                                },
+                                {
+                                    "@pid": "11/1987",
+                                    "text": "Karl Neumann"
+                                },
+                                {
+                                    "@pid": "70/553",
+                                    "text": "Brigitte Mathiak"
+                                }
+                            ]
+                        },
+                        "title": "Handling Changes of Database Schemas and Corresponding Ontologies.",
+                        "venue": "ER",
+                        "pages": "227-236",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/KupferENM06",
+                        "doi": "10.1007/11908883_28",
+                        "ee": "https://doi.org/10.1007/11908883_28",
+                        "url": "https://dblp.org/rec/conf/er/KupferENM06"
+                    },
+                    "url": "URL#6769545"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6769549",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "l/SangWonLee",
+                                "text": "Sang-Won Lee 0001"
+                            }
+                        },
+                        "title": "Schema Change Operations for Versioning Complex Objects Hierarchy in OODBs.",
+                        "venue": "ER",
+                        "pages": "247-256",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/Lee06",
+                        "doi": "10.1007/11908883_30",
+                        "ee": "https://doi.org/10.1007/11908883_30",
+                        "url": "https://dblp.org/rec/conf/er/Lee06"
+                    },
+                    "url": "URL#6769549"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6769555",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/Luqi",
+                                    "text": "Luqi"
+                                },
+                                {
+                                    "@pid": "35/742",
+                                    "text": "Douglas S. Lange"
+                                }
+                            ]
+                        },
+                        "title": "Schema Changes and Historical Information in Conceptual Models in Support of Adaptive Systems.",
+                        "venue": "Active Conceptual Modeling of Learning",
+                        "pages": "112-121",
+                        "year": "2006",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/LuqiL06",
+                        "doi": "10.1007/978-3-540-77503-4_9",
+                        "ee": "https://doi.org/10.1007/978-3-540-77503-4_9",
+                        "url": "https://dblp.org/rec/conf/er/LuqiL06"
+                    },
+                    "url": "URL#6769555"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6919980",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "76/6932",
+                                "text": "Heidi Gregersen"
+                            }
+                        },
+                        "title": "TimeER plus: A Temporal EER Model Supporting Schema Changes.",
+                        "venue": "BNCOD",
+                        "pages": "41-59",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bncod/Gregersen05",
+                        "doi": "10.1007/11511854_4",
+                        "ee": "https://doi.org/10.1007/11511854_4",
+                        "url": "https://dblp.org/rec/conf/bncod/Gregersen05"
+                    },
+                    "url": "URL#6919980"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6925518",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "l/ErwinLeonardi",
+                                    "text": "Erwin Leonardi"
+                                },
+                                {
+                                    "@pid": "b/SSBhowmick",
+                                    "text": "Sourav S. Bhowmick"
+                                }
+                            ]
+                        },
+                        "title": "Detecting changes on unordered XML documents using relational databases: a schema-conscious approach.",
+                        "venue": "CIKM",
+                        "pages": "509-516",
+                        "year": "2005",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/LeonardiB05",
+                        "doi": "10.1145/1099554.1099693",
+                        "ee": "https://doi.org/10.1145/1099554.1099693",
+                        "url": "https://dblp.org/rec/conf/cikm/LeonardiB05"
+                    },
+                    "url": "URL#6925518"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7061212",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "v/YannisVelegrakis",
+                                    "text": "Yannis Velegrakis"
+                                },
+                                {
+                                    "@pid": "m/RJMiller",
+                                    "text": "Ren\u00e9e J. Miller"
+                                },
+                                {
+                                    "@pid": "p/LucianPopa",
+                                    "text": "Lucian Popa 0001"
+                                }
+                            ]
+                        },
+                        "title": "Preserving mapping consistency under schema changes.",
+                        "venue": "VLDB J.",
+                        "volume": "13",
+                        "number": "3",
+                        "pages": "274-293",
+                        "year": "2004",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/vldb/VelegrakisMP04",
+                        "doi": "10.1007/S00778-004-0136-2",
+                        "ee": "https://doi.org/10.1007/s00778-004-0136-2",
+                        "url": "https://dblp.org/rec/journals/vldb/VelegrakisMP04"
+                    },
+                    "url": "URL#7061212"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7142542",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "11/2195",
+                                    "text": "Shuohao Zhang"
+                                },
+                                {
+                                    "@pid": "d/CEDyreson",
+                                    "text": "Curtis E. Dyreson"
+                                },
+                                {
+                                    "@pid": "s/RichardTSnodgrass",
+                                    "text": "Richard T. Snodgrass"
+                                }
+                            ]
+                        },
+                        "title": "Schema-Less, Semantics-Based Change Detection for XML Documents.",
+                        "venue": "WISE",
+                        "pages": "279-290",
+                        "year": "2004",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/wise/ZhangDS04",
+                        "doi": "10.1007/978-3-540-30480-7_29",
+                        "ee": "https://doi.org/10.1007/978-3-540-30480-7_29",
+                        "url": "https://dblp.org/rec/conf/wise/ZhangDS04"
+                    },
+                    "url": "URL#7142542"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7446701",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "31/6736",
+                                    "text": "Amela Karahasanovic"
+                                },
+                                {
+                                    "@pid": "32/889",
+                                    "text": "Dag I. K. Sj\u00f8berg"
+                                }
+                            ]
+                        },
+                        "title": "Visualizing Impacts of Database Schema Changes - A Controlled Experiment.",
+                        "venue": "HCC",
+                        "pages": "358-",
+                        "year": "2001",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/vl/KarahasanovicS01",
+                        "doi": "10.1109/HCC.2001.995292",
+                        "ee": "https://doi.org/10.1109/HCC.2001.995292",
+                        "url": "https://dblp.org/rec/conf/vl/KarahasanovicS01"
+                    },
+                    "url": "URL#7446701"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7486135",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "l/BSLerner",
+                                "text": "Barbara Staudt Lerner"
+                            }
+                        },
+                        "title": "A model for compound type changes encountered in schema evolution.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "25",
+                        "number": "1",
+                        "pages": "83-127",
+                        "year": "2000",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/Lerner00",
+                        "doi": "10.1145/352958.352983",
+                        "ee": "https://doi.org/10.1145/352958.352983",
+                        "url": "https://dblp.org/rec/journals/tods/Lerner00"
+                    },
+                    "url": "URL#7486135"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7489220",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "s/SWSadiq",
+                                "text": "Shazia W. Sadiq"
+                            }
+                        },
+                        "title": "Handling Dynamic Schema Change in Process Models.",
+                        "venue": "Australasian Database Conference",
+                        "pages": "120-126",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adc/Sadiq00",
+                        "doi": "10.1109/ADC.2000.819822",
+                        "ee": "https://doi.org/10.1109/ADC.2000.819822",
+                        "url": "https://dblp.org/rec/conf/adc/Sadiq00"
+                    },
+                    "url": "URL#7489220"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7489242",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "a/NRAdam",
+                                    "text": "Nabil R. Adam"
+                                },
+                                {
+                                    "@pid": "81/1859",
+                                    "text": "Igg Adiwijaya"
+                                },
+                                {
+                                    "@pid": "c/TCritchlow",
+                                    "text": "Terence Critchlow"
+                                },
+                                {
+                                    "@pid": "28/1095",
+                                    "text": "Ron Musick"
+                                }
+                            ]
+                        },
+                        "title": "Detecting Data and Schema Changes in Scientific Documents.",
+                        "venue": "ADL",
+                        "pages": "160-170",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/adl/AdamACM00",
+                        "doi": "10.1109/ADL.2000.848379",
+                        "ee": "https://doi.org/10.1109/ADL.2000.848379",
+                        "url": "https://dblp.org/rec/conf/adl/AdamACM00"
+                    },
+                    "url": "URL#7489242"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7502352",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "p/RJPeters",
+                                    "text": "Randal J. Peters"
+                                },
+                                {
+                                    "@pid": "b/KenBarker1",
+                                    "text": "Ken Barker 0001"
+                                }
+                            ]
+                        },
+                        "title": "Change Propagation in an Axiomatic Model of Schema Evolution for Objectbase Management Systems.",
+                        "venue": "FMLDO",
+                        "pages": "142-162",
+                        "year": "2000",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/fmldo/PetersB00",
+                        "doi": "10.1007/3-540-48196-6_9",
+                        "ee": "https://doi.org/10.1007/3-540-48196-6_9",
+                        "url": "https://dblp.org/rec/conf/fmldo/PetersB00"
+                    },
+                    "url": "URL#7502352"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7573351",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/3275",
+                                    "text": "Simon Lock"
+                                },
+                                {
+                                    "@pid": "26/3330",
+                                    "text": "Awais Rashid"
+                                },
+                                {
+                                    "@pid": "s/PeterSawyer",
+                                    "text": "Peter Sawyer"
+                                },
+                                {
+                                    "@pid": "29/2969",
+                                    "text": "Gerald Kotonya"
+                                }
+                            ]
+                        },
+                        "title": "Systematic Change Impact Determination in Complex Object Database Schemata.",
+                        "venue": "ECOOP Workshop for PhD Students in OO Systems",
+                        "pages": "31-40",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/ecoopw/LockRSK99",
+                        "url": "https://dblp.org/rec/conf/ecoopw/LockRSK99"
+                    },
+                    "url": "URL#7573351"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7573998",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "a/LAlJadir",
+                                    "text": "Lina Al-Jadir"
+                                },
+                                {
+                                    "@pid": "15/1594",
+                                    "text": "Michel L\u00e9onard"
+                                }
+                            ]
+                        },
+                        "title": "Transposed Storage of an Object Database to Reduce the Cost of Schema Changes.",
+                        "venue": "ER",
+                        "pages": "48-61",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/Al-JadirL99",
+                        "doi": "10.1007/3-540-48054-4_5",
+                        "ee": "https://doi.org/10.1007/3-540-48054-4_5",
+                        "url": "https://dblp.org/rec/conf/er/Al-JadirL99"
+                    },
+                    "url": "URL#7573998"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7574062",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "08/3603",
+                                "text": "Lex Wedemeijer"
+                            }
+                        },
+                        "title": "Semantical Change Patterns in the Conceptual Schema.",
+                        "venue": "ER",
+                        "pages": "122-133",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/Wedemeijer99",
+                        "doi": "10.1007/3-540-48054-4_11",
+                        "ee": "https://doi.org/10.1007/3-540-48054-4_11",
+                        "url": "https://dblp.org/rec/conf/er/Wedemeijer99"
+                    },
+                    "url": "URL#7574062"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7582190",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/3909",
+                                    "text": "Mourad Bouneffa"
+                                },
+                                {
+                                    "@pid": "44/4054",
+                                    "text": "Henri Basson"
+                                },
+                                {
+                                    "@pid": "11/6397",
+                                    "text": "Laurent Deruelle"
+                                }
+                            ]
+                        },
+                        "title": "Analyzing the Impact of Schema Change on Application Programs.",
+                        "venue": "ICEIS",
+                        "pages": "37-44",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/iceis/BouneffaBD99",
+                        "url": "https://dblp.org/rec/conf/iceis/BouneffaBD99"
+                    },
+                    "url": "URL#7582190"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7592802",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "99/1058",
+                                    "text": "Mathias Braux"
+                                },
+                                {
+                                    "@pid": "n/JacquesNoye",
+                                    "text": "Jacques Noy\u00e9"
+                                }
+                            ]
+                        },
+                        "title": "Changement dynamique de comportement par composition de sch\u00e9mas de conception.",
+                        "venue": "LMO",
+                        "pages": "147-162",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/lmo/BrauxN99",
+                        "url": "https://dblp.org/rec/conf/lmo/BrauxN99"
+                    },
+                    "url": "URL#7592802"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7598949",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                },
+                                {
+                                    "@pid": "74/901",
+                                    "text": "Andreas Koeller"
+                                },
+                                {
+                                    "@pid": "76/1584-2",
+                                    "text": "Xin Zhang 0002"
+                                },
+                                {
+                                    "@pid": "77/5123",
+                                    "text": "Amber van Wyk"
+                                },
+                                {
+                                    "@pid": "93/2334",
+                                    "text": "Yong Li"
+                                },
+                                {
+                                    "@pid": "51/2101",
+                                    "text": "Amy J. Lee"
+                                },
+                                {
+                                    "@pid": "76/4130",
+                                    "text": "Anisoara Nica"
+                                }
+                            ]
+                        },
+                        "title": "Evolvable View Environment (EVE): Non-Equivalent View Maintenance under Schema Changes.",
+                        "venue": "SIGMOD Conference",
+                        "pages": "553-555",
+                        "year": "1999",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/sigmod/RundensteinerKZWLLN99",
+                        "doi": "10.1145/304182.304574",
+                        "ee": "https://doi.org/10.1145/304182.304574",
+                        "url": "https://dblp.org/rec/conf/sigmod/RundensteinerKZWLLN99"
+                    },
+                    "url": "URL#7598949"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7739040",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/3471",
+                                    "text": "Catherine A. Ewald"
+                                },
+                                {
+                                    "@pid": "o/MariaEOrlowska",
+                                    "text": "Maria E. Orlowska"
+                                }
+                            ]
+                        },
+                        "title": "Characterization of the Effects of Schema Change.",
+                        "venue": "Inf. Sci.",
+                        "volume": "94",
+                        "number": "1-4",
+                        "pages": "23-39",
+                        "year": "1996",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/isci/EwaldO96",
+                        "doi": "10.1016/0020-0255(96)00134-X",
+                        "ee": "https://doi.org/10.1016/0020-0255(96)00134-X",
+                        "url": "https://dblp.org/rec/journals/isci/EwaldO96"
+                    },
+                    "url": "URL#7739040"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7806403",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/3884",
+                                    "text": "Young-Gook Ra"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "Towards Supporting Hard Schema Changes in TSE.",
+                        "venue": "CIKM",
+                        "pages": "290-295",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cikm/RaR95",
+                        "doi": "10.1145/221270.221595",
+                        "ee": "https://doi.org/10.1145/221270.221595",
+                        "url": "https://dblp.org/rec/conf/cikm/RaR95"
+                    },
+                    "url": "URL#7806403"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7808267",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "86/5713",
+                                    "text": "Philippe Br\u00e8che"
+                                },
+                                {
+                                    "@pid": "27/1922",
+                                    "text": "Fabrizio Ferrandina"
+                                },
+                                {
+                                    "@pid": "85/2194",
+                                    "text": "Martin Kuklok"
+                                }
+                            ]
+                        },
+                        "title": "Simulation of Schema Change using Views",
+                        "venue": "DEXA",
+                        "pages": "247-258",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/dexa/BrecheFK95",
+                        "doi": "10.1007/BFB0049123",
+                        "ee": "https://doi.org/10.1007/BFb0049123",
+                        "url": "https://dblp.org/rec/conf/dexa/BrecheFK95"
+                    },
+                    "url": "URL#7808267"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7809269",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "54/3909",
+                                    "text": "Mourad Bouneffa"
+                                },
+                                {
+                                    "@pid": "64/537",
+                                    "text": "Nacer Boudjlida"
+                                }
+                            ]
+                        },
+                        "title": "Managing Schema Changes in Object-Relationship Databases.",
+                        "venue": "OOER",
+                        "pages": "113-122",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/BouneffaB95",
+                        "doi": "10.1007/BFB0020525",
+                        "ee": "https://doi.org/10.1007/BFb0020525",
+                        "url": "https://dblp.org/rec/conf/er/BouneffaB95"
+                    },
+                    "url": "URL#7809269"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7813634",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/3884",
+                                    "text": "Young-Gook Ra"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "A Transparent Object-Oriented Schema Change Approach Using View Evolution.",
+                        "venue": "ICDE",
+                        "pages": "165-172",
+                        "year": "1995",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/icde/RaR95",
+                        "doi": "10.1109/ICDE.1995.380396",
+                        "ee": "https://doi.org/10.1109/ICDE.1995.380396",
+                        "url": "https://dblp.org/rec/conf/icde/RaR95"
+                    },
+                    "url": "URL#7813634"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7852396",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "78/3884",
+                                    "text": "Young-Gook Ra"
+                                },
+                                {
+                                    "@pid": "r/EARundensteiner",
+                                    "text": "Elke A. Rundensteiner"
+                                }
+                            ]
+                        },
+                        "title": "OODB support for providing transparent schema changes.",
+                        "venue": "CASCON",
+                        "pages": "57",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/cascon/RaR94",
+                        "ee": "https://dl.acm.org/citation.cfm?id=782242",
+                        "url": "https://dblp.org/rec/conf/cascon/RaR94"
+                    },
+                    "url": "URL#7852396"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7855951",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/991",
+                                    "text": "Chien-Tsai Liu"
+                                },
+                                {
+                                    "@pid": "c/PKChrysanthis",
+                                    "text": "Panos K. Chrysanthis"
+                                },
+                                {
+                                    "@pid": "c/ShiKuoChang",
+                                    "text": "Shi-Kuo Chang"
+                                }
+                            ]
+                        },
+                        "title": "Database Schema Evolution through the Specification and Maintenance of Changes on Entities and Relationships.",
+                        "venue": "ER",
+                        "pages": "132-151",
+                        "year": "1994",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/er/LiuCC94",
+                        "doi": "10.1007/3-540-58786-1_77",
+                        "ee": "https://doi.org/10.1007/3-540-58786-1_77",
+                        "url": "https://dblp.org/rec/conf/er/LiuCC94"
+                    },
+                    "url": "URL#7855951"
+                },
+                {
+                    "@score": "2",
+                    "@id": "7884370",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "23/991",
+                                    "text": "Chien-Tsai Liu"
+                                },
+                                {
+                                    "@pid": "c/PKChrysanthis",
+                                    "text": "Panos K. Chrysanthis"
+                                },
+                                {
+                                    "@pid": "c/ShiKuoChang",
+                                    "text": "Shi-Kuo Chang"
+                                }
+                            ]
+                        },
+                        "title": "Schema Evolution through Changes to ER Diagrams.",
+                        "venue": "J. Inf. Sci. Eng.",
+                        "volume": "9",
+                        "number": "4",
+                        "pages": "657-683",
+                        "year": "1993",
+                        "type": "Journal Articles",
+                        "access": "unavailable",
+                        "key": "journals/jise/LiuCC93",
+                        "ee": "http://www.iis.sinica.edu.tw/page/jise/1993/199312_08.html",
+                        "url": "https://dblp.org/rec/journals/jise/LiuCC93"
+                    },
+                    "url": "URL#7884370"
+                },
+                {
+                    "@score": "2",
+                    "@id": "8030128",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "44/721",
+                                    "text": "Gia Toan Nguyen"
+                                },
+                                {
+                                    "@pid": "54/5215",
+                                    "text": "Dominique Rieu"
+                                }
+                            ]
+                        },
+                        "title": "Schema Change Propagation in Object-Oriented Databases.",
+                        "venue": "IFIP Congress",
+                        "pages": "815-820",
+                        "year": "1989",
+                        "type": "Conference and Workshop Papers",
+                        "access": "unavailable",
+                        "key": "conf/ifip/NguyenR89",
+                        "url": "https://dblp.org/rec/conf/ifip/NguyenR89"
+                    },
+                    "url": "URL#8030128"
+                }
+            ]
+        }
+    }
+}

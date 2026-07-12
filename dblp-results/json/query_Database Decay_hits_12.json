@@ -1,0 +1,505 @@
+{
+    "result": {
+        "query": "Database* Decay*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "3.09"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "10",
+                    "@dc": "10",
+                    "@oc": "10",
+                    "@id": "63011718",
+                    "text": "decay"
+                },
+                {
+                    "@sc": "2",
+                    "@dc": "2",
+                    "@oc": "2",
+                    "@id": "63011722",
+                    "text": "decaying"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "12",
+            "@computed": "12",
+            "@sent": "12",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "3",
+                    "@id": "5096537",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "68/9437",
+                                    "text": "Kaja Milanowska"
+                                },
+                                {
+                                    "@pid": "124/1086",
+                                    "text": "Katarzyna Mikolajczak"
+                                },
+                                {
+                                    "@pid": "124/1461",
+                                    "text": "Anna Lukasik"
+                                },
+                                {
+                                    "@pid": "124/1151",
+                                    "text": "Marcin Skorupski"
+                                },
+                                {
+                                    "@pid": "124/1240",
+                                    "text": "Zuzanna Balcer"
+                                },
+                                {
+                                    "@pid": "124/1166",
+                                    "text": "Magdalena A. Machnicka"
+                                },
+                                {
+                                    "@pid": "122/8786",
+                                    "text": "Martyna Nowacka"
+                                },
+                                {
+                                    "@pid": "59/501",
+                                    "text": "Kristian Rother"
+                                },
+                                {
+                                    "@pid": "95/5245",
+                                    "text": "Janusz M. Bujnicki"
+                                }
+                            ]
+                        },
+                        "title": "RNApathwaysDB - a database of RNA maturation and decay pathways.",
+                        "venue": "Nucleic Acids Res.",
+                        "volume": "41",
+                        "number": "Database-Issue",
+                        "pages": "268-272",
+                        "year": "2013",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/nar/MilanowskaMLSBMNRB13",
+                        "doi": "10.1093/NAR/GKS1052",
+                        "ee": "https://doi.org/10.1093/nar/gks1052",
+                        "url": "https://dblp.org/rec/journals/nar/MilanowskaMLSBMNRB13"
+                    },
+                    "url": "URL#5096537"
+                },
+                {
+                    "@score": "2",
+                    "@id": "519719",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "294/3714",
+                                    "text": "Panagiotis Drakatos"
+                                },
+                                {
+                                    "@pid": "116/0694",
+                                    "text": "Constantinos Costa"
+                                },
+                                {
+                                    "@pid": "k/AndreasKonstantinidis2",
+                                    "text": "Andreas Konstantinidis 0002"
+                                },
+                                {
+                                    "@pid": "c/PKChrysanthis",
+                                    "text": "Panos K. Chrysanthis"
+                                },
+                                {
+                                    "@pid": "z/DemetriosZeinalipourYazti",
+                                    "text": "Demetrios Zeinalipour-Yazti"
+                                }
+                            ]
+                        },
+                        "title": "A blockchain datastore for scalable IoT workloads using data decaying.",
+                        "venue": "Distributed Parallel Databases",
+                        "volume": "42",
+                        "number": "3",
+                        "pages": "403-445",
+                        "year": "2024",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/dpd/DrakatosCKCZ24",
+                        "doi": "10.1007/S10619-024-07441-9",
+                        "ee": "https://doi.org/10.1007/s10619-024-07441-9",
+                        "url": "https://dblp.org/rec/journals/dpd/DrakatosCKCZ24"
+                    },
+                    "url": "URL#519719"
+                },
+                {
+                    "@score": "2",
+                    "@id": "909991",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "172/9570",
+                                    "text": "Sandro Krauss"
+                                },
+                                {
+                                    "@pid": "397/2485",
+                                    "text": "Manuela Temmer"
+                                },
+                                {
+                                    "@pid": "135/4974",
+                                    "text": "Lukas Drescher"
+                                },
+                                {
+                                    "@pid": "150/9677",
+                                    "text": "Barbara Suesser-Rechberger"
+                                },
+                                {
+                                    "@pid": "44/6316",
+                                    "text": "Andreas Strasser"
+                                },
+                                {
+                                    "@pid": "397/2480",
+                                    "text": "Sofia Kroisz"
+                                }
+                            ]
+                        },
+                        "title": "Database for ESA Service Satellite Orbit DecAy (SODA) v2.0.",
+                        "venue": "TU Graz Repo",
+                        "publisher": "TU Graz Repo",
+                        "year": "2024",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/KraussTDSSK24",
+                        "doi": "10.3217/CC0FY-MEF04",
+                        "ee": "https://doi.org/10.3217/cc0fy-mef04",
+                        "url": "https://dblp.org/rec/data/11/KraussTDSSK24"
+                    },
+                    "url": "URL#909991"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1464690",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "172/9570",
+                                    "text": "Sandro Krauss"
+                                },
+                                {
+                                    "@pid": "397/2485",
+                                    "text": "Manuela Temmer"
+                                },
+                                {
+                                    "@pid": "135/4974",
+                                    "text": "Lukas Drescher"
+                                },
+                                {
+                                    "@pid": "150/9677",
+                                    "text": "Barbara Suesser-Rechberger"
+                                },
+                                {
+                                    "@pid": "44/6316",
+                                    "text": "Andreas Strasser"
+                                },
+                                {
+                                    "@pid": "397/2480",
+                                    "text": "Sofia Kroisz"
+                                }
+                            ]
+                        },
+                        "title": "Database for ESA Service Satellite Orbit DecAy (SODA).",
+                        "venue": "TU Graz Repo",
+                        "publisher": "TU Graz Repo",
+                        "year": "2023",
+                        "type": "Data and Artifacts",
+                        "access": "open",
+                        "key": "data/11/KraussTDSSK23",
+                        "doi": "10.3217/C53M9-RK057",
+                        "ee": "https://doi.org/10.3217/c53m9-rk057",
+                        "url": "https://dblp.org/rec/data/11/KraussTDSSK23"
+                    },
+                    "url": "URL#1464690"
+                },
+                {
+                    "@score": "2",
+                    "@id": "1464691",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "172/9570",
+                                    "text": "Sandro Krauss"
+                                },
+                                {
+                                    "@pid": "397/2485",
+                                    "text": "Manuela Temmer"
+                                },
+                                {
+                                    "@pid": "135/4974",
+                                    "text": "Lukas Drescher"
+                                },
+                                {
+                                    "@pid": "150/9677",
+                                    "text": "Barbara Suesser-Rechberger"
+                                },
+                                {
+                                    "@pid": "44/6316",
+                                    "text": "Andreas Strasser"
+                                },
+                                {
+                                    "@pid": "397/2480",
+                                    "text": "Sofia Kroisz"
+                                }
+                            ]
+                        },
+                        "title": "Database for ESA Service Satellite Orbit DecAy (SODA) v2.0.",
+                        "year": [
+                            "2023",
+                            "2024"
+                        ],
+                        "type": "Data and Artifacts",
+                        "access": "closed",
+                        "key": "data/11/KraussTDSSK24a",
+                        "doi": "10.3217/1PWBZ-KYJ84",
+                        "ee": "https://doi.org/10.3217/1pwbz-kyj84",
+                        "url": "https://dblp.org/rec/data/11/KraussTDSSK24a"
+                    },
+                    "url": "URL#1464691"
+                },
+                {
+                    "@score": "2",
+                    "@id": "2540125",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "226/8893",
+                                    "text": "Jiefeng Liu"
+                                },
+                                {
+                                    "@pid": "141/1943-8",
+                                    "text": "Zixiao Wang 0008"
+                                },
+                                {
+                                    "@pid": "276/4744",
+                                    "text": "Xianhao Fan"
+                                },
+                                {
+                                    "@pid": "140/8590",
+                                    "text": "Yiyi Zhang"
+                                },
+                                {
+                                    "@pid": "44/740",
+                                    "text": "Jiaqi Wang"
+                                }
+                            ]
+                        },
+                        "title": "A Novel Curve Database for Moisture Evaluation of Transformer Oil-Immersed Cellulose Insulation Using FDS and Exponential Decay Model.",
+                        "venue": "IEEE Access",
+                        "volume": "8",
+                        "pages": "180728-180737",
+                        "year": "2020",
+                        "type": "Journal Articles",
+                        "access": "open",
+                        "key": "journals/access/LiuWFZW20",
+                        "doi": "10.1109/ACCESS.2020.3027906",
+                        "ee": "https://doi.org/10.1109/ACCESS.2020.3027906",
+                        "url": "https://dblp.org/rec/journals/access/LiuWFZW20"
+                    },
+                    "url": "URL#2540125"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3123132",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "127/6232",
+                                    "text": "Jonathan L. Dautrich Jr."
+                                },
+                                {
+                                    "@pid": "r/ChinyaVRavishankar",
+                                    "text": "Chinya V. Ravishankar"
+                                }
+                            ]
+                        },
+                        "title": "Inferring Insertion Times and Optimizing Error Penalties in Time-decaying Bloom Filters.",
+                        "venue": "ACM Trans. Database Syst.",
+                        "volume": "44",
+                        "number": "2",
+                        "pages": "7:1-7:32",
+                        "year": "2019",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/tods/DautrichR19",
+                        "doi": "10.1145/3284552",
+                        "ee": "https://doi.org/10.1145/3284552",
+                        "url": "https://dblp.org/rec/journals/tods/DautrichR19"
+                    },
+                    "url": "URL#3123132"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3716585",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "40/1039",
+                                "text": "Edith Cohen"
+                            }
+                        },
+                        "title": "Decay Models.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "year": "2018",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/Cohen18a",
+                        "doi": "10.1007/978-1-4614-8265-9_126",
+                        "ee": "https://doi.org/10.1007/978-1-4614-8265-9_126",
+                        "url": "https://dblp.org/rec/reference/db/Cohen18a"
+                    },
+                    "url": "URL#3716585"
+                },
+                {
+                    "@score": "2",
+                    "@id": "3783336",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/MichaelStonebraker",
+                                    "text": "Michael Stonebraker"
+                                },
+                                {
+                                    "@pid": "131/4202",
+                                    "text": "Raul Castro Fernandez"
+                                },
+                                {
+                                    "@pid": "71/8700-1",
+                                    "text": "Dong Deng 0001"
+                                },
+                                {
+                                    "@pid": "95/3763",
+                                    "text": "Michael L. Brodie"
+                                }
+                            ]
+                        },
+                        "title": "What to do about database decay.",
+                        "venue": "Commun. ACM",
+                        "volume": "60",
+                        "number": "1",
+                        "pages": "11",
+                        "year": "2017",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/cacm/StonebrakerFDB17",
+                        "doi": "10.1145/3014349",
+                        "ee": "https://doi.org/10.1145/3014349",
+                        "url": "https://dblp.org/rec/journals/cacm/StonebrakerFDB17"
+                    },
+                    "url": "URL#3783336"
+                },
+                {
+                    "@score": "2",
+                    "@id": "4246109",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "s/MichaelStonebraker",
+                                    "text": "Michael Stonebraker"
+                                },
+                                {
+                                    "@pid": "71/8700-1",
+                                    "text": "Dong Deng 0001"
+                                },
+                                {
+                                    "@pid": "95/3763",
+                                    "text": "Michael L. Brodie"
+                                }
+                            ]
+                        },
+                        "title": "Database decay and how to avoid it.",
+                        "venue": "IEEE BigData",
+                        "pages": "7-16",
+                        "year": "2016",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/bigdataconf/StonebrakerDB16",
+                        "doi": "10.1109/BIGDATA.2016.7840584",
+                        "ee": "https://doi.org/10.1109/BigData.2016.7840584",
+                        "url": "https://dblp.org/rec/conf/bigdataconf/StonebrakerDB16"
+                    },
+                    "url": "URL#4246109"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6267511",
+                    "info": {
+                        "authors": {
+                            "author": {
+                                "@pid": "40/1039",
+                                "text": "Edith Cohen"
+                            }
+                        },
+                        "title": "Decay Models.",
+                        "venue": "Encyclopedia of Database Systems",
+                        "pages": "757-761",
+                        "year": "2009",
+                        "type": "Reference Works",
+                        "access": "closed",
+                        "key": "reference/db/Cohen09a",
+                        "doi": "10.1007/978-0-387-39940-9_126",
+                        "ee": "https://doi.org/10.1007/978-0-387-39940-9_126",
+                        "url": "https://dblp.org/rec/reference/db/Cohen09a"
+                    },
+                    "url": "URL#6267511"
+                },
+                {
+                    "@score": "2",
+                    "@id": "6492237",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "34/4826",
+                                    "text": "Areum Han"
+                                },
+                                {
+                                    "@pid": "02/2046",
+                                    "text": "Woo-Yeon Kim"
+                                },
+                                {
+                                    "@pid": "97/4757",
+                                    "text": "Seong-Min Park"
+                                }
+                            ]
+                        },
+                        "title": "SNP2NMD: A database of human single nucleotide polymorphisms causing nonsense-mediated mRNA decay.",
+                        "venue": "Bioinform.",
+                        "volume": "23",
+                        "number": "3",
+                        "pages": "397-399",
+                        "year": "2007",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/bioinformatics/HanKP07",
+                        "doi": "10.1093/BIOINFORMATICS/BTL593",
+                        "ee": "https://doi.org/10.1093/bioinformatics/btl593",
+                        "url": "https://dblp.org/rec/journals/bioinformatics/HanKP07"
+                    },
+                    "url": "URL#6492237"
+                }
+            ]
+        }
+    }
+}

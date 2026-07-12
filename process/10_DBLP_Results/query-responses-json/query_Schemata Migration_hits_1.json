@@ -1,0 +1,68 @@
+{
+    "result": {
+        "query": "Schemata* Migration*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "1.55"
+        },
+        "completions": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "c": {
+                "@sc": "1",
+                "@dc": "1",
+                "@oc": "1",
+                "@id": "63708241",
+                "text": "migration"
+            }
+        },
+        "hits": {
+            "@total": "1",
+            "@computed": "1",
+            "@sent": "1",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "7281633",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "r/StefanieRinderle",
+                                    "text": "Stefanie Rinderle"
+                                },
+                                {
+                                    "@pid": "r/ManfredReichert",
+                                    "text": "Manfred Reichert"
+                                },
+                                {
+                                    "@pid": "d/PDadam",
+                                    "text": "Peter Dadam"
+                                }
+                            ]
+                        },
+                        "title": "Effiziente Vertr\u00e4glichkeitspr\u00fcfung und automatische Migration von Workflow-Instanzen bei der Evolution von Workflow-Schemata.",
+                        "venue": "Inform. Forsch. Entwickl.",
+                        "volume": "17",
+                        "number": "4",
+                        "pages": "177-197",
+                        "year": "2002",
+                        "type": "Journal Articles",
+                        "access": "closed",
+                        "key": "journals/ife/RinderleRD02",
+                        "doi": "10.1007/S00450-002-0122-0",
+                        "ee": "https://doi.org/10.1007/s00450-002-0122-0",
+                        "url": "https://dblp.org/rec/journals/ife/RinderleRD02"
+                    },
+                    "url": "URL#7281633"
+                }
+            ]
+        }
+    }
+}

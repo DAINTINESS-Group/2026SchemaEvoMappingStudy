@@ -1,0 +1,116 @@
+{
+    "result": {
+        "query": "Schemas* Migration*",
+        "status": {
+            "@code": "200",
+            "text": "OK"
+        },
+        "time": {
+            "@unit": "msecs",
+            "text": "1.74"
+        },
+        "completions": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "c": [
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "63708241",
+                    "text": "migration"
+                },
+                {
+                    "@sc": "1",
+                    "@dc": "1",
+                    "@oc": "1",
+                    "@id": "63708248",
+                    "text": "migrations"
+                }
+            ]
+        },
+        "hits": {
+            "@total": "2",
+            "@computed": "2",
+            "@sent": "2",
+            "@first": "0",
+            "hit": [
+                {
+                    "@score": "2",
+                    "@id": "371143",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "279/1918",
+                                    "text": "Delfina Ramos-Vidal"
+                                },
+                                {
+                                    "@pid": "168/6150",
+                                    "text": "Alejandro Corti\u00f1as 0001"
+                                },
+                                {
+                                    "@pid": "92/3841",
+                                    "text": "Miguel R. Luaces"
+                                },
+                                {
+                                    "@pid": "27/2854",
+                                    "text": "Oscar Pedreira"
+                                },
+                                {
+                                    "@pid": "80/4289",
+                                    "text": "\u00c1ngeles Saavedra Places"
+                                },
+                                {
+                                    "@pid": "90/9459",
+                                    "text": "Wesley K. G. Assun\u00e7\u00e3o"
+                                }
+                            ]
+                        },
+                        "title": "Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience.",
+                        "venue": "CoRR",
+                        "volume": "abs/2504.17662",
+                        "year": "2025",
+                        "type": "Informal and Other Publications",
+                        "access": "open",
+                        "key": "journals/corr/abs-2504-17662",
+                        "doi": "10.48550/ARXIV.2504.17662",
+                        "ee": "https://doi.org/10.48550/arXiv.2504.17662",
+                        "url": "https://dblp.org/rec/journals/corr/abs-2504-17662"
+                    },
+                    "url": "URL#371143"
+                },
+                {
+                    "@score": "2",
+                    "@id": "722287",
+                    "info": {
+                        "authors": {
+                            "author": [
+                                {
+                                    "@pid": "250/0547",
+                                    "text": "Annabelle Gillet"
+                                },
+                                {
+                                    "@pid": "31/5064",
+                                    "text": "\u00c9ric Leclercq"
+                                }
+                            ]
+                        },
+                        "title": "CDMiA: Revealing Impacts of Data Migrations on Schemas in Multi-model Systems.",
+                        "venue": "CAiSE Forum",
+                        "pages": "120-128",
+                        "year": "2024",
+                        "type": "Conference and Workshop Papers",
+                        "access": "closed",
+                        "key": "conf/caise/GilletL24",
+                        "doi": "10.1007/978-3-031-61000-4_14",
+                        "ee": "https://doi.org/10.1007/978-3-031-61000-4_14",
+                        "url": "https://dblp.org/rec/conf/caise/GilletL24"
+                    },
+                    "url": "URL#722287"
+                }
+            ]
+        }
+    }
+}
